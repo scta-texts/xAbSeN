@@ -46,56 +46,58 @@
    </teiHeader>
    <text xml:lang="la">
       <front>
-         <div xml:id="starts-on"/>
+         <div xml:id="starts-on">
+           <pb ed="#C" n="211"/>
+         </div>
       </front>
       <body>
          <div xml:id="xAbSeN-1e8102"><!-- xAbSeN-q112 -->
             <head xml:id="xAbSeN-1e8102-Hd1e103">Quaestio 112</head>
             <head xml:id="xAbSeN-1e8102-Hd1e106" type="question-title"> quod una baptismi mersio sufficiat et non</head>
             <p xml:id="xAbSeN-1e8102-d1e109">
-               <lb ed="#C"/>Quod una baptismi mersio 
-      <lb ed="#C"/>sufficiat et non
+               <lb ed="#C" n="4"/>Quod una baptismi mersio 
+      <lb ed="#C" n="5"/>sufficiat et non
     </p>
-            <!-- 211-r -->
+            
             <p xml:id="xAbSeN-1e8102-d1e118">
-               <lb ed="#C"/>
-               <ref xml:id="xAbSeN-1e8102-Rd1e122">tolitanum concilium cap vii <!--toletanum concilium iv, cap. vii--></ref>: <quote xml:id="xAbSeN-1e8102-Qd1e126">propter uitandum schismatis scan<lb ed="#C"/>dalum 
-      uel haereticorum usum simplicem teneamus baptismi mersio<lb ed="#C"/>nem:</quote>
+               <lb ed="#C" n="6"/>
+               <ref xml:id="xAbSeN-1e8102-Rd1e122">tolitanum concilium cap vii <!--toletanum concilium iv, cap. vii--></ref>: <quote xml:id="xAbSeN-1e8102-Qd1e126">propter uitandum schismatis scan<lb ed="#C" n="7"/>dalum 
+      uel haereticorum usum simplicem teneamus baptismi mersio<lb ed="#C" n="8"/>nem:</quote>
             </p>
             <p xml:id="xAbSeN-1e8102-d1e135">
                <ref xml:id="xAbSeN-1e8102-Rd1e137">
                   <name xml:id="xAbSeN-1e8102-Nd1e139">gregorius: leandro epcopo</name>
                </ref>: <quote xml:id="xAbSeN-1e8102-Qd1e143">de trina mersione baptismatis 
-      <lb ed="#C"/>nihil responderi uerius potest quam ipsi sensistis, quia nihil
-      <lb ed="#C"/>officit ecclesiae consuetudo diuersa: quia dum in tribus subsisten<lb ed="#C"/>tiis
+      <lb ed="#C" n="9"/>nihil responderi uerius potest quam ipsi sensistis, quia nihil
+      <lb ed="#C" n="10"/>officit ecclesiae consuetudo diuersa: quia dum in tribus subsisten<lb ed="#C" n="11"/>tiis
       una substantia est; reprehensibile esse nullatenus potest 
-      <lb ed="#C"/>infantem in baptismate uel ter uel semel mergere quando 
-      <lb ed="#C"/>et in tribus mersionibus personarum trinitas et in una 
-      <lb ed="#C"/>potest: diuinitatis singularitas designari: sed quia nunc 
-      <lb ed="#C"/>usque ab haereticis infans in baptismate tertio mergeba<lb ed="#C"/>tur: 
+      <lb ed="#C" n="12"/>infantem in baptismate uel ter uel semel mergere quando 
+      <lb ed="#C" n="13"/>et in tribus mersionibus personarum trinitas et in una 
+      <lb ed="#C" n="14"/>potest: diuinitatis singularitas designari: sed quia nunc 
+      <lb ed="#C" n="15"/>usque ab haereticis infans in baptismate tertio mergeba<lb ed="#C" n="16"/>tur: 
       fiendum apud <unclear>uos</unclear> esse non censeo, <unclear>ne</unclear> dum mersiones 
-      <lb ed="#C"/>numerant: diuinitatem diuidant: dumque quod faciebant faciunt 
-      <lb ed="#C"/>morem uestrum se uicisse glorientur: Nos autem quod tertio
-      <lb ed="#C"/>mergimus triduanae sepulturae sacramenta assignamus 
-      <lb ed="#C"/>ut dum tertio infans ab aquis educitur resurrectio tridua<lb ed="#C"/>ni 
+      <lb ed="#C" n="17"/>numerant: diuinitatem diuidant: dumque quod faciebant faciunt 
+      <lb ed="#C" n="18"/>morem uestrum se uicisse glorientur: Nos autem quod tertio
+      <lb ed="#C" n="19"/>mergimus triduanae sepulturae sacramenta assignamus 
+      <lb ed="#C" n="20"/>ut dum tertio infans ab aquis educitur resurrectio tridua<lb ed="#C" n="21"/>ni 
       temporis exprimatur: quod si quis forte etiam pro summae 
-      <lb ed="#C"/>trinitatis ueneratione aestimet fieri, nec quia hoc aliquid 
-      <lb ed="#C"/>obstat; baptizandum semel in aqua mergere, quia dum tribus 
-      <lb ed="#C"/>subsistentiis una substantia est reprehensibile esse nullatenus potest 
-      <lb ed="#C"/>infantem in baptismate uel ter uel semel mergere quando et in 
-      <pb ed="#C" n="211-v"/>
-                  <lb ed="#C"/>tribus mersionibus personarum trinitas et in una potest 
-      <lb ed="#C"/>diuinitatis singularitas designari:</quote>
+      <lb ed="#C" n="22"/>trinitatis ueneratione aestimet fieri, nec quia hoc aliquid 
+      <lb ed="#C" n="23"/>obstat; baptizandum semel in aqua mergere, quia dum tribus 
+      <lb ed="#C" n="24"/>subsistentiis una substantia est reprehensibile esse nullatenus potest 
+      <lb ed="#C" n="25"/>infantem in baptismate uel ter uel semel mergere quando et in 
+      <pb ed="#C" n="212"/>
+                  <lb ed="#C" n="1"/>tribus mersionibus personarum trinitas et in una potest 
+      <lb ed="#C" n="2"/>diuinitatis singularitas designari:</quote>
             </p>
             <p xml:id="xAbSeN-1e8102-d1e196">
                <ref xml:id="xAbSeN-1e8102-Rd1e198">
                   <name xml:id="xAbSeN-1e8102-Nd1e200">haymo</name> super epistolam 
-      <lb ed="#c"/>pauli ad romanos</ref>: <quote xml:id="xAbSeN-1e8102-Qd1e206">In suo sensu habundabat <name xml:id="xAbSeN-1e8102-Nd1e208">ciprianus</name>, 
-      <lb ed="#C"/>quando semel mergebat in baptismate paruulos <unclear>quia</unclear> quod
-      <lb ed="#C"/>intelligebat studiose implebat: bonis operibus abundando 
-      <lb ed="#C"/>licet in hoc nescius delinqueret: sed <unclear>quia</unclear> bonis operibus 
-      <lb ed="#C"/>habundabat: post ea correctus a domino habundauit 
-      <lb ed="#C"/>altiori sensu; <unclear>ter</unclear> illos mergendo.</quote>
+      <lb ed="#c" n="3"/>pauli ad romanos</ref>: <quote xml:id="xAbSeN-1e8102-Qd1e206">In suo sensu habundabat <name xml:id="xAbSeN-1e8102-Nd1e208">ciprianus</name>, 
+      <lb ed="#C" n="4"/>quando semel mergebat in baptismate paruulos <unclear>quia</unclear> quod
+      <lb ed="#C" n="5"/>intelligebat studiose implebat: bonis operibus abundando 
+      <lb ed="#C" n="6"/>licet in hoc nescius delinqueret: sed <unclear>quia</unclear> bonis operibus 
+      <lb ed="#C" n="7"/>habundabat: post ea correctus a domino habundauit 
+      <lb ed="#C" n="8"/>altiori sensu; <unclear>ter</unclear> illos mergendo.</quote>
             </p>
          </div>
       </body>

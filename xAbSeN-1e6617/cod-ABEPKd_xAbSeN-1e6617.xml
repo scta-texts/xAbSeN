@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 87</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 87</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e6617"><!-- xAbSeN-q87 -->
+            <head xml:id="xAbSeN-1e6617-Hd1e103">Quaestio 87</head>
+            <head xml:id="xAbSeN-1e6617-Hd1e106" type="question-title"> quod illi qui cum domino resurrexerunt iterum mortui sunt
+      et non</head>
+    
+            <p xml:id="xAbSeN-1e6617-d1e109">
+               <ref xml:id="xAbSeN-1e6617-Rd1e111">iohannes chrysostomus homilia xxviii de expositione symboli, quae sic
+      incipit, super fabricam totius ecclesiae</ref>: Descendit ad infernum,
+      ut et ibi a miraculo non uacaret. Nam multa corpora sanctorum
+      resurrexerunt cum Christo, quae postea mortua sunt, sicut Lazarus,
+      sicut filia archisynagogi, sicut filius uiduae. Nam multa corpora
+      sanctorum resurrexerunt cum Christo, de quibus dixit apostolus: ex
+      quibus plures manent usque adbuo, quidam autem dormierunt.
+    </p>
+            <p xml:id="xAbSeN-1e6617-d1e117">AUGUSTINUS SUPER IOHANNEM, sic eum uolo manere donec ueniam: Sicut ad
+      horam multa corpora sanctorum surrexerunt, quando passus est Christus,
+      et post eius resurrectionem apparuerunt multis.
+    </p>
+            <p xml:id="xAbSeN-1e6617-d1e120">
+               <ref xml:id="xAbSeN-1e6617-Rd1e122">athanasius in symbolo fidei</ref>: Ad cuius aduentum omnes homines resurgere
+      habent cum corporibus suis.
+    </p>
+            <p xml:id="xAbSeN-1e6617-d1e127">
+               <ref xml:id="xAbSeN-1e6617-Rd1e129">hieronymus super matthaeum</ref>: Et multa corpora sanctorum, qui
+      dormierant, surrexerunt. Quomodo Lazarus mortuus resurrexit sic et
+      multa corpora sanctorum resurrexerunt, ut dominum resurgentem
+      ostenderent; et tamen cum monumenta aperta sint, non ante
+      resurrexerunt quam dominus resurgeret, ut esset primogenitus
+      resurrectionis ex mortuis.
+    </p>
+            <p xml:id="xAbSeN-1e6617-d1e133">
+               <ref xml:id="xAbSeN-1e6617-Rd1e135">idem in sermone de assumptione sanctae mariae</ref>: Ne forte si uenerit
+      uestris in manibus illud apocryphum de transitu eiusdem uirginis,
+      dubia pro certis recipiatis. Quod multi Latinorum pietatis amore
+      amplius amplectuntur, praesertim cum ex his nihil aliud experiri
+      potest pro certo, nisi quod hodierna die gloriosa migrauit a corpore.
+    </p>
+            <p xml:id="xAbSeN-1e6617-d1e139">
+               <ref xml:id="xAbSeN-1e6617-Rd1e141">item</ref>: Haec idcirco dixerim, quia multi nostrorum dubitant utrum
+      assumpta fuerit simul cum corpore an obierit relicto corpore.
+    </p>
+            <p xml:id="xAbSeN-1e6617-d1e145">
+               <ref xml:id="xAbSeN-1e6617-Rd1e147">item</ref>: Utrum surrexerit nescitur, quamuis nonnulli astruere uelint eam
+      iam resuscitatam inmortalitate uestiri.
+    </p>
+            <p xml:id="xAbSeN-1e6617-d1e151">
+               <ref xml:id="xAbSeN-1e6617-Rd1e153">item</ref>: Quid horum uerius censeatur, ambigimus; melius totum Deo
+      committimus, cui nihil impossibile est, quam ut aliud temere definire
+      uelimus quod non probamus, sicuti et de his quos cum domino
+      resurrexisse creditur. Sed utrum redierint in terrae puluerem, certum
+      non habemus; de quibus profecto nonnulli doctorum senserunt et etiam
+      in suis reliquerunt scriptis quia iam in illis perfecta sit complete
+      resurrectio. Fatentur enim quod ueri testes non essent nisi et uera
+      esset eorum resurrectio. Unde et beatus Petrus dixisse legitur, cum de
+      Dauid loqueretur in testimonium: Et aeputorum, inquit, etua apud noa
+      eat, quasi non sit ausus dicere, quod ipse uel corpus eius apud nos
+      est. Hinc aiunt et ipsum resurrexisse cum caeteris sanctis, et ideo
+      uacuum remansisse monumentum. Quod quia domino nihil impossibile est,
+      nec nos de beata Maria factum abnuimus, quamquam propter cautelam
+      salue fide pio magis desiderio opinari oporteat quam inconsulto
+      definire quod sine periculo nescitur.
+    </p>
+            <p xml:id="xAbSeN-1e6617-d1e159">BEDA SUPER CANTICA LIB. III, Comedi fauum aum melle meo, bibi uinum
+      maum cum [acte meo: In corpore simul et anima ad supernae ciuitatis
+      per ilium meruerunt atria conscendere, de quibus euangelista manifeste
+      testatur, quia moriente in cruce domino monumenta aperta sunt, et
+      multa corpora surrexerunt. Et post resurrectionem etus uenerunt in
+      sanctam ciuitatem et apparuerunt multis. Qui enim resurgente domino
+      resurrexerunt a mortuis, etiam ad caelos ascendente simul ascendisse
+      credendi sunt. Neque ulla ratione illorum temeritati fides
+      accommodanda est qui eos postea reuersos in cinerem ac denuo in
+      monumentis, quae pridem patefacta sunt ab eis quibus paulo ante uiui
+      apparuerunt, more mortuorum putant esse reclusos.
+    </p>
+            <p xml:id="xAbSeN-1e6617-d1e163">
+               <ref xml:id="xAbSeN-1e6617-Rd1e165">ambrosius in natale martyrum de resurrectione</ref>: Si martyres nondum
+      liberati sunt ab inferis, liberati sunt a peccatis. Verum tamen etiam
+      fortasse plurimi ex eisdem beatis martyribus cum domino resurrectionem
+      corporaliter uel consequenter fuerint consecuti. Nam si legimus prima
+      resurrectionis festiuitate se suscitante domino multa corpora
+      sanctorum uixisse, cur non, quotienscumque resurrectionis /310/
+      festiuitas celebratur, toties credamus resurgere eius sanctos? Ubi
+      enim uotorum solemnitas iugis est, iugis est et donorum. Sed fortasse
+      quis dicat, Sepulcra clausa sunt, monumenta constructa sunt;
+      quemadmodum prodire exinde possunt? Ut taceamus quia omnia possibilia
+      sunt Deo et quia clausis tumulis possit corpus spirituale educere, ut
+      haec omnia praetermittam, Iohannis tamen apostoli habemus exemplum,
+      quem tumulus susceptum claudere potuit, custodire non potuit. Nam
+      depositum corpus perdidit, non assumpsit. Hoc enim clausis tumuli
+      foribus gratia resurrectionis ablatum est, ut constaret sepultura nec
+      inueniretur sepultus. Denique cum sacerdotes honorandi causa corpus
+      inquirerent, reserato aditu tumulus non potuit reddere quem suscepit.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

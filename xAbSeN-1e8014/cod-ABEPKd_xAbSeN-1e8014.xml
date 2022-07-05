@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 111</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 111</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e8014"><!-- xAbSeN-q111 -->
+            <head xml:id="xAbSeN-1e8014-Hd1e103">Quaestio 111</head>
+            <head xml:id="xAbSeN-1e8014-Hd1e106" type="question-title"> quod ficto etiam per baptismum peccata dimittantur et non</head>
+            <!-- starts on f. 208-v -->
+            <p xml:id="xAbSeN-1e8014-d1e111">
+               <ref xml:id="xAbSeN-1e8014-Rd1e113">augustinus de unico baptismo lib. i</ref>: Si ad baptismum fictus accessit,
+      dimissa sunt ei peccata annon? Si dimissa dixerint, quomodo
+      spiritus sanctus disciplinae effugiet fictum, si in isto ficto
+      remissionem operatus est peccatorum? Si dixerint non esse dimissa,
+      quaero, si postea fictionem suam corde conuerso et uero dolore
+      fateretur, denu (baptizandus iudicaretur?  Quod si dementissimum est
+      dicere, fateantur uero baptismo Christi baptizari posse hominem, et
+      tamen cor eius in malitia perseuerans peccatorum abolitionem non
+      sinere fieri, atque ita intelligant in communionibus ab ecclesia
+      separatis posse homines baptizari, ubi Christi baptismus eadem
+      sacramenti celebratione datur et sumitur, qui tamen tunc prosit ad
+      remissionem peccatorum, cum quisque reconciliatus sacrilegio
+      dissensionis exuitur, quo eius peccata tenebantur et dimitti non
+      sinebantur.
+    </p>
+            <p xml:id="xAbSeN-1e8014-d1e119">
+               <ref xml:id="xAbSeN-1e8014-Rd1e121">item</ref>: Non impeditur baptismi gratia quo minus omnia peccata dimittat,
+      etiam si odium fraternum in eius animo, cui dimittitur, perseuerat.
+      Soluitur enim hesternus dies et quicquid supra est, soluitur etiam
+      ipsa hora momentumque ante baptismum et in baptismo. Deinceps autem
+      continuo reus esse incipit non solum consequentium sed etiam
+      praeteritorum dierum, horarum, momentorum redeuntibus omnibus quae
+      dimissa sunt.
+    </p>
+            <p xml:id="xAbSeN-1e8014-d1e126">
+               <ref xml:id="xAbSeN-1e8014-Rd1e128">idem lib. iv</ref>: Sic in haeresi baptizatus in nomine sanctae trinitatis
+      non fit tamen templum Dei, si ab haeresi non recesserit, quomodo neque
+      est idolorum seruitus.
+    </p>
+            <p xml:id="xAbSeN-1e8014-d1e132">
+               <ref xml:id="xAbSeN-1e8014-Rd1e134">item</ref>: Perfidus et blasphemus si in perfidia et blasphemia permanserit,
+      nec extra ecclesiam nec intra (ecclesiam&gt; remissionem accipit
+      peccatorum. Aut si propter uim sacramenti ad punctum temporis accipit,
+      et foris et intus eadem uis operatur, sicut uis nominis Christi
+      expulsionem daemoniorum etiam foris operabatur.
+    </p>
+            <p xml:id="xAbSeN-1e8014-d1e140">
+               <ref xml:id="xAbSeN-1e8014-Rd1e142">idem de verbis domini tractatu xi</ref>: Ille non est dicendus esse in
+      ecclesia id est ad societatem spiritus pertinere, qui ouibus Christi
+      tantum corporali commixtione ficto corde miscetur.  Spiritus enim
+      sanctua disciplinae effugiet fictum.
+    </p>
+            <p xml:id="xAbSeN-1e8014-d1e146">
+               <ref xml:id="xAbSeN-1e8014-Rd1e148">idem de paenitentiae medicina</ref>: Omnis qui iam suae uoluntatis arbiter
+      constitutus est, cum accedit ad sacramentum fidelium, nisi paeniteat
+      ueteris uitae, nouam inchoare non potest. Ab hac paenitentia cum
+      baptizantur paruuli soli immunes sunt. Nondum enim uti possunt libero
+      arbitrio.
+    </p>
+            <p xml:id="xAbSeN-1e8014-d1e152">
+               <ref xml:id="xAbSeN-1e8014-Rd1e154">item</ref>: Caeterorum hominum nullus transit ad Christum ut incipiat esse
+      quod non erat, nisi cum paenituerit fuisse quod erat.  Haec
+      paenitentia praecipitur dicente Petro: Paenitentiam agite et
+      baptizetur unusquisque uestrum.
+    </p>
+            <p xml:id="xAbSeN-1e8014-d1e158">
+               <ref xml:id="xAbSeN-1e8014-Rd1e160">idem de utilitate agendae paenitentiae</ref>: Nam neque ad baptismum
+      Christi, in quo omnia peccata delentur, quisquam bene accedit, nisi
+      agendo paenitentiam de uita pristina. Nemo enim eligit uitam nouam
+      nisi quem ueteris paenitet.
+    </p>
+            <p xml:id="xAbSeN-1e8014-d1e165">
+               <ref xml:id="xAbSeN-1e8014-Rd1e167">hieronymus ad sabinum diaconum lapsum</ref>: Nihil ita repugnat Deo quam cor
+      impaenitens. Solum crimen est quod ueniam consequi non potest.
+    </p>
+            <p xml:id="xAbSeN-1e8014-d1e171">
+               <ref xml:id="xAbSeN-1e8014-Rd1e173">idem in ezechiele</ref>: Et aqua non es lota ad salutem. Quod quidem non
+      solum de haereticis sed de ecclesiasticis intelligi potest, qui non
+      plena fide accipiunt baptismum salutare, de quibus dicendum est, quod
+      acceperint aquam sed non spiritum, sicut Simon magus baptizatus quidem
+      est in aqua sed nequaquam in salutem.
+    </p>
+            <p xml:id="xAbSeN-1e8014-d1e177">
+               <ref xml:id="xAbSeN-1e8014-Rd1e179">idem in epistola ad galatas lib. ii</ref>: Quicumque enim in Christo
+      baptizati estis, Christum induistis. Quo modo per fidem quae est in
+      Christo nascamur ostendit. Si igitur qui in Christo baptizati sunt
+      Christum induerunt, manifestum est eos qui non sunt induti
+      Christum non fuisse baptizatos in Christo. Ad eos enim qui fideles et
+      baptisma Christi consecuti putabantur, Induite uos Christum. Si quis
+      hoc corporeum aquae tantum accipit lauacrum, non est indutus Christum.
+      Nam et Simon ille acceperat lauacrum aquae uerum quia spiritum sanctum
+      non habebat, indutus non erat Christum. Et haeretici uel hypocritae et
+      qui sordide uictitant uidentur quidem accipere baptismum sed nescio an
+      Christi habeant indumentum. Itaque consideremus ne forte et in nobis
+      aliquis deprehendatur qui, ex eo quod Christi non habet indumentum,
+      arguatur non baptizatus in Christo.
+    </p>
+            <p xml:id="xAbSeN-1e8014-d1e185">
+               <ref xml:id="xAbSeN-1e8014-Rd1e187">idem super matthaeum lib. iv</ref>: Euntes ergo docete omnes gentes,
+      baptizantes eos. Primum
+      <pb ed="#C" n="211-r"/>
+               <lb ed="#C"/>docent, deinde intingunt in aqua: verum potest fieri ut corpus 
+      <lb ed="#C"/>baptismi recipiat sacramentum; nisi ante anima fidei 
+      <lb ed="#C"/>susceperit ueritatem.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

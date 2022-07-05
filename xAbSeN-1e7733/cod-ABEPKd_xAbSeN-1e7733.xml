@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 107</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 107</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e7733"><!-- xAbSeN-q107 -->
+            <head xml:id="xAbSeN-1e7733-Hd1e103">Quaestio 107</head>
+            <head xml:id="xAbSeN-1e7733-Hd1e106" type="question-title"> quod omnia peccata baptismus deleat tam originalia scilicet
+      quam propria et contra</head>
+            <!-- starts on 197-r -->
+            <p xml:id="xAbSeN-1e7733-d1e111">
+               <ref xml:id="xAbSeN-1e7733-Rd1e113">augustinus
+      in enchiridion</ref>: Nullus est qui non peccato moriatur in baptismo sed
+      paruuli tantum originali. Maiores autem etiam his omnibus quaecumque
+      male uiuendo addiderunt ad illud quod nascendo traxerunt.
+    </p>
+            <p xml:id="xAbSeN-1e7733-d1e117">
+               <ref xml:id="xAbSeN-1e7733-Rd1e119">idem in primo de civitate dei, de his qui se occidunt</ref>: Quam causam si
+      uoluerimus admittere, eo usque progressa perueniet, ut hortandi sint
+      homines tune se potius interimere cum lauacro sanctae regenerationis
+      abluti uniuersorum remissionem acceperint peccatorum.  Tunc enim
+      tempus est cauendi omnia future peccata cum sunt omnia delete
+      praeterita.
+    </p>
+            <p xml:id="xAbSeN-1e7733-d1e124">
+               <ref xml:id="xAbSeN-1e7733-Rd1e126">item</ref>: O menses amentes! quis est hic tantus non error sed furor?
+    </p>
+            <p xml:id="xAbSeN-1e7733-d1e130">
+               <ref xml:id="xAbSeN-1e7733-Rd1e132">gennadius de orthodoxa fide</ref>: Baptizatus suam fidem confitetur coram
+      sacerdote; hoc idem martyr coram persecutore facit. 
+      Illi omnia peccata remittuntur; isti extinguntur.
+    </p>
+            <p xml:id="xAbSeN-1e7733-d1e136">EX CONCILIO CARTHAGINENSI, CAP. 1: Qui episcopus ordinandus est, ante
+      examinetur, si credat, si in baptismo omnia peccata, id est tam illud
+      originale contractum quam illa, quae uoluntarie admissa sunt,
+      dimittantur etc.  Cum his omnibus examinatus pleniterque instructus
+      repertus fuerit, tunc ordinetur episcopus.
+    </p>
+            <p xml:id="xAbSeN-1e7733-d1e139">AMBROSIUS DE PAENITENTIA LIB. 1: In baptismo itaque remissio
+      peccatorum omnium est. Quid interest utrum per paenitentiam an per
+      lauacrum hoc ius sibi datum sacerdotes uindicent?  Unum in utroque
+      mysterium est.
+    </p>
+            <p xml:id="xAbSeN-1e7733-d1e142">
+               <ref xml:id="xAbSeN-1e7733-Rd1e144">idem in lib. de mysteriis</ref>: Qui lotus eat, non indiget, nisi ut
+      pedes lauet sed est mundus totus. Mundus erat Petrus sed plantam
+      lauere debebat; habebat enim primi hominis de successione peccatum,
+      quando eum supplantauit serpens et persuasit errorem.  Ideo planta
+      eius abluitur ut haereditaria peccata tollantur. Nostra enim propria
+      per baptismum relaxantur.
+    </p>
+            <p xml:id="xAbSeN-1e7733-d1e150">
+               <ref xml:id="xAbSeN-1e7733-Rd1e152">idem de sacramentis, lib. iii</ref>: Ascendisti de fonte; quid secutum est?
+      Audisti lectionem.  Succinctus summus sacerdos pedes tibi lauit.  Quid
+      istud mysterium?  Niai lauero, inquit, tibi pedea, non habobia mecum
+      partem. Non ignoramus quod ecclesia Romana hanc consuetudinem non
+      habeat cuius typum in omnibus sequimur et formam. Hanc tamen
+      consuetudinem non habet ut pedes lauet. Forte propter multitudinem
+      declinauit. Sunt tamen qui dicant et excusare conentur, quia hoc non
+      in mysterio faciendum est, non in baptismate, non in regeneratione sed
+      quasi hospiti pedes lauandi sunt. Aliud est humilitatis, aliud
+      sanctificationis. Denique audi quia mysterium est et sanctificatio:
+      Nisi lauero tibi pedea, non hababis meoum partem. Hoc ideo dico non
+      quod alios reprehendam sed mea officia ipse commendem. In omnibus
+      cupio sequi ecclesiam Romanam.  Sed tamen et nos homines sensum
+      habemus.  Ideo quod alibi rectius seruatur et nos rectius custodimus.
+      Ipsum sequimur apostolum Petrum, ipsius inhaeremus deuotioni. Ad hoc
+      ecclesia Romana quid respondet?  Utique ipse auctor est nobis huius
+      assertionis Petrus apostolus, qui sacerdos fuit ecclesiae Romanae.
+      Ipse Petrus ait: Domine, non solum pedes sed etiam manus et caput.
+      Vides fidem. Quod ante excusauit, humilitatis fuit. Quod postea
+      obtulit, deuotionis et fidei. Respondit dominus: Qui lauit, non
+      necesse habet iterum lauare, nisi solos pedes.  Quare hoc? Quia in
+      baptismate omnis culpa diluitur. Recedit ergo culpa. Sed quia Adam
+      supplantatus a diabolo est et uenenum ei effusum est supra pedes, ideo
+      lauas pedes, ut in ea parte in qua insidiatus est serpens, maius
+      subsidium sanctificationis accedat, quo postea te supplantare
+      non possit. Lauas ergo pedes ut laues uenena serpentis.
+    </p>
+            <p xml:id="xAbSeN-1e7733-d1e159">
+               <ref xml:id="xAbSeN-1e7733-Rd1e161">item</ref>: Post fontem superest ut perfectio fiat, quando ad inuocationem
+      sacerdotis spiritus sanctus infunditur, spiritus sapientiae et
+      intellectus etc.  Istae sunt septem uirtutes quando consignaris.
+    </p>
+            <p xml:id="xAbSeN-1e7733-d1e165">
+               <ref xml:id="xAbSeN-1e7733-Rd1e167">item</ref>: Post haec uenire haloes ad altare.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

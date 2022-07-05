@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 73</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 73</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e5381"><!-- xAbSeN-q73 -->
+            <head xml:id="xAbSeN-1e5381-Hd1e103">Quaestio 73</head>
+            <head xml:id="xAbSeN-1e5381-Hd1e106" type="question-title"> quod humanitas christi non creverit in sapientia vel quod
+      tantumdem scierit quantum divinitas et contra</head>
+    
+            <p xml:id="xAbSeN-1e5381-d1e109">
+               <ref xml:id="xAbSeN-1e5381-Rd1e111">beda super lucam</ref>: Recte dicitur plenus sapientia non per
+      interualla temporum proficiendo in sapientiam, qua semper plenus fuit
+      ab hora conceptionis, quoniam in ipso ut ait apostolus, habitat omnia
+      plenitudo diuinitatia corporaliter. Gratia namque Dei erat in illo,
+      quia nulli mortali tanta et talis data est, ut ex quo in utero
+      uirginis conciperetur perfectus esset Deus. Iste homo nec ad momentum
+      aliud fuit quam Deus.
+    </p>
+            <p xml:id="xAbSeN-1e5381-d1e117">
+               <ref xml:id="xAbSeN-1e5381-Rd1e119">ambrosius de fide ad gratianum</ref>: Sunt plerique non ita timidiores ut
+      ego. Malo enim alta timere quam sapere.  Sunt plerique, quia scriptum
+      est: Iesus proficiebat aetate et aupientia et gratia apud Deum et
+      homines, qui dicunt secundum nostrae conditionis assumptionem ignorare
+      se.
+    </p>
+            <p xml:id="xAbSeN-1e5381-d1e123">
+               <ref xml:id="xAbSeN-1e5381-Rd1e125">item</ref>: Magis arbitror, ut nostra ignoratione nescire se diceret, non
+      quia aliquid ipse nesciret.
+    </p>
+            <p xml:id="xAbSeN-1e5381-d1e130">
+               <ref xml:id="xAbSeN-1e5381-Rd1e132">idem de incarnatione dominica</ref>: Deus igitur ante carnem, Deus in carne
+      perfectionem naturae assumpsit humanae, suscepit sensum hominis sed
+      non sensu carnis inflatus. Sensu hominis animam meam dixi esse
+      turbatam. Sensu hominis esuriui, rogaui, profeci, sicut scriptum est:
+      Iesus proficiebat aetate, et sapientia, et gratia apud Deum et
+      homines. Quomodo proficiebat sapientia Dei? Doceat te ordo uerborum.
+      Profectus aetatis et profectus sapientiae sed humanae est. Ideo
+      aetatem ante praemisit, ut secundum homines crederes dictum. Aetas
+      enim non diuinitatis sed corporis est. Ergo si proficiebat aetate
+      hominis, proficiebat et sapientia hominis. Sapientia autem sensu
+      proficit, quia sensus sapientia. Iesus autem proficiebat aetate et
+      aupientia. Quis sensus proficiebat? Si humanus, ergo et ipse susceptus
+      est. Si diuinus, ergo mutabilis per profectum. Quod enim proficit,
+      utique mutatur in melius. Sed quod diuinum est non mutatur. Quod
+      ergo mutatur non utique diuinum est. Sensus igitur proficiebat
+      humanus. Sensum ergo suscepit humanum. Et quia secundum hominem
+      loquebatur, praemisit dicens: Puer autem confortabatur et creacebat et
+      implebatur sapientia, et gratia Dei erat cum illo. Puer nostrae nomen
+      aetatis est; nec confortari uirtus poterat Dei, nec crescere Deus, nec
+      altitudo sapientiae Dei nec plenitudo diuinitatis impleri. Quae igitur
+      implebatur, erat non Dei sapientia sed nostra. Per quem autem sensum
+      dixit Isaias, Patrem puer nesciebat aut matrem? Scriptum est enim:
+      Priusquam sciat puer patrem aut matrem, accipiet uirtutem Damasci et
+      spolia Samariae. Sapientiam Dei futura et occulta non fallunt. Expers
+      autem agnitionis infantia per humanam utique imprudentiam quod adhuc
+      non didicit ignorat. Sed uerendum est, inquam, ne si duos principales
+      sensus aut geminam sapientiam Christo tribuimus, Christum diuidamus.
+      Numquid cum et diuinitatem eius et carnem credimus, Christum
+      diuidimus? Numquid cum in eo imaginem Dei crucemque ueneramur,
+      diuidimus eum? Apostolus certe, qui de eo dixit: Quoniam etsi
+      crucifixus est ex infirmitate nostra, uiuit tamen ex uirtute Dei, ipse
+      dixit quia non diuisus est Christus. Numquid etiam cum dicimus quia
+      animam rationalem et intellectus nostri capacem suscepit, diuidimus
+      eum? Non enim ipse Deus Verbum pro anima rationali et intellectus
+      capaci in carne sua fuit sed animam rationalem et intellectus capacem,
+      et ipsam humanam et eiusdem substantiae cuius nostrae sunt animae, et
+      carnem nostrae similem eiusdemque cuius caro nostra est substantiae
+      suscipiens Deus uerbum, perfectus etiam homo fuit, sine ulla tamen
+      labe peccati.
+    </p>
+            <p xml:id="xAbSeN-1e5381-d1e138">
+               <ref xml:id="xAbSeN-1e5381-Rd1e140">fulgentius</ref>: Anima Christi cum Verbo unus est Christus, et quia
+      unigenitus Deus aequalis est patri, nec potest totum nosse filium qui
+      totum non nouerit patrem, caueamus ne si anima Christi totum patrem
+      nosse non creditur, ipsi uni Christo ex aliqua parte non solum
+      patris sed etiam sui et spiritus sancti cognitio negetur. Sed a fide
+      alienum uidetur, ut dicatur anima Christi non plenam suae deitatis
+      habere notitiam, cum qua creditur habere personam. Contra hoc uidetur
+      esse assertio Iohannis dicens Christo non esse datum spiritum ad
+      mensuram, in quo deitas spiritum non accepit, sed anima Christi. Ubi
+      autem mensura non esse dicitur, plenitudo perfectionis et perfectio
+      plenitudinis inuenitur. Accepit ergo Christus spiritum sed non ad
+      mensuram. Quod si animae Christi non est datus ad mensuram, necesse
+      est ut nihil minus habeas sapientiae, nihil scientiae. De eodem
+      apostolus: In quo sunt omnes thesauri sapientiae et scientiae
+      absconditi. Si non ad mensuram accepit, necesse est ut omnis thesauros
+      sapientiae et scientiae habeas. Quod si aliquid plenitudinis ei
+      demitur, consequens est ut ad mensuram accepisse Spiritum dicatur. Ubi
+      ergo spiritus non est mensura, necesse est ut plena sit deitatis
+      notitia. De Christo Paulus dicit: In ipso complacuit omnem
+      plenitudinem inhabitare. In ipeo inhabitat omnis plenitudo diuinitatis
+      corporaliter. Non ergo existimandum est, illi animae in aliquo plenam
+      deitatis deesse notitiam, cum una est persona cum uerbo, quam sic
+      sapientia[m] suscepit, ut eadem sapientia ipsa sit quae omnium rerum
+      in tantum facta est domina, ut cum ipsa diuinitate sua una sit in
+      trinitate persona, id est Christus.
+    </p>
+            <p xml:id="xAbSeN-1e5381-d1e146">
+               <ref xml:id="xAbSeN-1e5381-Rd1e148">item</ref>: Habet anima illa plenam trinitatis notitiam, non tamen habet
+      unam cum trinitate naturam. Nescio qualiter accipimus unigenitum a
+      patre plenum gratiae et ueritatis, si uel illi plenitudini ueritatis
+      aliquid plenitudinis gratiae desit uel illi plenitudini gratiae non
+      tote inest ueritatis plenitudo. Non enim tote plenitudo ueritatis
+      habetur quando ipsius ueritatis aliquid ignoratur. Quod absit ut de
+      Christo sentiatur.  /265/
+    </p>
+            <p xml:id="xAbSeN-1e5381-d1e152">
+               <ref xml:id="xAbSeN-1e5381-Rd1e154">idem de mysterio mediatoris</ref>: Isaias dicit: Priusquam sciat aut
+      proferat maligna, mutabit bonum, quoniam priusquam sciat puer bonum,
+      non credet malitiae, ut eligat quod bonum est.  Si anima uel
+      intellectus naturae in Christo defuisse creditur humanae, quid in
+      infante bonum malumque dicitur ignorasse? An illam filii Dei naturam
+      diuinam ignorantiae boni malique subicimus, ut humanam in Christo
+      animam denegemus? Itaque nec credendus est homo susceptus a Deo quae
+      Dei sunt aliquatenus potuisse sapere, in quo ipsa sapientia cognitione
+      boni malique dicitur caruisse. Anima igitur humana quae rationis capax
+      naturaliter facta est, bonum malumque in infante Christo nescisse
+      dicitur, quae secundum euangelicam ueritatem in puero Iesu sapientia
+      et gratia profecisse narratur, sicut Lucas dicit: Puer autem crescebat
+      et confortabatur plenua sapientia. Et paulo post: Ieana proficiebat
+      aetate, et gratia apud Deum et homines. Nam sicut carnis est aetate
+      proficere, sic est animae sapientia et gratia profecisse. Qui tamen in
+      sapientia nullatenus proficeret, si naturalem intelligentiam, quae
+      hominibus est concessa, non haberet.
+    </p>
+            <p xml:id="xAbSeN-1e5381-d1e158">
+               <ref xml:id="xAbSeN-1e5381-Rd1e160">item</ref>: Effectus piae susceptionis exigit ut dum caro et anima a Deo
+      suscipitur, utraque pariter saluaretur. Nam nec caro ipsa fuit a Dei
+      filio suscipienda nisi fuisset diuina susceptione liberanda.
+    </p>
+            <p xml:id="xAbSeN-1e5381-d1e164">
+               <ref xml:id="xAbSeN-1e5381-Rd1e166">alcuinus ad carolum lib. ii cap. xi</ref>: Omnia subiecisti sub pedibus
+      eius.  Peruersum uero et a sanitate fidei penitus alienum, ut dicamus
+      animam Christi non plenam in se deitatis habere notitiam, cum qua
+      naturaliter unam creditur habere personam. Unde Iohannes baptista
+      Christo singulariter ac sine mensura datam spiritus largitatem dixit;
+      non enim ad menauram, ait, dat Deus spiritum, quia omnis plenitudo
+      diuinitatis in eo habitat.
+    </p>
+            <p xml:id="xAbSeN-1e5381-d1e171">
+               <ref xml:id="xAbSeN-1e5381-Rd1e173">item</ref>: Ubi enim mensura dicitur non esse, plenitudo perfectionis
+      inuenitur.
+    </p>
+            <p xml:id="xAbSeN-1e5381-d1e179">
+               <ref xml:id="xAbSeN-1e5381-Rd1e181">item</ref>: Non enim aestimandum est animae Christi in aliquo plenam
+      diuinitatis deesse notitiam, cuius una est persona cum uerbo, quam sic
+      sapientia suscepit, ut cum ipsa diuinitate sua una sit in trinitate
+      persona, id est Christus.
+    </p>
+            <p xml:id="xAbSeN-1e5381-d1e185">
+               <ref xml:id="xAbSeN-1e5381-Rd1e187">augustinus de baptismo parvulorum lib. ii</ref>: Non illam animi
+      infirmitatem in Christo paruulo credo fuisse quam uidemus in paruulis.
+    </p>
+            <p xml:id="xAbSeN-1e5381-d1e191">
+               <ref xml:id="xAbSeN-1e5381-Rd1e193">ambrosius super epistolam primam ad corinthios</ref>: Spiritus enim omnia
+      acrutatur, etiam profunda Dei. Quia de Deo est omnia nouit. Profunda
+      autem ideo ait, quia omnem uirtutem et praescientiam eius nouit, quod
+      omnino creaturae impossibile est.
+    </p>
+            <p xml:id="xAbSeN-1e5381-d1e197">
+               <ref xml:id="xAbSeN-1e5381-Rd1e199">item</ref>: Sensum Dei nemo nouit nisi qui de Deo est, spiritus Dei.
+      Inferiora enim non possunt superiorum scire consilium, neque creatura
+      conditoris sui dignoscere uoluntatem.
+    </p>
+            <p xml:id="xAbSeN-1e5381-d1e203">
+               <ref xml:id="xAbSeN-1e5381-Rd1e205">hieronymus super eandem epistolam et eundem locum</ref>: Etiam profunda Dei.
+      Praeclarum hoc aduersus haereticos, qui creaturam spiritum sanctum
+      dicunt, unde hic ostenditur non solum creaturam non esse, uerum etiam
+      quod ipse solus interiora Dei et profunda rimetur, quippe ut [qui]
+      eiusdem naturae atque substantiae sit.
+    </p>
+            <p xml:id="xAbSeN-1e5381-d1e210">
+               <ref xml:id="xAbSeN-1e5381-Rd1e212">claudius super eandem epistolam et eundem locum</ref>: Qui enim de Deo est
+      hic spiritus, omnia nouit Dei, ac per hoc Deum esse non dubites, qui
+      non solum humana uerum etiam Dei occulta dicitur scire. Profunda autem
+      ideo ait, quia omnem uirtutem et praescientiam eius nouit, quod omnino
+      creaturae impossibile est.
+    </p>
+            <p xml:id="xAbSeN-1e5381-d1e216">
+               <ref xml:id="xAbSeN-1e5381-Rd1e218">hieronymus in psalmo xiv</ref>: Benedicam dominum, qui tribuit mihi
+      intellectum. Qui sapientia Dei est non indiget ipsa sapientia. Sed
+      secundum illud accipiendum est: Iesus proficiebat aetate et
+      sapientia.
+    </p>
+            <p xml:id="xAbSeN-1e5381-d1e224">
+               <ref xml:id="xAbSeN-1e5381-Rd1e226">ambrosius autpertus in homilia illius lectionis evangelicae, erat
+      ioseph et maria mater eius mirantes</ref>: Puer autem crescebat et
+      confortabatur plenua sapientia. Haec de illo secundum humanitatem
+      dicta sunt. Neque enim in sua natura confortatur, nec adimpletur
+      sapientia sed in rostra, in qua pro nobis exinanitus est.  Quae
+      scilicet omnia melius ad eius corpus, quod est ecclesia, quam ad ipsum
+      caput referri possum. Cotidie crescit in fide puer Iesus, cotidie
+      confortatur uirtutibus etc.
+    </p>
+            <p xml:id="xAbSeN-1e5381-d1e230">EX HOMILIA DOMINICAE POST THEOPHANIAM, QUAE SIC INCIPIT
+      "RATIONABILITER MAGISTRI": Nisi enim ueram carnem habuisset, nequaquam
+      aetate proficeret et cresceret, et nisi ueram animam habuisset
+      nequaquam sapientia proficere et crescere ualeret; et quemadmodum per
+      momenta aetatum corpus crescit ita et anima sapientia crescendo
+      proficit.
+    </p>
+            <p xml:id="xAbSeN-1e5381-d1e233">
+               <ref xml:id="xAbSeN-1e5381-Rd1e235">idem in apocalipsi lib. iii</ref>: Dignus est agnus, qui occisus est,
+      accipere uirtutem et diuinitatem et sapientiam etc. Humana in Christo
+      natura ita meruit uniri uirtuti ac sapientiae Dei ut una uirtus Deus
+      et homo, una persona Deus et homo, una sapientia Dei existeret Deus et
+      homo. Nec non et si ipsa humana in Christo natura sapientia proficit
+      in ferris, tamen nunc angelos docet in caelis.
+    </p>
+            <p xml:id="xAbSeN-1e5381-d1e239">
+               <ref xml:id="xAbSeN-1e5381-Rd1e241">idem lib. iv, ita de iudaeis loquens</ref>: Isti dicunt, Non est Christus
+      uester illa sapientia, quae attingit a fine usque ad finem fortiter,
+      et disponit omnia suauiter, quia per incrementa temporum sapientia
+      profecit ut homo. Nos econtra, Non est detrimentum passa in homine
+      assumpta illa sapientia, cum idem secundum hominem per uicissitudinem
+      temporum profecit sapientia sed magis haec ab illa assumpta mansit una
+      sapientia, qua mundus est factus, qua mundus est restauratus.
+    </p>
+            <p xml:id="xAbSeN-1e5381-d1e246">
+               <ref xml:id="xAbSeN-1e5381-Rd1e248">remigius in psalmo xxi v</ref>: Ego autem dixi in abundantia mea. Christus
+      secundum carnem nullas diuitias habuit; pauper enim adeo fuit ut
+      non haberet quo caput reclinaret. Abundantiam itaqua suam plenitudinem
+      gratiarum et spiritualium et omnis diuinitatis thesaurum appellat,
+      quia in eo corporaliter mansit. Dixi, inquit, in abundantia mea, id
+      est in plenitudine diuinitatis.
+    </p>
+            <p xml:id="xAbSeN-1e5381-d1e254">
+               <ref xml:id="xAbSeN-1e5381-Rd1e256">item</ref>: Et factus sum conturbatus, id est mortuus sum ex infirmitate
+      carnis, ignorans lumen ueritatis.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 94</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 94</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e6935"><!-- xAbSeN-q94 -->
+            <head xml:id="xAbSeN-1e6935-Hd1e103">Quaestio 94</head>
+            <head xml:id="xAbSeN-1e6935-Hd1e106" type="question-title"> quod petrus instinctu diaboli domino persuaserit vitare
+      mortem et contra</head>
+    
+            <p xml:id="xAbSeN-1e6935-d1e109">
+               <ref xml:id="xAbSeN-1e6935-Rd1e111">hilarius super matthaeum</ref>: Nam cum praedicare coepisset, oportere se
+      Hierosolymam ire, pati deinde plura a senioribus plebis et a
+      scribis et principibus sacerdotum, occidi etiam et post diem tertium
+      resurgere, apprehendit eum Petrus et ait: Absit a te domine, non erit
+      istud. At ipse conuersus Petro dimit: Vade retro post me, sathana,
+      scandalum mihi es. Igitur post praedicationem passionis accipiens
+      diabolus facultatem (usque ad tempus enim ab eo secesserat), quia
+      incredibile satis apostolis uideretur eum in quo Deus erat esse
+      passibilem,sumens hanc humanae infidelitatis occasionem, opinionis
+      istius Petro insinuauit adiectum. Denique ita passionem detestatus est
+      ut dixerit absit, quo uerbo rerum detestandarum execratio continetur.
+      Sed sciens dominus diabolicae artis instinctum Petro ait: Vade retro
+      post me, id est ut exemplo se passionis sequatur. In eum uero per quem
+      opinio haec suggerebatur conuersus, adiecit: sathanas, scandalum mihi
+      es. Non enim conuenit existimare Petro sathanae nomen et offensionem
+      scandali deputari post illa indultae et beatitudinis et potestatis
+      tanta praeconia. Sed quia infidelitas omnis diaboli opus est, Petri
+      responsione dominus offensus cum opprobrio nominis infidelitatis
+      istius est detestatus auctorem.
+    </p>
+            <p xml:id="xAbSeN-1e6935-d1e117">
+               <ref xml:id="xAbSeN-1e6935-Rd1e119">hieronymus super matthaeum</ref>: Haec omnia tibi dabo, si cadens adoraueris
+      me. Tunc dixit ei Iesus: Vade retro, sathana. Petro dicitur: Vade
+      retro me, sathanas, id est sequere me, qui contrarius es uoluntati
+      meae. Hic uero addit, uade retro sathanas, et non dicitur retro me, ut
+      subaudiatur, uade in ignem aeternum.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

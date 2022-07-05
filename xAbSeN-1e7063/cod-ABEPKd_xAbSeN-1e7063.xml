@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 96</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 96</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e7063"><!-- xAbSeN-q96 -->
+            <head xml:id="xAbSeN-1e7063-Hd1e103">Quaestio 96</head>
+            <head xml:id="xAbSeN-1e7063-Hd1e106" type="question-title"> quod petrus non negaverit christum et contra</head>
+    
+            <p xml:id="xAbSeN-1e7063-d1e109">
+               <ref xml:id="xAbSeN-1e7063-Rd1e111">ambrosius super lucam lib. viii, cap. xiii</ref>: Consideremus quo in statu
+      Petrus neget. Frigus, inquit, erat. Si tempus consideremus, frigus
+      esse non poterat. Sed frigus erat ubi Iesus non agnoscebatur, ubi non
+      erat qui lucem uideret, et ubi negebatur ignis consumens. Frigus erat
+      mentis, non corporis.
+    </p>
+            <p xml:id="xAbSeN-1e7063-d1e115">
+               <ref xml:id="xAbSeN-1e7063-Rd1e117">item</ref>: Petrum itaque prodenti ancillae quod ex illis esset qui cum Iesu
+      Galilaeo erant, prima uoce Matthaeus posuit respondisse: Nescio quid
+      dicis. Hoc etiam Marcus, qui secutus est Petrum, et ex ipso potuit
+      uerius cognoscere. Prima igitur uox negantis est Petri, qua tamen non
+      negare Deum sed a proditione separasse se mulieris uidetur. Quid tamen
+      negauerit considera, ex illis utique se esse qui cum Iesu Galilaeo
+      erant uel, ut Marcus posuit, cum Iesu Nazareno. Numquid negauit cum
+      Dei fuisse se filio? Hoc est dicere, Nescio Galilaeum; nescio
+      Nazarenum, quem Dei filium noui. Habeant homines locorum uocabula, Dei
+      filium patria non potest nuncupare, cuius maiestatem nullus locus
+      includit. Et ut scias hoc uerum esse, etiam exemplo probatur. Nam
+      alibi cum interrogaret dominus discipulos: quem me dicunt esse homines
+      filium hominis? alii Eliam, alii Ieremiam dixerunt, aut unum ex
+      prophetis, Petrus autem ait: Tu es Christus, filius Dei uiui. Numquid
+      et ibi negauit quia Christum non hominis filium sed Dei filium maluit
+      confiteri? Certe quid hic putamus ambiguum, quod etiam Christus
+      probauit? Aliud accipe.  Interrogatus enim Petrus, Et tu es illis es,
+      qui cum Iesu Galilaeo erant? uerbum aeternitatis hoc refugit -- non
+      enim erant qui esse coeperant -- hoc est dicere, Ille solus erat, qui
+      in principio erat. Denique ait: Non sum ego. Illius enim est esse, qui
+      semper est. Unde et Moyses ait: Qui est, misit me. Rursus cum
+      urgeretur quod ex illis esset, secundum Marcum negauit; ut scias
+      euangelistam ueritati quam gratiae plus dedisse. Sed tamen negauit ex
+      illis se esse, non Christum negauit. Negauit ex illis se esse, qui cum
+      Galilaeo erant, non negauit cum Dei filio. Denique secundum Matthaeum
+      proditus quod cum Iesu Nazareno fuisset, ait: Nescio hominem. Hoc idem
+      et in tertia uoce uterque de quibus proposuimus euangelista cum
+      iuramento respondisse posuerunt, quia nesciret hominem. Et bene
+      negauit hominem, quem sciebat Deum. Denique ubi iusiurandum est, cauta
+      responsio est. Nam etsi negauit Petrus, non tamen peierauit, quia nec
+      dominus peieraturum esse memorauerat. Quod si in Petro dubium est,
+      quam periculosum est iusiurandum! Iohannes autem sic posuit quoniam
+      interrogatus ab ancilla Petrus utrum ex discipulis esset hominis
+      illius, prima uoce responderit: non sum. Non enim erat hominis
+      apostolus, qui erat Christi. Denique et Paulus hominis apostolum se
+      esse negauit dicens: Paulus apostolus non ab hominibus, neque per
+      hominem sed per Iesum Christum et Deum patrem.  Sed ne uideretur
+      ambiguum aliquod incarnationis afferre, subiecit: qui suscitauit eum a
+      mortuis, ut et hominem credas, cum Deum ante credideris. Quod alibi
+      quoque eodem tenore custodit, ubi ait: Unus enim Deus, unus mediator
+      Dei et hominum, homo Christus Iesus. Prius enim mediatorem Dei quam
+      hominem nuncupauit. Non enim sat est utrumque credere, nisi fidei ordo
+      seruetur. Concordat igitur ubique responsio.  Nam qui dixit, nesolo
+      hominem, aequum erat ut interrogatus utrum esset ex discipulis hominis
+      diceret: non sum. Itaque non Christi discipulum se negauit sed hominis
+      negauit esse discipulum. Denique et Petrus et Paulus hominem
+      negauerunt, quod Dei filium fatebantur. Quod sensit Petrus, Paulus
+      expressit. Huic et ille profecit. Error Petri doctrina iustorum est et
+      titubatio Petri omnium petra est. Denique super undas titubat sed
+      dexteram porrigit Christo. In monte cadit sed leuatur a
+      Christo. Titubauit quidem Petrus in mare sed ambulauit. Firmior
+      titubatio Petri quam nostra est firmitas. Ibi cadit, quo nullus
+      ascendit; ibi nutat, ubi nemo ambulat. Et tamen inter undas licet
+      titubot, non labitur. Nutat, non cadit; fluitat, non praecipitatur. Et
+      si cecidit, in monte tamen cecidit; sod folicius ille cecidit quam
+      alii steterunt. Felicius cecidit quem Christus leuauit. Iterum autem
+      interrogatum quod ex discipulis eius esset Iohannes scripsit
+      negasse. Et bono negauit, quia ex eius dicebatur esse discipulis quem
+      hominem in superioribus sunt locuti. Nam et tertio quod cum illo uisus
+      esset negauit, hoc et de superioribus deriuatur, Cum illo quem hominem
+      nuncupatis non fui sed a Doi filio non recessi. Lucas quoque scripsit
+      Petrum interrogatum utrum ex illis esset respondisse prima uoce: non
+      noui illum. Et bene dixit. Temerarium quippe erat ut diceret quia
+      nouerat eum quem mens humana non potest comprehendere. Nemo enim nouit
+      filium, nisi pater.  Rursus secunda uoce secundum Lucam idem Petrus
+      ait: Non sum ego.  Maluit uidelicet se negare quam Christum. Aut quia
+      Videbatur negare Christi societatem, utique se negauit. Certe cum de
+      homine negat, in filium peccauit hominis, ut remitteretur ei; non in
+      spiritum sanctum.  Tertio quoque interrogatus ait: Nescio quid dicis,
+      hoc est, sacrilegia uestra nescio. Sed nos excusamus; ipse non
+      excusauit. Non enim sat est inuoluta responsio confitentis Iesum sed
+      aperta confessio. Quid prodest uerba inuoluere, si uideri uis
+      denegasse? Et ideo Petrus non de industria sic respondisse inducitur,
+      quia postea recordatus est et fleuit. Maluit enim ipse suum accusare
+      peccatum, ut iustificaretur fatendo quam grauaretur negando -- Iustus
+      enim in principio accusator est sui -- et ideo fleuit. Quare fleuit?
+      Quia culpa obrepsit ei. Ego soleo flere, si culpa mihi desit, hoc est
+      si non me uindicem, si non obtineo quod improprie cupio. Petrus doluit
+      et fleuit, quia errauit ut homo.
+    </p>
+            <p xml:id="xAbSeN-1e7063-d1e125">
+               <ref xml:id="xAbSeN-1e7063-Rd1e127">idem in exameron de die v</ref>: Non cantabit gallus, priusquam ter me
+      neges. Bene fortis in die Petrus, in nocte turbatur et ante galli
+      cantum labitur, et labitur tertio, ut scias non inconsulta effusione
+      sermonis esse prolapsum sed mentis quoque mutatione prolapsum.
+    </p>
+            <p xml:id="xAbSeN-1e7063-d1e134">
+               <ref xml:id="xAbSeN-1e7063-Rd1e136">matthaeus</ref>: Respondens autem Petrus ait illi: Et si omnes scandalizati
+      fuerint in te, ego nunquam scandalizabor. Ait illi Iesus: Amen dico
+      tibi antequam gallus cantet, ter me negabis.
+    </p>
+            <p xml:id="xAbSeN-1e7063-d1e140">
+               <ref xml:id="xAbSeN-1e7063-Rd1e142">item</ref>: Petrus uero sedebat foris in atrio. Et accessit ad eum una
+      ancilla dicens: Et tu cum Iesu Galilaeo eras. At ille negauit coram
+      omnibus dicens: Nescio quid dicis. Exeunte autem illo ianuam, uidit
+      eum alla ancilla et ait his qui erant ibi: Et hic erat cum Iesu
+      Nazareno. Et iterum negauit cum iuramento, quia non noui hominem. Et
+      post pusillum accesserunt qui adstabant et dixerunt Petro: Vere et tu
+      ex illis es, nam et loquela tua manifestum te facit. Tunc coepit
+      detestari et iurare, quia non nouisset hominem.
+    </p>
+            <p xml:id="xAbSeN-1e7063-d1e146">
+               <ref xml:id="xAbSeN-1e7063-Rd1e148">marcus</ref>: Petrus autem ait illi: Et si omnes scandalizati fuerint in te
+      sed non ego. Et ait illi Iesus: Amen dico tibi, quia tu hodie in nocte
+      hac, priusquam gallus bis uocem dederit, ter me es negaturus. LUCAS:
+      Ait autem dominus Simoni: Simon, ecce sathanas expetiuit uos, ut
+      cribraret sicut triticum. Ego autem rogaui pro te, ut non deficiat
+      fides tua, et tu aliquando conuersus confirma fratres tugs. Qui dixit
+      ei: Domine, tecum paratus sum et in carcerem et in mortem ire Et ille
+      dixit: Dico tibi, Petre, non cantabit hodie gallus, donec ter abneges
+      nosse me.
+    </p>
+            <p xml:id="xAbSeN-1e7063-d1e152">
+               <ref xml:id="xAbSeN-1e7063-Rd1e154">iohannes</ref>: Dicit ei Petrus: Quare non possum te modo sequi?  Animam
+      meam pro te ponam. Respondit Iesus: Animam tuam pro me pones?  Amen,
+      amen dico tibi: non cantabit gallus, donec me ter neges.
+    </p>
+            <p xml:id="xAbSeN-1e7063-d1e158">
+               <ref xml:id="xAbSeN-1e7063-Rd1e160">augustinus super iohannem tractatu liii</ref>: Negauit ille et dizit non
+      num. An apostolus Petrus, sicut eum quidam fauore peruerso excusare
+      nituntur, Christum non negauit, quia interrogatus ab ancilla hominem
+      se nescire respondit? Quasi uero qui hominem Christum negat, non
+      Christum negat.  Qui ergo ita confitetur Christum Deum ut hominem
+      neget, non pro illo mortuus est Christus, quia secundum hominem
+      mortuus est Christus.  Qui negat hominem Christum non
+      iustificatur; quia sicut per inobedientiam unius hominis etc. Qui
+      negat hominem Christum non resurget in resurrectionem uitae, quia et
+      per hominem resurrectio mortuorum.
+    </p>
+            <p xml:id="xAbSeN-1e7063-d1e166">
+               <ref xml:id="xAbSeN-1e7063-Rd1e168">item</ref>: Petrus si negato Christo hinc fret, quid aliud quam periret?
+    </p>
+            <p xml:id="xAbSeN-1e7063-d1e173">
+               <ref xml:id="xAbSeN-1e7063-Rd1e175">beda super lucam</ref>: At ille negauit eum dicene: Mulier non noui
+      illum. Quidam pio erga apostolum Petrum affectu locum hunc ita
+      interpretantur, quasi bene dixerit se illum non nosse, quem mens
+      humana nescit comprehendere, quia nemo nouit filium nisi pater. Iterum
+      quoque inquisitus dixerit: o homo, non sum, malens se negare quam
+      Christum. Sed et tertio interrogatus cum ait; homo, nescio quid dicis,
+      significauit, se sacrilegia illorum nescire, hoc est reprobando et
+      execrando damnare. Sed haec quam friuola sit expositio, et dominus,
+      qui se ter negandum a Petro dixerat, et ipse Petrus insinuat, qui se
+      non de industria sed de subreptione locutum subsequentibus manifestat.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

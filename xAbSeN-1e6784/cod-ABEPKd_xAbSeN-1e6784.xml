@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 91</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 91</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e6784"><!-- xAbSeN-q91 -->
+            <head xml:id="xAbSeN-1e6784-Hd1e103">Quaestio 91</head>
+            <head xml:id="xAbSeN-1e6784-Hd1e106" type="question-title"> quod sola maria in anima passa sit et contra</head>
+    
+            <p xml:id="xAbSeN-1e6784-d1e109">
+               <ref xml:id="xAbSeN-1e6784-Rd1e111">ex sermone hieronymi de assumptione sanctae mariae</ref>: Recte igitur beata
+      Dei genitrix et martyr et uirgo fuit. Hinc quoque quod uere passa sit,
+      Simeon propheta loquens ad eam, Et tuam, inquit, animam pertransibit
+      gladius. Ex quo constat, quod alii sancti et si passi sunt pro Christo
+      in carne, tamen in anima, quae immortalis est, pati non
+      potuerunt. Beata uero Dei genitrix, quia in ea parte passa est quae
+      impassibilis habetur, ideo, ut ita fatear, quia spiritaliter et
+      atrociter passe, propterea et plus omnibus doluit in tantum ut animam
+      eius totem pertransiret et possideret uis doloris ad testimonium
+      eximiae dilectionis. Quia beata Maria mente passe est, plus quam
+      martyr fuit. Nimirum et eius dilectio amplius fortis quam mors, quia
+      mortem Christi suam fecit.
+    </p>
+            <p xml:id="xAbSeN-1e6784-d1e117">
+               <ref xml:id="xAbSeN-1e6784-Rd1e119">augustinus de civitate dei lib. xxii</ref>: Si consideremus diligentius,
+      dolor qui dicitur corporis, magis ad animam pertinet quam ad corpus.
+      Animae est enim dolere, non corporis, etiam quando ei dolendi cause
+      existit a corpore, cum in eo loco doles ubi laeditur corpus.
+    </p>
+            <p xml:id="xAbSeN-1e6784-d1e123">
+               <ref xml:id="xAbSeN-1e6784-Rd1e125">idem super genesim</ref>: Sentire non est corporis sed animae per corpus,
+      licet acute disseratur secundum diuersitatem corporeorum elementorum
+      sensus esse corporis distributos. Anima tamen, cui sentiendi uis est,
+      cum corporea non sit, per subtilius corpus agitat uigorem sentiendi.
+      Inchoat itaque motum in omnibus sensibus subtilitate ignis.
+    </p>
+            <p xml:id="xAbSeN-1e6784-d1e130">
+               <ref xml:id="xAbSeN-1e6784-Rd1e132">item</ref>: Neque enim corpus sentit sed anima per corpus, quo uelut nuntio
+      utitur ad formandum in semetipsa quod extrinsecus nuntiatur.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

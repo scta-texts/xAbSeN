@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 141</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 141</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-e11363"><!-- xAbSeN-q141 -->
+            <head xml:id="xAbSeN-e11363-Hd1e103">Quaestio 141</head>
+            <head xml:id="xAbSeN-e11363-Hd1e106" type="question-title"> quod opera misericordiae non prosint infidelibus et contra</head>
+    
+            <p xml:id="xAbSeN-e11363-d1e109">AUGUSTINUS DE TRINITATE, LIB. Xll: Opera misericordiae nihil prosunt
+      paganis siue Iudaeis siue haereticis uel schismaticis.
+    </p>
+            <p xml:id="xAbSeN-e11363-d1e112">
+               <ref xml:id="xAbSeN-e11363-Rd1e114">idem in libro sententiarum prosperi</ref>: Omnis infidelium uita peccatum
+      est, et nihil est bonum sine summo bono. Ubi enim deest agnitio
+      aeternae et incommutabilis ueritatis, falsa uirtus est etiam in
+      optimis moribus.
+    </p>
+            <p xml:id="xAbSeN-e11363-d1e120">
+               <ref xml:id="xAbSeN-e11363-Rd1e122">idem in tractatu xx evangelii secundum iohannem</ref>: Sunt opera quae
+      uidentur bona sine fide Christi, et non sunt bona quia non referuntur
+      ad eum finem ex quo sunt bona: Finis enim legis Christus ad iustitiam
+      omni credenti. Ideo noluit discernere ab opere fidem, sed ipsam fidem
+      dixit esse opus. Ipsa est enim fides quae per dilectionem operatur.
+      Nec dixit, hoc est opus uestrum, sed hoc est opus Dei, ut credatis in
+      eum quem misit ille, ut qui gloriatur, in domino glorietur.
+    </p>
+            <p xml:id="xAbSeN-e11363-d1e127">
+               <ref xml:id="xAbSeN-e11363-Rd1e129">hieronymus in segundo contra iovinianum</ref>: Cornelius centurio ut
+      spiritum sanctum acciperet ante baptisma elemosinis meruit crebrisque
+      ieiuniis.
+    </p>
+            <p xml:id="xAbSeN-e11363-d1e133">
+               <ref xml:id="xAbSeN-e11363-Rd1e135">idem ad heliodorum</ref>: Non facit ecclesiastica dignitas Christianum.
+      Cornelius centurio adhuc ethnicus dono sancti spiritus mundatur.
+    </p>
+            <p xml:id="xAbSeN-e11363-d1e139">GREGORIUS IN EXTREMA PARTE EZECHIELIS, HOMILIA VIl: Non enim
+      uirtutibus ad fidem sed fide pertingitur ad uirtutes. Cornelius enim
+      centurio, cuius elemosinae ante baptismum angelo teste laudatae sunt,
+      non operibus uenit ad fidem sed fide uenit ad opera. Nam ei per
+      angelum dicitur: Orationes tuae et elemosinae adscenderunt in
+      conspectu Dei.  Si enim Deo uero et ante baptisma non crediderat, quem
+      orabat? Vel quomodo hunc Deus exaudierat, si non ab ipso se in bonds
+      perfici petebat? Sciebat igitur creatorem omnium Deum sed quia eius
+      filius incarnatus esset, ignorabat. Non enim poterat bona agere nisi
+      ante credidisset. Scriptum namque est: Sine fide impossibile est
+      placere Deo. Fidem ergo habuit cuius orationes et elemosinae placere
+      Deo poterant. Bona autem actione promeruit ut Deum perfecte
+      cognosceret et incarnationis eius mysterium crederet, quatenus ad
+      sacramenta baptismatis perueniret. Per fidem ergo uenit ad opera sed
+      opere est solidatus in fide.
+    </p>
+            <p xml:id="xAbSeN-e11363-d1e142">
+               <ref xml:id="xAbSeN-e11363-Rd1e144">iohannes chrysostomus super matthaeum</ref>: Audi mysterium quod Petrus apud
+      Clementem exposuit. Si fidelis fecerit opus bonum, et hic ei
+      prodest, liberans eum a malis et in illo saeculo ad percipiendum
+      regnum caeleste. Si autem infidelis fecerit opus bonum, hic ei prodest
+      opus ipsius, et hic ei reddit Deus pro opere quo. In illo autem
+      sseculo nihil ei prodest opus ipsius. Nec enim collocatur inter
+      caeteros fideles propter opus snum, et iuste quia natural) bono motus
+      fecit bonum, non propter Deum. Ideo in corpus snum recepit mercedem
+      corporis, non in anima sua.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

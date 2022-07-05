@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 60</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 60</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e4608"><!-- xAbSeN-q60 -->
+            <head xml:id="xAbSeN-1e4608-Hd1e103">Quaestio 60</head>
+            <head xml:id="xAbSeN-1e4608-Hd1e106" type="question-title"> quod verbum dei in utero virginis simul animam et carnem
+      susceperit et non</head>
+    
+            <p xml:id="xAbSeN-1e4608-d1e109">
+               <ref xml:id="xAbSeN-1e4608-Rd1e111">gregorius episcopis in hibernia</ref>: Non prius in utero uirginis caro
+      concepta est, et post modum diuinitas uenit in carnem sed mox uerbum
+      seruata uirtute propriae naturae factum est caro et perfectus homo id
+      est in ueritate carnis et animae rationalis.  Unde unctus prae
+      participibus dicitur dono uidelicet spiritus sancti.  Nam hoc ipsum de
+      spiritu sancto et carne uirginis concipi a sancto spiritu ungi fuit.
+    </p>
+            <p xml:id="xAbSeN-1e4608-d1e115">
+               <ref xml:id="xAbSeN-1e4608-Rd1e117">item</ref>: Ibi ab eodem spiritu unctus est, ubi conceptus; nec ante
+      conceptus et post modum unctus sed hoc ipsum de spiritu sancto et
+      carne uirginis concipi a spiritu sancto ungi fuit.
+    </p>
+            <p xml:id="xAbSeN-1e4608-d1e121">
+               <ref xml:id="xAbSeN-1e4608-Rd1e123">augustinus de secreto incarnationis christi</ref>: Da ueniam Christe et
+      parce ori meo, quia incarnationis tuse mysterium temerarius narrator
+      attingo.
+    </p>
+            <p xml:id="xAbSeN-1e4608-d1e128">
+               <ref xml:id="xAbSeN-1e4608-Rd1e130">item</ref>: In uulua uirginis genitalis sanguis et semineus humor fuit; huic
+      sanguini uel humori uerbum se uelut coagulatum miscuit et sanguinis
+      uel humoris substantia celatam carnem fecit. Accessit spiritus sanctus
+      et haec, quae fuerant uerbi glutino commassata, animando formauit,
+      formata distinxit.
+    </p>
+            <p xml:id="xAbSeN-1e4608-d1e134">IDEM IN LIBRO QUAESTIONUM DE VETERI TESTAMENTO, CAP. XXIII:
+      Moyses tradidit: Si quia percusserit mulierem in utero habentem, et
+      abortierit, si formatum fuerit, det animam pro anima; si autem
+      informatum, multetur peounia, ut probaret non esse animam ante formam.
+    </p>
+            <p xml:id="xAbSeN-1e4608-d1e139">
+               <ref xml:id="xAbSeN-1e4608-Rd1e141">item</ref>: Si prius respiciamus, uidebimus quid sequi debeamus.
+      Contemplemur facturam Adae. In Adam enim exemplum datum est, ut ex eo
+      intelligatur quia iam formatum corpus accipit animam. Nam poterat
+      animam limo terrae admiscere et sic formare corpus. Sed ratione
+      infirmabatur, quia primum oportebat domum compaginari, et sic
+      habitatorem induci. Anima certe, quia spiritus est, in sicco habitare
+      non potest, ideo in sanguine fertur. Cum ergo lineamenta compacta non
+      fuerint, ubi erit anima?
+    </p>
+            <p xml:id="xAbSeN-1e4608-d1e145">
+               <ref xml:id="xAbSeN-1e4608-Rd1e147">hieronymus ad agasium</ref>: Semina paulatim formantur in utero, et tam diu
+      non reputatur homicidium, donec elementa confecta suas imagines
+      membraque suscipiant.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

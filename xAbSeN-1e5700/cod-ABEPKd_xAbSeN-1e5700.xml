@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 77</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 77</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e5700"><!-- xAbSeN-q77 -->
+            <head xml:id="xAbSeN-1e5700-Hd1e103">Quaestio 77</head>
+            <head xml:id="xAbSeN-1e5700-Hd1e106" type="question-title"> quod iudaei vel daemones christum cognoverunt etiam ante
+      passionem eius et non</head>
+    
+            <p xml:id="xAbSeN-1e5700-d1e109">Super cathedram Moysi EX HOMILIA CHRYSOSTOMI: Non enim nescientes eum
+      Dei filium occiderunt sed habere eum talem non sustinentes, sicut
+      prophetat de illis Salomon: Venite, circumueniamus iustum, quia
+      inutilia est, et improperat nobis peccata legis.
+    </p>
+            <p xml:id="xAbSeN-1e5700-d1e112">
+               <ref xml:id="xAbSeN-1e5700-Rd1e114">augustinus super epistolam iohannis homilia ix</ref>: Et daemones credunt.
+      Quid potuerunt daemones plus credere quam ut dicerent, scimus
+      quia sis filius Dei? Quod dixerunt daemones, dixit et Petrus: Tu es
+      Christus, filius Dei uiui, et audiuit a domino: Beatus es Simon
+      etc. et super hanc petram etc. Magna laus! Dicunt et daemones, quia
+      sis filius Dei, sanctus Dei. Hoc Petrus, hoc et daemones. Eadem uerba,
+      non idem animus. Quia fides Christiana cum dilectione, daemonis sine
+      dilectione. Cum dilectione fides Christiani. Qui autem non credunt
+      peiores sunt quam daemones et tardiores. Nescio qui non uult credere
+      in Christum, adhuc nec daemones imitatur.
+    </p>
+            <p xml:id="xAbSeN-1e5700-d1e120">
+               <ref xml:id="xAbSeN-1e5700-Rd1e122">apostolus in epistola i ad cor.</ref>: Sed loquimur Dei sapientiam in
+      mysterio; quae abscondita est, quam praedestinauit Deus ante saecula
+      in gloria nostra, quam principum huius saeculi nemo cognouit; si enim
+      cognouissent, nunquam dominum gloriae crucifixissent.
+    </p>
+            <p xml:id="xAbSeN-1e5700-d1e127">
+               <ref xml:id="xAbSeN-1e5700-Rd1e129">augustinus quaestionum veteris et novae legis cap. lxiv</ref>: Non illum
+      aliter scierunt daemones quam sciebant principes huius saeculi.
+      Sciebant enim ipsum esse qui promissus erat in lege per signa
+      prophetiae. Non tamen quod filius Dei erat ex aeterno sciebant neque
+      sacramentum incarnationis.
+    </p>
+            <p xml:id="xAbSeN-1e5700-d1e133">
+               <ref xml:id="xAbSeN-1e5700-Rd1e135">idem simpliciano, mediolanensi episcopo</ref>: Iam uero si illud mouet,
+      quomodo a maligno spiritu Sauli uera praedicta sunt; potest et illud
+      uideri mirum, quomodo daemones agnouerunt Christum, quem Iudaei non
+      agnoscebant.
+    </p>
+            <p xml:id="xAbSeN-1e5700-d1e139">
+               <ref xml:id="xAbSeN-1e5700-Rd1e141">idem ad dulcitium de octo quaestionibus, responsione prima</ref>: Hucusque
+      est propositio tua. Cui respondeo ex libro meo, qui inscribitur de
+      fide et operibus, ubi de hac re ita locutus sum: Iacobus autem tam
+      uehementer infestus est eis qui sapiunt fidem sine operibus ualere ad
+      salutem, ut illos etiam daemonibus comparet dicens, Tu credis, quoniam
+      unus est Deus; bene facis, et daemones credunt et contremiscunt. Quid
+      uerius, breuius, uehementius dici potuit? Cum et in euangelio legamus
+      hoc dixisse daemonia, cum Christum filium Dei confiterentur et ab illo
+      corriperentur, quod in Petri confessione laudatum est.
+    </p>
+            <p xml:id="xAbSeN-1e5700-d1e147">
+               <ref xml:id="xAbSeN-1e5700-Rd1e149">gregorius moralium lib. xxxiii</ref>: In oculis etus quasi hamo capiet
+      eum. Behemoth iste filium Dei incarnatum nouerat; sed redemptionis
+      nostrae ordinem nesciebat.  Sciebat enim quod pro redemptione nostra
+      incarnatus Dei filius fuerat sed omnino quod idem redemptor noster
+      illum moriendo transfigeret, nesciebat. Unde et bene dicitur: In
+      oculis eius quasi hamo capiet eum.  In oculis quippe habere dicimus,
+      quod coram nobis positum uidemus.  Antiquus uero hostis humani generis
+      redemptorem ante se positum uidit, quem cognoscendo confessus
+      confitendo pertimuit dicens: Quid nobia et tibi, fili Dei?  Venisti
+      ante tempus torquere nos.  In oculis itaque suis quasi hamo captus
+      est, quia et nouit et momordit; et cognouit prius quem pertimesceret,
+      et tamen post non timuit cum in illo quasi escam propriam, mortem
+      carnis esuriret.
+    </p>
+            <p xml:id="xAbSeN-1e5700-d1e153">
+               <ref xml:id="xAbSeN-1e5700-Rd1e155">item</ref>: Numquid illudes ei quasi aui?  Quasi aui quippe dominus illusit,
+      dum ei in passione unigeniti filii ostendit escam sed laqueum
+      abscondit.  Vidit enim quod ore perciperet sed non uidit quod guttur
+      teneret. Nam quamuis eum filium Dei fuerat confessus, uelut purum
+      tamen illum hominem mori credidit, ad cuius mortem Iudaeorum
+      persequentium animos concitauit. Sed in ipso traditionis eius tempore
+      tarde iam cognouisse intelligitur, quod illa eius morte puniretur.
+      Unde et Pilati coniugem somnus terruit, ut uir illius a iusti
+      persecutione cessaret. Sed res interna dispensatione disposita nulla
+      ualuit machinatione refragari.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

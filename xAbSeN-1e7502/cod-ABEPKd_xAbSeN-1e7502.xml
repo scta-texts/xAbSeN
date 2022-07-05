@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 105</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 105</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e7502"><!-- xAbSeN-q105 -->
+            <head xml:id="xAbSeN-1e7502-Hd1e103">Quaestio 105</head>
+            <head xml:id="xAbSeN-1e7502-Hd1e106" type="question-title"> quod eadem maria tam caput domini quam pedes unxerit
+      et contra</head>
+    
+            <p xml:id="xAbSeN-1e7502-d1e109">
+               <ref xml:id="xAbSeN-1e7502-Rd1e111">ex homilia iohannis episcopi de proditione iudae</ref>: Tunc abiit unus de
+      duodecim etc. Ante proditionis tempus, ante traditionis horam accessit
+      meretrix uas alabastrum manibus portans, et unguentum domini capiti
+      supra effudit; paulo ante meretrix subito pudica processit, et
+      quando prostituta lupanar exiuit, tunc discipulus Gehennam
+      intrauit. Quando illa mercedem sui corporis abdicabat, tunc iste
+      pretium magistri sanguinis postulabat. Quando illa osculabatur pedes,
+      ut susciperetur, tunc iste domini labia osculabatur, ut proderet. Ideo
+      dixi tunc ut non magistrum infirmitatis accuses, quoniam discipulum
+      reperis proditorem. Magis etenim uirtutem doctoris ostendit, qui et
+      meretrices ad obediendum conuolare perfecit. Quid igitur qui
+      meretricum mores ualuit commutare, discipulum non retinere? Valde,
+      inquam, et incunctanter ualuit retinere sed necessitate nolebat bonum
+      efficere.
+    </p>
+            <p xml:id="xAbSeN-1e7502-d1e117">
+               <ref xml:id="xAbSeN-1e7502-Rd1e119">hieronymus super osee in prologo</ref>: Haec est mulier meretrix et adultera
+      quae in euangelio pedes domini lauit, crine detersit, et confessionis
+      suae honorauit unguento; indignantibusque discipulis et maxime
+      proditore quod non fuisset uenditum et pretium illius in alimentum
+      pauperum distributum, dominus respondit: Quid molesti estis mulieri?
+      Opus bonum operata est in me. Pauperes enim semper hababitis uobiscum,
+      me autem non semper. Et ne putaretur leue esse quod fecerat, et nardum
+      pisticum, id est unguentum fidelissimum, ad aliud quid et non ad
+      ecclesiam referendum, dat nobis occasionem intelligentiae, et magna
+      fidei praemia repromittit, dicens: Amen, amen dico uobis, ubicumque
+      praedicatum fuerit hoc euangelium in toto mundo, dicetur et quod haec
+      fecerit, in memoriam eius.
+    </p>
+            <p xml:id="xAbSeN-1e7502-d1e123">
+               <ref xml:id="xAbSeN-1e7502-Rd1e125">beda super lucam lib. iii</ref>: Et ecce mulier, quae erat in ciuitate
+      peccatrix etc. Quidam dicunt hanc eandem non esse mulierem quae
+      imminente dominica passione caput pedesque eius unguento perfudit,
+      quia haec lacrimis lauerit et crine pedes terserit et manifeste
+      peccatrix appelletur. De illa autem nihil tale scriptum sit, nec
+      potuerit statim capite domini meretrix digna fieri. Verum qui
+      diligentius inuestigant, inueniunt eandem mulierem, Mariam uidelicet
+      Magdalenam, sororem Lazari, sicut Iohannes narrat, bis eodem functam
+      obsequio. Semel quidem hoc loco cum primo accedens remissionem
+      meruit peccatorum, secundo autem in Bethania non iam peccatrix sed
+      sancta, non solum pedes sed et caput eius unxisse reperitur. Quod et
+      regulae allegoriae pulcherrime congruit. Quia et unaquaeque fidelis
+      anima prius et domini pedes humiliata peccatisque absoluenda curuatur,
+      deinde augescentibus per tempora meritis laetae fidei flagrantia
+      domini quasi caput odore perfundit aromatum.
+    </p>
+            <p xml:id="xAbSeN-1e7502-d1e132">
+               <ref xml:id="xAbSeN-1e7502-Rd1e134">idem in homilia feriae tertiae post ramis palmarum</ref>: Altera soror Lazari
+      Maria in magnae dilectionis indicium accepit libram unguenti, nardi
+      pistici preciosi, et unxit pedes Iesu et extersit capillis suis. Sed
+      prius notandum quod, sicut narrantibus Matthaeo et Marco didicimus,
+      non solum pedes domini Maria sed et caput nardo perfudit. Nec
+      dubitandum est quod et ipsa sit mulier quae, sicut Lucas refert,
+      quondam peccatrix ad dominum cum alabastro uenit unguenti, et stans
+      retro secus pedes eius, lacrymis coepit rigare pedes eius et capillis
+      suis tergebat et osculabatur et unguento ungebat.
+    </p>
+            <p xml:id="xAbSeN-1e7502-d1e138">
+               <ref xml:id="xAbSeN-1e7502-Rd1e140">hieronymus damaso secundo tractatu super cantica canticorum</ref>: Loquitur
+      euangelium quia uenit mulier habens alabastrum unguenti, nardi pistici
+      preciosi, non illa peccatrix sed sancta, de qua nunc mihi sermo
+      est. Scio quippe Lucam de peccatrice, Matthaeum uero et Iohannem et
+      Marcum non de peccatrice dixisse. Venit ergo non peccatrix illa sed
+      sancta, cuius nomen quoque Iohannes inseruit, habens alabastrum
+      unguenti preciosi, et effudit super caput Iesu. In figura ergo istius
+      quae nunc loquitur: Nardus mea dedit 
+      <pb ed="#C" n="189-v"/>
+               <lb ed="#C"/>
+      odorem suum: illa super caput Domini fudit unguentum
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 47</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 47</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e3979"><!-- xAbSeN-q47 -->
+            <head xml:id="xAbSeN-1e3979-Hd1e103">Quaestio 47</head>
+            <head xml:id="xAbSeN-1e3979-Hd1e106" type="question-title"> quod ante creationem hominis angelus ceciderit et contra</head>
+    
+            <p xml:id="xAbSeN-1e3979-d1e109">
+               <ref xml:id="xAbSeN-1e3979-Rd1e111">isidorus de summo bono cap. x</ref>: Prius de caelo cecidisse diabolum quam
+      homo conderetur. Nam mox ut factus est, in superbiam erupit et
+      praecipitatus est de caelo. Nam iuxta ueritatis testimonium ab initio
+      mendax fuit, et in ueritate non stetit quia statim ut factus est
+      cecidit.
+    </p>
+            <p xml:id="xAbSeN-1e3979-d1e115">
+               <ref xml:id="xAbSeN-1e3979-Rd1e117">augustinus super genesim ad litteram lib. xi, de diabolo</ref>: Nonnulli
+      dicunt ipsum deiectum fuisse a supernis quod inuidit homini facto ad
+      imaginem Dei. Porro autem inuidia sequitur superbiam. Cum igitur
+      superbia sit amor excellentiae propriae, inuidia uero sit odium
+      felicitatis alienae, quid unde nascatur satis in promptu est. Amando
+      enim quisque excellentiam suam uel paribus inuidet, quod /215/
+      coaequantur sibi, uel inferioribus, ne sibi coaequentur, uel
+      superioribus, quod eis non coaequetur. Superbiendo igitur inuidus, non
+      inuidendo superbus quisquam est. Et merito initium omnis peccati
+      superbia est, ut definit scriptura. Cui aptatur, quod ait apostolus,
+      radix omnium malorum cupiditas, si auaritiam generalem intelligamus,
+      qua quisque appetit amplius quam oportet.
+    </p>
+            <p xml:id="xAbSeN-1e3979-d1e121">
+               <ref xml:id="xAbSeN-1e3979-Rd1e123">item</ref>: Quando deiecerit superbia diabolum, scriptura non dicit, ante
+      tamen factum fuisse, et ex hoc eum homini inuidisse, ratio
+      declarat. In promptu enim est non ex inuidia superbiam nasci sed ex
+      superbia inuidiam. Non autem frustra putari potest, diabolum ab initio
+      temporis cecidisse, nec fuisse ullum ante tempus, quo cum angelis
+      sanctis pacatus uixit sed ab ipso primordio creaturae apostatasse, ut
+      quod Dominus ait: Ille homicida fuit ab initio, et in ueritate non
+      stetit, utrumque ab initio intelligamus. Ab initio ergo homicida fuit,
+      quia primum hominem occidit. Quod autem nunquam putatur in ueritate
+      stetisse, nunquam cum angelis beatam uitam duxisse sed ab initio suae
+      conditionis cecidisse, non sic accipiendum est ut non propria
+      uoluntate deprauatus sed malus creatus putetur. Alioquin non ab initio
+      cecidisse diceretur sed factus continuo se a luce ueritatis auertit
+      superbia tumidus et propriae potestatis dilectione corruptus Unde
+      beatae uitae atque angelicae dulcedinem non gustauit. Proinde nec sui
+      casus praescius esse potuit. Et non ex eo quod acceperat cecidit sed
+      ex eo quod acciperet, si subdi uoluisset Deo.
+    </p>
+            <p xml:id="xAbSeN-1e3979-d1e128">IDEM IN LIBRO QUAESTIONUM VETERIS ET NOVAE LEGIS: Praeuidit
+      diabolus quod ad accusationem suam factus est homo.
+    </p>
+            <p xml:id="xAbSeN-1e3979-d1e133">
+               <ref xml:id="xAbSeN-1e3979-Rd1e135">item cap. iii</ref>: Et ne praetermisisse uideamur, cur mundus factus sit,
+      dicimus diabolum apostasia multos angelos secum in praeuaricationem
+      traxisse, dum uult sibi regnum impia praesumptione defendere. Lucifer,
+      qui mane oriebatur id est qui caeteris lucidior apparebat, erat enim
+      quasi princeps multorum, inter quos clarior erat, quorum societate ad
+      impium descendit certamen. Videns enim infra se multas spiritales
+      potentias, quippe cum in paradiso Dei praestantior esset, cognitione
+      mysterii caelestis, elatione inflatus, uoluit dici Deus.
+    </p>
+            <p xml:id="xAbSeN-1e3979-d1e139">
+               <ref xml:id="xAbSeN-1e3979-Rd1e141">euipius ex dictis augustini xi de genesi ad litteram, de diabolo</ref>:
+      Nonnulli dicunt ipsum cecidisse, quod inuiderit homini. Porro inuidia
+      sequitur superbiam. Nec causa superbiae est inuidia sed inuidiae
+      superbia. Amando enim quisquis excellentiam suam uel paribus inuidet,
+      quod ei acquentur, uel superioribus. Superbiendo igitur inuidus, non
+      inuidendo quisque superbus est. Initium omnis peccati superbia, cui
+      aptatur dictum apostoli, radix omnium malorum auaritia, si auaritiam
+      generalem intelligamus, qua quisque appetit amplius quam oportet
+      propter excellentiam suam. Spiritalis autem auaritia est quae usitate
+      appellatur amor pecuniae, cuius nomine apostolus per speciem genus
+      significans uniuersalem auaritiam uolebat intelligi dicendo: radix
+      omnium malorum etc.
+    </p>
+            <p xml:id="xAbSeN-1e3979-d1e145">
+               <ref xml:id="xAbSeN-1e3979-Rd1e147">cyprianus ad demetrianum</ref>: Diabolus hominem ad imaginem Dei factum
+      impatienter tulit, inde et periit primus et perdidit.
+    </p>
+            <p xml:id="xAbSeN-1e3979-d1e151">
+               <ref xml:id="xAbSeN-1e3979-Rd1e153">item</ref>: Videamus unde zelus et quando et quomodo coeperit.
+    </p>
+            <p xml:id="xAbSeN-1e3979-d1e157">
+               <ref xml:id="xAbSeN-1e3979-Rd1e159">item</ref>: Diabolus inter initia statim mundi et periit primus et
+      perdidit. Angelicam maiestatem subnixus ille Deo acceptus et carus,
+      postquam hominem ad imaginem Dei factum conspexit, in zelum maliuolo
+      liuore prorupit, non prius alienum deiciens zelo quam ipse zelo ante
+      deiectus; dum stimulante liuore homini gratiam datae immortalitatis
+      eripit, ipse quoque id quod prius fuerat amisit. Quale malum
+      est, quo angelus cecidit!
+    </p>
+            <p xml:id="xAbSeN-1e3979-d1e166">
+               <ref xml:id="xAbSeN-1e3979-Rd1e168">hieronymus super epistolam ad ephesios</ref>: Don est nobis colluctatio
+      aduersus carnem et sanguinem: Contra spiritales hostes spiritalia arma
+      sumenda sunt, aduersus quos nobis est colluctatio in caelestibus, id
+      est pro caelestium promissione praemiorum. Non ut quidam putant,
+      antequam fundaretur terra et crearentur omnia quae sunt in ea,
+      peccauerunt sed ex quo uiderunt hominem tanto honore et gloria apud
+      Deum esse, zelo adducti contra hominem hostiles inimicitias exercere
+      coeperunt, sicut in libro Sapientiae scribitur: Inuidia diaboli mors
+      orbem ingressa est, et Dominus in euangelio dicit: ille homicida erat
+      ab initio et in ueritate non stetit.
+    </p>
+            <p xml:id="xAbSeN-1e3979-d1e172">IOHANNES EPISCOPUS IN QUODAM SERMONE DE DECOLLATIONE SANCTI IOHANNIS,
+      QUI SIC INCIPIT "HEU ME, QUID AGAM?": Diaboli telum mulieri Per
+      mulierem Iohannem capite truncauit. Et quid dicam de hominibus? per
+      mulierem angelos caelo deposuit, per mulierem cuncta posternit et
+      subiugat.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

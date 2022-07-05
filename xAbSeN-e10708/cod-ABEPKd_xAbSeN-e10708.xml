@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 137</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 137</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-e10708"><!-- xAbSeN-q137 -->
+            <head xml:id="xAbSeN-e10708-Hd1e103">Quaestio 137</head>
+            <head xml:id="xAbSeN-e10708-Hd1e106" type="question-title"> quod sola caritas virtus dicenda sit et non</head>
+    
+            <p xml:id="xAbSeN-e10708-d1e109">
+               <ref xml:id="xAbSeN-e10708-Rd1e111">augustinus ad macedonium iudicem</ref>: Virtus nihil est aliud quam diligere
+      quod diligendum est. Id eligere prudentia est; nullis inde
+      auerti molestiis, fortitudo est; nullis illecebris, temperantia; nulla
+      superbia, iustitia.
+    </p>
+            <p xml:id="xAbSeN-e10708-d1e117">
+               <ref xml:id="xAbSeN-e10708-Rd1e119">idem de moribus ecclesiae catholicae</ref>: Nihil igitur aliud est optimum
+      hominis cui haerere beatissimum sit, nisi Deus, cui haerere certe non
+      ualemus nisi dilectione. Namque illud quod quadripartita dicitur
+      uirtus, ex ipsius amoris uario quodam affectu ducitur, ut Temperantia
+      sit amor integrum se praebens ei quod amatur, Fortitudo autem amor
+      facile tolerans omnia propter id quod amatur; Iustitia, amor soli
+      amato seruiens, et propterea recte dominans; Prudentia, amor ea quibus
+      adiuuatur ab eis quibus impeditur sagaciter se legens. Sed hunc amorem
+      non cuiuslibet sed Dei esse diximus. Definire etiam licet, ut
+      Temperantiam dicamus esse amorem Deo se integrum incorruptumque
+      seruantem; Fortitudinem, amorem omnia propter Deum facile perferentem;
+      Iustitiam, amorem Deo tantum seruientem, et ob hoc bene imperantem
+      caeteris quae homini subiecta sunt; Prudentiam, amorem Dei bene
+      discernentem ea quibus adiuuetur in Deum ab his quibus impediri
+      potest. Quid amplius de moribus disputem? Si enim Deus est summum
+      bonum, quod negari non potest, sequitur, quoniam summum bonum appetere
+      est bene uiuere, ut nihil sit aliud bene uiuere quam toto corde Deum
+      diligere, ut incorruptus in eo amor atque integer custodiatur, quod
+      est temperantiae; nullis frangatur incommodis, quod est fortitudinis;
+      nulli alii seruiat, quod est iustitiae; uigilet in discernendis rebus
+      ne fallacia paulatim dolusue subripiat, quod est prudentiae.
+    </p>
+            <p xml:id="xAbSeN-e10708-d1e123">EX LIBRO PROSPERI SENTENTIARUM AUGUSTINI CAP. VIl: Dilectio Dei et
+      proximi propria et specialis uirtus est piorum atque sanctorum, cum
+      caeterae uirtutes bonis et malis possint esse communes.
+    </p>
+            <p xml:id="xAbSeN-e10708-d1e129">
+               <ref xml:id="xAbSeN-e10708-Rd1e131">gregorius super ezechielem homilia xvi</ref>: Tres sunt uirtutes sine quibus
+      is qui operari aliquid potest saluari non potest, uidelicet fides,
+      spes, caritas.
+    </p>
+            <p xml:id="xAbSeN-e10708-d1e135">IDEM IN HOMILIA VIl EVANGELIORUM: Scientia etenim uirtus est,
+      humilitas etiam custos uirtutis.
+    </p>
+            <p xml:id="xAbSeN-e10708-d1e138">
+               <ref xml:id="xAbSeN-e10708-Rd1e140">isidorus de summo bono, lib. ii, cap. xxxvi</ref>: Fides, spes, caritas
+      summae uirtutes sunt. Nam a quibus habentur, utique ueraciter
+      habentur. Alias uero uirtutes mediae sunt, quae et ad utilitatem et ad
+      perniciem possum haberi, si de eis arroganter quisque intumuerit;
+      utputa doctrine, ieiunium, castitas, scientia siue temporales
+      diuitiae, de quibus scilicet et bene operari possumus et male.
+    </p>
+            <p xml:id="xAbSeN-e10708-d1e144">
+               <ref xml:id="xAbSeN-e10708-Rd1e146">paulus apostolus in epistola i ad corinthios</ref>: Volo autem omnes homines
+      esse sicut me ipsum: sed unusquisque proprium donum habet ex Deo;
+      alius quidem sic, alius uero sic. Dico autem non nuptis et uiduis:
+      bonum est illis, si sic permaneant sic ut et ego; quod si se non
+      continent, nubant.
+    </p>
+            <p xml:id="xAbSeN-e10708-d1e150">
+               <ref xml:id="xAbSeN-e10708-Rd1e152">tullius de officiis lib. ii</ref>: Iustitia cum sine prudentia satis habeat
+      auctoritatis, prudentia sine iustitia nihil ualet ad faciendam fidem.
+      Quo enim quisque uersutior et callidior, hoc inuidiosior et
+      suspectior, detracta opinione probitatis. Quamobrem intelligentiae
+      iustitia coniuncta, quantum uoles, habebit ad faciendam fidem uirium.
+      Iustitia sine prudentia multum poterit, sine iustitia nil ualebit
+      prudentia. Sed ne quis sit admiratus cur, quod inter omnes philosophos
+      constet a meque ipso disputatum saepe sit, qui unam habent omnes
+      habere uirtutes, nunc ita seiungam, quasi possit quisque, qui non idem
+      prudens sit, iustus esse: alia est illa cum ueritas ipsa limatur in
+      disputatione, alla cum ad omnes accommodatur oratio. Quamobrem ut
+      uulgus, ita nos hoc loco loquimur, ut altos fortes, alios uiros
+      bonos, alios prudentes esse dicamus. Popularibus enim uerbis est
+      agendum et usitatis, cum loquimur.
+    </p>
+            <p xml:id="xAbSeN-e10708-d1e158">
+               <ref xml:id="xAbSeN-e10708-Rd1e160">hieronymus ad fabiolam de mansionibus filiorum israel</ref>: De alia
+      prouincia ad aliam transeuntes.  Non enim semper uni uirtuti danda est
+      opera, sed scriptum est: inter se connexae sicut ibunt de uirtute in
+      uirtutem; quia ita sunt ut qui una caruerit omnibus careat.
+    </p>
+            <p xml:id="xAbSeN-e10708-d1e165">
+               <ref xml:id="xAbSeN-e10708-Rd1e167">ex libro primo dialogorum eiusdem contra pelagium</ref>: Pelagius: Nullus
+      ergo sanctorum, quamdiu in isto saeculo est, cunctas potest habere
+      uirtutes? Hieronymus: Nullus, quia nunc ex parte prophetamus et ex
+      parte cognoscimus. Neque enim possunt omnino esse in hominibus, quia
+      non est immortalis filius hominis. Pelagius: Et quomodo legimus qui
+      unam habuerit omnes habere uirtutes? Hieronymus: Participatione, non
+      proprietate. Necesse est enim ut singuli excedant in quibusdam; et
+      tamen hoc ubi scriptum sit nescio. Pelagius: Ignoras hanc
+      philosophicam esse sententiam? Hieronymus: Sed non apostolorum. Neque
+      enim curae mihi est, quid Aristoteles, sed quid Paulus doceat.
+    </p>
+            <p xml:id="xAbSeN-e10708-d1e171">
+               <ref xml:id="xAbSeN-e10708-Rd1e173">augustinus hieronymo, de sententia iacobi apostoli, qua dicit</ref>:
+      quicumque totam [egem obseruauerit, offendat autem in uno, factus est
+      omnium reus. Quomodo intelligendum est obsecro te. Itane qui furtum
+      fecerit, immo uero qui dixerit diuiti, sede hic, pauperi autem, tu sta
+      illic, et homicidii et adulterii et sacrilegii reus est?
+    </p>
+            <p xml:id="xAbSeN-e10708-d1e177">
+               <ref xml:id="xAbSeN-e10708-Rd1e179">item</ref>: Consequens uidetur (nisi aliquo modo intelligendum ostendatur),
+      ut qui dixerit diuiti, sede hic, et pauperi, sta illic, huic honorem
+      ampliorem quam illi deferens, et idolatres et blasphemus et adulter et
+      homicida et ne (quod longum est), cuncta commemorem, reus omnium
+      criminum iudicandus sit. Offendens quippe in uno factus est omnium
+      reus. At enim qui unam uirtutem habet, omnes habet, et qui unam non
+      habet, nullam habet; hoc si uerum est, confirmatur ista
+      sententia. Sed ego eam exponi uolo, non confirmari, quae est per se
+      ipsam apud nos omnium philosophorum auctoritatibus firmior; et illud
+      quidem de uirtutibus et uitiis si ueraciter dicitur, non est
+      consequens ut propter hoc omnia peccata sint paria. Nam illud de
+      inseparabilitate uirtutum, etsi forsitan fallor, tamen si uerum
+      memini, omnibus philosophis placuit, qui easdem uirtutes agendae uitae
+      necessarias esse dixerunt. Hoc autem de parilitate peccatorum soli
+      Stoici ausi sunt disputare contra omnem sensum generis humani. Quam
+      eorum uanitatem in Iouiniano illo, qui in hac sententia Stoicus erat,
+      dilucidissime conuicisti, et praeclarissima disputatione satis
+      euidenter apparuit non placuisse auctoribus nostris uel ipsi potius,
+      quae per eos locuta est, ueritati omnia paria esse peccata.
+    </p>
+            <p xml:id="xAbSeN-e10708-d1e185">
+               <ref xml:id="xAbSeN-e10708-Rd1e187">item</ref>: Certe hinc persuadent, qui unam uirtutem habuerit, habere omnes,
+      et omnes deesse cui una defuerit, quod prudentia nec ignaua nec
+      iniusta nec intemperans potest esse. Nam si aliquid horum defuerit,
+      prudentia non erit. Porro si prudentia tum erit si et fortis et iusta
+      et temperans sit, profecto ubi fuerit secum habet caeteras. Sicut
+      fortitudo imprudens esse non potest uel intemperans uel iniusta, sic
+      temperantia necesse est ut prudens, fortis et iusta sit; sic iustitia
+      non est si non sit prudens, fortis, temperans. Ita ubi uera est aliqua
+      earum et aliae similiter sunt. Ubi autem aliae desunt uera illa non
+      est, etiamsi aliquo modo similis esse uideatur. Sunt enim, ut scis,
+      quaedam uitia specie fallaci similia.
+    </p>
+            <p xml:id="xAbSeN-e10708-d1e191">
+               <ref xml:id="xAbSeN-e10708-Rd1e193">item</ref>: Catilina, ut de illo scripserunt qui nosse potuerunt, frigus,
+      sitim, famem ferre poterat, eratque patiens inediae, algoris, uigiliae
+      supra quam cuiquam credibile est; ac per hoc praeditus fortitudine
+      uidebatur. Sed haec fortitudo prudens non erat, mala enim pro bonis
+      eligebat; temperans non erat, corruptelis enim turpissimis
+      foedabatur; iustus non erat nam contra patriam coniurauerat, et ideo
+      nec fortitudo erat, sed duritia sibi, ut stultos falleret, nomen
+      fortitudinis imponebat. Nam si fortitudo esset, uirtus esset; si autem
+      uirtus esset, a caeteris uirtutibus tamquam inseparabilibus comitibus
+      nunquam relinqueretur.  Quapropter cum quaeritur etiam de uitiis,
+      utrum similiter omnia sint ubi unum erit aut nulla sint ubi unum non
+      erit, laboriosum est id ostendere, propterea quia uni uirtuti duo
+      uitia opponi solent, et quod aperte contrarium est et quod specie
+      similitudinis adumbratur.
+    </p>
+            <p xml:id="xAbSeN-e10708-d1e199">
+               <ref xml:id="xAbSeN-e10708-Rd1e201">item</ref>: Cogimur fateri uitia plura esse uirtutibus. Unum aliquando
+      uitium uitio tollitur.
+    </p>
+            <p xml:id="xAbSeN-e10708-d1e206">
+               <ref xml:id="xAbSeN-e10708-Rd1e208">item</ref>: Virtus uero quo una ingressa fuerit, quoniam secum caeteras
+      ducit, profecto uitia cedent quaecumque inerant. Haec utrum ita se
+      habeant diligentius inquirendum est. Non enim et ista diuina sententia
+      est qua dicitur, qui unam uirtutem habuerit, omnes habet, eique nullam
+      esse, cui una defuerit. Ego uero nescio quemadmodum dicam, non dico
+      uirum, a quo denominata dicitur uirtus, sed etiam mulierem, quae uiro
+      suo seruat tori fidem, si hoc faciat propter praeceptum Dei, et quae
+      primitus sit fidelis, non habere pudicitiam, aut pudicitiam nuilam uel
+      paruam esse uirtutem.  Scio et maritum qui hoc idem seruat uxori, et
+      tamen sunt plurimi tales quorum sine aliquo peccato esse neminem
+      dixerim, et utique illud qualecumque peccatum ex aliquo uitio
+      uenit. Unde pudicitia coniugalis in uiris feminisque religiosis, cum
+      procul dubio uirtus sit, non tamen secum habet omnes uirtutes. Nam si
+      omnes ibi essent, nullum esset uitium, nullum omnino peccatum. Quis
+      ergo sine aliquo uitio, id est fomite quodam uel quasi radice peccati,
+      cum clamet qui super pectus domini recumbebat: si dimerimus quia
+      peccatum non habemus, nos ipeos aeducimus et ueritas in nobis non est?
+      /470/
+    </p>
+            <p xml:id="xAbSeN-e10708-d1e212">
+               <ref xml:id="xAbSeN-e10708-Rd1e214">item</ref>: Scriptum est: in multis offendimus omnes.
+    </p>
+            <p xml:id="xAbSeN-e10708-d1e218">
+               <ref xml:id="xAbSeN-e10708-Rd1e220">item</ref>: Caritas de corde puro et conscientia bona et fide non ficta
+      magna et uera uirtus est, quia ipsa est finis praecepti, merito dicta
+      fortis sicut mors, quia sicut mors auellit a sensibus carnis animam,
+      sic caritas a concupiscentiis carnalibus. Cur ergo non dicimus qui
+      hanc uirtutem habet habere omnes cum plenitudo legis sit caritas?
+    </p>
+            <p xml:id="xAbSeN-e10708-d1e224">
+               <ref xml:id="xAbSeN-e10708-Rd1e226">item</ref>: An forte quia plenitudo legis caritas est, qua Deus proximusque
+      diligitur, in quibus praeceptis caritatis tote lex pendet et
+      prophetae, merito fit reus omnium, qui contra illam facit in qua
+      pendent omnia? Nemo autem facit peccatum nisi aduersus illam faciendo,
+      quia non adulterabis, non homioidium faoies, et si quod est aliud
+      mandatum, in hoc sermone reeapitulatur: Diliges proximum tuum tamquam
+      te ipsum. Dilectio proximi malum non operatur. Reus itaque fit omnium
+      faciendo contra eam in qua pendent omnia.
+    </p>
+            <p xml:id="xAbSeN-e10708-d1e230">ORIGENES SUPER EPiSTOLAM PAULI AD ROMANOS, LIB. VIII: Habent enim
+      zelum Dei, sed non secundum scientiam. Similiter potest dicere
+      apostolus de aliis quod timorem Dei habeant sed non secundum
+      scientiam, et de aliis quia caritatem Dei habeant sed non secundum
+      scientiam. Si enim habeas quis affectum erga Deum, ignores autem quia
+      caritas patiens debet esse, benigna etc., haec et his similia si in
+      caritate non habeas, sed in solo affectu diligat Deum, competenter et
+      ad ipsum dicitur quia caritatem Dei habeas sed non secundum scientiam.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

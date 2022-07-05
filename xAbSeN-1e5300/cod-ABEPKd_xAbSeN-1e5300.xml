@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 72</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 72</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e5300"><!-- xAbSeN-q72 -->
+            <head xml:id="xAbSeN-1e5300-Hd1e103">Quaestio 72</head>
+            <head xml:id="xAbSeN-1e5300-Hd1e106" type="question-title"> quod christus secundum corpus etiam non creverit et contra</head>
+    
+            <p xml:id="xAbSeN-1e5300-d1e109">
+               <ref xml:id="xAbSeN-1e5300-Rd1e111">hieronymus super ieremiam lib. vi</ref>: Audi quod nunquam ante cognoueras.
+      Nouam rem creauit dominus super terram absque uiri semine, absque
+      coitu atque conceptu. Femina circumdabit uirum gremio uteri sui. Qui
+      iuxta incrementa quidem aetatis per uagitus et infantiam proficere
+      uidebitur sapientia et aetate sed perfectus uir in uentre solitis
+      mensibus continebitur.
+    </p>
+            <p xml:id="xAbSeN-1e5300-d1e115">
+               <ref xml:id="xAbSeN-1e5300-Rd1e117">item</ref>: Quid sibi autem in hoc loco uoluerit editio uulgata, possim
+      dicere et sensum aliquem reperire, nisi de uerbis Dei humano sensu
+      argumentari esset sacrilegium.
+    </p>
+            <p xml:id="xAbSeN-1e5300-d1e123">
+               <ref xml:id="xAbSeN-1e5300-Rd1e125">ambrosius super lucam</ref>: Elisabeth impletum est tempus pariendi. Pulchre
+      tempus in quo fuit in utero Propheta, describitur.
+    </p>
+            <p xml:id="xAbSeN-1e5300-d1e130">
+               <ref xml:id="xAbSeN-1e5300-Rd1e132">item</ref>: Neque enim ullam infantiae sensit aetatem, qui supra naturam,
+      supra aetatem in utero matris situs, a mensura perfectae coepit
+      aetatis plenitudinis Christi.
+    </p>
+            <p xml:id="xAbSeN-1e5300-d1e136">CHRYSOSTOMUS HOMILIA XXVI DE EXPOSITIONE SYMBOLI, QUAE SIC INCIPIT
+      "UNIVERSALIS ECCLESIA CONGAUDET": Creuit aluus uirginis, uirgo erat,
+      et praegnans creuit et uirginitatem non amisit. Iste ergo natus
+      creuit, ad passionem peruenit.
+    </p>
+            <p xml:id="xAbSeN-1e5300-d1e139">
+               <ref xml:id="xAbSeN-1e5300-Rd1e141">ex epistola leonis papae ad palaestinos episcopos</ref>: Quamuis ergo ab
+      illo initio, quo in utero uirginis Verbum caro factum est, nihil
+      unquam inter diuinam humanamque substantiam diuisionis extiterit, et
+      per omnia incrementa corporea, unius personae fuerit totius temporis
+      actionis; ea ipsa tamen, quae inseparabiliter facta sunt, nulla
+      permixtione confundimus sed quid cuius formae sit, ex operum qualitate
+      sentimus. Nec diuina enim humanis praeiudicant nec humana diuinis, cum
+      ita in id ipsum utraque concurrant ut in iis nec proprietas assumatur
+      nec persona geminetur.
+    </p>
+            <p xml:id="xAbSeN-1e5300-d1e145">
+               <ref xml:id="xAbSeN-1e5300-Rd1e147">idem ad iulianum episcopum contra eutychenae impietatis errorem</ref>: Non
+      alterius naturae erat eius caro quam nostra.
+    </p>
+            <p xml:id="xAbSeN-1e5300-d1e151">
+               <ref xml:id="xAbSeN-1e5300-Rd1e153">augustinus in psalmo liv</ref>: Dominus Iesus nouimus unde acceperit carnem;
+      de uirgine scilicet Maria. Infans lactatus est, nutritus est, creuit,
+      ad iuuenilem aetatem perductus est etc.
+    </p>
+            <p xml:id="xAbSeN-1e5300-d1e157">IDEM IN EPISTOLA AD VOLUSIANUM DE INCARNATiONE CHRISTI ET VIRGINITATE
+      MARIAE: Quaeris utrum mundi dominus et rector passus fuerit
+      puerilitatis annos, adoleuerit, in iuuentute solidatus sit, cibo
+      alitus, omnes affectus mortalium senserit etc.
+    </p>
+            <p xml:id="xAbSeN-1e5300-d1e163">
+               <ref xml:id="xAbSeN-1e5300-Rd1e165">item</ref>: Non metuendum est corpusculum infantiae, ne in illo tantus Deus
+      angustias passus esse uideatur. Neque enim mole sed uirtute magnus est
+      Deus.
+    </p>
+            <p xml:id="xAbSeN-1e5300-d1e169">
+               <ref xml:id="xAbSeN-1e5300-Rd1e171">item</ref>: Hic si ratio quaeritur, non erit mirabile. Si exemplum poscitur,
+      non erit simile. Demus Deo aliquid posse, quod nos fateamur
+      inuestigare non posse. In talibus rebus tota ratio facti est potentia
+      facientis.
+    </p>
+            <p xml:id="xAbSeN-1e5300-d1e175">
+               <ref xml:id="xAbSeN-1e5300-Rd1e177">item</ref>: Quid si nullas in paruulo in iuuentam mutaret aetates, nullos
+      cibos, nullos caperet somnos? Nonne opinionem confirmaret erroris, nec
+      hominem suscepisse ullo modo crederetur, et dum omnia mirabiliter
+      facit, auferret quod misericorditer fecit?
+    </p>
+            <p xml:id="xAbSeN-1e5300-d1e181">
+               <ref xml:id="xAbSeN-1e5300-Rd1e183">item</ref>: Quid autem non mirum facit Deus in omnibus creaturae motibus,
+      nisi consuetudine cotidiana uiluissent? Ille igitur sine semine
+      operatus est hominem, qui in rerum natura sine seminibus operatur et
+      semina. Ille in suo corpore numeros temporum mensurasque seruauit
+      aetatum, qui sine ulla sui mutabilitate mutando contexuit ordinem
+      saeculorum. Hoc enim creuit ex tempore, quod coepit ex tempore.
+    </p>
+            <p xml:id="xAbSeN-1e5300-d1e187">
+               <ref xml:id="xAbSeN-1e5300-Rd1e189">beda super lucam</ref>: Puer autem crescebat et confortabatur. His uerbis
+      illi haeretici destruuntur, qui negauerunt illum ueram carnem ex
+      uirgine assumpsisse. Crescebat igitur corpore et confortabatur aetate
+      et sapientia. Destruuntur et illi qui negauerunt eum ueram animam
+      habuisse, quia sicut crescere pertinet ad corpus, ita sapientia
+      refertur ad animam.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 113</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 113</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e8231"><!-- xAbSeN-q113 -->
+            <head xml:id="xAbSeN-1e8231-Hd1e103">Quaestio 113</head>
+            <head xml:id="xAbSeN-1e8231-Hd1e106" type="question-title">
+      quod etiam sine sacramento altaris baptismus sufficiat et non
+    </head>
+            <p xml:id="xAbSeN-1e8231-d1e109">
+               <lb ed="#C"/>Quod sine sacramento altaris 
+      <lb ed="#C"/>baptismus sufficiat et non
+    </p>
+            <p xml:id="xAbSeN-1e8231-d1e116">
+               <lb ed="#C"/>
+               <ref xml:id="xAbSeN-1e8231-Rd1e120">
+                  <name xml:id="xAbSeN-1e8231-Nd1e122">beda</name> in omilia de circumcisione domini</ref>: Baptismus 
+      <lb ed="#C"/>autem tantam
+      gratiam confert ut si ille qui baptizatur de fonte ascendens mortuus
+      fuerit, sine ulla dilatione temporum alta caelorum penetret.
+    </p>
+            <p xml:id="xAbSeN-1e8231-d1e129">HAIMO SUPER EPISTOLAM PAULI AD ROMANOS, UBI SCRIPTUM EST, Iustificati
+      gratis per gratiam ipsius: Redemptione qua Christus nos redemit suo
+      sanguine, et fide et aqua baptismatis qua quisque renatus, si statim
+      obierit, saluabitur in uita. Si autem uixerit ornare debet fidem
+      operibus, quia fides sine operibus mortus est.
+    </p>
+            <p xml:id="xAbSeN-1e8231-d1e135">
+               <ref xml:id="xAbSeN-1e8231-Rd1e137">augustinus de fide ad petrum</ref>: Firmissime tene et nullatenus dubites
+      paruulis qui nec propria uoluntate credere nec paenitentiam pro
+      peccato, quod originaliter trahunt, agere possum, sanctum baptisma,
+      quam diu rationis aetas eorum capax esse non potest, sufficere ad
+      salutem.
+    </p>
+            <p xml:id="xAbSeN-1e8231-d1e141">
+               <ref xml:id="xAbSeN-1e8231-Rd1e143">idem de baptismo ad marcellinum</ref>: Quaerentibus quomodo paruuli
+      paenitere possint de originali peccato, qui adhuc nullis propriis
+      peccatis tenentur obnoxii, respondetur: Si propterea recte fideles
+      uocantur, quondam fidem per uerba gestantium profitentur, cur non
+      etiam paenitentes habeantur, cum per eos diabolo et huic saeculo
+      renuntiant?
+    </p>
+            <p xml:id="xAbSeN-1e8231-d1e147">
+               <ref xml:id="xAbSeN-1e8231-Rd1e149">item</ref>: Nemo nisi baptizatus ad mensam dominici corporis rite accedit.
+    </p>
+            <p xml:id="xAbSeN-1e8231-d1e153">
+               <ref xml:id="xAbSeN-1e8231-Rd1e155">item</ref>: Nisi manducaueritis carnem meam et biberitis sanguinem meum, non
+      habebitis uitam in uobis. Quid ultra quaerimus?  Quid ad hoc
+      responderi potest, nisi pertinacia pugnaces neruos aduersus
+      constantiam perpetuae ueritatis intendat? An ergo quisquam hoc dicere
+      audebit, quod ad paruulos haec sententia non pertineat possitque sine
+      participatione corporis huius et sanguinis in se habere uitam, quia
+      non ait, qui non manducauerit, sicut de baptismo, qui non renatus
+      fuerit sed ait, si non manducaueritis, uelut eos alloquens qui audire
+      et intelligere poterant, quod utique non ualent paruuli?  Sed qui hoc
+      dicit, non attendit quia nisi omnes istam sententiam teneant, ut sine
+      corpore et sanguine domini uitam habere non possint, frustra etiam id
+      maior aetas cures. Potest enim, si non uoluntatem sed uerba loquentis
+      attendas, eis solis uideri dictum quibus tunc dominus
+      loquebatur.
+    </p>
+            <p xml:id="xAbSeN-1e8231-d1e161">
+               <ref xml:id="xAbSeN-1e8231-Rd1e163">item</ref>: Panis, quem ego dedero, caro mea est pro saeculi uita. Quis
+      autem ambigat saeculi nomine homines signasse qui nascendo in hoc
+      saeculo ueniunt? Ac per hoc etiam pro paruulorum uita caro data est
+      quae data est pro saeculi uita et si non manducauerint carnem filii
+      hominis, nec ipsi habebunt uitam.
+    </p>
+            <p xml:id="xAbSeN-1e8231-d1e167">
+               <ref xml:id="xAbSeN-1e8231-Rd1e169">item</ref>: Haec gratia cum ad ilium ueniat, ad ilium non ueniat, occulta
+      esse potest, iniusta non. Neque enim frustra dictum est: Iudicia tua
+      sicut abyssus multa, cuius abyssi multitudinem ueluti expauescens
+      exclamat apostolus: O altitudo diuitiarum sapientiae et scientiae Dei.
+    </p>
+            <p xml:id="xAbSeN-1e8231-d1e174">
+               <ref xml:id="xAbSeN-1e8231-Rd1e176">item</ref>: Punici Christiani baptismum ipsum nihil aliud quam salutem, et
+      sacramentum corporis nihil aliud quam uitam uocant. Unde, nisi ex
+      antiqua, ut aestimo, apostolica traditione, qui ecclesiae Christi
+      transitum tenent, praeter baptismum et participationem mensse
+      dominicae non solum ad regnum Dei sed nec ad salutem et uitam aeternam
+      posse quemquam omnino peruenire? Hoc enim scripture testatur. Nam
+      quid aliud tenent qui baptismum nomine salutis appellant, nisi quod
+      dictum est: saluos nos fecit per lauacrum regenerationis, et quod
+      Petrus ait: sic et nos simili forma baptisma saluos fecit? Quid
+      aliud, quod sacramentum dominicae mensae uitam uocant, nisi quod
+      dictum est: Ego sum panis uiuus qui de caelo descendi, et panis, quem
+      ego dedero, caro mea est pro saeculi uita, et si non mandueaueritis
+      carnem filii hominis et sanguinem eius biberitis, non habebitis uitam
+      in uobis? Si ergo, ut tot et tanta diuina testimonia concinunt, nec
+      salus nec uita sine baptismo et corpore et sanguine domini cuiquam
+      speranda est, frustra sine his promittitur paruulis. /370/
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

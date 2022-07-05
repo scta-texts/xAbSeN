@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 68</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 68</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e5205"><!-- xAbSeN-q68 -->
+            <head xml:id="xAbSeN-1e5205-Hd1e103">Quaestio 68</head>
+            <head xml:id="xAbSeN-1e5205-Hd1e106" type="question-title"> quod christus secundum carnem factus sit et contra</head>
+    
+            <p xml:id="xAbSeN-1e5205-d1e109">
+               <ref xml:id="xAbSeN-1e5205-Rd1e111">paulus in epistola ad romanos</ref>: Qui factus est ei ex semine Dauid
+      secundum carnem.
+    </p>
+            <p xml:id="xAbSeN-1e5205-d1e115">
+               <ref xml:id="xAbSeN-1e5205-Rd1e117">augustinus contra faustum</ref>: Christus in quantum Deus est, omnia per
+      ipsum facta sunt. In quantum homo est, et ipse factus est.
+    </p>
+            <p xml:id="xAbSeN-1e5205-d1e121">
+               <ref xml:id="xAbSeN-1e5205-Rd1e123">idem in lib. quaestionum veteris et novae legis cap. lxv</ref>: Manifestum
+      est saluatorem non eguisse baptismo, quia Christus non factus sed
+      natus est dicente angelo pastoribus: Ecce natus est uobis hodie
+      saluator, qui est Christus Dominus.
+    </p>
+            <p xml:id="xAbSeN-1e5205-d1e128">BEDA SUPER LUCAM, HOMILIA ILLIUS LECTIONIS.  Erat Iesus eiciens
+      daemonium: Misit Deus filium suum factum ex muliere, factum sub
+      lege. Neque enim audiendi sunt qui legendum putant natum ex muliere,
+      quia conceptus in utero uirginali carnem non de nihilo, non aliunde
+      sed materna traxit ex carne.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 98</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 98</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e7172"><!-- xAbSeN-q98 -->
+            <head xml:id="xAbSeN-1e7172-Hd1e103">Quaestio 98</head>
+            <head xml:id="xAbSeN-1e7172-Hd1e106" type="question-title"> quod paulus ante conversionem quoque tam paulus quam saulus
+      vocatus sit et contra</head>
+    
+            <p xml:id="xAbSeN-1e7172-d1e109">
+               <ref xml:id="xAbSeN-1e7172-Rd1e111">rufinus secundum origenem in epistola pauli ad romanos</ref>: Quibusdam
+      uisum est quod a Paulo proconsule, quem apud Cyprum Christi fidei
+      subiecerat, uocabulum sibi apostolus sumpserit, sicut reges solent,
+      uerbi gratia sicut a Parthis Parthici et Gothis Gothici nominari. Quod
+      ne nos quidem usquequsque euacuandum putamus. Tamen quia nulla talis
+      in scripturis diuinis consuetudo deprehenditur, magis ex his quae in
+      exemplo sunt absolutionem quaerimus. Inuenimus igitur in scripturis
+      aliquantos binis, alios etiam ternis usos esse nominibus. Secundum
+      hanc ergo consuetudinem uidetur nobis et Paulus duplici usus uocabulo,
+      et donec quidem genti propriae ministrabat Saulus esset uocitatus,
+      quod et magis appellationi patriae uernaculum uidebatur, Paulus
+      autem appellatus est, cum gentibus praecepta conscripsit. Nam et hoc
+      ipsum quod scriptura dicit, Saulus qui et Paulua, euidenter Pauli
+      nomen ueteris appellationis fuisse designat.
+    </p>
+            <p xml:id="xAbSeN-1e7172-d1e117">
+               <ref xml:id="xAbSeN-1e7172-Rd1e119">hieronymus ad paulam et eustochium in expositione epistolae pauli ad
+      philemonem</ref>: Neque uero putandum est Saulum ante dictum esse, et non
+      Saul, quia et de tribu Beniamin erat, in qua hoc nomen familiarius
+      habebatur. Si quidem et ille Saul rex, persecutor Dauid, de tribu
+      Beniamin fuit. Quod autem Saulus a nobis dicitur, non mirum est
+      hebraea nomina ad similitudinem Graecorum et Romanorum casuum
+      declinari, ut sicut pro Ioseph Iosephus et pro Iacob Iacobus, ita et
+      pro Saul quisque Saulus in nostra lingua dicatur.
+    </p>
+            <p xml:id="xAbSeN-1e7172-d1e123">
+               <ref xml:id="xAbSeN-1e7172-Rd1e125">item de paulo et barnaba</ref>: Qui cum Paphum peruenissent, inuenerunt
+      quemdam magum cum proconsule Sergio Paulo, qui acoaptia Barnaba et
+      Paulo desiderabat Dei ab eis audire sermonem. Resistente itaque mago
+      et a fide Sergium deprauante, Saulus, ait scriptura, qui et Paulus,
+      repletus spiritu sancto, intuens in eum dixit: O fili diaboli, non
+      desistis subuertere uias domini. Ecce manus domini super te, et eris
+      caecus usque ad tempus. Confestimque cecidit super eum caligo, et
+      circuiens quaerebat qui ei manum daret. Tunc proconsul credidit. Et
+      cum a Papho nauigassent Paulus et qui cum eo erant, uenerunt
+      Pamphiliae.  Diligenter attende quando primum Pauli nomen acceperit.
+      Ut enim Scipio subiecta Africa Africani sibi nomen assumpsit, ita et
+      Paulus ad praedicationem gentium admissus a primo ecclesiae spolio
+      proconsule Sergio Paulo uictoriae suae trophaea retulit erexitque
+      uexillum, ut Paulus diceretur e Saulo. Si autem et interpretatio
+      nominis quaeritur, Paulus in Hebraeo mirabilem sonat.  Reuera mirum ut
+      post Saul, quod interpretatur rex petitus, eo quod ad uexandum
+      ecclesiam fuisset a diabolo postulatus, de persecutore uas fieret
+      electionis.
+    </p>
+            <p xml:id="xAbSeN-1e7172-d1e130">
+               <ref xml:id="xAbSeN-1e7172-Rd1e132">idem super epistolas pauli</ref>: Sicut in aliorum sanctorum, id est
+      Abrahae, Petri et caeterorum, profectu et incremento mutate
+      sunt nomina, ut essent etiam ipso nomine noui, ita et Paulus in gratia
+      proficiens nomen ipsum mutauit.
+    </p>
+            <p xml:id="xAbSeN-1e7172-d1e138">
+               <ref xml:id="xAbSeN-1e7172-Rd1e140">augustinus confessionum lib. viii</ref>: Ipse minimus apostolorum, cum
+      Paulus proconsul per eius militiam sub iugum Christi tui esset missus,
+      ipse quoque ex Saulo Paulus uocari amauit ob tam magnum insigne
+      uictoriae.
+    </p>
+            <p xml:id="xAbSeN-1e7172-d1e144">
+               <ref xml:id="xAbSeN-1e7172-Rd1e146">idem de spiritu et littera</ref>: Paulus cum Saulus prius uocaretur non ob
+      aliud, quantum mihi uidetur, hoc nomen elegit nisi ut se ostenderet
+      paruum tanquam minimus apostolorum contra superbos et de suis operibus
+      praesumentes pro commendanda Dei gratia.
+    </p>
+            <p xml:id="xAbSeN-1e7172-d1e150">
+               <ref xml:id="xAbSeN-1e7172-Rd1e152">idem in psalmo lxxi</ref>: Primo Saulus, deinde Paulus, id est primo
+      superbus, postea humilis. Saul rex superbus fuit.  Ex Saulo factus est
+      Paulus, ex superbo modicus. Paulum enim modicum est. Audi, quomodo
+      fuerit Saulus, et quomodo sit Paulus: Qui fui, inquit, perseautor et
+      blasphemua et iniuriosus. Audisti Saulum, audi et Paulum: Ego enim
+      sum. inquit, minimus apostolorum, qui non sum dignus uecari apostolus,
+      quia persecutus sum ecclesiam Dei; sed gratia Dei sum id quod
+      sum. Minimus in se, grandis in Christo.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

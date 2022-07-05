@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 127</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 127</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-e10077"><!-- xAbSeN-q127 -->
+            <head xml:id="xAbSeN-e10077-Hd1e103">Quaestio 127</head>
+            <head xml:id="xAbSeN-e10077-Hd1e106" type="question-title"> quod digamum non liceat promoveri ad clerum et contra</head>
+    
+            <p xml:id="xAbSeN-e10077-d1e109">
+               <ref xml:id="xAbSeN-e10077-Rd1e111">augustinus de bono coniugali</ref>: Sacramentum nuptiarum nostri temporis
+      sic ad unum uirum et unam uxorem redactum est, ut ecclesiae
+      dispensatorem non liceat ordinari nisi unius uxoris uirum.  Quod
+      acutius intellexerunt qui nec eum qui catecuminus uel paganus habuerit
+      alteram, ordinandum esse censuerunt.
+    </p>
+            <p xml:id="xAbSeN-e10077-d1e115">
+               <ref xml:id="xAbSeN-e10077-Rd1e117">item</ref>: Non absurde uisum est eum qui excessit uxorum numerum
+      singularem, non peccatum aliquod commisisse sed normam quandam
+      sacramenti amisisse, non ad bonae uitae meritum sed ad ordinationis
+      ecclesiasticae necessarium.
+    </p>
+            <p xml:id="xAbSeN-e10077-d1e121">
+               <ref xml:id="xAbSeN-e10077-Rd1e123">gennadius de orthodoxa fide</ref>: Maritum duarum post baptismum matronarum
+      claricum non ordinandum etc.
+    </p>
+            <p xml:id="xAbSeN-e10077-d1e128">
+               <ref xml:id="xAbSeN-e10077-Rd1e130">hieronymus ad oceanum episcopum, quomodo se debeat in domo domini
+      instituere</ref>: Unius uxoria uirum et noua et uetus praeceptio sacerdotem
+      censuit eligendum.
+    </p>
+            <p xml:id="xAbSeN-e10077-d1e134">
+               <ref xml:id="xAbSeN-e10077-Rd1e136">item</ref>: Bigamos ad ministerium plerique episcopi applicuerunt. Sed
+      asserunt, concubina fuit illa, non uxor, quasi non eadem sint commenta
+      foeditatis in illa, quae et in hac quae uxor asseritur, exercentur. An
+      quia coniugii tabulas non fecit, concupiscentia altera fuit? Nullo
+      pacto bigamus uel concubinarum insectator debet assumere ministerium.
+      In Leuitico scriptum est: Sacerdos accipiat uirginem; uiduatam et
+      destitutam aut a uiuo marito derelictam non accipiat.
+    </p>
+            <p xml:id="xAbSeN-e10077-d1e142">
+               <ref xml:id="xAbSeN-e10077-Rd1e144">item</ref>: Si ergo clericus monogamus fuerit et uxor eius bigama, noli eum
+      ministerio applicare. Bigamam enim duxit uxorem.
+    </p>
+            <p xml:id="xAbSeN-e10077-d1e148">IDEM AD EUNDEM DE EO QUOD SCRIPTUM EST, uniua uxoris uirum: Consurgit
+      haeresis atque olim emortua uipera contritum caput leuat. Dicendo enim
+      aliqua, quae Christus non possit purgare sanguine suo, et profundas
+      scelerum suorum pristinorum inhaerere cicatrices, ut medicina illius
+      attenuari non queant, quid aliud agit, nisi ut Christus mortuus sit
+      frustra? Absit hoc de omnipotente credere, quod in aliquo impotens
+      sit. Totae apostoli epistolae Christi gratiam sonant. Et ne parum
+      uideretur simplex gratiae nuncupatio, gratia, inquit, et paz
+      multiplicetur.  Multiplicatio promittitur et a nobis paucitas
+      affirmatur? Tunc Arterius, Hispaniae episcopus, homo aetate uetus et
+      sacerdotio, unam antequam baptizaretur, alteram post lauacrum priore
+      mortua duxit uxorem; et arbitraris eum contra apostoli fecisse
+      sententiam, qui uniua uxoria uirum praecepit ordinandum? Miror autem
+      te unum protraxisse in medium, cum omnis mundus his ordinationibus
+      plenus sit; non dico de presbyteris, non de inferiori gradu; ad
+      episcopos uenio, quos si singillatim uoluero nominare, tantus numerus
+      congregabitur ut Ariminensis synodi multitudo superetur. Sed et
+      indecens est sic unum tueri ut plures accusare uidearis, et quem
+      ratione non possis, peccantium societate defendas. Sustinui Romae a
+      uiro eloquentissimo cornutum, ut dicitur, syllogismum, ut quocumque me
+      uerterem strictus tenerer. Uxorem, inquit, ducere peccatum est uel
+      non? Ego simplex et qui insidias uitare nexcirem dixi non esse
+      peccatum. Rursum proposuit, In baptismate dimittuntur mala? Respondi
+      peccata dimitti. Cum me securum putarem, coeperunt hinc inde cornua
+      increscere. Si, inquit, uxorem ducere non est peccatum, baptismus
+      autem peccata dimittit, quicquid non dimittitur, reseruatur.
+    </p>
+            <p xml:id="xAbSeN-e10077-d1e153">
+               <ref xml:id="xAbSeN-e10077-Rd1e155">item</ref>: In memetipsum reuersus conuerti in aduersarium propositionis
+      stropham. Quaeso, inquam, te ut respondeas.  Baptismus nouum hominem
+      facit ex toto an ex parte? Respondit, ex toto. Nihil ergo ueteris
+      hominis in baptismate reseruatur, nihilque potest nouo imputari, quod
+      in ueteri quondam fuit.
+    </p>
+            <p xml:id="xAbSeN-e10077-d1e159">
+               <ref xml:id="xAbSeN-e10077-Rd1e161">item</ref>: Baptizatos, inquam, apostolus elegit in episcopatum an
+      catecuminos?  Si apostolus non catecuminos in clerum elegit sed
+      fideles, uitia catecumini non imputabuntur fideli.  Proferuntur ergo
+      apostoli epistolae, una ad Timotheum, altera ad Titum. In utraque siue
+      episcopi siue presbyteri (quamquam apud ueteres idem et episcopi et
+      presbyteri fuerint, quia illud nomen dignitatis est, hoc aetatis),
+      uidentur monogami in clerum eligi. Certe de baptizatis apostoli sermo
+      est. Si ergo omnia, quae in ordinatione quaeruntur episcopi, non
+      praeiudicant ordinando, licet ea ante baptisma non habuerit (quaeritur
+      enim quid sit, et non quid fuerit) quare solum nomen uxoris impediat,
+      quod solum peccatum non fuit?  Dicis, quia peccatum non fuit, iccirco
+      non est dimissum in baptismate.  Rem nouam audio; quia peccatum non
+      fuit, iccirco in peccatum reputabitur. Omnia scorta et publicae
+      colluuionis sordes, parricidium et incestus Christi fonte purgantur;
+      uxoris inhaerebunt maculae, et lupanaria thalamis praeferentur? Ego
+      tibi non imputo meretricum exercitus, effusionem sanguinis, et tu mihi
+      olim emortuam de sepulcro uxorunculam protrahis, quam ideo accepi, ne
+      facerem quod fecisti?  Audiant ethnici, audiant catecumini ne uxores
+      ducant ante baptisma, ne honesta iungant matrimonia, sed Platonis
+      promiscuas uxores, communes liberos habeant; immo caueant qualecumque
+      uocabulum coniugis ne, postquam in Christum crediderint, noceat eis
+      quod aliquando non concubinas nec meretrices, sed uxores habuerint.
+      Vere scribarum et Pharisaeorum similes culicem liquantes, et
+      camelum glutientes, decimamus mentam et anethum, et Dei iudicium
+      praetermittimus. Quid simile uxor et scortum? Imputatur infelicitas
+      coniugis mortuae, et libido meretricia coronatur? Ille, si prior
+      uiueret, aliam non haberet coniugem; tu, ut passim caninas nuptias
+      iungeres, quid potes excusare? Ille in uxore optauit liberos, tu in
+      meretrice sobolem perdidisti. Illum naturae et benedictioni domini
+      seruientem, creacite et multiplicamini et replete terram, cubiculorum
+      secreta texerunt; te cubantem ad coitum publica facies execrata est.
+      Ille quod licebat uerecundo pudore celauit; tu quod non licebat
+      impudenter omnium oculis ingessisti. Illi scriptum est: honorabiles
+      nuptiae, et cubile immaculatum; tibi legitur: fornicatores et
+      adulteros perdet Deus.
+    </p>
+            <p xml:id="xAbSeN-e10077-d1e168">
+               <ref xml:id="xAbSeN-e10077-Rd1e170">item</ref>: In baptismo quamodo tuae sordes lotae sunt, et meae munditiae
+      sorditatse. Non dico, ais, tuas sorditatas sed in eodem statu mansisse
+      quo fuerant. Quae est ista tergiuersatio et acumen omni pistillo
+      retunsius, quia peccatum non est, peccatum est; quia non est sordidum,
+      sordidum est?
+    </p>
+            <p xml:id="xAbSeN-e10077-d1e174">ITEM; Quod dicit unius uxoris uirum, potest et aliter disseri.
+      Apostolus sciebat lege concessum in multis uxoribus liberos spargere.
+      Ipsis quoque sacerdotibus huius licentiae patebat arbitrium.
+      Praecepit ergo ne eadem licentia ecclesiae sibi uindicent sacerdotes,
+      sed ut singulas uno tempore uxores habeant. Accipe et aliam
+      explanationem. Quidam coacte interpretantur uxores pro ecclesiis,
+      uiros pro episcopis debere accipi, et hoc esse decretum, ne de alia ad
+      aliam ecclesiam transferatur, ne uirginalis pauperculae societate
+      contempta ditioris adulterae quaerat amplexus. Violenta inquies et
+      satis dura interpretatio haec. Redde igitur scripturae simplicitatem
+      suam, ne tuis contra te legibus dimicetur. Quaeram et aliud. Si quis
+      ante baptismum habuerit concubinam et illa mortua baptizatus
+      uxorem duxerit, utrum clericus fieri debeat? Respondebis posse fieri,
+      quia concubinam habuerit non uxorem. Coniugales ergo tabulae et iura
+      dotalia, non coitus ab apostolo condemnantur.
+    </p>
+            <p xml:id="xAbSeN-e10077-d1e179">
+               <ref xml:id="xAbSeN-e10077-Rd1e181">item</ref>: Vide, ne hoc quod dicitur, unius uxoria uirum, mulieris unius
+      possit intelligi; ut ad coitum magis referatur quam ad dotales
+      tabulas.
+    </p>
+            <p xml:id="xAbSeN-e10077-d1e185">
+               <ref xml:id="xAbSeN-e10077-Rd1e187">item</ref>: Uniua umoria uirum. De hoc supra diximus. Nunc hoc tantum
+      admonemus, ut si unius uxoris uir etiam ante baptismum quaeritur,
+      caetera quoque quae praecepta sunt ante baptismum requiramus. Neque
+      enim competit uniuersa post baptismum et unum hoc mandatum intelligere
+      ante baptismum. Sobrium, prudentem, hospitalem, doctorem etc.
+    </p>
+            <p xml:id="xAbSeN-e10077-d1e191">
+               <ref xml:id="xAbSeN-e10077-Rd1e193">item</ref>: Non neophytum, ne in superbiam elatus in iudicium incidat
+      diaboli. Mirari satis non queo, quae hominum tanta sit caecitas de
+      uxoribus ante baptismum disputare, et rem in baptismate mortuam , immo
+      cum Chris to uiuificatam, in calumniam trahere, cum tam apertum
+      euidensque praeceptum nemo custodiat. Heri catechuminus, hodie
+      pontifex; heri in amphitheatro, hodie in ecclesia; uespere in circo,
+      mane in altario; dudum fautor histrionum, nunc uirginum consecrator.
+      Num ignorabat apostolus tergiuersationes nostras et argumentorum
+      ineptias nesciebat?  Qui dixit uniua uxoria uirum, ipse mandauit
+      irreprehenaibilem, sobrium, prudentem etc. Ad haec omnia claudimus
+      oculos, solas uidemus uxores.
+    </p>
+            <p xml:id="xAbSeN-e10077-d1e197">
+               <ref xml:id="xAbSeN-e10077-Rd1e199">item</ref>: Fili Oceane, uide quantum testimonium sit huius, quem arguunt
+      bimariti cui praeter uinculum coniugale, et hoc ante baptismum, nihil
+      ab aemulis obici potest. Itaque cum opposuerint nobis uxores ante
+      baptismum, nos ab eis omnia quae post baptismum praecepta sunt,
+      requiramus. Praetereunt quod non licet et obiciunt quod concessum est.
+      /445/
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

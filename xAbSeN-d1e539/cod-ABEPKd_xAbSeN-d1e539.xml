@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#per-dsPeAb">Peter Abelard</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2021-02-26">February 26, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-02-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+          <!-- 2022-07-05; line breaks with cursory text correction; 
+            TODO; text needs to be read again and further corrected to reflect the manuscript reading --> 
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#C" n="16"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="xAbSeN-d1e539"><!-- xAbSeN-q1 -->
+        <head xml:id="xAbSeN-d1e539-Hd1e103">Quaestio 1</head>
+        <head xml:id="xAbSeN-d1e539-Hd1e106" type="question-title">quod fides humanis rationibus non sit adstruenda et contra.</head>
+        <p xml:id="xAbSeN-d1e539-d1e109">
+          <lb ed="#C" n="1"/><ref xml:id="xAbSeN-d1e539-Rd1e111">Gregorius in omilia xx</ref>: <quote xml:id="xAbSeN-d1e539-Qd1e111">Sciendum nobis est quod diuina operatio <del rend="expunctuation">est</del> 
+            <lb ed="#C" n="2"/>si ratione comprehenditur non est admirabilis nec fides habet meritum 
+            <lb ed="#C" n="3"/>cui humana ratio praebet experimentum.</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e539-d1e115">
+          [omitted]
+          <!--[IDEM THEODORICO ET THEODIBERTO REGI FRANCORUM: In sacerdotibus fides
+            eligenda est cum uita; si uita deest, fides.]
+          -->
+        </p>
+        <p xml:id="xAbSeN-d1e539-d1e118">
+          <ref xml:id="xAbSeN-d1e539-Rd1e120">Idem in homilia v</ref> <quote xml:id="xAbSeN-d1e539-Qd1e132">Ad unius 
+            <lb ed="#C" n="4"/>iussionis uocem Petrus et Andreas relictis retibus secuti sunt redemp<lb ed="#C" n="5" break="no"/>torem, 
+            nulla hunc facere adhuc miracula viderant: nihil ab eo de praemio aeter<lb ed="#C" n="6" break="no"/>nae 
+            retributionis audierant et tamen ad unum domini praeceptum hoc quod 
+            <lb ed="#C" n="7"/>possidere videbantur obliti sunt:</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e539-d1e125">
+          <ref xml:id="xAbSeN-d1e539-Rd1e127">Idem in moralibus libro xx</ref> <quote xml:id="xAbSeN-d1e539-Qd1e150">hinc rursum 
+            <lb ed="#C" n="8"/>ait: Mel inuenisti; comede quod sufficit tibi, ne forte satiatus 
+            <lb ed="#C" n="9"/>euomas illud: Dulcedinem quippe spiritalis intelligentiae qui 
+            <lb ed="#C" n="10"/>ultra quam capit comedere appetit, etiam quod comederat euomit 
+            <lb ed="#C" n="11"/>quia dum summa intelligere ultra vires quaerit etiam quod bene intel<lb ed="#C" n="12" break="no"/>lexerat 
+            amittit: hinc rursum dicit: sicut qui mel multum come<lb ed="#C" n="13" break="no"/>dit 
+            non est ei bonum, sic qui scrutator est maiestatis opprimetur gloria 
+            <lb ed="#C" n="14"/>Gloria quippe inuisibilis conditoris quae moderate inquisita nos erigit: 
+            <lb ed="#C" n="15"/>ultra uires perscrutata premit:</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e539-d1e131">
+          Ex <ref xml:id="xAbSeN-d1e539-Rd1e173">libro 1o augustini contra faustum</ref> 
+          <lb ed="#C" n="16"/><quote xml:id="xAbSeN-d1e539-Qd1e176">faustus: Sed tamen et
+            hoc eneruis fidei confessio est in Christo sine 
+            <lb ed="#C" n="17"/>teste et argumento non
+            credere. Nempe ipsi uos dicere soletis 
+            <lb ed="#C" n="18"/>idcirco nihil esse curiosius
+            exquirendum quia simplex sit et absolute 
+            <lb ed="#C" n="19"/>christiana credulitas.
+            Quomodo ergo nunc fidei simplicitatem destruitis, iudiciis 
+            <lb ed="#C" n="20"/>eam ac testibus fulciendo?
+          </quote>
+        </p>
+        <p xml:id="xAbSeN-d1e539-d1e136">
+          <ref xml:id="xAbSeN-d1e539-Rd1e138">Ex vita sancti silvestri ubi ei cum 
+            <lb ed="#C" n="21"/>iudaeis disputanti ioasi rabbi dixit</ref>: 
+          <quote xml:id="xAbSeN-d1e539-Qd1e195">Rationi humanae non est committen<lb ed="#C" n="22" break="no"/>da 
+            fides, quae Deum hunc suadeat credi quem tu unum Deum, patrem 
+            <lb ed="#C" n="23"/>et filium et spiritum sanctum confiteris</quote>.
+        </p>
+        <p xml:id="xAbSeN-d1e539-d1e142">
+          <ref xml:id="xAbSeN-d1e539-Rd1e144">augustinus de fide symboli 
+            <lb ed="#C" n="24"/>ad laurentium papam</ref>: <quote xml:id="xAbSeN-d1e539-Qd1e210">Propheta dicit: Nisi
+            credideritis, non intelligetis.</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e539-d1e148">
+          <lb ed="#C" n="25"/><ref xml:id="xAbSeN-d1e539-Rd1e150">Item</ref>: <quote xml:id="xAbSeN-d1e539-Qd1e219">Quomodo sane Deus pater genuerit filium nolo discutias nec te
+          <lb ed="#C" n="26"/>curiosius inferas in profundi huius arcanum, ne forte cum 
+          <lb ed="#C" n="27"/>inaccessae lucis fulgorem pertinacius perscrutaris exiguum ipsum 
+            <lb ed="#C" n="28"/>quod mortalibus diuino munere concessum est perdas aspectum.</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e539-d1e154">
+          <lb ed="#C" n="29"/><ref xml:id="xAbSeN-d1e539-Rd1e156">Idem de baptismo <del rend="strikethrough">parvuclorum</del> parvulorum</ref>: <quote xml:id="xAbSeN-d1e539-Qd1e238">Ubi de re obscurissima 
+          <lb ed="#C" n="30"/>disputatur non adiuuantibus diuinarum scripturarum certis clarisque 
+          <lb ed="#C" n="31"/>documentis cohibere se debet humana praesumptio nihil faciens 
+          <lb ed="#C" n="32"/>in alteram partem declinando.</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e539-d1e161">
+          <ref xml:id="xAbSeN-d1e539-Rd1e163">Item in libro de moribus ecclesiae contra 
+          <lb ed="#C" n="33"/>manichaeos, cap. ii</ref>: <quote xml:id="xAbSeN-d1e539-Qd1e256">naturae quidem ordo ita se habet ut cum 
+          <pb ed="#C" n="17"/>
+          <lb ed="#C" n="1"/>aliquid dicimus rationem praecedat auctoritas; nam infirma uideri 
+          <lb ed="#C" n="2"/>ratio potest, quae cum reddita fuerit, auctoritatem postea per quam 
+          <lb ed="#C" n="3"/>firmetur assumit.</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e539-d1e167">
+          <ref xml:id="xAbSeN-d1e539-Rd1e169">Idem</ref>: <quote xml:id="xAbSeN-d1e539-Qd1e273">innumerabiles sunt in scripture sacra 
+          <lb ed="#C" n="4"/>quaestiones quae non finiendae sunt ante finem, ne finiatur uita sine 
+          <lb ed="#C" n="5"/>fide; Sed plane retenta iam fide ad exercitandam <seg type="correction">delectation<subst><del>a</del><add>em</add></subst></seg> 
+          <lb ed="#C" n="6"/>fidelium mentium studiose requirendae sunt, et quod in eis eluxerit 
+          <lb ed="#C" n="7"/>sine superbia communicandum et quod latuerit sine salutis dispendio 
+          <lb ed="#C" n="8"/>tolerandum</quote>:
+        </p>
+        <p xml:id="xAbSeN-d1e539-d1e173">
+          <ref xml:id="xAbSeN-d1e539-Rd1e175">Idem in psalmo xxxix</ref> <quote xml:id="xAbSeN-d1e539-Qd1e299">Nonne superbus inueniris cum dicis, Primo uideam
+          et sic credam?</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e539-d1e179">
+          omitted
+          <!--[ITEM: Facilius in negotiis fidei testimoniis creditur quam
+          ratio inuestigetur.]-->
+        </p>
+        <p xml:id="xAbSeN-d1e539-d1e184">
+          <ref xml:id="xAbSeN-d1e539-Rd1e186">Idem super iohannem <del rend="strikethrough">omslia</del> omilia xxvii</ref>: <quote xml:id="xAbSeN-d1e539-Qd1e315">audiat 
+          <lb ed="#C" n="9"/>consilium qui dicit nondum intellexi: vidit utique Christus hoc profundum 
+          <lb ed="#C" n="10"/>non omnes intellecturos et in consequenti dedit consilium, intelligere 
+          <lb ed="#C" n="11"/>uis  crede: Deus enim per prophetam dixit: nisi eredideritis, non 
+          <lb ed="#C" n="12"/>intelligetis. Ad hoc pertinet quod etiam secutus adiunxit: si quis 
+          <lb ed="#C" n="13"/>uoluerit uoluntatem eius facere cognoscet de doctrina, utrum ex 
+          <lb ed="#C" n="14"/>deo sit, an ego a me ipso loquar. Si non intellexisti inquam 
+          <lb ed="#C" n="15"/>crede intellectus enim merces est fidei ergo noli quaerere intelligere 
+          <lb ed="#C" n="16"/>ut credas sed crede ut intelligas quondam nisi credideritis non 
+          <lb ed="#C" n="17"/>intelligetis quid est cognoscet de doctrina hoc est intelliget quid 
+          <lb ed="#C" n="18"/>est si quis uoluerit uoluntatem eius facere? hoc est 
+          <lb ed="#C" n="19"/>credere quis nesciat hoc esse facere uoluntatem dei operari opus eius? 
+          <lb ed="#C" n="20"/>Ipse autem dominus alio loco ait: hoc est opus dei ut credatis in eum 
+          <lb ed="#C" n="21"/>quem ille misit.</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e539-d1e190">
+          <ref xml:id="xAbSeN-d1e539-Rd1e192">Idem omilia xxxvii</ref> <quote xml:id="xAbSeN-d1e539-Qd1e352">nos ergo fide praeeunte quae sanat 
+          <lb ed="#C" n="22"/>oculum cordis quos intelligimus sine obscuritate capiamus; quod non 
+          <lb ed="#C" n="23"/>intelligimus sine dubitatione credamus</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e539-d1e197">
+          <ref xml:id="xAbSeN-d1e539-Rd1e199">Idem libro viii de trinitate</ref>: 
+          <lb ed="#C" n="24"/><quote xml:id="xAbSeN-d1e539-Qd1e367" source="http://scta.info/resource/adt-l8-d1e977@13-47">Priusquam intelligamus credere debemus uigilandumque nobis est 
+          <lb ed="#C" n="25"/>ne ficta sit fides nostra Si autem falsum de illa credimus, inanis erit 
+            <lb ed="#C" n="26"/>spes et non caste caritas.</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e539-d1e203">
+          <ref xml:id="xAbSeN-d1e539-Rd1e205">ambrosius</ref>: <quote xml:id="xAbSeN-d1e539-Qd1e380">Si ratione conuincor, fidem 
+            <lb ed="#C" n="27"/>abnuo.</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e539-d1e209">
+          <ref xml:id="xAbSeN-d1e539-Rd1e211">hieronymus super ieremiam, lib. vi</ref> <quote xml:id="xAbSeN-d1e539-Qd1e391">quid sibi in loco hoc uoluerit
+          <lb ed="#C" n="28"/>editio uulgata, possem dicere et sensum aliquem reperire, nisi 
+          <lb ed="#C" n="29"/>de uerbis Dei humano sensu argumentari esset sacrilegium</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e539-d1e215">
+          <lb ed="#C" n="30"/><ref xml:id="xAbSeN-d1e539-Rd1e217">Gregorius dominico episcopo</ref>: <quote xml:id="xAbSeN-d1e539-Qd1e405">Quamquam ergo haec se ita habent et desidere<lb ed="#C" n="31" break="no"/>mus 
+          omnes haereticos a catholicis sacerdotibus uigore semper rationeque 
+          <lb ed="#C" n="32"/>compesci.</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e539-d1e221">
+          <ref xml:id="xAbSeN-d1e539-Rd1e415">Idem in pastorali capitulo XXX</ref>. <quote xml:id="xAbSeN-d1e539-Qd1e417">Aliter admonendi sunt 
+          <pb ed="#C" n="17"/>
+          <lb ed="#C" n="1"/>sapientes huius saeculi: atque aliter hebetes: illos plerumque rationis
+          <lb ed="#C" n="2"/>argumenta istos nonnunquam melius exempla conuertunt: illis 
+          <lb ed="#C" n="3"/>nimirum prodest ut in suis allegationibus victi permaneant 
+          <lb ed="#C" n="4"/>istis vero aliquando sufficit ut laudabilia aliorum facta cog<lb ed="#C" n="5" break="no"/>noscant</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e539-d1e226">
+          <ref xml:id="xAbSeN-d1e539-Rd1e228">Idem moralium libro xix</ref>: A veritate auertentes auditum 
+          <lb ed="#C" n="6"/>ad fabulas conuertuntur: scripta dei ubique reperta opponun<lb ed="#C" n="7" break="no"/>tur 
+          oculis sed haec cognoscere homines dedignantur. paene 
+          <lb ed="#C" n="8"/>nullus quaerit scire quod credidit
+        </p>
+        <p xml:id="xAbSeN-d1e539-d1e233">
+          <ref xml:id="xAbSeN-d1e539-Rd1e235">Idem bonifacio</ref>: <quote xml:id="xAbSeN-d1e539-Qd1e452">si ita 
+          <lb ed="#C" n="9"/>ut audieram magnitudo uestra intentione sollicita de animae 
+          <lb ed="#C" n="10"/>suae uita cogitaret nequaquam mihi de fide sua per epistolas 
+          <lb ed="#C" n="11"/>sed per <del rend="strikethrough">sensiu</del> semetipsam posceret respondere, ut et 
+          <lb ed="#C" n="12"/>uos de nostra ratione et nos de uestra credulitate gauderemus 
+          <lb ed="#C" n="13"/>nam nos <del rend="strikethrough">lci</del> licet in omnibus causis, in his praecipue quae 
+          <lb ed="#C" n="14"/>dei sunt ratione magis stringere homines quam potestate 
+          <lb ed="#C" n="15"/>festinamus</quote>:
+        </p>
+        <p xml:id="xAbSeN-d1e539-d1e239">
+          <ref xml:id="xAbSeN-d1e539-Rd1e241">Nicolaus papa ad consulta bulgarorum 
+          <lb ed="#C" n="16"/>capitulo xli</ref>: <quote xml:id="xAbSeN-d1e539-Qd1e484">De his qui christianitatis bonum suscipere renuunt, 
+          <lb ed="#C" n="17"/>nihil aliud scribere possumus, nisi ad fidem rectam monitis 
+          <lb ed="#C" n="18"/>et exhortationibus et ratione eos potius quam ui conuincatis</quote>:
+        </p>
+        <p xml:id="xAbSeN-d1e539-d1e245">
+          <lb ed="#C" n="19"/><ref xml:id="xAbSeN-d1e539-Rd1e247">ysidorus sententiarum lib. ii, cap. ii</ref>: fides nequaquam vi extor<lb ed="#C" n="20" break="no"/>quetur 
+          sed ratione atque exemplis suadetur: quibus autem
+          <lb ed="#C" n="21"/>exigitur uiolenter perseuerare in eis non potest, exemplo ut 
+          <lb ed="#C" n="22"/>ait quidam nouellae arboris, cuius si quis cacumen uiolenter 
+          <lb ed="#C" n="23"/>impresserit denuo dum laxatur in id quod fuerat confestim 
+          <lb ed="#C" n="24"/>reuertitur.
+        </p>
+        <p xml:id="xAbSeN-d1e539-d1e251">
+          <ref xml:id="xAbSeN-d1e539-Rd1e253">hylarius de trinitate, in xii</ref>: <quote xml:id="xAbSeN-d1e539-Qd1e515">oportet eos qui 
+          <lb ed="#C" n="25"/>christum praedicant mundo irreligiosis mundi imperfectisque doctrinis 
+          <lb ed="#C" n="26"/>per scientiam sapientis omnipotentiae contra ire iuxta illud apostoli 
+          <lb ed="#C" n="27"/>nostra enim arma non sunt carnalia, sed potentia deo ad 
+          <lb ed="#C" n="28"/>destructionem munitionum rationis destruentia et omnem altitu<lb ed="#C" n="29" break="no"/>dinem 
+          eleuatam aduersus cogitationem Dei. Fidem non nudam apostolis 
+          <lb ed="#C" n="30"/>atque inopem rationis reliquit; quae quamuis potentissi<lb ed="#C" n="31" break="no"/>ma 
+          ad salutem sit tamen nisi per doctrinam instruatur 
+          <pb ed="#C" n="19"/>
+          <lb ed="#C" n="1"/>habebit quidem inter aduersa tutum diffugiendi recessum 
+          <lb ed="#C" n="2"/>non etiam retinebit constantem obnitendi securitatem, eritque 
+          <lb ed="#C" n="3"/>ut infirmioribus sunt post fugam castra non et ut castra 
+          <lb ed="#C" n="4"/>habentibus adest interrita fortitudo. Contuendae ergo sunt insolen<lb ed="#C" n="5" break="no"/>tes 
+          aduersus Deum dispositiones, et destruenda rationum fallacium 
+          <lb ed="#C" n="6"/><space/><!--munimenta --> et eleuata ad impietatem ingenia conterenda nec
+          <lb ed="#C" n="7"/>carnalibus armis sed spiritalibus nec terrena doctrina sed caelesti
+          <lb ed="#C" n="8"/>sapientia ut quanta rerum diuinarum humanarumque discretio 
+          <lb ed="#C" n="9"/>est tanta ultra terrena studia ratio caelestis excedat.</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e539-d1e259">
+          <ref xml:id="xAbSeN-d1e539-Rd1e261">hieronymus 
+          <lb ed="#C" n="10"/>in epistola ad galatas, lib. i, laudans sanctam marcellam</ref>: <quote xml:id="xAbSeN-d1e539-Qd1e565">Scio 
+          equidem ardorem eius, scio fidem, quam flammam habeat in pectore,
+            <lb ed="#C" n="11"/>superare sexum, obliuisci homines, et diuinorum uoluminum tympa<lb ed="#C" n="12" break="no"/>no
+          concrepante rubrum huius saeculi pelagus transfretare. 
+          <lb ed="#C" n="13"/>Certe, cum Romae essem, nunquam tam festina me uidit ut non de 
+          <lb ed="#C" n="14"/>scripturis aliquid interrogaret; nec uero, more pythagorico, 
+          <lb ed="#C" n="15"/>quidquid responderam rectum
+          putabat, nec sine ratione praeiudi<lb ed="#C" n="16" break="no"/>cata 
+          apud eam ualebat auctoritas sed examinabat omnia et 
+          <lb ed="#C" n="17"/>sagaci mente <!--uniuersa pensabat, ut me sentirem non tam discipulam habere quam iudicem.--></quote>
+        </p>
+        <p xml:id="xAbSeN-d1e539-d1e265">
+          <ref xml:id="xAbSeN-d1e539-Rd1e267"><!--omitted: augustinus--> 
+          ad valerium comitem, de nuptiis et concupis<lb ed="#C" n="18" break="no"/>centia</ref>: 
+          <quote xml:id="xAbSeN-d1e539-Qd1e593">Quod licet fide robustissima irriseris <del rend="strikethrough">bonae</del> bonum est 
+          <lb ed="#C" n="19"/>tamen ut etiam noueris defendendo adiuuare quod credimus et apostolus 
+          <lb ed="#C" n="20"/>enim Petrus paratos nos esse praecepit ad satisfactionem omni 
+          <lb ed="#C" n="21"/>poscenti nos rationem de fide et spe nostra. Et apostolus paulus 
+          <lb ed="#C" n="22"/>sermo, inquit, uester sit in gratia sale conditus ut sciatis quomodo oporte<lb ed="#C" n="23" break="no"/>at 
+          uos unicuique respondere</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e539-d1e272">
+          <ref xml:id="xAbSeN-d1e539-Rd1e274">Idem <subst><del rend="strikethrough">de</del> <add place="above-line">in</add></subst> tractatu de misericordia</ref> <quote xml:id="xAbSeN-d1e539-Qd1e624">petite 
+          <lb ed="#C" n="24"/>orando quaerite disputando pulsate rogando</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e539-d1e278">
+          <ref xml:id="xAbSeN-d1e539-Rd1e632">Idem in secundo 
+          <lb ed="#C" n="25"/>de doctrina christiana</ref>: <quote xml:id="xAbSeN-d1e539-Qd1e637" source="http://scta.info/resource/addc-l2-d1e537@1-141">Restant ea quae non ad corporis sensus sed 
+          <lb ed="#C" n="26"/>ad rationem pertinent ubi disciplina regnat disputationis et 
+          <lb ed="#C" n="27"/><space/><!--omitted: numeri --> sed disputationis disciplina ad omnia genera quaestionum quae 
+          <lb ed="#C" n="28"/>in sanctis litteris sunt penetranda plurimum ualet: tantum <!-- something here ? --> 
+          <lb ed="#C" n="29"/>ibi cauenda est libido rixandi et puerilis quaedam ostentatio 
+          <pb ed="#C" n="20"/>
+          <lb ed="#C" n="1"/>decipiendi aduersarium: Sunt enim multa quae appellantur sophismata 
+          <lb ed="#C" n="2"/>falsae conclusiones rationum: et plerumque ita uera imitan<lb ed="#C" n="3" break="no"/>tes 
+          ut non solum tardos sed ingeniosos etiam minus attentos
+          <lb ed="#C" n="4"/>decipiant: quod genus captiosarum conclusionum scriptura 
+          <lb ed="#C" n="5"/>quantum existimo detestatur illo loco ubi dictum est qui 
+          <lb ed="#C" n="6"/>sophistice loquitur odibilis est</quote>:
+        </p>
+        <p xml:id="xAbSeN-d1e539-d1e283">
+          <ref xml:id="xAbSeN-d1e539-Rd1e285"><name xml:id="xAbSeN-d1e539-Nd1e672">Beda</name> in i epistola petri apostoli</ref>: 
+          <lb ed="#C" n="7"/><quote xml:id="xAbSeN-d1e539-Qd1e676"><!--omitted: dominum autem Christum sanctificate
+          in cordibus uestris, parati semper ad satisfactionem omni poscenti uos
+          rationem de ea quae in uobis est spe, ut in eo quod detrahunt de uobis
+          confundantur, qui calumniantur uestram bonam in Christo
+          conuersationem.--> duobus modis de spe et fide nostra rationem poscentibus red<lb ed="#C" n="8" break="no"/>dere 
+          debemus ut et iustas spei ac fidei nostrae causas omnibus 
+          <lb ed="#C" n="9"/>intimemus siue fideliter siue infideliter quaerentibus, et
+            <lb ed="#C" n="10"/>ipsam fidei ac spei nostrae professionem illibatam semper tenea<lb ed="#C" n="11" break="no"/>mus
+          etiam inter pressuras aduersantium.</quote>
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

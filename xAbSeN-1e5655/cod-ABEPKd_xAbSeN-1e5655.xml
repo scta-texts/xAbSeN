@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 76</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 76</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e5655"><!-- xAbSeN-q76 -->
+            <head xml:id="xAbSeN-1e5655-Hd1e103">Quaestio 76</head>
+            <head xml:id="xAbSeN-1e5655-Hd1e106" type="question-title"> quod humanitas christi ignoraverit diem iudicii et non</head>
+    
+            <p xml:id="xAbSeN-1e5655-d1e109">
+               <ref xml:id="xAbSeN-1e5655-Rd1e111">gregorius eulogio patriarchae</ref>: Scriptum est quia diem et horam neque
+      filius neque angeli sciunt. Nouit quidem unigenitus diem et horam
+      iudicii sed non ex natura humanitatis.  In nuptiis, ubi uinum defuit,
+      respondit matri: Quid mihi et tibi est mulier? ac si diceret, Miracula
+      facere non habeo ex matre. Cum autem hora mortis uenerit, cognoscam te
+      matrem.
+    </p>
+            <p xml:id="xAbSeN-1e5655-d1e115">
+               <ref xml:id="xAbSeN-1e5655-Rd1e117">idem in pastorali cap. l</ref>: Cum Iesus annorum duodecim dicitur in medio
+      doctorum sedens, non docens sed interrogans inuenitur. Quo exemplo
+      scilicet ostenditur ne infirmus docere quis audeat, si ille puer
+      doceri interrogando uoluit, qui per diuinitatis potentiam uerbum
+      scientiae ipsis suis doctoribus ministrauit.
+    </p>
+            <p xml:id="xAbSeN-1e5655-d1e121">
+               <ref xml:id="xAbSeN-1e5655-Rd1e123">hieronymus in minori breviario psalmo cxxxviii</ref>: Humanitas filii hic
+      significatur, quae in euangelio dixit se ignorare finem huius mundi,
+      et quae ait: Triatia est anima mea uaque ad mortem.
+    </p>
+            <p xml:id="xAbSeN-1e5655-d1e128">
+               <ref xml:id="xAbSeN-1e5655-Rd1e130">cassiodorus psalmo eodem</ref>: Natura hominis, quae in euangelio dixit se
+      ignorare finem mundi, testatur patrem uidisse suum imperfectum.
+      Imperfectum eius est quod adbuc ecclesia usque ad finem saeculi
+      congregatur.
+    </p>
+            <p xml:id="xAbSeN-1e5655-d1e134">
+               <ref xml:id="xAbSeN-1e5655-Rd1e136">hieronymus cclx cap. super matthaeum</ref>: Apostolus ait de saluatore, In
+      quo sunt omnes thesauri sapientiae absconditi. Post resurrectionem
+      interrogatus ab apostolis de die illa manifestius respondit, Non est
+      uestrum nosse tempora et momenta, quae pater posuit in sua potestate.
+      Hic ostenditur quod ipse sciat sed non expediat apostolis nosse,
+      ut semper incerti uiuant cum timore.
+    </p>
+            <p xml:id="xAbSeN-1e5655-d1e142">
+               <ref xml:id="xAbSeN-1e5655-Rd1e144">idem ccclv cap. matth.</ref>: Non ignorat Christus eam diem in qua se scit
+      futurum cum apostolis.
+    </p>
+            <p xml:id="xAbSeN-1e5655-d1e148">GREGORIUS TURONENSIS HISTORIARUM CAP. 1: De fine uero mundi ea sentio
+      quae a prioribus didici. Antichristus uero prius circuncisionem
+      inducet, se asserens Christum. Deinde in templo Hierosolymis statuam
+      suam collocabit adorandam, sicut dominum dixisse legimus: Videbitia
+      abominationem desolationia atantem in loco aancto.  Sed diem illam
+      omnibus hominibus recoli ipse dominus manifestat dicens: De die autem
+      illa et hora nemo scit, neque angeli caelorum, neque filius, nisi
+      pater solus. Sed et hic respondebimus haereticis, qui nos impugnant
+      asserentes minorem esse filium patre, qui hanc diem ignoret.
+      Cognoscant ergo hunc filium Christianum populum nuncupatum, de quo a
+      Deo praedicitur: Ego ero illis in patre et ipai erunt mthi in
+      filioa. Si enim haec de unigenito filio praedixisset, nunquam ei
+      angelos proposuisset. Sic enim ait: Neque angeli caelorum, neque
+      filius, ostendens non de unigenito sed de adoptiuo populo haec
+      dixisse.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

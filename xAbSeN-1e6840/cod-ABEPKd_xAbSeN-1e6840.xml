@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 93</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 93</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e6840"><!-- xAbSeN-q93 -->
+            <head xml:id="xAbSeN-1e6840-Hd1e103">Quaestio 93</head>
+            <head xml:id="xAbSeN-1e6840-Hd1e106" type="question-title"> quod petrus vel paulus et caeteri apostoli sint aequales
+      et non</head>
+    
+            <p xml:id="xAbSeN-1e6840-d1e109">
+               <ref xml:id="xAbSeN-1e6840-Rd1e111">ambrosius super lucam lib. i</ref>: Gemina uirtus est in homine perfecto, ut
+      et intentio sit et actio.
+    </p>
+            <p xml:id="xAbSeN-1e6840-d1e115">
+               <ref xml:id="xAbSeN-1e6840-Rd1e117">item</ref>: Ubi dicit Petrus animam meam pro te ponam, erat intentio
+      passionis sed nondum actio.
+    </p>
+            <p xml:id="xAbSeN-1e6840-d1e121">
+               <ref xml:id="xAbSeN-1e6840-Rd1e123">item</ref>: Cum multa apostolica uirtute peregisset, postea tulit crucem
+      atque actionem subiit passionis. Sed fuit in Petro, Andrea, Iohanne et
+      caeteris apostolis et intentionis et actionis aequalitas.
+    </p>
+            <p xml:id="xAbSeN-1e6840-d1e128">
+               <ref xml:id="xAbSeN-1e6840-Rd1e130">ex sermone quodam in passione apostolorum petri et pauli qui sic
+      incipit</ref>: Cum omnes beati apostoli parem gratiam apud Deum sanctitatis
+      obtineant, nescio quo tamen pacto Petrus et Paulus uidentur prae
+      caeteris peculiari quadam in saluatore fidei uirtute praecellere. Quod
+      quidem ex ipsius domini iudicio possumus approbare. Nam Petro sicut
+      bono dispensatori clauem regni caelestis dedit, Paulo tamquam idoneo
+      doctori magisterium ecclesiasticae institutionis.
+    </p>
+            <p xml:id="xAbSeN-1e6840-d1e134">
+               <ref xml:id="xAbSeN-1e6840-Rd1e136">item</ref>: Clauem quodammodo a Christo scientiae et Paulus accepit. Ambo
+      igitur craues a domino perceperunt, scientiae ille, iste potentiae.
+      Sunt enim scientiae thesauri sicut scriptum est, in quo sunt omnes
+      thesauri sapientiae et scientiae absconditi. Ergo beati Petrus et
+      Paulus eminent inter uniuersos apostolos et peculiari quadam
+      praerogatiua praecellunt. Unde inter ipsos quis cui praeponatur
+      incertum est. Puto enim illos aequales esse meritis.
+    </p>
+            <p xml:id="xAbSeN-1e6840-d1e140">
+               <ref xml:id="xAbSeN-1e6840-Rd1e142">ex sermone leonis papae in festivitate petri et pauli</ref>: De quorum
+      meritis atque uirtutibus, quae omnem loquendi superant facultatem,
+      nihil diuersum, nihil debemus sentire discretum, quia illos et electio
+      pares, et labor similes, et finis fecit aequales.
+    </p>
+            <p xml:id="xAbSeN-1e6840-d1e146">
+               <ref xml:id="xAbSeN-1e6840-Rd1e148">paulus in epistola prima ad corinthios</ref>: Nouissime autem omnium tanquam
+      abortiuo uisus est et mihi. Ego enim sum minimus apostolorum,
+      qui non sum dignus uocari apostolus, quondam persecutus sum ecclesiam
+      Dei.  Gratia autem Dei sum id quod sum, et gratia eius in me uacua non
+      fuit, sed abundantius illis laboraui, non ego autem sed gratia Dei
+      mecum.
+    </p>
+            <p xml:id="xAbSeN-1e6840-d1e154">GREGORIUS SUPER ElECHIELEM HOMILIA XVIII: Certe Paulus, cum Petrus
+      apostolus seruare adhuc circumcisione legis consuetudinem uellet, ei
+      in faciem restitit, et hoc eius studium discipulis loquens non solum
+      culpam sed quod est maius, hypocrisim, id est simulationem, nominal,
+      dicens: Et simulationi eius consenserant caeteri Iudaci.  Idem uero
+      apostolorum primus, cum a quibusdam detrahi Pauli scriptis agnosceret,
+      dicit: Sicut carissimus frater noster Paulus secundum datam sibi
+      sapientiam scripsit uobis, loquens in eis de his in quibus sunt
+      quaedam difficilia intellectu, quae indocti deprauant ad suam ipsorum
+      perditionem. Ecce Paulus in epistolis suis scribit Petrum
+      reprehensibilem.  Ecce Petrus in suis asserit Paulum in his quae
+      scripserat admirandum. Certe nisi legisset Petrus Pauli epistolas, non
+      laudasset. Si autem legit, quia illic ipse reprehensibilis diceretur
+      inuenit. Reprehensus est, atque ei et hoc ipsum placuit quia in his
+      non placuerat quae aliter quam debuerat sensit, seque etiam minori
+      fratri ad consensum dedit, atque in eadem re factus est se minor, ut
+      etiam in hoc praeiret; quatinus qui primus erat in apostolatus
+      culmine, esset primus et in humilitate.
+    </p>
+            <p xml:id="xAbSeN-1e6840-d1e157">
+               <ref xml:id="xAbSeN-1e6840-Rd1e159">item</ref>: Ecce a minore suo reprehenditur et reprehend) non dedignatur.
+      Non ad memoriam reuocat quod primus in apostolatum uocatus est, quod
+      craues regni caelestis accepit, quod quaecumque peccata in terra
+      soluerit, essent solute et in caelo etc.
+    </p>
+            <p xml:id="xAbSeN-1e6840-d1e164">
+               <ref xml:id="xAbSeN-1e6840-Rd1e166">hieronymus ad paulinum presbyterum</ref>: Paulus apostolus uas electionis de
+      persecutore mutatus, nouissimus in ordine, et primus in meritis est,
+      quia extremus licet plus omnibus laborauit.
+    </p>
+            <p xml:id="xAbSeN-1e6840-d1e172">
+               <ref xml:id="xAbSeN-1e6840-Rd1e174">idem ad damasum</ref>: Dominus atque saluator omnia non est in omnibus sed
+      pars in singulis, uerbi gratia in Salomone sapientia, in Petro fides,
+      in Iohanne uirginitas, in caeteris caetera. Cum autem finis aduenerit,
+      tune omnia in omnibus erit, ut singuli sanctorum omnes uirtutes
+      habeant et sit totus Christus in cunctis.
+    </p>
+            <p xml:id="xAbSeN-1e6840-d1e178">
+               <ref xml:id="xAbSeN-1e6840-Rd1e180">ambrosius super lucam</ref>: Sunt aliqui hic stantes qui non gustabunt
+      mortem, donec uideant regnum Dei.  Non de omnibus sed de pluribus
+      dicit. Neque enim Petrus mortuus est, cui inferi porta praeualere non
+      potuit, nec Iacobus et Iohannes mortui, filii tonitrui, quibus in
+      uisum gloriae caelestis assumptis non praeualent terrena sed
+      subiacent.
+    </p>
+            <p xml:id="xAbSeN-1e6840-d1e184">
+               <ref xml:id="xAbSeN-1e6840-Rd1e186">item</ref>: Ergo ut scias quia Petrus et Iacobus et Iohannes mortem non
+      gustauerunt, gloriam resurrectionis uidere meruerunt. Solos enim tres
+      istos post haec uerba in diebus octo assumpsit et duxit in mortem.
+    </p>
+            <p xml:id="xAbSeN-1e6840-d1e190">
+               <ref xml:id="xAbSeN-1e6840-Rd1e192">item</ref>: Tres autem sold et tres electi Domini. Ad montem Petrus
+      ascendit, qui craues regni caelorum accepit, Iohannes, cui committitur
+      mater, Iacobus, qui primus solium sacerdotale conscendit.
+    </p>
+            <p xml:id="xAbSeN-1e6840-d1e196">
+               <ref xml:id="xAbSeN-1e6840-Rd1e198">augustinus super epistolam ad galatas</ref>: Petrus et Iacobus et Iohannes
+      honoratiores in apostolic erant, quia ipsis tribus se in monte dominus
+      ostendit.
+    </p>
+            <p xml:id="xAbSeN-1e6840-d1e203">
+               <ref xml:id="xAbSeN-1e6840-Rd1e205">symbolum ephesini concilii</ref>: Denique Petrus et Iohannes aequalis sunt
+      ad alterutrum dignitatis, propter quod apostoli et sancti discipuli
+      esse monstrantur.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 55</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 55</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e4423"><!-- xAbSeN-q55 -->
+            <head xml:id="xAbSeN-1e4423-Hd1e103">Quaestio 55</head>
+            <head xml:id="xAbSeN-1e4423-Hd1e106" type="question-title"> quod eva sola non adam seducta sit et contra</head>
+    
+            <p xml:id="xAbSeN-1e4423-d1e109">
+               <ref xml:id="xAbSeN-1e4423-Rd1e111">augustinus super genesim ad litteram, lib. xi</ref>: Apostolus ait: Adam non
+      est seductus, mulier autem seducta est. Nam interrogatus non ait,
+      mulier seduxit me sed ipsa mihi dedit de ligno. Illa uero dixit:
+      Serpens seduxit me. Ita Salomon, nunquidnam credendus est, quod in
+      simulacrorum cultu crediderit esse aliquid utilitatis? Sed mulierum
+      amori resistere non ualuit, faciens quod sciebat non esse faciendum ne
+      suas delicias contristaret. Ita et Adam, postquam mulier seducta
+      manducauit eique dedit, noluit eam contristare. Non carnis
+      concupiscentia, quam nondum senserat uictus, sed amicali quodam
+      beniuolentia, qua plerumque fit ut offendatur Deus, ne homo ex amico
+      fiat inimicus; quod eum facere non debuisse, diuinae sententiae iustus
+      exitus indicauit. Ergo alio quodam modo ipse etiam deceptus est; sed
+      dolo illo serpentino quo mulier seducta est, nullo modo illum arbitror
+      potuisse seduci. Hanc autem proprie seductionem appellauit
+      Apostolus, qua id quod suadebatur, cum falsum esset, uerum putatum
+      est, id est quod Deus ideo illud lignum tangere prohibuerit, quod
+      sciebat eos, si tetigissent, uelut Deos futuros, tanquam eis
+      diuinitatem inuideret.
+    </p>
+            <p xml:id="xAbSeN-1e4423-d1e117">
+               <ref xml:id="xAbSeN-1e4423-Rd1e119">ambrosius in exameron de die v</ref>: Adam per Euam deceptus est, non Eua
+      per Adam. Quem uocauit ad culpam mulier, iustum est ut eum
+      gubernatorem assumat, ne iterum feminea facilitate labatur.
+    </p>
+            <p xml:id="xAbSeN-1e4423-d1e123">
+               <ref xml:id="xAbSeN-1e4423-Rd1e125">paschasius de corpore et sanguine domini cap. xii</ref>: Diuina sapientia
+      haec simul de latere suo produxit, ut unde mulier, quae deceperat
+      priorem Adam, creata est, inde ecclesia formaretur.
+    </p>
+            <p xml:id="xAbSeN-1e4423-d1e130">
+               <ref xml:id="xAbSeN-1e4423-Rd1e132">ex sermone chrysostomi in xl</ref>: Denique consentiens mulier talis circa
+      uirum extitit qualem circa se malitiam serpentis inuenit. Adeo
+      persuasa est et persuasit, infecta est et infecit, decepta est et
+      decepit.
+    </p>
+            <p xml:id="xAbSeN-1e4423-d1e136">
+               <ref xml:id="xAbSeN-1e4423-Rd1e138">augustinus de singularitate clericorum</ref>: Miramur, si Adam per Euam
+      seductus est, quem nulla morientium exempla praecesserant.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

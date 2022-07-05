@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 51</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 51</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e4275"><!-- xAbSeN-q51 -->
+            <head xml:id="xAbSeN-1e4275-Hd1e103">Quaestio 51</head>
+            <head xml:id="xAbSeN-1e4275-Hd1e106" type="question-title"> quod primi parentes sint creati mortales et non</head>
+    
+            <p xml:id="xAbSeN-1e4275-d1e109">
+               <ref xml:id="xAbSeN-1e4275-Rd1e111">augustinus in libro quaestionum veteris et novae legis cap. xxi</ref>: Deus
+      hominem fecit, qui quamdiu non peccaret, immortalitate uigeret, ut
+      ipse sibi auctor esset aut ad uitam aut ad mortem, ut custodians se a
+      peccato labore suo gauderet se immortalem, negligens uero factus ipse
+      sibi imputaret, quod coeperat esse mortalis. Quamdiu enim in creatoris
+      lege durauit, dignus fuit edere de arbore uitae, ut mori non
+      posses. Nec enim corpus tale erat quod dissolui impossibile uideretur,
+      sed gustus arboris uitae corruptionem corporis inhibebat.
+      Denique etiam post peccatum potuit indissolubile manere, si modo
+      permissum esset ei edere de arbore uitae. Nam quomodo immortale corpus
+      habebat, quod cibo sustentabatur? Immortalis enim non eget esca uel
+      potu. Vitae autem arbor medicinae modo corruptionem omnem prohibebat.
+    </p>
+            <p xml:id="xAbSeN-1e4275-d1e117">
+               <ref xml:id="xAbSeN-1e4275-Rd1e119">idem de civitate dei lib. xiii, de corpore quod nunc gestamus</ref>: Nec
+      tale quidem erit quale fuit in primis hominibus ante peccatum, qui
+      licet morituri non essent nisi peccassent, alimentis tamen ut homines
+      utebantur nondum spiritalia sed adhuc alla corpora terrena gestantes
+      etc.
+    </p>
+            <p xml:id="xAbSeN-1e4275-d1e123">
+               <ref xml:id="xAbSeN-1e4275-Rd1e125">idem de baptismo parvulorum lib. i</ref>: Adam quamuis secundum corpus terra
+      esset et corpus in quo creatus est animale gestaret, tamen si non
+      peccasset, in corpus fuerat spirituale mutandus et in illam
+      incorruptionem quae fidelibus et sanctis promittitur sine mortis
+      periculo transiturus.
+    </p>
+            <p xml:id="xAbSeN-1e4275-d1e130">
+               <ref xml:id="xAbSeN-1e4275-Rd1e132">item</ref>: Proinde si non peccasset Adam, non erat exspoliandus corpore sed
+      superuestiendus immortalitate et incorruptione, ut absorberetur
+      mortale a uita, id est ab animal) ad spirituale transiret. Neque enim
+      metuendum erat ne si diutius hic uiueret in corpore animali senectute
+      grauaretur et ueterascendo perueniret ad mortem. Si enim Deus
+      Israelitarum uestimentis et calceamentis praestitit, quod per tot
+      annos non sunt oblita, quid mirum si obedienti homini eiusdem potentia
+      praestaretur, ut animale, hoc est mortale, habens corpus haberet in eo
+      quendam statuary, quo sine defectu esset annosus, tempore quo uel let
+      Deus a mortal itate ad immortal itatem sine morte uenturus? Sicut enim
+      haec ipsa caro quam nunc habemus non ideo non est uulnerabilis, quia
+      non est necesse ut uulneretur, sic illa et non ideo fuit non mortalis,
+      quia non erat necesse ut moreretur. Talem puto habitudinem adhuc in
+      corpore animali atque mortali etiam in illis qui sine morte hinc
+      translati sunt, fuisse concessam. Neque enim Enoch et Elias per tam
+      longam aetatem senectute marcuerunt. NEc tamen credo eos iam in illam
+      spirirualem qualitatem corporis commutatos, qualis in resurrectione
+      promittitur, quae in domino prima praecessit; nisi quia isti
+      fortasse nec his cibis egent, qui sui consumptione reficiunt sed ex
+      quo translati sunt, ita uiuunt ut similem habeant satietatem ei qua
+      illis XL diebus Elias ex calice aquae et ex collyride panis sine cibo
+      uixit; aut si et his sustentaculis opus est, ita in paradiso fortasse
+      pascuntur sicut Adam priusquam per peccatum exinde exire meruisset.
+      Habebat enim, quantum aestimo, et de lignorum frondibus refectionem
+      contra defectionem et de ligno uitae stabilitatem contra uetustatem.
+    </p>
+            <p xml:id="xAbSeN-1e4275-d1e138">
+               <ref xml:id="xAbSeN-1e4275-Rd1e140">idem super genesim</ref>: Illud corpus ante peccatum et mortale secundum
+      aliam causam et immortale secundum aliam dici poterat; mortale quia
+      poterat mori, immortale quia poterat non mori. Aliud enim est non
+      posse mori, aliud est posse non mori.
+    </p>
+            <p xml:id="xAbSeN-1e4275-d1e144">
+               <ref xml:id="xAbSeN-1e4275-Rd1e146">item</ref>: Primus homo creatus est immortalis, quod ei praestabatur de
+      ligno uitae, non de conditione naturae, a quo separatus est, ut posset
+      mori, qui nisi peccasset posset non mori. Mortalis ergo erat
+      conditione corporis animalis, immortalis beneficio Dei. Si enim
+      animale utique mortale, quia et mori poterat, quamuis et immortale,
+      quia non mori poterat. Neque enim immortale, quod mori omnino non
+      possit, erit nisi spirituale, quod nobis futurum in resurrectione
+      promittitur.
+    </p>
+            <p xml:id="xAbSeN-1e4275-d1e150">
+               <ref xml:id="xAbSeN-1e4275-Rd1e152">gregorius respondens augustino cantuariorum episcopo</ref>: Cum primum
+      parentes nostri in paradiso deliquissent, immortalitatem quam
+      acceperant, recto Dei iudicio perdiderunt.
+    </p>
+            <p xml:id="xAbSeN-1e4275-d1e156">
+               <ref xml:id="xAbSeN-1e4275-Rd1e158">beda super lucam</ref>: Qui etiam exspoliauerunt eum, id est indumenta
+      gratiae spiritualis immortalitatis et innocentiae auferunt.
+    </p>
+            <p xml:id="xAbSeN-1e4275-d1e162">
+               <ref xml:id="xAbSeN-1e4275-Rd1e164">item</ref>: Semi-uiuo relicto quia immortalitate exuere sed rationis sensum
+      abolere non possunt.  /229/
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

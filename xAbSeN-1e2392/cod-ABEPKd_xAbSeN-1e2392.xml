@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 25</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 25</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e2392"><!-- xAbSeN-q25 -->
+            <head xml:id="xAbSeN-1e2392-Hd1e103">Quaestio 25</head>
+            <head xml:id="xAbSeN-1e2392-Hd1e106" type="question-title"> quod philosophi quoque trinitatem seu verbum dei crediderint
+      et non</head>
+    
+            <p xml:id="xAbSeN-1e2392-d1e109">
+               <ref xml:id="xAbSeN-1e2392-Rd1e111">paulus apostolus ad romanos</ref>: <quote xml:id="xAbSeN-1e2392-Qd1e114" source="http://scta.info/resource/rom1_19 http://scta.info/resource/rom1_20">Quod notum est Dei, manifestum est in
+      illis; Deus enim illis reuelauit; inuisibilia enim ipsius</quote> etc.
+    </p>
+            <p xml:id="xAbSeN-1e2392-d1e118">
+               <ref xml:id="xAbSeN-1e2392-Rd1e120">augustinus in viii de civitate dei</ref>: <quote xml:id="xAbSeN-1e2392-Qd1e123" source="http://scta.info/resource/adcd-l8-d1e1140" synch="4-168">Homo christianus litteris tantum
+      ecclesiasticis eruditus cauet eos qui secundum elementa huius mundi
+      philosophantur; admonetur enim praecepto apostolico: Cauete ne quis
+      uos decipiat per philosophiam et inanem seductionem, secundum elementa
+      mundi. Deinde ne omnes tales esse arbitretur, audit ab eodem apostolo
+      de quibusdam, quia quod notum est Dei manifestum est in illis. Deus
+      enim illis manifestauit. Inuisibilia enim etc. Et ubi Atheniensibus
+      loquens, cum rem magnam de Deo dixisset et quae a paucis possit
+      intelligi, quod in illo uiuimus, mouemur et sumus, adiecit: Sicut et
+      uestri quidam dixerunt. Nouit sane etiam ipsos, in quibus errant,
+      cauere.</quote>
+            </p>
+            <p xml:id="xAbSeN-1e2392-d1e127">
+               <ref xml:id="xAbSeN-1e2392-Rd1e129">idem super iohannem, tract. ii</ref>: <quote xml:id="xAbSeN-1e2392-Qd1e132" source="http://scta.info/resource/iuy75t-d1e59-d1e341" synch="2-221">Quidam philosophi huius mundi
+      exstiterunt et inquisierunt creatorem per creaturam, euidenter dicente
+      apostolo: inuisibilia enim ipsius etc. Viderunt quia per uerbum
+      Dei facta sunt omnia; illud potuerunt uidere quod est; noluerunt
+      tenere humilitatem Christi, et sorduit eis crux Christi.</quote>
+            </p>
+            <p xml:id="xAbSeN-1e2392-d1e139">
+               <ref xml:id="xAbSeN-1e2392-Rd1e141">idem in xiii de trinitate</ref>: <quote xml:id="xAbSeN-1e2392-Qd1e144" source="http://scta.info/resource/adt-l13-d1e1507" synch="68-100">Praecipui gentium philosophi, qui
+      inuisibilia Dei per ea quae facta sunt intellecta conspicere
+      potuerunt, sine mediatore, id est homine Christo philosophati sunt,
+      qui nec uenturum prophetis nec uenisse apostolis crediderunt</quote>.
+    </p>
+            <p xml:id="xAbSeN-1e2392-d1e148">
+               <ref xml:id="xAbSeN-1e2392-Rd1e150">idem de spiritu et littera</ref>: Vita sapiens quae fecit mundum contemplato
+      mundo intelligitur. Interroga mundum, ornatum caeli, terram
+      fructificantem herbis et lignis, animalibus plenam, mare, quantis
+      natatilibus plenum est; aerem, quantis uolatilibus; interroga omnia,
+      et uide si non specie sua tamquam uoce tibi respondent, Deus nos
+      fecit. Haec philosophi nobiles quaesierunt et ex arte artificem
+      cognouerunt.
+    </p>
+            <p xml:id="xAbSeN-1e2392-d1e154">
+               <ref xml:id="xAbSeN-1e2392-Rd1e156">idem in expositione quarundam propositionum in epistola pauli ad
+      romanos</ref>: Ait et Salomon de sapientibus mundi: Si enim tantum potuerunt
+      scire ut possent aestimare factum, quomodo ipsius mundi dominum et
+      creatorem non facilius inuenerunt? Sed quos arguit Salomon, non
+      cognouerunt per creaturam creatorem; quos uero arguit apostolus,
+      cognouerunt sed gratias non egerunt. Sapientes gentium quod inuenerint
+      creatorem manifeste idem apostolus, cum Atheniensibus loqueretur,
+      ostendit. Cum enim dixisset quia in illo uiuimus et mouemur et sumus,
+      addidit: sicut quidam secundum uos dixit.
+    </p>
+            <p xml:id="xAbSeN-1e2392-d1e160">HIERONYMUS AD PAULINUM PRESBYTERUM DE OMNIBUS DlVINAE HISTORIAE
+      LIBRIS: Iohannes rusticus, piscator indoctus; et unde illa uox,
+      obsecro: In principio erat uerbum etc.? Hoc doctus Plato nesciuit; hoc
+      Demosthenes eloquens ignorauit. Perdam, inquit, sapientiam sapientium
+      etc.
+    </p>
+            <p xml:id="xAbSeN-1e2392-d1e163">
+               <ref xml:id="xAbSeN-1e2392-Rd1e165">item</ref>: Taceo de mei similibus, qui si forte ad scripturas sanctas post
+      saeculares litteras uenerint, et sermone composito aurem populi
+      mulserint quicquid dixerint hoc legem deputant, nec scire dignantur
+      quid prophetae quid apostoli senserint; sed ad sensum suum incongrua
+      aptant testimonia, quasi grande sit et non uitiosum ad uoluntatem suam
+      scripturam trahere repugnantem; quasi non legerimus Homerocentenas et
+      Virgiliocentenas, ac non sic etiam Maronem sine Christo possumus
+      dicere christianum quia scripserit: Iam redit et uirgo etc. Iam noua
+      progenies etc. Et patrem loquentem ad filium: Nate, meae uires, mea
+      magna potentia solus. Et post uerba Saluatoris in cruce: Talia
+      perstabat memorans fixusque manebat.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

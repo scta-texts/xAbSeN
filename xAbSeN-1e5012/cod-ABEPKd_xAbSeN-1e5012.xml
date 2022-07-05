@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 67</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 67</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e5012"><!-- xAbSeN-q67 -->
+            <head xml:id="xAbSeN-1e5012-Hd1e103">Quaestio 67</head>
+            <head xml:id="xAbSeN-1e5012-Hd1e106" type="question-title"> quod christus sive deus non sit dicendus creatura aut servus
+      et contra</head>
+    
+            <p xml:id="xAbSeN-1e5012-d1e109">
+               <ref xml:id="xAbSeN-1e5012-Rd1e111">beda in homilia de natali</ref>: Omnia per ipaum facta sunt. Si enim nihil
+      creaturarum sine ipso factum est, patet profecto, quia ipse creatura
+      non est, per quem omnis creatura facta est.
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e115">
+               <ref xml:id="xAbSeN-1e5012-Rd1e117">hieronymus de symbolo niceni concilii</ref>: Accipe igitur quia creatura
+      Deus uerus non potest esse, neque creatura creaturam saluare dicente
+      scriptura: coluerunt et seruierunt creaturae potiua quam creatori, qui
+      est benedictua in saecula. Vides igitur quod paganitatis est potius
+      hoc quam christianitatis.
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e121">
+               <ref xml:id="xAbSeN-1e5012-Rd1e123">hilarius in xii de trinitate</ref>: Non enim Dominum Christum creaturam,
+      quia neque est, neque facturam, quia facturarum omnium ipse est
+      Dominus sed Deum nouimus, Deum Dei patris propriam generationem.
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e128">
+               <ref xml:id="xAbSeN-1e5012-Rd1e130">item</ref>: Nostra uero tantum hoc solum religio est, filium confiteri non
+      adoptiuum sed natum, neque electum sed generatum.
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e134">
+               <ref xml:id="xAbSeN-1e5012-Rd1e136">item</ref>: Quia Paulus seruientes creaturae coarguat.
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e140">
+               <ref xml:id="xAbSeN-1e5012-Rd1e142">item</ref>: Humanae intelligentiae sensus haec respuit, ut creator creatura
+      sit, quia creatio per creatorem est. Qui si creatura sit, et
+      corruptioni subditus et expectationi obnoxius est et seruituti
+      subiectus est. Ait enim apostolus: Etenim longinqua exspectatio
+      creaturae reuelationem filiorum Dei expectat. Vanitati enim creatura
+      subdita est, non sponte, sed propter eum qui subdidit eam in spe; quia
+      et ipsa creatura liberabitur etc. Si igitur Christus creatura est,
+      necesse est sub spe longinquae expectationis incertus sit, et
+      longinqua eius expectatio nostra potius expectet, et expectans ea
+      uanitati subiectus sit, et per necessitatis subiectionem non
+      sponte subiectus sit. Subiectus autem non sponte cum sit, necesse est
+      et seruus sit. Seruus autem cum sit, maneat etiam in corruptione
+      naturae.  Haec enim omnia creaturae propria esse apostolus docet. O
+      impudentem de Deo atque impiam professionem, his eum per creaturae
+      contumeliam etiam ludibriis deputare, ut speret, ut seruiat, ut
+      coactus sit, ut liberandus sit in rostra, non in sua.
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e148">
+               <ref xml:id="xAbSeN-1e5012-Rd1e150">idem supra lib. ix</ref>: Profitens sibi patrem Deum Deus filius.
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e154">
+               <ref xml:id="xAbSeN-1e5012-Rd1e156">item</ref>: Dispensatio itaque pii sacramenti, natiuitatis diuinae patrem,
+      insuper etiam conditionis assumptae Deum fecit; dum qui in forma Dei
+      erat, repertus est in forma serui.
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e160">
+               <ref xml:id="xAbSeN-1e5012-Rd1e162">item</ref>: Sicut ante per naturam non erat seruus et postea secundum
+      naturam esse quod non erat coepit, non alla dominatus cause
+      intelligenda est quam quae extitit seruitutis; tunc habens ex naturae
+      dispensatione dominum, cum praebuit ex hominis assumptione se seruum.
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e167">
+               <ref xml:id="xAbSeN-1e5012-Rd1e169">item</ref>: Ascendo ad patrem meum et patrem uestrum, Deum meum et Deum
+      uestrum.  Cum haec ad homines seruos homo in serui forma Christus
+      loquitur, non ambigitur quin pater sibi ut caeteris sit ex ea parte,
+      qua homo est, et Deus sibi ut cunctis sit ex ea natura qua seruus est.
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e173">
+               <ref xml:id="xAbSeN-1e5012-Rd1e175">augustinus in enchiridion cap. xiii</ref>: Confitemur natum de spiritu
+      sancto et Maria uirgine, procul dubio non sic de illo ut de patre, sic
+      autem de illa ut de matre natus est.
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e179">
+               <ref xml:id="xAbSeN-1e5012-Rd1e181">idem in prima epistola iohannis</ref>: Ideo uenit Deus in carne ut spem
+      resurgendi nobis ostenderet. Quod aliter non poterat fieri nisi carnem
+      indueret mortalem. Deus enim mori non poterat. /252/
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e185">
+               <ref xml:id="xAbSeN-1e5012-Rd1e187">ambrosius de fide ad gratianum lib. i</ref>: Restat ut illud quoque
+      sacrilegium redarguatur et probemus creaturam non esse Dei filium.
+      Audiuimus dicente Domino Praedicate euangelium uniuersae creaturae;
+      creaturam nullam excipit, et ideo ubi sunt qui creaturam Christum
+      appellant? Nam si creatura esset numquid ipse sibi mandaret euangelium
+      praedicari? Non igitur creatura est sed creator Christus. Vanitati
+      enim creatura subiecta est, sicut apostolus dixit. Numquid ergo
+      Christus subiectus est uanitati? Rursus iuxta eundem apostolum
+      creatura congemisoit. Numquid ergo Christus congemiscit, qui nostros a
+      morte gemitus liberauit? Creatura, inquit, liberabitur a seruitute
+      corruptionis. Videmus igitur magnam inter creaturam et Deum esse
+      distantiam, quia seruitus creatura est, Deus autem spiritus est; ubi
+      autem spiritus domini, ibi libertas. Quis hunc induxit errorem, ut eum
+      qui creauit omnia diceret creaturam? Numquid ipse Dominus se creauit?
+      si per ipaum facta sunt omnia, numquid ipse se fecit? Si lectum est
+      quia Deus in sapientia fecit omnia, numquid uerisimile uideri potest
+      quia in se ipsa facta est sapientia?
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e191">
+               <ref xml:id="xAbSeN-1e5012-Rd1e193">idem in quinto</ref>: Apostolus dixit dominum maiestatis crucifixum; filius
+      ergo est et dominus maiestatis; sed non creaturis subiecta
+      maiestas. Non ergo creatura filius.
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e197">
+               <ref xml:id="xAbSeN-1e5012-Rd1e199">item</ref>: Filius paternae est imago substantiae, omnis autem creatura
+      dissimilis supernae substantiae sed non dissimilis Dei patris filius.
+      Non ergo creatura filius.
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e204">
+               <ref xml:id="xAbSeN-1e5012-Rd1e206">item</ref>: Nulla creatura aequalis Deo, aequalis autem filius, non ergo
+      creatura filius.
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e210">
+               <ref xml:id="xAbSeN-1e5012-Rd1e212">item</ref>: Omnis creatura accidentia boni et mali recipit eademque
+      discessionem sentit; Dei autem filio nihil potest ex eius diuinitate
+      uel decedere uel accedere. Non ergo creatura Dei filius.
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e216">
+               <ref xml:id="xAbSeN-1e5012-Rd1e218">item</ref>: Omne opus suum Deus adducet in iudicium. Sed Dei filius
+      non adducitur in indicium. Non ergo creatura Dei filius.
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e224">
+               <ref xml:id="xAbSeN-1e5012-Rd1e226">item</ref>: Filius unum se esse cum patre dixit. Id quemadmodum potest dici
+      creatura? Non ergo creatura Dei filius.
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e230">
+               <ref xml:id="xAbSeN-1e5012-Rd1e232">item</ref>: Non idem est regnare et seruire. Christus autem et rex est et
+      filius regis. Non ergo seruus est Dei filius.
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e236">
+               <ref xml:id="xAbSeN-1e5012-Rd1e238">item</ref>: Omnis creatura seruit sed non seruit Dei filius, qui ex seruis
+      filios Dei facit. Non ergo creatura Dei filius.
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e243">
+               <ref xml:id="xAbSeN-1e5012-Rd1e245">idem supra lib. i de arrianis</ref>: Dicant igitur generatum ex patre, ex
+      matre creatum; aut dicant, quomodo Dei filius et genitus et creatus?
+      Una natura et maxime Deus diuersitatem non recipit. Prohibet me Paulus
+      creaturae seruire, et Christo admonet seruiendum. Non ergo creatura
+      Christus. Paulus inquit seruus Iesu Christi. Quemadmodum ergo Christo
+      ipse seruiret, si creaturam Christum putaret? Aut igitur desinant
+      colere quem creaturam appellant, aut desinant, quem colere se
+      simulant, dicere creaturam, ne sub appellatione cultorum sacrilegia
+      grauiora committant.
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e249">
+               <ref xml:id="xAbSeN-1e5012-Rd1e251">idem in eodem</ref>: Deum meum et Deum uestrum: Ubique autem Deum suum quod
+      ex persona dicat hominis, testimonia docent. Deus Deus meus respice in
+      me, et de uentre matris meae Deus meus es tu, significat ex illo Deum
+      sibi esse ex quo de matris uentre iactatus est. Cum igitur
+      generationem Christi legerimus, in quo audent dicere creatum uel
+      factum? Et quid est in quo creatum legerint, in quo factum considerare
+      deberent? Edoctum enim est Dei filium de Deo esse genitum. Factum
+      autem in quo legerint diligenter aduertant. Non enim Deus factus. sed
+      Deus Dei filius natus est; postea autem secundum carnem homo factus
+      est. Misit Deus filium suum factum ex muliere. Suum cum dicit,
+      generationis aeternae proprietatem signauit. Factum ex muliere,
+      ut factura non diuinitati sed assumptioni corporis adscriberetur.
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e257">
+               <ref xml:id="xAbSeN-1e5012-Rd1e259">item</ref>: Vane iactare consuerunt quia scriptum est: Et Dominum eum et
+      Christum fecit Deus hunc Iesum, quem uos crucifixistis. Non diuinitas
+      crucifixa est sed caro. Hoc itaque fieri potuit, quod potuit
+      crucifigi. Non ergo factura Dei filius.
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e263">
+               <ref xml:id="xAbSeN-1e5012-Rd1e265">item</ref>: Dominus creauit me. Non dixit, Pater creauit. Caro Dominum
+      agnoscit, creature nostra Dominum confitetur. Itaque quis ignoret,
+      quia ob causam incorporationis hoc dicitur? In eo ergo se creatum
+      dicit in quo et hominem testatur.
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e269">
+               <ref xml:id="xAbSeN-1e5012-Rd1e271">item lib. v</ref>: Scriptum est, inquiunt qui in me credit, non credit in
+      me, sed in eum qui me misit. Sed uidete quid sequatur: Et qui uidet
+      me, uidet eum qui me misit. Exposuit igitur quod ante praemisit, quia
+      ille credit in filio qui confitetur patrem. Nam qui filium nescit nec
+      patrem. Quid est non credit in me? Non in id quod corporaliter
+      cernitis.  Ait: a me ipso non ueni, quasi homo a se non uenit, et
+      alibi, ut omnia qui uidet filium et credit in eum, habeas uitam
+      aeternam. et alibi: credite in Deum, et in me credite.
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e275">
+               <ref xml:id="xAbSeN-1e5012-Rd1e277">item</ref>: Se quoque nunc ex persona hominis, nunc in Dei maiestate
+      significat, nunc doctrinam suam se non habere, nunc uoluntatem suam se
+      non quaerere, nunc testimonium suum uerum non esse, nunc uerum esse
+      significans. Nam ipse ait: si ego testimonium perhibeo de me ipso,
+      testimonium meum non est uerum, et in posterioribus: Et si ego
+      testimonium perhibeo de me, uerum est testimonium meum. Quomodo non
+      est uerum testimonium tuum domine, nisi secundum fragilitatem hominum?
+      Omnis enim homo mendax. Denique ut secundum hominem dixisse se
+      demonstraret, ait: Qui misit me Pater, ipse testimonium perhibet de
+      me. Verum autem testimonium secundum diuinitatem, sicut ipse ait: Et
+      uerum est testimonium moum, quia scio unde ueni et quo uado.
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e284">
+               <ref xml:id="xAbSeN-1e5012-Rd1e286">idem lib. v</ref>: Aliud igitur est secundum diuinam substantiam, aliud
+      secundum susceptionem carnis filium nominari. Nam et secundum
+      generationem diuinam Deo patri aequalis est filius, et secundum
+      susceptionem corporis formam serui accepit; unus tamen atque idem est
+      filius. Patriarchae Dauid secundum gloriam suam dominus est, secundum
+      corporalis susceptionis seriem filius est. Nec solum ex genere Dauid
+      seruitutem suscepit in persona hominis sed etiam ex Domino, sicut
+      habes: Ecce ego mittam ad uos seruum moum; Oriens nomen est ei. Et
+      ipse filius ait: Dominus qui finxit me ex utero seroum sibi et dixit
+      mihi: Ecce posui te in lucem gentium, ut sis in salutem usque ad
+      extremum terrae. Cui hoc dicitur nisi Christo? Qui cum in forma Dei
+      esset, exinaniuit se. Dicit in psalmo: Illustra faciem tuam super
+      seruum tuum. Seruus dictus est in quo unctus est. Seruus dictus est in
+      quo matrem habet. Ego seruus tuus et filius ancillae tuae. Et in
+      Ezechiele: Et suscitabo super eos pastorem unum, et reget eos seruus
+      meus Dauid, et Dauid in medio erit princeps. Utique Dauid iam
+      defunctus erat. De Christo itaque dicit.
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e290">
+               <ref xml:id="xAbSeN-1e5012-Rd1e292">chrysostomus de psalmo l</ref>: Rerum stupenda miracula. Quem dignum
+      sermonem pronuntiem? O amentia haereticorum dicentium, quomodo
+      creatura creator est? Dic quemadmodum, qui ubique est, intra uuluam
+      fuit?
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e296">
+               <ref xml:id="xAbSeN-1e5012-Rd1e298">augustinus de virginitate</ref>: Inspicite pulchritudinem amatoris uestri,
+      cogitate aequalem patri, subditum et matri. etiam in caelis dominantem
+      et in terris seruientem, creantem omnia, creatum inter omnia.
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e302">
+               <ref xml:id="xAbSeN-1e5012-Rd1e304">idem de fide ad petrum</ref>: Ille omnium spirituum omniumque corporum, id
+      est omnium naturarum, creator et dominus creauit uirginem creandus
+      ex uirgine.
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e310">IDEM IN ENCHIRIDION CAP. XI l: Natus est de spiritu sancto et uirgine
+      Maria. Utraque substantia, diuina scilicet atque humana, filius est
+      Dei.
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e313">
+               <ref xml:id="xAbSeN-1e5012-Rd1e315">idem super iohannem tractatu v</ref>: Omnia per ipsum facta sunt; si omnia
+      et Maria per ipsum facta est, de qua postea natus est. Quomodo creauit
+      Mariam et creatus est per Mariam, sic dedit baptismum Iohanni et
+      baptizatus est a Iohanne.
+    </p>
+            <p xml:id="xAbSeN-1e5012-d1e320">
+               <ref xml:id="xAbSeN-1e5012-Rd1e322">leo papa in sermone pentecostes</ref>: Si enim homo ad imaginem et
+      similitudinem Dei factus in suae naturae honore mansisset, nec
+      diabolica fraude deceptus a lege sibi posita per concupiscentiam
+      deuiasset, creator mundi creature non fieret. Sed quia diaboli inuidia
+      mors intrauit in orbem terrarum et aliter solui captiuitas humana non
+      potuit, nisi causam nostram ille susciperet, qui sine maiestatis suae
+      damno uerus homo fieret et solus contagium peccati non haberet et
+      caetera.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

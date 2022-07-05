@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 116</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 116</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e8488"><!-- xAbSeN-q116 -->
+            <head xml:id="xAbSeN-1e8488-Hd1e103">Quaestio 116</head>
+            <head xml:id="xAbSeN-1e8488-Hd1e106" type="question-title"> quod peccata patrum reddantur in filios et contra</head>
+    
+            <p xml:id="xAbSeN-1e8488-d1e109">
+               <ref xml:id="xAbSeN-1e8488-Rd1e111">origenes in exodo, homilia viii</ref>: Cum a diabolo ad peccandum suademur,
+      semen eius suscipimus; cum uero opere etiam implemus, tunc iam et
+      genuit nos. Verum quia peccantes uix fere accidit ut sine adintore
+      peccemus, omnes uelut unus ex altero secundum persuasionis ordinem
+      generati ex patre diabolo noxiae natiuitatis progeniem ducunt. Nunc
+      ergo uideamus secundum hanc quam diximus progeniem, quomodo Deus
+      peccata patrum reddat in filios et in tertiam et in quartam progeniem,
+      et in ipsos non reddat patres. Nihil enim de patribus dixit. Diabolus
+      non erit mundus in hoc saeculo neque corripitur pro peccato neque
+      flagellatur. Omnia namque ei seruata sunt in futurum. Unde et ipse
+      sciens sibi illud statutum esse tempus poenarum dicebat ad saluatorem:
+      Quare uenieti ante tempus torquere nos? Redduntur autem peccata in
+      filios, id est in eos quos genuit per peccatum. Etenim homines in
+      carne positi corripiuntur a domino, ut reuertantur; et propterea
+      benignus dominus reddet peccata patrum in filios, ut quondam patres,
+      id est diabolus et angeli eius, indigni sunt qui in hoc saeculo
+      corripiantur, filii eorum hic recipiunt quae gesserunt; ut purgatiues
+      ad futurum saeculum pergant et ultra diabolo socii non efficiantur in
+      poena. Propterea dicit: Visitabo in flagellis peccata eorum.
+      Misericordiam autem meam non auferam ab eis.
+    </p>
+            <p xml:id="xAbSeN-1e8488-d1e117">
+               <ref xml:id="xAbSeN-1e8488-Rd1e119">ezechiel propheta</ref>: Et factus est sermo domini ad me dicens: Quid est
+      quod inter uos parabolam uertitis in prouerbium istud in terra Israel
+      dicentes: Patres nostri comederunt uuam acerbam, et dentes filiorum
+      obstupescunt.
+    </p>
+            <p xml:id="xAbSeN-1e8488-d1e123">
+               <ref xml:id="xAbSeN-1e8488-Rd1e125">hieronymus super hunc locum</ref>: Monet illud quod in Exodo dictum est: Ego
+      aum Deue aemulator, qui reddo pecoata patrum euper filios usque ad
+      tertiam et quartam generationem his qui oderunt me, et facto
+      misericordiam in millia his qui diligunt me et iterum: Domine Deus,
+      miserator et misericors, patiens et multae misericordiae etc.  Reddens
+      iniquitates patrum in filios et super filioe filiorum in tertiam et
+      quartam generationem, sic accipi debere quasi parabolam et prouerbium,
+      ut aliud in uerbis sonet, aliud in sensu teneat.  Et nos usque
+      in praesentem diem putabamus non esse parabolam sed simplicem
+      explicare sententiam, et tamen scandalum patiebamur occultum quod
+      iniustitia uideretur Dei alium peccare et alium luere peccata.  Sed ex
+      eo quod sequitur, hie qui oderunt me, comminationis suae scandalum
+      soluitur. Non enim ideo puniuntur quia deliquerunt patres eorum, cum
+      patres potius puniri debuerint sed quia patrum extiterunt aemulatores
+      et oderunt Deum hereditario malo, in ramo quoque de radice crescente.
+    </p>
+            <p xml:id="xAbSeN-1e8488-d1e132">
+               <ref xml:id="xAbSeN-1e8488-Rd1e134">item</ref>: Respondebimus et in hoc creatoris clementiam demonstrari. Non
+      enim truculentiae est et seueritatis iram tenere usque ad tertiam et
+      quartam generationem sed signum misericordiae poenam differre peccati.
+      Quoniam enim dicit: dominus Deus, miserator et misericors, patiens et
+      multus miserationis, et infert: reddens iniquitates patrum super
+      filios et filios filiorum, hoc indicat, quod tantae misericordiae sit
+      ut non statim puniat sed sententiam differat puniendi.
+    </p>
+            <p xml:id="xAbSeN-1e8488-d1e138">
+               <ref xml:id="xAbSeN-1e8488-Rd1e140">item</ref>: Scriptum est in prouerbiis: Sicut uua acerba dentibus noxia est,
+      et fumus oculis, sic iniquitus hic qui utuntur ea. Ex quo perspicuum
+      est, non aliorum dolere dentes et obstupescere sed eorum qui uuam
+      acerbam comederunt. Est autem sensus: Quomodo si quis uelit dicere,
+      patres uuam acerbam comederunt, et dentes filiorum obstupuerunt,
+      ridiculum est et nullam habens consequentiam, sic iniquum est atque
+      peruersum, peccare patres et filios nepotesque cruciari.
+    </p>
+            <p xml:id="xAbSeN-1e8488-d1e144">
+               <ref xml:id="xAbSeN-1e8488-Rd1e146">item</ref>: Sunt qui hoc quod scriptum est: reddens iniquitatea patrum auper
+      filioa in tertiam et quartam generationem, ita edisserant ut ad animam
+      humanam sententiam referant, patrem in nobis leuem punctum sensuum et
+      incentiua uitiorum esse dicentes, filium uero si cogitatio peccatum
+      conceperit, nepotem si quod cogitaueris atque conceperis opere
+      perpetrabis, pronepotem autem, hoc est quartam generationem, si non
+      solum feceris quod malum est sed in tuis sceleribus gloriaris,
+      secundum quod scriptum est: Impius cum in profundum malorum uenerit,
+      contemnit. Deus igitur primos et secundos stimulos cogitationum, sine
+      quibus nullus hominum esse potest, nequaquam punit sed si cogitata
+      quis facere decreuerit aut ipsa quae fecerit noluerit corrigere
+      paenitentia.
+    </p>
+            <p xml:id="xAbSeN-1e8488-d1e152">
+               <ref xml:id="xAbSeN-1e8488-Rd1e154">item</ref>: Ad probationem autem huius rei, quod nequaquam primus pulsus
+      cogitationis puniatur a Deo sed si quod mente conceperis opere
+      consumes, illud de Genesi: Cham peccauit irridens nuditatem patris, et
+      sententiam non ipse qui risit sed filius eius suscepit Chanaan.
+      Maledictus, ait, Chanaan; seruus erit fratrum suorum; uidetur
+      sententia iustitiam non habere.
+    </p>
+            <p xml:id="xAbSeN-1e8488-d1e158">
+               <ref xml:id="xAbSeN-1e8488-Rd1e160">item</ref>: Hoc interim de prouerbio siue parabola dixisse sufficiat. Si
+      quis autem uel meliorem uel alterum sensum poterit reperire, qui
+      contrariorum inter se testimoniorum scandalum tollat, illius magis
+      adquiescendum sententiae est.
+    </p>
+            <p xml:id="xAbSeN-1e8488-d1e164">
+               <ref xml:id="xAbSeN-1e8488-Rd1e166">item</ref>: Viuo ego, dicit dominus, si erit ultra parabola haec in
+      prouerbium in Israel. Anima quae peccauerit, ipea morietur. Parabola
+      nequaquam dicitur in Israel sed in his qui Dei notitiam non habent nec
+      possunt perspicere ueritatem.
+    </p>
+            <p xml:id="xAbSeN-1e8488-d1e171">
+               <ref xml:id="xAbSeN-1e8488-Rd1e173">item</ref>: Sicut peccata filiorum non nocent patribus sic peccata patrum ad
+      filios non redundant.
+    </p>
+            <p xml:id="xAbSeN-1e8488-d1e177">
+               <ref xml:id="xAbSeN-1e8488-Rd1e179">ex lib. iob</ref>: Deus seruabit filiis illius dolorem patris; et cum
+      reddiderit, tunc sciet.
+    </p>
+            <p xml:id="xAbSeN-1e8488-d1e183">
+               <ref xml:id="xAbSeN-1e8488-Rd1e185">gregorius libro xv moralium</ref>: Scriptum nouimus: Qui reddia peccata
+      patrum in filioa ac nepotea in tertiam et quartam generationem. Et
+      rursum scriptum est: Anima quae peccauerit, ipsa morietur. Reddit ergo
+      peccata patrum in filios, dum pro culpa parentis ex originali peccato
+      anima polluitur prolis. Et rursum non reddit, quia cum ab originali
+      culpa per baptismum liberamur, iam non parentum sed quas ipsi
+      committimus habemus. Aliter quisquis praui parentis iniquitatem
+      imitatur, etiam ex eiusdem delicto constringitur. Unde fit ut iniquus
+      filius iniqui patris non solum sua quae addidit sed etiam patris
+      peccata persoluat, cum uitiis patris, quibus iratum dominum non
+      ignorat, etiam suam adhuc malitiam adiungere non formidat.
+    </p>
+            <p xml:id="xAbSeN-1e8488-d1e191">
+               <ref xml:id="xAbSeN-1e8488-Rd1e193">item</ref>: Anima quae peccauerit, ipsa morietur, quia in carne nonnunquam
+      filii etiam ex patris peccato perimuntur. Deleto autem originali
+      peccato, ex parentum nequitia in anima non tenentur.
+    </p>
+            <p xml:id="xAbSeN-1e8488-d1e197">
+               <ref xml:id="xAbSeN-1e8488-Rd1e199">item</ref>: Pater iniquus plerunque percutitur in filiis, ut acrius uratur;
+      quatinus per filiorum poenas mens patris iniqua puniatur.
+    </p>
+            <p xml:id="xAbSeN-1e8488-d1e203">
+               <ref xml:id="xAbSeN-1e8488-Rd1e205">item</ref>: Recte dicitur usque in tertiam et quartam progeniem, quia ad
+      tertiam et quartam progeniem, eam quam imitantur filii parentum uitam
+      possunt uidere, usque ad eos ultimo extenditur, qui uiderunt quod male
+      sequerentur.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

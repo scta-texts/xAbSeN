@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 4</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 4</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-d1e856"><!-- xAbSeN-q4 -->
+            <head xml:id="xAbSeN-d1e856-Hd1e103">Quaestio 4</head>
+            <head xml:id="xAbSeN-d1e856-Hd1e106" type="question-title"> quod agnitio non sit de non apparentibus sed fides tantum et
+      contra</head>
+    
+            <p xml:id="xAbSeN-d1e856-d1e109">GREGORIUS HOMILIA VI, LIB. I1 IN EVANGELIO: Profecto liquet quia fides
+      illarum rerum argumentum est quae apparere non possunt; quae enim sunt
+      apparentia fidem non habent sed agnitionem.
+    </p>
+            <p xml:id="xAbSeN-d1e856-d1e112">
+               <ref xml:id="xAbSeN-d1e856-Rd1e114">haimo in epistola pauli ad romanos</ref>: Fides igitur est qua ueraciter
+      credimus id quod nequaquam uidere ualemus. Sin autem quod credimus iam
+      uidemus fides non est habenda sed cognitio.
+    </p>
+            <p xml:id="xAbSeN-d1e856-d1e118">
+               <ref xml:id="xAbSeN-d1e856-Rd1e120">paulus in ii epistola ad corinthios</ref>: <quote xml:id="xAbSeN-d1e856-Qd1e123" source="http://scta.info/resource/IIcor4_13 http://scta.info/resource/IIcor4_14">Et nos credimus propter quod et
+      loquimur; scientes quoniam qui suscitauit Iesum, et nos cum Iesu
+      suscitabit et constituet uobiscum</quote>.
+    </p>
+            <p xml:id="xAbSeN-d1e856-d1e128">
+               <ref xml:id="xAbSeN-d1e856-Rd1e130">item</ref>: Scimus enim quoniam, si terrestris domus nostra dissoluatur,
+      habemus domum aeternam in caelis.
+    </p>
+            <p xml:id="xAbSeN-d1e856-d1e134">
+               <ref xml:id="xAbSeN-d1e856-Rd1e136">augustinus lib. i retractationum</ref>: Quod dixi multum interesse utrum
+      aliquid certa mentis ratione teneatur, quod scire dicimus, uel fama an
+      litteris credendum posteris utiliter commendetur, et paulo post: Quod
+      scimus igitur debemus rationi, quod credimus, auctoritati, non sic
+      accipiendum est ut in sermone usitatiore uereamur nos dicere scire
+      quod idoneis testibus credimus. Proprie quippe cum loquimur, id solum
+      sciri dicimus quod mentis firma ratione comprehendimus. Cum uero
+      loquimur uerbis consuetudini aptioribus, non dubitemus dicere scire
+      nos et quod percipimus nostri corporis sensibus et quod fide dignis
+      credimus testibus.
+    </p>
+            <p xml:id="xAbSeN-d1e856-d1e140">
+               <ref xml:id="xAbSeN-d1e856-Rd1e142">idem ad paulinum</ref>: Satis est ut inter uidere et credere hoc distare
+      dicamus, quod praesentia uidentur, creduntur absentia.
+    </p>
+            <p xml:id="xAbSeN-d1e856-d1e146">
+               <ref xml:id="xAbSeN-d1e856-Rd1e148">item</ref>: Constat igitur nostra scientia ex uisis rebus et creditis. /126/
+    </p>
+            <p xml:id="xAbSeN-d1e856-d1e152">
+               <ref xml:id="xAbSeN-d1e856-Rd1e154">item</ref>: Non autem immerito scire nos dicimus non solum ea quae uidimus
+      uel uidemus uerum et illa quae idoneis commoti testimoniis credimus.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

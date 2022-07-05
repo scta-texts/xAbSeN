@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 106</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 106</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e7546"><!-- xAbSeN-q106 -->
+            <head xml:id="xAbSeN-1e7546-Hd1e103">Quaestio 106</head>
+            <head xml:id="xAbSeN-1e7546-Hd1e106" type="question-title"> quod sine baptismo aquae nemo iam salvari possit et contra</head>
+    
+            <p xml:id="xAbSeN-1e7546-d1e109">
+               <ref xml:id="xAbSeN-1e7546-Rd1e111">secundum iohannem</ref>: Respondit Iesus: Amen, amen dico tibi nisi quis
+      renatus fuerit ex aqua et spiritu sancto, non potest introire in
+      regnum Dei.
+    </p>
+            <p xml:id="xAbSeN-1e7546-d1e117">
+               <ref xml:id="xAbSeN-1e7546-Rd1e119">ambrosius de sacramentis sermone i</ref>: Cognosce quod aqua non mundat sine
+      spiritu sancto. Ideoque legisti quod tres testes in baptismate unum
+      sins, aqua, sanguis et spiritus, quia si unum horum detrahas, non stat
+      baptismatis sacramentum. Quid enim aqua sine cruce Christi? Elementum
+      commune sine ullo sacramenti effectu. Nec iterum sine aqua
+      regenerationis mysterium est. Nisi enim quis renatus fuerit ex aqua
+      etc. Credit autem et catecuminus in crucem domini sed nisi baptizatus
+      fuerit in nomine patris et filii et spiritus sancti, remissionem non
+      potest accipere peccatorum nec spiritalis gratiae munus haurire.
+    </p>
+            <p xml:id="xAbSeN-1e7546-d1e123">
+               <ref xml:id="xAbSeN-1e7546-Rd1e125">augustinus in libro de natura et gratia</ref>: In eo quod dictum est, per
+      unius iustitiam in omnes homines in iustificationem uitae, nullus
+      praetermissus est. Non quia omnes in eum credunt et baptismo eius
+      abluuntur sed quia nemo iustificatur nisi in eum credat et baptismo
+      eius abluatur.
+    </p>
+            <p xml:id="xAbSeN-1e7546-d1e130">
+               <ref xml:id="xAbSeN-1e7546-Rd1e132">idem de correptione et gratia</ref>: Ut immorer etiam in baptismate
+      paruulorum, quod nullus istorum potest dicere cur illi paruulo detur,
+      illi non, cum sit utrumque in potestate Dei et sine illo sacramento
+      nemo intret in regnum Dei.
+    </p>
+            <p xml:id="xAbSeN-1e7546-d1e136">
+               <ref xml:id="xAbSeN-1e7546-Rd1e138">responsiones prosperi ad rufinum cap. ix</ref>: Non sufficit hominum
+      redemptioni crucifixum esse Christum, nisi commoriantur ei et
+      sepeliantur in baptismo. Alioquin nato saluatore et crucifixo pro
+      omnibus nobis non fuerat necessarium ut renasceremur et similitudini
+      mortis eius complantaremur. Sed cum sine hoc sacramento nemo hominum
+      salutem consequatur, non est saluatus cruce Christi qui non est
+      crucifixus in Christo. Non est autem crucifixus in Christo qui non est
+      membrum corporis Christi. Nec est membrum corporis Christi qui non per
+      aquam et sanguinem induit Christum.
+    </p>
+            <p xml:id="xAbSeN-1e7546-d1e142">
+               <ref xml:id="xAbSeN-1e7546-Rd1e144">secundum matthaeum</ref>: Qui autem perdiderit animam suam propter me
+      inueniet eam.
+    </p>
+            <p xml:id="xAbSeN-1e7546-d1e150">
+               <ref xml:id="xAbSeN-1e7546-Rd1e152">item</ref>: Omnis ergo qui confitebitur me coram hominibus, confitebor et
+      ego eum coram patre meo.
+    </p>
+            <p xml:id="xAbSeN-1e7546-d1e156">
+               <ref xml:id="xAbSeN-1e7546-Rd1e158">augustinus de civitate dei, lib. xiii</ref>: Qui enim dixit, si quis non
+      renatus fuerit ex regnum caelorum, alia non minus generaliter aqua et
+      spiritu, non intrabit in sententia istos fecit exceptos, ubi ait: Qui
+      me confessus fuerit etc.  et in alio loco: Qui perdiderit animam suam
+      propter me, inueniet eam.
+    </p>
+            <p xml:id="xAbSeN-1e7546-d1e162">
+               <ref xml:id="xAbSeN-1e7546-Rd1e164">idem de fide ad petrum</ref>: Ex illo tempore, quo saluator dixit, si quis
+      non renatus fuerit ex aqua et spiritu sancto, non potest introire in
+      regnum Dei, absque sacramento baptismatis praeter eos, qui in ecclesia
+      catholica sine baptismate sanguinem fundunt, nec regnum caelorum
+      potest quisque accipere, nec uitam aeternam.
+    </p>
+            <p xml:id="xAbSeN-1e7546-d1e169">
+               <ref xml:id="xAbSeN-1e7546-Rd1e171">gennadius de orthodoxa fide ecclesiasticorum dogmatum</ref>: Nullum
+      catecuminum quamuis in bonis operibus defunctum, uitam aeternam habere
+      credimus, excepto martyrio. Baptizandus confitetur fidem suam coram
+      sacerdote.  Hoc et martyr coram persecutore facit. Ille manus
+      impositione pontificis accipit spiritum sanctum, hic habitaculum
+      efficitur spiritus sancti, dum non est ipse qui loquitur sed spiritus
+      patris, qui in ipso loquitur. Ille communicauit eucharistiae in
+      commemoratione mortis domini, hic ipsi Christo commoritur.
+    </p>
+            <p xml:id="xAbSeN-1e7546-d1e175">
+               <ref xml:id="xAbSeN-1e7546-Rd1e177">augustinus de unico baptismo lib. iv</ref>: Baptismi uicem aliquando implere
+      passionem de latrone illo cui non baptizato dictum est: Hodie mecum
+      eris in paradiso, beatus Cyprianus non leue documentum assumit, quod
+      etiam atque etiam considerans inuenio non tantum passionem pro
+      nomine Christi id quod ex baptismo deerat posse supplere sed etiam
+      fidem conuersionemque cordis, si forte ad celebrandum mysterium
+      baptismi in angustiis temporum succurri non potest. Neque enim latro
+      ille pro nomine Christi crucifixus est sed pro meritis facinorum
+      suorum nec quia credidit passus est sed dum patitur, credidit.
+      Quantum itaque ualeat etiam sine uisibili baptismi sacramento, quod
+      ait apostolus: Corde creditur ad iustitiam, ore autem confessio fit ad
+      salutem, in illo latrone declaratum est. Sed tunc impletur
+      uisibiliter, cum mysterium baptismi non contemptus religionis sed
+      articulus necessitatis excludit. Et sicut in illo latrone quod de
+      baptismi sacramento defuerat compleuit omnipotentis benignitas quia
+      non superbia uel contemptu sed necessitate defuerat, sic in
+      infantibus, qui baptizati moriuntur, eadem gratia omnipotentis explere
+      credenda est, quod non ex impia uoluntate sed ex aetatis indigentia
+      nec corde credere ad iustitiam possunt nec ore confiteri ad salutem.
+      Ideo cum pro eis oratur, ut impleatur erga eos celebratio sacramenti,
+      ualet utique ad eorum celebrationem, quia ipsi respondere non possunt.
+      Alienum quippe opus est, cum credit per alterum, sicut alienum opus
+      fuit, cum peccauit in altero.
+    </p>
+            <p xml:id="xAbSeN-1e7546-d1e183">
+               <ref xml:id="xAbSeN-1e7546-Rd1e185">item</ref>: Sicut autem in latrone per necessitatem baptismus corporaliter
+      defuit, perfecta salus est, quia per pietatem spiritualiter affuit;
+      sic cum et ipsa praesto est, si per necessitatem desit quod latroni
+      affuit, perficitur salus. Quod traditum tenet uniuersitas ecclesiae,
+      cum baptizantur paruuli infantes, qui certe nondum possunt credere ad
+      iustitiam et ore confiteri ad salutem, quod latro potuit, quin etiam
+      flendo et uagiendo, cum in eis mysterium celebratur, ipsis mysticis
+      uocibus obstrepunt, et nullus Christianorum dixerit eos inaniter
+      baptizari.
+    </p>
+            <p xml:id="xAbSeN-1e7546-d1e189">
+               <ref xml:id="xAbSeN-1e7546-Rd1e191">item</ref>: Quibus rebus omnibus ostenditur aliud esse baptismi sacramentum,
+      aliud conuersionem cordis sed salutem hominis ex utroque
+      compleri; nec si unum horum defuerit, ideo consequens esse putare
+      debemus ut et alterum desit, quia et illud sine isto potest esse, ut
+      in infante, et istud sine illo potuit esse in latrone, Deo complente
+      siue in illo siue in isto quod non uoluntate defuisset, cum uero ex
+      uoluntate alterum horum defuerit, reatu hominem inuolui. Et baptismus
+      potest inesse, ubi conuersio cordis defuerit. Conuersio autem cordis
+      potest quidem inesse non percepto baptismo, sed contempto non
+      potest. Neque ullo modo dicenda est conuersio cordis ad Deum, cum Dei
+      sacramentum contempnitur. 
+    </p>
+            <p xml:id="xAbSeN-1e7546-d1e197">
+               <ref xml:id="xAbSeN-1e7546-Rd1e199">idem in secundo retractationum</ref>: Cum dicerem "uicem baptismi posse habere
+      passionem," non satis idoneum posui illius latronis exemplum, quia
+      utrum non fuerit baptizatus incertum est.
+    </p>
+            <p xml:id="xAbSeN-1e7546-d1e203">
+               <ref xml:id="xAbSeN-1e7546-Rd1e205">item</ref>: Quod dixi, "latro ille nec ipsum baptismum acceperat," hoc et
+      alios rectores sanctae ecclesiae ante nos posuisse in suis libris
+      inuenimus. Sed quibus documentis satis possit ostendi quod non fuerit
+      baptizatus, ignoro.
+    </p>
+            <p xml:id="xAbSeN-1e7546-d1e210">
+               <ref xml:id="xAbSeN-1e7546-Rd1e212">item</ref>: De latrone quod non fuerit uisibiliter baptizatus quasi certum
+      posui, cum sit incertum magisque baptizatum fuisse credendum est,
+      sicut postea disputaui.
+    </p>
+            <p xml:id="xAbSeN-1e7546-d1e216">
+               <ref xml:id="xAbSeN-1e7546-Rd1e218">idem de origine animae libro i ad vincentium victorem</ref>: Noli credere,
+      noli dicere infantes, antequam baptizentur morte praeuentos peruenire
+      posse ad originalium indulgentiam peccatorum, si uis esse catholicus.
+      Exempla enim quae te fallunt, uel de latrone qui dominum est confessus
+      in cruce, uel de fratre sanctae Perpetuae Dinocrate, nihil tibi ad
+      huius erroris sententiam suffragantur. Latro quippe ille, quamuis
+      potuerit iudicio diuino inter eos deputari qui martyrii confessione
+      purgantur, tamen etiam utrum non fuerit baptizatus ignoras. Nam
+      ut omittam quod creditur aqua simul cum sanguine exiliente de latere
+      domini iuxta confixus potuisse perfundi atque huiusmodi baptismo
+      sanctissimo dilui, quid si in carcere fuerat baptizatus, quod postea
+      [ex] persecutionis tempore nonnulli clanculo impetrare potuerunt? Quid
+      et si antequam teneretur? Nam si eos, de quibus scriptum non est utrum
+      fuerint baptizati, sine baptismo de hac uita recessisse contendimus,
+      ipsis calumniamur apostolis, qui praeter apostolum Paulum quando
+      baptizati fuerint ignoramus. Sed si ipsos baptizatos esse per hoc
+      nobis innotescere potuit quod Petro dominus ait, qui lotua eat, non
+      indiget, nisi ut pedea lauet; quid de aliis dicemus, de quibus uel
+      tale nihil legimus dictum, de Barnaba, de Timotheo, de Tito, de ipsis
+      euangelistis Marco et Luca, de innumerabilibus caeteris, quos absit ut
+      baptizatos esse dubites, quamuis non legamus? Dinocrates autem
+      septennis puer, in quibus annis pueri cum baptizantur iam symbolum
+      reddunt et pro se ipsis ad interrogata respondent, cur non tibi uisus
+      fuerit baptizatus, potuisse ab impio patre ad gentilium sacrilegia
+      reuocari et ob hoc fuisse in poenis, de quibus sorore orante liberatus
+      est, nescio. Neque enim et ipsum uel nunquam fuisse Christianum uel
+      catecuminum fuisse legisti, quamquam ipsa lectio non sit in eo canone
+      scripturarum unde in huiusmodi quaestionibus testimonia proferenda
+      sunt.
+    </p>
+            <p xml:id="xAbSeN-1e7546-d1e224">
+               <ref xml:id="xAbSeN-1e7546-Rd1e226">idem ad seleucium</ref>: Scriptum est quando baptizatus est apostolus
+      Paulus, et scriptum non est quando baptizati sint alii apostoli.
+      Verumtamen ipsos etiam baptizatos intelligere debemus siue baptismo
+      Iohannis siue, quod magis credibile est, baptismo Christi. De Petro
+      autem intelligitur in eo quod a domino audiuit, qui lotua est
+      non indiget, nisi ut pedea lauet.
+    </p>
+            <p xml:id="xAbSeN-1e7546-d1e232">
+               <ref xml:id="xAbSeN-1e7546-Rd1e234">idem de natura et gratia</ref>: Ego dico paruulum natum in eo loco ubi ei
+      non potuit per Christi baptismum subueniri, morte praeuentum idcirco
+      talem fuisse, id est sine lauacro regenerationis exisse, quia esse
+      aliud non potuit.  Sed non eum absoluit apostolus, qui ait, per unum
+      hominem peccatum intrauit in mundum et per peccatum more et ita in
+      omnea hominea pertranaiit, in quo omnea peccauerunt. Recte ergo ea
+      damnatione quae per uniuersam massam currit non admittitur in regnum
+      caelorum, quamuis Christianus non solum non fuerit sed nec esse
+      potuerit.
+    </p>
+            <p xml:id="xAbSeN-1e7546-d1e238">
+               <ref xml:id="xAbSeN-1e7546-Rd1e240">hieronymus ad heliodorum</ref>: Non facit ecclesiastica dignitas
+      Christianum. Cornelius centurio adhuc ethnicus dono spiritus sancti
+      mundatur.
+    </p>
+            <p xml:id="xAbSeN-1e7546-d1e244">
+               <ref xml:id="xAbSeN-1e7546-Rd1e246">ambrosius super epistolam ad corinthios i</ref>: Scimus et spiritum sanctum
+      sine menus impositione datum a Deo et non baptizatum consecutum
+      remissionem peccatorum.
+    </p>
+            <p xml:id="xAbSeN-1e7546-d1e251">
+               <ref xml:id="xAbSeN-1e7546-Rd1e253">idem in epistola de consolatione mortis valentiniani imperatoris ad
+      sorores ipsius</ref>: Audio uos dolere, quod non accepit sacramenta
+      baptismatis.  Dicite mihi, qui etiam dudum hoc uoti habuit ut, cum in
+      Italiam uenisset, initiaretur, et proxime baptizari se a me
+      significauit et ideo praeteritis causis me acciendum putauit, non
+      habet ergo gratiam, quam desiderauit, non habet quam poposcit? Et quia
+      poposcit, accepit.  Et ubi illud est: Iustus quacumque morte
+      praeuentua fuerit, anima eius in requie erit.  Solue igitur, pater
+      sancte, munus seruo tuo.
+    </p>
+            <p xml:id="xAbSeN-1e7546-d1e257">
+               <ref xml:id="xAbSeN-1e7546-Rd1e259">item</ref>: Non metuebat hominibus displicere, ut tibi sold placeret in
+      Christo. Qui habuit spiritum tuum, quomodo non accepit gratiam tuam?
+      Aut si qua solemniter non sunt celebrate mysteria, hoc moues -- Ergo
+      nec martyres, si catecumini fuerint, coronantur? Quod si suo abluuntur
+      sanguine et hunc sue pietas abluit et uoluntas.
+    </p>
+            <p xml:id="xAbSeN-1e7546-d1e265">
+               <ref xml:id="xAbSeN-1e7546-Rd1e267">item</ref>: Et huic adhuc intercessionem adscisco cui remunerationem
+      praesumo! Pio requiem poscamus affectu.
+    </p>
+            <p xml:id="xAbSeN-1e7546-d1e271">
+               <ref xml:id="xAbSeN-1e7546-Rd1e273">item</ref>: Doleo in te fili Gratiane, doleo etiam in te, fili Valentiniane!
+      Tu per me putabas te eripi periculis, tu me non solum ut parentem
+      diligebas sed ut redemptorem tui et liberatorem sperabas. Tu dicebas,
+      Putasne, uidebo patrem meum? Speciosa de me uoluntas tua sed non
+      efficax praesumptio.  Ei mihi uana spes in homine! Ei mihi quod
+      uoluntatem tuam non ante cognoui. Domine, quia nemo habet quod alii
+      plus deferat quam quod sibi optat, non me ab illis post mortem separes
+      quos in hac uita carissimos sensi. Domine, peto ut, ubi ego fuero, et
+      illi aint mecum.  Te quaeso, summe Deus, ut carissimos iuuenes matura
+      resurrectione resuscites, ut immaturum hunc uitae istius cursum matura
+      resurrectione compenses.
+    </p>
+            <p xml:id="xAbSeN-1e7546-d1e277">
+               <ref xml:id="xAbSeN-1e7546-Rd1e279">ex vita sancti gregorii lib. ii, cap. xliv</ref>: Legitur quod beatissimus
+      ille papa animam Traiani imperatoris gentilis defuncti precibus suis
+      et lacrymis ab inferni cruciatibus liberauit, et quod ipse propter
+      mansuetudinem praedicti iudicis ad sancti Petri basilicam peruenerit,
+      ibique tam diu super errore tam clementissimi principis defleuisset,
+      quousque responsum sequenti nocte accepisset, se pro Traiano fuisse
+      auditum, ad quem quidem orationis ausum praedictus papa commotus
+      fuisse ibidem perhibetur pro eo, quod, dum quodam tempore Traianus ad
+      imminentis belli procinctum uehementissime festinaret, proclamante
+      uidua quadam pro uindicta filii sui interfecti equo descendit nec
+      antea discessit quam iudicium uiduae per semet ipsum egerit. Et
+      notandum, quod non legitur Traiani animam in paradiso fuisse
+      repositam, cum scriptum sit: nisi quia renatua fuerit ex aqua et
+      spiritu sancto, non potest introire in regnum caelorum; sed
+      simpliciter dicitur ab inferni cruciatibus liberauit cum ita possit
+      anima et in inferno existere et inferni cruciatum per Dei
+      misericordiam non sentire, sicuti unus Gehennae ignis ualet omnes
+      peccatores pariter detinere sed non aequaliter exurere, ut quantum
+      uniuscuiusque meruit culpa tantum sentiatur et poena. Non itaque
+      Traianus adeptus est gloriam, etsi euaserit communem Gehennae poenam,
+      nec intrat caelorum regnum, si euitet corporale incendium et mitissima
+      illa paruulorum fruatur poena.  Bene autem fortasse spiritali uiro
+      ostensum est, hoc Traiani iustitiam et clementiam meruisse, cum pro
+      retributione iustitiae hoc ipse fecisse cognoscatur. Cum enim
+      praedictae uiduse proclamanti Traianus, si sanus reuerteretur e
+      proelio uindictam se per omnia facturum responderet, uidua dixit, Si
+      tu in proelio mortuus fueris quis mihi praestabit? Traianus respondit:
+      Ille qui post me imperabit. Vidua dixit, Et quid tibi proderit, si
+      alter mihi iustitiam fecerit?  Traianus respondit, Utique, nihil. Et
+      uidua, Nonne, inquit, tibi melius est ut tu mihi iustitiam facias et
+      tu pro hoc mercedem tuam recipias, quam alteri hanc transmittas? Tunc
+      Traianus ratione pietateque pariter commotus equo descendit et peregit
+      iudicium.
+    </p>
+            <p xml:id="xAbSeN-1e7546-d1e285">
+               <ref xml:id="xAbSeN-1e7546-Rd1e287">hieronymus ad rusticum</ref>: Nequaquam gentilis plangendus est atque
+      Iudaeus, qui in ecclesia non fuerunt et semel mortui sunt, de quibus
+      saluator ait: dimitte mortuea ut acpeliant mortuca auoa sed hi qui per
+      scelera egrediuntur de ecclesia et nolunt ultra reuerti ad eam
+      damnatione uitiorum.
+    </p>
+            <p xml:id="xAbSeN-1e7546-d1e292">
+               <ref xml:id="xAbSeN-1e7546-Rd1e294">augustinus lib. i de baptismo parvulorum</ref>: Sicut per unum omnes ad
+      condemnationem, sic per unum omnes ad iustificationem. Nec est ullus
+      ulli medius locus, ut possit esse nisi cum diabolo, qui non est
+      cum Christo.
+    </p>
+            <p xml:id="xAbSeN-1e7546-d1e300">
+               <ref xml:id="xAbSeN-1e7546-Rd1e302">idem in libro de fide ad petrum</ref>: Firmissime tene et nullatenus dubites
+      non solum homines iam ratione utentes uerum etiam paruulos, qui siue
+      in uteris matrum uiuere incipiunt et ibi moriuntur siue iam nati sine
+      sacramento baptismatis, quod datur in nomine patris et filii et
+      spiritus sancti, de hoc saeculo transeunt, ignis aeterni supplicio
+      sempiterno puniendos. Quia etsi peccatum propriae actionis nullum
+      habuerunt, originalis tamen peccati damnationem carnali conceptione et
+      natiuitate traxerunt.
+    </p>
+            <p xml:id="xAbSeN-1e7546-d1e306">
+               <ref xml:id="xAbSeN-1e7546-Rd1e308">item</ref>: Firmissime tene et nullatenus dubites, exceptis illis qui pro
+      nomine Christi suo sanguine baptizantur, nullum hominem accepturum
+      uitam aeternam qui non hic a malis suis fuerit per paenitentiam
+      fidemque conuersus et per sacramentum fidei et paenitentiae, id est
+      per baptismum, liberatus. Et maioribus quidem necessarium esse et
+      paenitentiam de malis suis agere et fidem catholicam secundum regulam
+      uirtutis tenere et sacramentum baptism) accipere. Paruulis uero, qui
+      nec propria uoluntate credere nec pacnitentiam pro peccato quod
+      originaliter trahunt agere possum, sacramentum fidei, quod est sanctum
+      baptisma, quamdiu rationis aetas eorum capax esse non potest,
+      sufficere ad salutem.
+    </p>
+            <p xml:id="xAbSeN-1e7546-d1e312">
+               <ref xml:id="xAbSeN-1e7546-Rd1e314">ex epistola siritii papae cap. xiii</ref>: Qui in uino pro maxima
+      necessitate baptizat ut aeger non periclitetur. pro tall re nulla ei
+      adscribitur culpa. Si uero aqua aderat et necessitas talis non
+      urgebat, hi communione priuentur et paenitentiae submittantur.  Homo
+      uero ille si in sancta trinitate baptizatus est in eo baptismo
+      remaneat.  /351/
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 89</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 89</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e6701"><!-- xAbSeN-q89 -->
+            <head xml:id="xAbSeN-1e6701-Hd1e103">Quaestio 89</head>
+            <head xml:id="xAbSeN-1e6701-Hd1e106" type="question-title"> quod creatura sit adoranda et non</head>
+    
+            <p xml:id="xAbSeN-1e6701-d1e109">
+               <ref xml:id="xAbSeN-1e6701-Rd1e111">chrysostomus in epistola ad hebraeos sermone iii</ref>: Et adorent eum.
+      Superius dixerat quia non per prophetas nobis locutus est sed per
+      filium, quia filius melior est angelis. Quod ex ipso argumentatus est
+      nomine. Hic autem ex alia re uult argumenta deducere, ex adoratione
+      uidelicet Christum secundum carnem iussit a cunctis angelis adorari.
+    </p>
+            <p xml:id="xAbSeN-1e6701-d1e115">
+               <ref xml:id="xAbSeN-1e6701-Rd1e117">item sermone v</ref>: Non enim quemquam angelorum apprehendit. Stupore
+      plenum est carnem nostram sursum sedere et adorari ab angelis et
+      archangelis et Cherubim et Seraphim.
+    </p>
+            <p xml:id="xAbSeN-1e6701-d1e121">
+               <ref xml:id="xAbSeN-1e6701-Rd1e123">hieronymus in epistola ad philippenses</ref>: Deitas, quae in Christo erat,
+      suscepto homini donauit hoc nomen, propter quod pro hominibus passus
+      est mortuus, ut omnis creatura in nomine eius precem fundat, ut omnes
+      simul hominem cum uerbo adorent assumptum.
+    </p>
+            <p xml:id="xAbSeN-1e6701-d1e128">
+               <ref xml:id="xAbSeN-1e6701-Rd1e130">augustinus lib. ii contra maxentium</ref>: Quia donauit ei nomen etc. Homini
+      donauit ista, non Deo.  Neque enim cum in forma Dei esset, non
+      excelsus erat, aut non ei genua flectebant.  In qua ergo forma
+      crucifixus est, ipsa exaltata est.  Ipsi donatum est nomen super omne
+      nomen ut cum ipsa forma Dei nominetur unigenitus filius Dei.
+    </p>
+            <p xml:id="xAbSeN-1e6701-d1e134">
+               <ref xml:id="xAbSeN-1e6701-Rd1e136">idem super iohannem cap. cxxxii</ref>: Dicunt Arriani, Quare carnem, quam
+      creaturam non negas, cum diuinitate adoras? Propterea ego adoro eam,
+      quia diuinitati unita est ita ut Deus filius Deus sit et homo. Denique
+      si hominem separaueris a Deo, nunquam ei seruio. Velut si quis
+      purpuram aut diadema regale iacens inueniat, nunquid adorabit.  Cum
+      uero eis rex fuerit indutus, periculum mortis incurrit qui ea cum rege
+      adorare contempserit. Si quis ergo contempserit adorare carnem
+      diuinitati unitam, poenam mortis aeternae patiatur.  /312/
+    </p>
+            <p xml:id="xAbSeN-1e6701-d1e140">
+               <ref xml:id="xAbSeN-1e6701-Rd1e142">ambrosius autpertus in apocalypsi lib. iii</ref>: Nisi enim ipsa humana in
+      Dei uerbo natura ab omni creatura adoranda esset, nequaquam psalmista
+      diceret: Adorate scabellum pedum eius. Recte igitur scabellum pedum
+      eius ipsa incarnatio redemptoris dicitur, cui aeternitas inesse
+      probatur.
+    </p>
+            <p xml:id="xAbSeN-1e6701-d1e146">
+               <ref xml:id="xAbSeN-1e6701-Rd1e148">ambrosius in epistola ad philippenses</ref>: Et donauit itti nomen:
+      Perfectum Dei filium natum de Deo qui negat, Arrianus est. Unde
+      constat hunc natum esse perfectum.  In natiuitate enim sua omnia
+      consecutus uidetur.  In plenitudine enim diuini tat is es t natus ad
+      omnia agenda quae gessit, ut prius donum accepisset quam gereret ad
+      quae gerenda natus est.  Videtur ergo donum patris hoc quod est esse
+      filium, et nomen eius super omne nomen esse Deum. Nomen enim Dei sed
+      per naturam super omne nomen est.  Caetestium; quae sint haec omnia
+      aperit. Alia enim nulla sunt.  Quibusdam tamen uidetur homini donatum
+      esse nomen quod est super omne nomen. Quod nulla ratione conuenit ut
+      Dei nomen corpori sit donatum.  Quia nec dignum est ut Deus immutetur
+      in carnem, neque caro hoc possit effici quod est Deus. Sed scriptura
+      illi donatum significat qui se exinaniuit, qui formam serui accepit,
+      qui in similitudinem hominis factus est, qui patri obediuit. Si homo
+      Deo patri obediuit, quid magnum est, quod dixit apostolus? Sed hoc
+      magnum dicit, quia cum aequalis esset, obediuit. Et quid laudis est,
+      si in similitudinem hominis factus est homo, ut homini similis homo
+      factus dicatur? Sed non potest fieri. Nemo enim in similitudinem fit
+      alicuius, nisi sit alius antequam fiat. Per causam enim similis factus
+      est, non per substantiam. Consideremus nunc dicta, et sic aduertamus
+      uim locutionis. Certe nomen quod est super omne nomen, Dei nomen est,
+      sed per naturam et adoptiuo Deo non flectit genu creatura sed uero non
+      creaturae. Et quomodo fieri potest ut homo sit in gloria Dei patris?
+      Et si adoptiuus Deus sit, homo in gloria Dei patris non potest
+      esse. Nam ei hoc competit qui natus est de Deo.  In gloria enim Dei
+      patris esse nihil differre a Deo est, ut una gloria sit patris et
+      filii per communem substantiam et uirtutem. Est enim haec unites
+      naturae. Quid contrarium est, si filius donum a patre accepisse
+      dicitur, cum omnia filii a patre sint, a quo et cuncta esse creduntur?
+      Substantiam Dei idcirco naturam dicimus, quia natus de illa Christus
+      est.
+    </p>
+            <p xml:id="xAbSeN-1e6701-d1e154">
+               <ref xml:id="xAbSeN-1e6701-Rd1e156">augustinus de moribus ecclesiae catholicae</ref>: Creatura, Paulus clamat,
+      uanitati subiecta est; neque nos potest a uanitate separare
+      ueritatique connectere quod subiectum est uanitati. Et hoc nobis
+      spiritus sanctus praestat. Creatura igitur non est, quia omne quod est
+      aut Deus aut creature est. Deum ergo diligere debemus trinam quandam
+      unitatem, patrem et filium et spiritum sanctum.
+    </p>
+            <p xml:id="xAbSeN-1e6701-d1e160">
+               <ref xml:id="xAbSeN-1e6701-Rd1e162">item</ref>: Merito ergo ecclesia catholica mater Christianorum uerissima,
+      non solum ipsum cuius adeptio uita beatissima est, purissime atque
+      cautissime colendum praedicas, nullam nobis adorandam creaturam
+      inducens cui seruire iubeamur, et ab illa inuiolabili aeternitate, cui
+      sold homo subiciendus est, credens omne quod factum est; etiam proximi
+      caritatem ita complecteris, ut uariorum, quibus pro peccatis suis
+      animae aegrotant, omnis apud te medicine praepolleat.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

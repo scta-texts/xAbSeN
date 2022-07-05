@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 136</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 136</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-e10645"><!-- xAbSeN-q136 -->
+            <head xml:id="xAbSeN-e10645-Hd1e103">Quaestio 136</head>
+            <head xml:id="xAbSeN-e10645-Hd1e106" type="question-title"> quod dilectio proximi omnem hominem complectatur et non</head>
+    
+            <p xml:id="xAbSeN-e10645-d1e109">
+               <ref xml:id="xAbSeN-e10645-Rd1e111">augustinus de doctrina christiana, lib. i</ref>: Omnes autem aeque diligendi
+      sunt. Sed cum omnibus prodesse non possis, his potissimum consulendum
+      est qui pro locorum et temporum uel quarumlibet rerum opportunitatibus
+      constrictius tibi quasi quadam sorte innguntur.
+    </p>
+            <p xml:id="xAbSeN-e10645-d1e115">
+               <ref xml:id="xAbSeN-e10645-Rd1e117">item</ref>: Qui se uult diligi, non ut sibi aliquid, sed ut eis qui diligunt
+      aeternum praemium conferatur, hoc est ipse quem diligunt. Hinc
+      efficitur ut inimicos etiam diligamus. Non enim eos timemus, quia
+      nobis quod diligimus auferre non possunt, sed miseramur potius, quia
+      tanto magis nos oderunt quanto ab illo quem diligimus separati sunt.
+    </p>
+            <p xml:id="xAbSeN-e10645-d1e121">
+               <ref xml:id="xAbSeN-e10645-Rd1e123">item</ref>: Utrum ad illa duo praecepta etiam dilectio pertineat angelorum
+      quaeri potest. Nam quod nullum hominum exceperit qui praecepit ut
+      proximum diligamus, et dominus ostendit et apostolus Paulus.
+    </p>
+            <p xml:id="xAbSeN-e10645-d1e128">
+               <ref xml:id="xAbSeN-e10645-Rd1e130">item</ref>: Duo praecepta protulerat atque in eis pendere totam legem
+      prophetasque dixerat.
+    </p>
+            <p xml:id="xAbSeN-e10645-d1e134">
+               <ref xml:id="xAbSeN-e10645-Rd1e136">item</ref>: Dominus ait: Vade et fac similiter; ut uidelicet esse eum
+      proximum intelligamus, cui uel exhibendum est officium misericordiae
+      si indiget, uel exhibendum si indigeret. Ex quo est iam consequens ut
+      etiam ille a quo nobis hoc uicissim exhibendum est, proximus sit
+      noster. Proximi enim nomen ad aliquid est, nec quisquam esse proximus
+      nisi proximo potest.
+    </p>
+            <p xml:id="xAbSeN-e10645-d1e140">
+               <ref xml:id="xAbSeN-e10645-Rd1e142">item</ref>: Paulus dicit: Nam non adulterabia; non homicidium facies; non
+      furaberia; non concupisces, et si quod est aliud mandatum, in hoc
+      sermone recapitulatur: diliges proximum tuum tamquam te ipsum.
+    </p>
+            <p xml:id="xAbSeN-e10645-d1e148">
+               <ref xml:id="xAbSeN-e10645-Rd1e150">item</ref>: Quisquis ergo arbitratur non de omni homine apostolum
+      praecepisse, cogitur fateri, quod scelestissimum est, uisum fuisse
+      apostolo non esse peccatum, si quis aut non christiani aut inlmici
+      adulterauerit uxorem.
+    </p>
+            <p xml:id="xAbSeN-e10645-d1e154">
+               <ref xml:id="xAbSeN-e10645-Rd1e156">item</ref>: Iam uero si uel cui praebendum uel a quo nobis praebendum
+      officium misericordiae, recte proximus dicitur, manifestum est hoc
+      praeceptum, quo iubemur diligere proximum, etiam sanctos angelos
+      contineri, a quibus tanta nobis misericordiae impenduntur officia.
+    </p>
+            <p xml:id="xAbSeN-e10645-d1e160">
+               <ref xml:id="xAbSeN-e10645-Rd1e162">ambrosius super epistolam pauli ad romanos</ref>: Nemini quicquam debeatis.
+      Pacem uult nos habere, si fieri potest, cum omnibus; dilectionem uero
+      cum fratribus.  Qui enim diligit proximum, legem impleuit, legem
+      Moysi. Nam et nouae legis mandatum est etiam inimicos diligere.
+      Diliges proximum tuum sicut te ipsum. Hoc scriptum est in Leuitico.
+    </p>
+            <p xml:id="xAbSeN-e10645-d1e167">
+               <ref xml:id="xAbSeN-e10645-Rd1e169">item</ref>: Dilectio proximi malum non operatur. Plenitudo enim legis est
+      dilectio. Malum non operatur, quia bona est dilectio, nec peccari
+      potest per illam quae legis perfectio est. Sed quia tempore Christi
+      addi aliquid oportuit, non solum proximos sed inimicos diligi
+      praecepit. Unde plenitudo legis est dilectio, ut iustitia sit diligere
+      proximum; abundans uero et perfecta iustitia etiam inimicos diligere.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

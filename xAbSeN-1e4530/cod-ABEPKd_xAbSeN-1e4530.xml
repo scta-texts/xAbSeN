@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 58</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 58</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e4530"><!-- xAbSeN-q58 -->
+            <head xml:id="xAbSeN-1e4530-Hd1e103">Quaestio 58</head>
+            <head xml:id="xAbSeN-1e4530-Hd1e106" type="question-title"> quod adam salvatus sit et contra</head>
+    
+            <p xml:id="xAbSeN-1e4530-d1e109">
+               <ref xml:id="xAbSeN-1e4530-Rd1e111">ex libro sapientiae</ref>: Per sapientiam sanati sunt quicumque tibi
+      placuerunt domine a principio. Haec ilium, qui primus factus est a Deo
+      pater orbis terrarum, cum solus esset creatus, custodiuit et eduxit
+      ilium a delicto quo; et dedit illi uirtutem continendi omnia.
+    </p>
+            <p xml:id="xAbSeN-1e4530-d1e115">
+               <ref xml:id="xAbSeN-1e4530-Rd1e117">augustinus in epistola ad evodium de verbis petri, quibus christum
+      asserit solvisse inferni dolores</ref>: Quis ergo nisi infidelis negauerit
+      fuisse apud inferos Christum?
+    </p>
+            <p xml:id="xAbSeN-1e4530-d1e121">
+               <ref xml:id="xAbSeN-1e4530-Rd1e123">item</ref>: Cur uoluerit uenire ubi dolores essent?  Quia erat, ut scriptum
+      est, inter mortuos liber, ubi princeps mortis non inuenit quod
+      supplicio deberetur.
+    </p>
+            <p xml:id="xAbSeN-1e4530-d1e128">
+               <ref xml:id="xAbSeN-1e4530-Rd1e130">item</ref>: Et de illo quidem primo homine, quod eum ibidem soluerit,
+      ecclesia fere tota consentit; quod eam non inaniter credidisse
+      credendum est, undecumque hoc traditum sit, quamquam illud quod in
+      libro Sapientiae scriptum est: Haeo illum, qui primua faotua est,
+      patrem orbia terrarum, cum solus esset creatus, custodiuit, et eduxit
+      illum a delicto suo, magis facere pro hac sententia uideatur.
+    </p>
+            <p xml:id="xAbSeN-1e4530-d1e136">
+               <ref xml:id="xAbSeN-1e4530-Rd1e138">idem de baptismo parvulorum lib. ii, de adam et eva</ref>: Sicut ergo illi
+      primi homines postea iuste uiuendo unde merito creduntur per Domini
+      sanguinem ab aeterno supplicio liberati.
+    </p>
+            <p xml:id="xAbSeN-1e4530-d1e142">
+               <ref xml:id="xAbSeN-1e4530-Rd1e144">item lib. i</ref>: Adam primus hominum peccauit, Abel primus hominum iuste
+      uixit.
+    </p>
+            <p xml:id="xAbSeN-1e4530-d1e148">
+               <ref xml:id="xAbSeN-1e4530-Rd1e150">hilarius in psalmo xiv</ref>: Denique Adam confessus ueniae reseruatur et
+      glorificatus in Christo est.
+    </p>
+            <p xml:id="xAbSeN-1e4530-d1e154">
+               <ref xml:id="xAbSeN-1e4530-Rd1e156">gregorius eulogio episcopo alexandrino et anastasio antiocheno</ref>: Primum
+      hominem, qua die peccauit, anima mortuum dicimus; qui tamen Adam post
+      modum per paenitentiam ad uitam rediit.
+    </p>
+            <p xml:id="xAbSeN-1e4530-d1e160">
+               <ref xml:id="xAbSeN-1e4530-Rd1e162">augustinus de singularitate clericorum</ref>: Dico autem uobis, tolerabilius
+      erit Adae in die iudicii quam uobis.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

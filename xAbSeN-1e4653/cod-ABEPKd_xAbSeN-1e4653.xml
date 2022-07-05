@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 61</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 61</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e4653"><!-- xAbSeN-q61 -->
+            <head xml:id="xAbSeN-1e4653-Hd1e103">Quaestio 61</head>
+            <head xml:id="xAbSeN-1e4653-Hd1e106" type="question-title"> quod ioseph non sit suspicatus mariam adulteram et contra</head>
+    
+            <p xml:id="xAbSeN-1e4653-d1e109">
+               <ref xml:id="xAbSeN-1e4653-Rd1e111">ex homilia origenis in vigilia natalis domini</ref>: Ioseph autem uir eius,
+      inquit, cum esset homo iustus, et nollet eam traducere, uoluit occulte
+      dimittere eam. Noluit eam traducere, noluit eam accipere, noluit eam
+      male defamare sed occulte dimittere. Haec illo inquit cogitante.
+      Quaerendum nobis est, quid cogitauerit. Haec cogitabat, ut eam
+      dimitteret. Si suspicionem in eam habebat quomodo iustus erat? Si non
+      est suspicatus uel tale aliquid cogitauit cur dimittere uoluit
+      immaculatam et sanctam? Iniustum enim et hoc erat. Sed enim simplicem
+      sensum audi huius rationis. Ideo eam dimittere uolebat, quoniam
+      uirtutem mysterii et sacramentum quoddam magnificum in ea cognoscebat,
+      cui approximare se indignum aestimabat. Ergo humilians se ante tantam
+      et tam ineffabilem rem quaerebat longe se facere. Sicut et beatus
+      Petrus Domino se humilians aiebat: Recede a me Domine, quoniam homo
+      peccator aum; uel sicut ille centurio ad eundem Dominum mittebat
+      dicens: Non sum dignus, ut intrea sub tectum meum; uel sicut sancta
+      Elizabeth ad beatam locuta est Mariam dicens: Et unde hoc mihi, ut
+      ueniat mater Domini ad me? Sic et Ioseph iuste humilians se in omnibus
+      cauebat, timebat sibimet istius tantae sanctitatis coniunctionem
+      adhibere. Iccirco uolebat eam occulte dimittere dicens, Maior est
+      huius dignitas, superexcellit eius sanctitas, nec meae congruit
+      indignitati.
+    </p>
+            <p xml:id="xAbSeN-1e4653-d1e117">
+               <ref xml:id="xAbSeN-1e4653-Rd1e119">hieronymus super matthaeum</ref>: Ioseph autem uir eius, cum esset iuatua et
+      nollet eam traducere etc. Hoc testimonium Mariae est, quod Ioseph
+      sciens illius castitatem et admirans quod euenerat, celat silentio
+      cuius mysterium nesciebat.
+    </p>
+            <p xml:id="xAbSeN-1e4653-d1e123">
+               <ref xml:id="xAbSeN-1e4653-Rd1e125">ex sermone quodam de natali,qui sic incipit, castissimum mariae
+      virginis uterum</ref>: Audite, fratres, audite Mariam nobiscum loquentem,
+      carne absentem et spiritu praesentem. Ignorauit quidem Ioseph, sponsus
+      meus, quod adamasset me Deus meus, et putauit quod adulterio
+      inpraegnatus esset uenter meus.
+    </p>
+            <p xml:id="xAbSeN-1e4653-d1e130">
+               <ref xml:id="xAbSeN-1e4653-Rd1e132">item</ref>: Turbatus est Ioseph homo iustus quod Mariam, quam de templo
+      acceperat et non cognouerat, grauidam sentiebat, secumque diu aestuans
+      ac disputans dicit, Prodo an taceo? Si tacuero malum consentiens, cum
+      adulteris portionem meam pono.
+    </p>
+            <p xml:id="xAbSeN-1e4653-d1e136">AUGUSTINUS IN SERMONE DE VERBIS EVANGELII, si peccauerit in te frater
+      tuna etc.: Attende, quemadmodum iustus Ioseph tanto flagitio, quod de
+      uxore fuerat syspicatus, tanta benignitate pepercit.  Se ad illam non
+      accessisse nouerat. Restabat igitur certa adulterii suspicio et
+      tamen, quia ipse solus senserat, cum nollet eam diuulgare, uoluit eam
+      occulte dimittere.
+    </p>
+            <p xml:id="xAbSeN-1e4653-d1e141">
+               <ref xml:id="xAbSeN-1e4653-Rd1e143">idem in enchiridion cap. xxii</ref>: Et Ioseph cum uellet eam dimittere
+      suspicatus adulteram, quam sciebat non de se grauidam etc.
+    </p>
+            <p xml:id="xAbSeN-1e4653-d1e147">
+               <ref xml:id="xAbSeN-1e4653-Rd1e149">idem in epistola ad macedonium</ref>: Unde Ioseph cui Domini mater fuerat
+      desponsata, cum eam comperisset praegnantem esse cui se nouerat non
+      esse commixtum, et ob hoc nihil aliud quam adulteram credidisset,
+      puniri eam tamen noluit, nec approbator flagitii fuit.  Nam haec
+      uoluntas eius etiam iustitiae deputatur. Ita quippe de illo scriptum
+      est: Cum esset iustus et nollet eam diuulgare, statuit eam occulte
+      dimittere. Haec eo cogitante apparuit ei angelus.
+    </p>
+            <p xml:id="xAbSeN-1e4653-d1e153">
+               <ref xml:id="xAbSeN-1e4653-Rd1e155">ambrosius super lucam cap. v</ref>: Pulchre autem docuit sanctus Matthaeus,
+      quid facere debeat iustus qui opprobrium coningis deprehendit, ut
+      incruentum ab homicidio, castum ab adulterio se praestare debeat. Qui
+      enim coniungitur meretrici, unum corpus est.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

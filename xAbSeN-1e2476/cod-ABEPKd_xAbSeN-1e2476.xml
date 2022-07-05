@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 27</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 27</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e2476"><!-- xAbSeN-q27 -->
+            <head xml:id="xAbSeN-1e2476-Hd1e103">Quaestio 27</head>
+            <head xml:id="xAbSeN-1e2476-Hd1e106" type="question-title"> quod providentia dei causa sit eventuum rerum et non</head>
+    
+            <p xml:id="xAbSeN-1e2476-d1e109">
+               <ref xml:id="xAbSeN-1e2476-Rd1e111">boethius, de consolatione, lib. iv</ref>: <quote xml:id="xAbSeN-1e2476-Qd1e114" source="http://scta.info/resource/hy7y6y-d1e83-d1e214" synch="123-171">Quidam aiunt non ideo quid es se
+      euenturum, quoni am id prouident ia futurum esse prospexerit sed e
+      contrario potius, quoniam quid futurum est, id diuinam prouidentiam
+      latere non posse eoque modo necessarium hoc in contrariam relabi
+      partem. Neque enim necesse [est] esse contingere quae prouidentur sed
+      necesse esse quae futura sunt prouideri</quote>.
+    </p>
+            <p xml:id="xAbSeN-1e2476-d1e118">
+               <ref xml:id="xAbSeN-1e2476-Rd1e120">item</ref>: <quote xml:id="xAbSeN-1e2476-Qd1e123" source="http://scta.info/resource/hy7y6y-d1e83-d1e214" synch="329-364">Iam uero quam praeposterum est, ut aeternae praescientiae
+      temporalium rerum euentus causa esse dicatur! Quid est autem aliud
+      arbitrari ideo Deum futura, quia sunt euentura, prouidere quam putare
+      quae olim acciderunt causam summae illius esse prouidentiae?</quote>
+            </p>
+            <p xml:id="xAbSeN-1e2476-d1e127">
+               <ref xml:id="xAbSeN-1e2476-Rd1e129">origenes super epistolam pauli ad romanos</ref>: Et quos uocauit. Quomodo
+      quos uocauit, iustificauit, cum constet multos esse uocatos, paucos
+      electos? Sed omnes quidem uocati sunt, non tamen omnes secundum
+      propositum uocati. Nam hi qui secundum propositum bonum et bonam
+      uoluntatem, quam circa Dei cultum gerunt, uocantur, ipsi sunt qui
+      secundum propositum uocati dicuntur. Quod si secundum propositum ad
+      Deum referatur, hoc est ut secundum propositum Dei, qui sciens in eis
+      religiosam mentem et salutis inesse desiderium, uocati dicantur, non
+      uidebitur his quae exposuimus contrarium. Hoc ergo pacto neque in
+      praescientia Dei uel salutis uel perditionis nostrae causa consistit,
+      neque iustificatio ex sola uocatione pendebit, neque gloriari de
+      nostra penitus potestate sublatum est. Nam et si communi intellectu de
+      praescientia sentiamus, non propterea aliquid erit, quia id scit Deus
+      futurum sed quia futurum est, scitur a Deo antequam fiat.  Ut autem
+      scias quia non in praescientia Dei uniuscuiusque salutis causa
+      ponitur, sed in proposito et actibus suis, uide Paulum, uerentem
+      ne forte cum aliis praedicauerit, ipse reprobus efficiatur, macerare
+      corpus suum.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

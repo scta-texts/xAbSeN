@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 139</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 139</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-e11269"><!-- xAbSeN-q139 -->
+            <head xml:id="xAbSeN-e11269-Hd1e103">Quaestio 139</head>
+            <head xml:id="xAbSeN-e11269-Hd1e106" type="question-title"> quod bonam voluntatem nostram gratia dei non praecedat
+      et contra</head>
+    
+            <p xml:id="xAbSeN-e11269-d1e109">
+               <ref xml:id="xAbSeN-e11269-Rd1e111">chrysostomus in epistola pauli ad hebraeos, sermone xii</ref>: Si enim
+      uoluerimus stare firmi et immobiles, non commouebimur. Quid ergo?
+      nihil Dei? Omnia quidem Dei sunt, sed non ita ut liberum arbitrium
+      laedatur. Si igitur Dei sunt, inquit, omnia, quid nos culpat?
+      Propterea dixi, ut liberum arbitrium nostrum non laedatur. Oportet
+      quippe nos eligere primum quae bona sunt; et tunc ipse quae ab ipso
+      sunt introducit. Non antecedit nostras uoluntates, ne laedatur nostrum
+      arbitrium. Cum autem nos elegerimus, multam tunc introducit
+      auxiliationem.  Quomodo inquit Paulus, neque uotentis neque ourrentis,
+      sed miserentis est Dei? Primum quidem non sicut propriam sententiam
+      introduxit, sed ueluti ex his quae preposita erant hoc collegit. Dixit
+      enim, scriptum est: Miserebor oui miserebor. Et igitur neque uotentis
+      neque ourrentis, sed miserentis. Secundo autem illud dicendum est,
+      quia cuius est amplius, totum eius esse dixit. Nostrum enim eligere
+      tantum est et uelle, Dei autem efficere et ad perfectionem perducere;
+      quia ergo illius est amplius, eius dixit esse uniuersum. Verbi gratia,
+      Videmus domum aedificatam et dicimus quia totum artificis est, et
+      tamen non omne opus eius est sed etiam operariorum et qui materiam
+      tribuit. Et in multitudine ubi plurimi sunt, omnes esse dicimus; ubi
+      pauci, nullum.
+    </p>
+            <p xml:id="xAbSeN-e11269-d1e115">
+               <ref xml:id="xAbSeN-e11269-Rd1e117">ex evangelio veritas dicit</ref>: Non uos me elegistis, sed ego elegi
+      uos.
+    </p>
+            <p xml:id="xAbSeN-e11269-d1e123">
+               <ref xml:id="xAbSeN-e11269-Rd1e125">augustinus ad iulianam</ref>: Hec sane paruus est error illorum qui putant
+      ex nobis ipsis nos habere si quid iustitiae in nobis est, scilicet
+      diffinientes tantummodo esse Dei gratiam et adintorium, ut iuste
+      uiuamus. Ad habendam uero bonam uoluntatem, ubi est hoc ipsum quod
+      iuste uiuimus, nolunt nos diuinitus adinuari, sed nos ipsos dicunt
+      arbitrio proprio nobis ad ista sufficere. Non nobis uideatur error
+      iste mediocris. Proprium quippe arbitrium nisi Dei gratia inuetur, nec
+      ipsa bona uoluntas esse in homine potest. Deus est enim, inquit
+      apostolus, qui operatur in nobis et uelle et operari pro bona
+      uoluntate.
+    </p>
+            <p xml:id="xAbSeN-e11269-d1e130">
+               <ref xml:id="xAbSeN-e11269-Rd1e132">ex decretis caelestini papae</ref>: Quod ita Deus in cordibus hominum atque
+      in ipso libero operetur arbitrio, ut sancta cogitatio, pium consilium
+      omnisque motus bonae uoluntatis ex Deo sit, sine quo nihil boni
+      possumus.
+    </p>
+            <p xml:id="xAbSeN-e11269-d1e136">
+               <ref xml:id="xAbSeN-e11269-Rd1e138">augustinus de baptismo parvulorum, lib. i</ref>: Nolunt homines facere quod
+      iustum est, siue quia latet an iustum sit siue quia non delectat.
+      Tanto enim quidque uehementius uolumus quanto certius quam bonum sit
+      nouimus eoque delectamur ardentius. Ut autem innotescat quod latebat
+      et suaue fiat quod non delectabat, gratia Dei est, quae hominum
+      adinuat uoluntates; quia non ut adiuuentur in ipsis itidem causa est,
+      non in Deo, siue damnandi praedestinati sint propter iniquitatem
+      superbiae siue contra ipsam suam superbiam indicandi ut eruditi filii
+      sint misericordiae. Nullius proinde culpae humanae in Deum referas
+      causam; uitiorum namque omnium humanorum causa superbia est. Ad hanc
+      conuincendam atque auferendam Deus humilis descendit.
+    </p>
+            <p xml:id="xAbSeN-e11269-d1e142">
+               <ref xml:id="xAbSeN-e11269-Rd1e144">item</ref>: Tanto autem magis delectat opus bonum, quanto magis diligitur
+      Deus, summum bonum, et auctor qualiumcumque bonorum omnium. Ut autem
+      diligatur Deus, caritas eius diffusa est in cordibus nostris,
+      non per nos, sed per spiritum sanotum qui datus est nobis. Sed
+      laborant homines inuenire in nostra uoluntate quid boni sit nostrum,
+      quod nobis non sit ex Deo; et quomodo inueniri possit ignoro.
+      Quapropter nisi obtineamus non solum uoluntatis arbitrium, quod huc
+      atque illuc liberum flectitur, sed etiam uoluntatem bonam nisi ex Deo
+      nobis esse non posse, nescio quomodo defendamus quod dictum est: Quid
+      enim habes, quad non acoapisti? Nam si nobis libera quaedam uoluntas
+      ex Deo est, quae adhuc potest esse uel bona uel mala, bona uero
+      uoluntas ex nobis est, melius est quod a nobis quam quod ab illo est.
+    </p>
+            <p xml:id="xAbSeN-e11269-d1e150">
+               <ref xml:id="xAbSeN-e11269-Rd1e152">idem in enchiridion</ref>: Ne quisquam, etsi non de operibus, de ipso
+      glorietur libero uoluntatis arbitrio tamquam ab ipso incipiat meritum,
+      audiat eumdem gratiae praeconem dicentem: Deus est enim qui operatur
+      in nobis et uelle et operari pro bona uoluntate. Praecedit enim bona
+      uoluntas hominis multa Dei dona, sed non omnia; quae autem non
+      praecedit (ipsa, in eis est et ipsa&gt;. Nam utrumque legitur: et
+      misericordia eius praeueniet me, et misericordia eius subsequetur me.
+      Nolentem praeuenit ut uelit, uolentem subsequitur ne frustra uelit.
+    </p>
+            <p xml:id="xAbSeN-e11269-d1e156">
+               <ref xml:id="xAbSeN-e11269-Rd1e158">idem de correptione et gratia</ref>: Gratia uero Dei semper est bona; et per
+      hanc fit ut sit homo uoluntatis bonae, qui prius fuit malae.
+    </p>
+            <p xml:id="xAbSeN-e11269-d1e162">
+               <ref xml:id="xAbSeN-e11269-Rd1e164">item</ref>: Non enim homo sic gratiam suscipit ut propriam perdat
+      uoluntatem.  Tamen ne ipsa uoluntas sine gratia Dei putetur boni
+      aliquid posse, subiecit: non ego autem, sed gratia Dei mecum, id est,
+      non solus ac per hoc nec gratia Dei sola nec ipse solus.  /487/
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

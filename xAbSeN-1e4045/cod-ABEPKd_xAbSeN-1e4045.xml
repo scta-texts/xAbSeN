@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 48</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 48</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e4045"><!-- xAbSeN-q48 -->
+            <head xml:id="xAbSeN-1e4045-Hd1e103">Quaestio 48</head>
+            <head xml:id="xAbSeN-1e4045-Hd1e106" type="question-title"> quod boni angeli siue sancti visione dei fruentes omnia
+      sciant et non</head>
+    
+            <p xml:id="xAbSeN-1e4045-d1e109">
+               <ref xml:id="xAbSeN-1e4045-Rd1e111">ex libro quaestionum orosii ad augustinum</ref>: Orosius: Primum diem
+      spiritalem astruis esse creaturam, et quamodo habuit uespere et mane?
+      Augustinus: Omnis creatura, antequam tempore suo fieret, in ipso Dei
+      uerbo prius erat ab angelis cognoscenda, et sic suo tempore facienda.
+      Quapropter ipsa creaturae cognitio in semetipsa uespera, in Deo erat
+      mane, quia plus uidetur ipsa creatura in Domino quam in se ipsa;
+      propterea ait: Quod factum est, in ipso uita erat. Omnia in Deo uita
+      sunt. Viuunt in Domino sine initio atque incommutabiliter omnes
+      rationes creaturarum. Ac per hoc plus uidentur ab angelis sanctis in
+      uerbo Dei, ubi sunt uita, quam in se ipsis, quia scientia angelorum in
+      comparatione Dei quodammodo uespera est. Sit ergo in cognitione
+      (spiritnum dies primus; in cognitione) firmamenti dies secundus. In
+      cognitione discretionis maris et terrae tertius. In cognitione solis
+      ac lunae et stellarum quartus. In cognitione reptilium et uolatilium
+      quintus. In cognitione iumentorum et ferarum uel ipsius hominis
+      sextus. Neque enim diei unius, quem intelligimus (naturam) spiritalium
+      creaturarum, id est angelicarum, sexies facta est cognitio. Sexies
+      fecit propter senarii perfectionem.
+    </p>
+            <p xml:id="xAbSeN-1e4045-d1e117">
+               <ref xml:id="xAbSeN-1e4045-Rd1e119">isidorus de summo bono, cap. x</ref>: Angeli in uerbo Dei cognoscunt omnia
+      antequam in re fiant.
+    </p>
+            <p xml:id="xAbSeN-1e4045-d1e123">
+               <ref xml:id="xAbSeN-1e4045-Rd1e125">gregorius dialogorum lib. iv, cap. xxxiiii, de spiritibus sanctorum</ref>:
+      Quia illic omnes communi claritate Deum conspiciunt, quid est quod ibi
+      nesciant, ubi scientem omnia sciunt?
+    </p>
+            <p xml:id="xAbSeN-1e4045-d1e130">IDEM IN HOMILIA DE ANGELIS, QUAE SIC INCIPIT "AESTIVUM TEMPUS":
+      Sublimiora illa agnina idcirco Cherubim uocata sunt, quia tanto
+      perfectiore scientia plena sunt quanto claritatem Dei uicinius
+      contemplantur.
+    </p>
+            <p xml:id="xAbSeN-1e4045-d1e133">
+               <ref xml:id="xAbSeN-1e4045-Rd1e135">item</ref>: Sic in illa summa ciuitate spiritalia quaedam singulorum sunt ut
+      tamen sint communia omnium, et quod in suo quisque ex parte habet, hoc
+      in alio ordine totum possidet. Sed idcirco uno eodemque uocabulo
+      communiter non censentur, ut ille ordo uocari priuato uniuscuiusque
+      rei nomine debeat, qui hanc in munere plenius accepit. Seraphim nanque
+      ardentes diximus, et tamen amore conditoris omnes simul ardent.
+      Cherubim uero plenitudinem scientiae, et tamen quis ibi aliquid
+      nesciat, ubi ipsum omnes scientiae Deum uident?
+    </p>
+            <p xml:id="xAbSeN-1e4045-d1e139">
+               <ref xml:id="xAbSeN-1e4045-Rd1e141">idem in homilia de divite et lazaro</ref>: Qui creatoris sui claritatem
+      uident, nihil in creatura agitur quod uidere non possint.
+    </p>
+            <p xml:id="xAbSeN-1e4045-d1e147">
+               <ref xml:id="xAbSeN-1e4045-Rd1e149">idem moralium lib. ii</ref>: Angelorum spiritus, quia ipsum fontem scientiae
+      contemplantur, quid de his quae scienda sunt nesciunt, qui scientem
+      omnia sciunt?
+    </p>
+            <p xml:id="xAbSeN-1e4045-d1e153">
+               <ref xml:id="xAbSeN-1e4045-Rd1e155">item</ref>: Eorum itaque scientia comparatione nostra ualde dilatata est,
+      sed comparatione diuinae scientiae angusta.
+    </p>
+            <p xml:id="xAbSeN-1e4045-d1e159">
+               <ref xml:id="xAbSeN-1e4045-Rd1e161">item lib. iv</ref>: Quod uero angeli superiorum angelorum potestatibus
+      dispensantur, Zacharias perhibet propheta qui ait: Ecce angelus, qui
+      loquebatur in me, egrediebatur et alius angelus egrediebatur in
+      occursum eius, et dixit ad eum: Curre, loquere ad puerum istum dicens:
+      Absque muro habitabitur Ierusalem. Si enim in ipsis officiis sanctorum
+      spirituum, nequaquam potestates summae minima disponerent, nullo modo
+      hoc quod homini diceret angelus ab angelo cognouisset.
+    </p>
+            <p xml:id="xAbSeN-1e4045-d1e166">HIERONYMUS SUPER XXIII PSALMUM, ID QUOD DICITUR Quis est iste rex
+      gloriae? In uoce etiam angelorum dictum accipit, ac si et ipsi
+      quaererent dicentes, quis est iste rex gloriae, cui uidelicet propheta
+      caelos aperiri praecipit ut eius humanitas ascendat. Nos quippe
+      inquiunt, semper patrem et filium insimul esse uidemus. Non est autem
+      absurdum, si quidam angelorum qui plenitudinem scientiae non habent,
+      mysterium incarnationis non nouerunt, qui humanitatem Christi super se
+      conscendentem ad dexteram patris obstupescerent, quasi apud se
+      quaerentes, quis est iste rex gloriae?
+    </p>
+            <p xml:id="xAbSeN-1e4045-d1e169">IDEM IN SERMONE NATALIS DOMINI, QUI SIC INCIPIT "HODIE VERUS SOL ORTUS
+      EST MUNDO": O dies saeculi omni sole lucidior! O tempus cunctis
+      saeculis spectantius! Quod praestolabantur angeli, quod Cherubim et
+      Seraphim et caelorum ministeria nesciebant, hoc in nostro tempore
+      reuelatum est. Quod illi uidebant per speculum et per imaginem, nos
+      cernimus in ueritate.
+    </p>
+            <p xml:id="xAbSeN-1e4045-d1e172">
+               <ref xml:id="xAbSeN-1e4045-Rd1e174">ambrosius de mysteriis</ref>: Dubitauerunt enim etiam angeli, cum resurgeret
+      Christus; dubitauerunt potestates caelorum uidentes quod caro in
+      caelum ascenderet. Denique quid dicebant? Quis est iste rex gloriae?
+      Et cum alii dicerent, tollite portas prinoipis uestri et eleuamini
+      portae aeternales, et introibit re~ gloriae, alii dubitabant dicentes:
+      Quis est iste rex gloriae? In Isaia quoque habes dubitantes uirtutes
+      caelorum dixisse: Quis est iste qui ascendit ex Edom, rubor
+      uestimentorum eius ex Bosor, speciosus in stola candida?
+    </p>
+            <p xml:id="xAbSeN-1e4045-d1e180">
+               <ref xml:id="xAbSeN-1e4045-Rd1e182">idem de fide ad gratianum imperatorem lib. iv</ref>: Quid mirum si mysterium
+      Dei per sapientiam mundi non potuerunt homines comprehendere, quod nec
+      angeli cognoscere nisi ex reuelatione potuerunt? Quis enim potuit
+      opinione magis quam fide sequi Iesum, nunc de caelis inferna
+      penetrantem, nunc ab inferis ad caelestia resurgentem, subito
+      exinanitum, ut habitaret in nobis, nec unquam immunitum, cum semper
+      filius in patre et in filio pater esset. Dubitauit in eo ipse
+      praenuntius licet per synagogae typum. Denique missis discipulis
+      interrogat: Tu es qui uenturus es? Obstupuerunt et angeli
+      caelestae mysterium. Unde cum resurgeret dominus, atque illum
+      resurgentem ab inferis astra sustinere non possent, haeserunt etiam
+      caelestia opinionis incerta.
+    </p>
+            <p xml:id="xAbSeN-1e4045-d1e186">
+               <ref xml:id="xAbSeN-1e4045-Rd1e188">item</ref>: Angeli Dominum de morte triumphantem uenire cernentes tolli
+      portas principibus imperabant, cum admiratione dicentes: Tollite
+      portas prinoipes uestri, et introibit rex gloriae. Erant tamen adhuc
+      in caelestibus qui stuperent, qui admirarentur nouam pompam, nouam
+      gloriam, et ideo requirebant: Quis est iste rem gloriae? Sed quia
+      angeli processus habent scientiae et capacitatem profectus, habent
+      utique discretionem uirtutis atque prudentiae. Solus enim sine
+      processu Deus quia in omni perfectione semper aeternus est. Dicebant
+      alii, illi utique qui affuerant resurgenti, illi qui uiderant uel
+      etiam cognouerant: Dominus fortis in proelio. Iterum dicebant:
+      Quis est iste rez gloriae? Vidimus eum, non habebat speciem neque
+      decorem. Si ergo ipse non est, quis est iste rex gloriae?  Respondetur
+      a scientibus: Dominus uirtutum ipse est rex gloriae.
+    </p>
+            <p xml:id="xAbSeN-1e4045-d1e194">
+               <ref xml:id="xAbSeN-1e4045-Rd1e196">idem super lucam lib. i</ref>: Et quid de hominibus loquimur, cum etiam de
+      ipsis caelestibus uirtutibus et potestatibus legimus, quia Deum nemo
+      uidit unquam? Et addidit quod ultra caelestes est potestates:
+      unigenitus filius, qui est in sinu patris, ipse narrabit. Ideo Deum
+      nemo uidit unquam, quia eam quae in Deo habitat plenitudinem
+      diuinitatis nemo mente aut oculis comprehendit.
+    </p>
+            <p xml:id="xAbSeN-1e4045-d1e201">
+               <ref xml:id="xAbSeN-1e4045-Rd1e203">item</ref>: Denique nec apostoli omnes Christum uidebant, et ideo ait: Tanto
+      tempore uobiscum sum, et adhue me non cognouistis?
+    </p>
+            <p xml:id="xAbSeN-1e4045-d1e207">
+               <ref xml:id="xAbSeN-1e4045-Rd1e209">idem de fide ad gratianum</ref>: Mihi impossibile est generationis scire
+      secretum. Supra potestates, supra angelos, supra Cherubim, supra
+      Seraphim, supra omnem sensum est.
+    </p>
+            <p xml:id="xAbSeN-1e4045-d1e213">
+               <ref xml:id="xAbSeN-1e4045-Rd1e215">item</ref>: Mysterium patris nec angeli potuerunt comprehendere.
+    </p>
+            <p xml:id="xAbSeN-1e4045-d1e219">
+               <ref xml:id="xAbSeN-1e4045-Rd1e221">augustinus libro quaestionum veteris et novae legis</ref>: Cherubim et
+      Seraphim non comprehendunt penitus quid sit Deus, quia nemo nouit
+      patrem nisi filius.
+    </p>
+            <p xml:id="xAbSeN-1e4045-d1e225">
+               <ref xml:id="xAbSeN-1e4045-Rd1e227">isidorus de summo bono cap. iii</ref>: Quantumcumque ad parilitatem
+      angelicam humana post resurrectionem natura proficiat et ad
+      contemplandum Deum indefessa consurgat, uidere tamen eius essentiam
+      plene non ualet, quia nec ipsa perfectio angelica in totum attingit
+      scire secundum apostolum, qui ait: Pax Dei, quae exsuperat omnem
+      sensum, ut subaudias, etiam angelorum. Sola enim trinitas sibi integre
+      nota est, et humanitas a Christo suscepta, quae tertia est in
+      trinitate persona. Dei essentia sciri potest, dum esse creditur. Opus
+      uero eius et iudicia a nullo penitus sciuntur. Non possunt sensu
+      penetrari uel angelico uel humano. Tantum uenerari opus est et timere,
+      non discutere aut inquirere, secundum apostolum qui ait: Quis
+      enim cognouit sensum Domini?
+    </p>
+            <p xml:id="xAbSeN-1e4045-d1e233">
+               <ref xml:id="xAbSeN-1e4045-Rd1e235">haimo super epistolam ad ephesios</ref>: Ut innotescat multis formis
+      sapientia Dei principibus et potestatibus in caelestibus per
+      ecclesiam. Ut ergo ista multiplex sapientia Dei manifestaretur
+      principibus et potestatibus in caelestibus, quas beatus Hieronymus
+      angelicas uirtutes uult intelligi caelo residentes, filius Dei ueniens
+      in mundum reuelauit eam apostolis. Et per ecclesiam, hoc est in
+      ecclesia praedicantibus apostolis manifestauit angelicis uirtutibus.
+      Dicit nanque beatus Hieronymus quod quaedam angelicae dignitates
+      fuerunt quae mysteria superius memorata ad purum non intellexerunt,
+      donec completa est passio Christi, et apostoli per omnes gentes
+      coepissent praedicatione sua gentiles trahere ad fidem. Quod probari
+      potest per hoc, quod angeli admirando dixerunt illo ascendente ad
+      caelos: Quis est iste qui uenit de Edom, hoc est de cruento et
+      sanguinolento mundo? Et in psalmo: Quis est iste rex gloriae? Illis
+      enim qui maioris dignitatis sunt et per quorum ministerium illa
+      nuntiata sunt, cognita fuerunt utpote consiliariis et nuntiis. Illis
+      uero qui minoris potestatis sunt, potest esse ut ex parte incognita
+      essent.
+    </p>
+            <p xml:id="xAbSeN-1e4045-d1e240">
+               <ref xml:id="xAbSeN-1e4045-Rd1e242">item</ref>: Et qui ascendit super omnes caelos, id est spiritus, ut
+      adimpleret omnia, scilicet oracula legis et prophetarum, uel etiam
+      caelestia et terrestria de sua cognitione et reuelatione dignitatis
+      suae. Caelestia impleta sunt, quia erant quaedam angelicae potestates
+      quae mysterium natiuitatis Christi passionis, resurrectionis,
+      ascensionis ad liquidum non cognouerunt, quousque impleta sunt. Unde
+      admirando dicunt in psalmo: Quis est iste rex gloriae?
+    </p>
+            <p xml:id="xAbSeN-1e4045-d1e246">
+      Q. 049: QUOD OMNES ORDINES CAELESTIUM SPIRITUUM GENERALITER ANGELI
+      VOCENTUR ET NON.
+      
+      GREGORIUS IN HOMILIA DE ANGELIS: Decem uero dragmas habuit mulier,
+      quia nouem sunt ordines angelorum. Sed ut compleretur electorum
+      numerus, homo decimus est creatus.
+    </p>
+            <p xml:id="xAbSeN-1e4045-d1e251">
+               <ref xml:id="xAbSeN-1e4045-Rd1e253">item</ref>: Nouem uero angelorum ordines diximus, quia uidelicet esse
+      testante sacro eloquio scimus angelos, archangelos, uirtutes,
+      potestates, principatus, dominationes, thronos, Cherubin atque
+      Seraphin.
+    </p>
+            <p xml:id="xAbSeN-1e4045-d1e257">
+               <ref xml:id="xAbSeN-1e4045-Rd1e259">item</ref>: Dum principatibus, potestatibus, uirtutibus atque dominationibus
+      coniunguntur throni, quinque sunt ordines. Quibus dum angeli et
+      archangeli Cherubin atque Seraphin adiuncta sunt, procul dubio nouem
+      esse ordines angelorum inueniuntur.
+    </p>
+            <p xml:id="xAbSeN-1e4045-d1e263">
+               <ref xml:id="xAbSeN-1e4045-Rd1e265">item</ref>: Ecce nouem diximus nomina lapidum quia profecto nouem sunt
+      ordines angelorum.
+    </p>
+            <p xml:id="xAbSeN-1e4045-d1e269">
+               <ref xml:id="xAbSeN-1e4045-Rd1e271">item</ref>: Graeca etenim lingua angeli nuntii, archangeli uero summi nuntii
+      uocantur.
+    </p>
+            <p xml:id="xAbSeN-1e4045-d1e276">
+               <ref xml:id="xAbSeN-1e4045-Rd1e278">item</ref>: Angelorum uocabulum nomen est officii, non naturae. Nam sancti
+      illi caelestis patriae spiritus semper quidem sunt spiritus sed
+      semper uocari angeli nequaquam possunt, quia tunc solum sunt angeli
+      cum per eos aliqua nuntiantur, unde et per psalmistam dicitur: Qui
+      facit angelos suos spiritus. Ac si aperte dicat, Qui eos quos semper
+      habet spiritus, cum uoluerit, angelos facit. Hi autem qui minima
+      nuntiant, angeli; qui uero summa nuntiant, archangeli uocantur. Hinc
+      est enim quod ad Mariam uirginem non quilibet angelus sed Gabriel
+      archangelus mittitur.
+    </p>
+            <p xml:id="xAbSeN-1e4045-d1e282">
+               <ref xml:id="xAbSeN-1e4045-Rd1e284">item</ref>: Fertur uero Dionysius Areopagita, antiquus uidelicet ac
+      uenerabilis pater, dicere quod ex minoribus angelorum agninibus foris
+      ad explendum ministerium uel uisibiliter uel inuisibiliter mittuntur;
+      scilicet quia ad humana solatia ut angeli aut archangeli ueniunt. Nam
+      superiora illa agmina ab intimis nunquam recedunt, quoniam ea quae
+      praeminent usum exterioris ministerii nequaquam habent. Cui rei illud
+      uidetur esse contrarium quod Isaias dicit: Volauit ad me unus de
+      Seraphin, et in manu eius calculus, quem forcipe tulerat de altari, et
+      tetigit os moum. Sed in hac sententia prophetae uult intelligi
+      quia hi spiritus, qui mittuntur, eorum uocabula percipiunt quorum
+      officium gerunt. Qui[a] enim, ut peccata locutionis incendat, de
+      altari angelus carbonem portat, Seraphin uocatur, quod incendium
+      dicitur. Huic autem sensui et illud creditur non inconuenienter
+      opitulari, quod per Danielem dicitur: Milia milium ministrabant ei et
+      decies milies centena milia assistebant ei. Aliud est nanque
+      ministrare, aliud assistere. Ministrant quidem Deo qui ad nos
+      annuntiando exeunt, assistunt uero qui sic contemplatione intima
+      perfruuntur ut ad explenda foras opera minime mittantur. Sed quia in
+      quibusdam scripturae locis quaedam per Cherubin, quaedam uero per
+      Seraphin agi didicimus, utrum per se haec faciunt an per subiecta
+      agmina agantur, quae, sicut dicitur, in eo quod a maioribus ueniunt
+      maiorum uocabula sortiuntur, nos affirmare nolumus quod apertis
+      testimoniis non probamus. Hoc tamen certissime scimus, quod ad
+      explendum de supernis ministerium alii spiritus alios mittunt,
+      Zacharia scilicet attestante propheta, qui ait: Ecce angelus qui
+      loquebatur in me egrediebatur, et alius angelus egrediebatur in
+      occursum eius etc.
+    </p>
+            <p xml:id="xAbSeN-1e4045-d1e290">
+               <ref xml:id="xAbSeN-1e4045-Rd1e292">item</ref>: Minora uero sunt quae mittuntur, maiora quae mittunt. Sed hoc
+      quoque de ipsis agninibus quae mittuntur certum tenemus, quia et cum
+      ad nos ueniunt, sic exterius implent ministerium ut tamen nunquam
+      desint interius per contemplationem.
+    </p>
+            <p xml:id="xAbSeN-1e4045-d1e296">
+               <ref xml:id="xAbSeN-1e4045-Rd1e298">haimo in epistola ad hebraeos</ref>: Ut ait Didymus Graecus in libro de
+      spiritu sancto, ex omnibus angelorum ordinibus aliqui mittuntur.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

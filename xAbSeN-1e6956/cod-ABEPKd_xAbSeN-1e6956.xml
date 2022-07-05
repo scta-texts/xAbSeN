@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 95</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 95</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e6956"><!-- xAbSeN-q95 -->
+            <head xml:id="xAbSeN-1e6956-Hd1e103">Quaestio 95</head>
+            <head xml:id="xAbSeN-1e6956-Hd1e106" type="question-title"> quod solus christus fundamentum sit ecclesiae et contra</head>
+    
+            <p xml:id="xAbSeN-1e6956-d1e109">
+               <ref xml:id="xAbSeN-1e6956-Rd1e111">paulus in prima epistola ad corinthios</ref>: Fundamentum enim aliud nemo
+      potest ponere praeter id quod positum est, quod est Christus Iesus.
+    </p>
+            <p xml:id="xAbSeN-1e6956-d1e115">
+               <ref xml:id="xAbSeN-1e6956-Rd1e117">augustinus retractationum contra epistolam donatiani</ref>: Dixi de apostolo
+      Petro quod in illo tamquam in petra fundata sit ecclesia; qui
+      sensus etiam cantatur in uersibus beati Ambrosii, ubi de gallo
+      gallinatio ait:
+    </p>
+            <p xml:id="xAbSeN-1e6956-d1e123">     Hoc ipsa petra ecclesiae
+      canente culpam diluit.
+    </p>
+            <p xml:id="xAbSeN-1e6956-d1e127">Sed scio me postea sic exposuisse quod dictum est: Tu es Petrus, et
+      super hanc petram aedificabo ecctesiam meam, ut super hunc
+      intelligeretur, quem confessus est Petrus dicens: Tu es Christus,
+      filius Dei uiui. Ac si Petrus, ab hac petra appellatus, personam
+      ecclesiae figuraret, quae super hanc petram aedificaretur. Non enim
+      dictum est illi, Tu es petra sed tu es Petrus; petra autem erat
+      Christus.
+    </p>
+            <p xml:id="xAbSeN-1e6956-d1e130">
+               <ref xml:id="xAbSeN-1e6956-Rd1e132">cyprianus in epistola de disciplina et habitu virginum</ref>: Petrus etiam,
+      cui oues suas dominus pascendas tuendasque commendat, super quem
+      posuit et fundauit ecclesiam etc.
+    </p>
+            <p xml:id="xAbSeN-1e6956-d1e136">
+               <ref xml:id="xAbSeN-1e6956-Rd1e138">idem ad iuvaianum, de recitando haereticorum baptismo</ref>: Manifestum est
+      autem ubi et per quos remissa peccatorum dari possit.  Nam Petro
+      primum dominus, super quem aedificauit ecclesiam, dedit ut id solueret
+      in terris quod ille soluisset.
+    </p>
+            <p xml:id="xAbSeN-1e6956-d1e142">
+               <ref xml:id="xAbSeN-1e6956-Rd1e144">idem de eodem ad quintum</ref>: Petrus, quem primum dominus elegit et super
+      quem aedificauit ecclesiam suam.
+    </p>
+            <p xml:id="xAbSeN-1e6956-d1e148">
+               <ref xml:id="xAbSeN-1e6956-Rd1e150">origenes super matthaeum</ref>: Quaecumque ligaueris super terram.  Quoniam
+      autem qui episcopatus uendicant locum utuntur hoc textu quemadmodum
+      Petrus, et claues regni caelorum a Christo acceptas docent, qui ab eis
+      ligati fuerint in caelo esse ligatos et qui ab eis soluti fuerint, id
+      est remissionem acceperint, esse in caelo solutos; dicendum est
+      quoniam benedicunt, si opera habent illa propter quae dictum est illi
+      Petro: Tu es Petrus, et tales sunt ut super eos aedificetur ecclesia
+      Christi.
+    </p>
+            <p xml:id="xAbSeN-1e6956-d1e154">
+               <ref xml:id="xAbSeN-1e6956-Rd1e156">ecclesiastica historia lib. vi, de his quae in expositione primi
+      psalmi dicit origenes</ref>: Petrus uero, super quem fundatur ecclesia, duas
+      tantum modo epistolas scribit.  /321/
+    </p>
+            <p xml:id="xAbSeN-1e6956-d1e161">
+               <ref xml:id="xAbSeN-1e6956-Rd1e163">ambrosius in exameron, de operibus quintae diei, cum de gallo
+      loqueretur</ref>: Hoc postremo canente ipsa petra ecclesiae culpam suam
+      diluit, quam priusquam gallus cantaret, negando contraxerat.
+    </p>
+            <p xml:id="xAbSeN-1e6956-d1e167">
+               <ref xml:id="xAbSeN-1e6956-Rd1e169">hieronymus in epistola prima ad corinthios</ref>: Si quis enim
+      superacdificat, super fidem aedificat quilibet doctor.
+    </p>
+            <p xml:id="xAbSeN-1e6956-d1e173">
+               <ref xml:id="xAbSeN-1e6956-Rd1e175">item</ref>: Hic magistros et doctores significat super fundamentum, quod est
+      Christus, homines recte instruere uel praue. In quibus magistrorum
+      doctrina in die iudicii in igne reuelabitur, ubi consumptis
+      peccatoribus probati manebunt. Doctores autem super his qui probati
+      fuerint, mercedem retributionis accipient. In illis uero quos ignis
+      exusserit, damno afficientur, quia in uacuum laborauerunt.
+    </p>
+            <p xml:id="xAbSeN-1e6956-d1e179">
+               <ref xml:id="xAbSeN-1e6956-Rd1e181">idem super ieremiam lib. iii</ref>: Et uenabuntur eos de omni monte et de
+      oauernis petrarum. Non solum enim Christus petra sed et Petro apostolo
+      donauit ut uocaretur petra.
+    </p>
+            <p xml:id="xAbSeN-1e6956-d1e185">
+               <ref xml:id="xAbSeN-1e6956-Rd1e187">idem ad marcellam, de fide nostra et montani haeretici dogmate</ref>: Si
+      igitur apostolus Petrus, super quem dominus fundauit ecclesiam etc.
+    </p>
+            <p xml:id="xAbSeN-1e6956-d1e191">
+               <ref xml:id="xAbSeN-1e6956-Rd1e193">idem in psalmo lxxxvi</ref>: Fundamenta eius in montibus sanctis. Fundamenta
+      eius siue Dei siue certe ecclesiae. Quae sunt autem fundamenta, nisi
+      pater et filius et spiritus sanctus? Loquitur Paulus: Quasi sapiens
+      architectus fundamentum posui, hoc est fidem trinitatis. Et alio loco:
+      Exspectabant enim ciuitatem habentem fundamenta, cuius artifex et
+      conditor Deus. Quos nos possumus dicere montes? apostolos. In illis
+      erant fundamenta, ubi primum posita est fides ecclesiae. Diligit
+      dominus portas Sion. Legamus Apocalypsim et Isaiam, ubi aedificatur
+      ciuitas Ierusalem, et XII portae ipsius dicuntur. Manifestum est quod
+      de apostolis scripsit. Aliter mihi uidentur portae Sion esse uirtutes.
+    </p>
+            <p xml:id="xAbSeN-1e6956-d1e198">
+               <ref xml:id="xAbSeN-1e6956-Rd1e200">idem super matthaeum</ref>: Et super hano petram aedifioabo ecolesiam meam.
+      Sicut ipse lumen apostolis donauit ut lumen mundi appellarentur,
+      caeteraque ex Deo sortiti uocabula sunt, ita et Simoni, qui credebat in
+      petram Christum, petrae largitus est nomen ac, secundum
+      metaphoram petrae, recte dicitur ei: aedificabo ecclesiam meam super
+      te.
+    </p>
+            <p xml:id="xAbSeN-1e6956-d1e206">
+               <ref xml:id="xAbSeN-1e6956-Rd1e208">item</ref>: Absit a te, domine, non erit tibi hoc. Consideret. qui hoc
+      quaerit, Petro illam benedictionem ac potestatem et aedificationem
+      super eum ecclesiae in futuro promissam, non in praesenti
+      datam. Aedificabo, inquit, super te ecolesiam meam, et portae inferi
+      etc. Quae si statim dedisset ei nunquam in eo prauae confessionis
+      error inuenisset locum.
+    </p>
+            <p xml:id="xAbSeN-1e6956-d1e212">
+               <ref xml:id="xAbSeN-1e6956-Rd1e214">leo universis provinciae episcopis</ref>: Dominus Iesus instituit ut
+      ueritas, quae antea legis et prophetarum praeconio continebatur, per
+      apostolicam tubam in salutem uniuersitatis exiret, sicut scriptum est:
+      In omnem terram exiuit sonus eorum. Sed huius muneris sacramentum ita
+      ad omnium apostolorum officium pertinere uoluit ut in beatissimo Petro
+      principaliter collocaret, ut ab ipso quasi quodam capite dona sua
+      uelut in omne corpus diffunderet, ut exsortem se mysterii intelligeret
+      esse diuini qui ausus fuisset a Petri soliditate recedere. Hunc enim
+      in consortium indiuiduae unitatis assumptum, id quod ipse erat, uoluit
+      nominare dicendo: Tu es Petrus et super hanc petram aedificabo
+      ecclesiam meam, ut aeterni templi aedificio mirabili munere gratiae in
+      Petri soliditate consisteret.
+    </p>
+            <p xml:id="xAbSeN-1e6956-d1e218">
+               <ref xml:id="xAbSeN-1e6956-Rd1e220">sermo primus maximi episcopi in festivitate apostolorum petri et
+      pauli</ref>: Hic est Petrus, cui Christus dominus communionem sui nominis
+      libenter indulsit. Ut enim, sicut apostolus Paulus edocuit, petra erat
+      Christus, ita per Christum Petrus factus est petra dicente domino: Tu
+      es Petrus et super hanc petram aedificabo ecclesiam meam. Nam sicut in
+      deserto dominico sitienti populo aqua fluxit e petra, ita uniuerso
+      mundo perfidiae ariditate lassanti de ore Petri fons salutiferae
+      confessionis emersit.  /323/
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 118</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 118</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e9334"><!-- xAbSeN-q118 -->
+            <head xml:id="xAbSeN-1e9334-Hd1e103">Quaestio 118</head>
+            <head xml:id="xAbSeN-1e9334-Hd1e106" type="question-title"> quod eucharistia nunquam sit danda intincta et contra</head>
+    
+            <p xml:id="xAbSeN-1e9334-d1e109">
+               <ref xml:id="xAbSeN-1e9334-Rd1e111">ex decretis iulii papae episcopis per aegyptum missis</ref>: Illud uero quod
+      pro complemento communionis intinctam tradunt eucharistiam populis,
+      nec hoc prolatum ex euangelio testimonium receperunt, ubi apostolis
+      corpus suum et sanguinem commendauit. Seorsum enim panis et seorsum
+      calicis commendatio memoratur. Nam intinctum panem aliis Christum
+      praebuisse non legimus, excepto illi quem intincta bucella magistri
+      proditorem ostenderet, non sacramenti huius institutionem signaret.
+    </p>
+            <p xml:id="xAbSeN-1e9334-d1e115">
+               <ref xml:id="xAbSeN-1e9334-Rd1e117">augustinus super iohannem</ref>: Cui intinotum panem porrexero etc. Bonum
+      est quod accepit, sed malo suo accepit, quia male bonum malus accepit.
+      Multum quippe interest non quid accipiat sed quis accipiat; nec quale
+      sit quod datur sed qualis sit cui datur. Intrauit ergo post hunc panem
+      sathanas in domini traditorem ut sibi iam traditum plenius possideret,
+      in quem prius intrauerat ut deciperet. Duxit enim peccatum traditionis
+      praesumptio sacramenti, cum homini ingrato intrasset panis in uentrem,
+      hostis in mentem. Et cum intinxisset panem, dedit Iudae. Non autem, ut
+      putant quidam, tunc Iudas Christi corpus accepit. Intelligendum est
+      enim quod iam omnibus eis distribuerat dominus sacramentum corporis et
+      sanguinis sui, ubi et ipse Iudas erat, sicut Lucas euidentissime
+      narrat. tinctam atque porrectam suum exprimit traditorem, fortassis
+      per panis tinctionem illius significans fictionem.
+    </p>
+            <p xml:id="xAbSeN-1e9334-d1e123">
+               <ref xml:id="xAbSeN-1e9334-Rd1e125">idem de adulterinis coniugiis lib. i</ref>: Si autem dominus ubi ait: nolite
+      sanctum dare canibus, hoc quod isti cauendum putant uellet intelligi,
+      non ipse suo traditori dedisset quod in suam ille perniciem sine culpa
+      dantis cum dignis indignus accepit.
+    </p>
+            <p xml:id="xAbSeN-1e9334-d1e130">
+               <ref xml:id="xAbSeN-1e9334-Rd1e132">ex concilio turonico cap. iii</ref>: Omnis presbyter habeas pyxidem aut uas
+      tanto sacramento dignum, ubi corpus domini recondatur ad uiaticum
+      recedentibus a saeculo. Quae tamen sacra oblatio intincta debet esse
+      in sanguine Christi, ut ueraciter possit dicere infirmo, Corpus et
+      sanguis domini proficiat tibi etc.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

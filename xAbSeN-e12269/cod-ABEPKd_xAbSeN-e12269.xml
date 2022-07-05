@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 156</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 156</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-e12269"><!-- xAbSeN-q156 -->
+            <head xml:id="xAbSeN-e12269-Hd1e103">Quaestio 156</head>
+            <head xml:id="xAbSeN-e12269-Hd1e106" type="question-title"> quod nulla de causa liceat christianis quemquam interficere
+      et contra</head>
+    
+            <p xml:id="xAbSeN-e12269-d1e109">
+               <ref xml:id="xAbSeN-e12269-Rd1e111">augustinus ad macedonium</ref>: Non enim bonus est quispiam timore poenae
+      sed amore iustitiae. Verumtamen non inutiliter etiam metu legum humana
+      coercetur audacia, ut et tuta sit inter improbos innocentia, et in
+      ipsis improbis, dum formidato supplicio frenatur facultas, inuocato
+      Deo sanetur uoluntas. Sed huic ordinationi rerum humanarum contrariae
+      non sunt intercessiones episcoporum, immo uero nec causa nec locus
+      intercedendi ullus esset, si ista non essent. Tanto enim sunt
+      intercedentium et parcentium beneficia gratiora quanto peccantium
+      iustiora supplicia. Nec ob aliud, quantum sapio, in ueteri testamento
+      seuerior legis uindicta feruebat nisi ut ostenderetur recte iniquis
+      poenas constitutas, ut, quod eis parcere noui testamenti indulgentia
+      commonemur, aut remedium sit salutis quo peccatis parcatur et nostris,
+      aut commendatio mansuetudinis, ut per eos qui parcunt ueritas
+      praedicata non tantum timeatur uerum etiam diligatur.
+    </p>
+            <p xml:id="xAbSeN-e12269-d1e115">
+               <ref xml:id="xAbSeN-e12269-Rd1e117">item</ref>: Et ideo non usque ad mortem protendenda est disciplina, ut sit
+      cui prodesse possit.
+    </p>
+            <p xml:id="xAbSeN-e12269-d1e121">
+               <ref xml:id="xAbSeN-e12269-Rd1e123">item</ref>: Cum intercedimus sequuntur aliquando quae nolumus, siue in pro
+      peccatore damnando ipso qui nostra intercessione liberatur, ut
+      uel immanius impunita grassetur audacia subdita cupiditati, ingrata
+      lenitati atque unus morti ereptus plurimos necet, uel ipso per
+      beneficium nostrum in melius commutato, moribus correcto, alius male
+      uiuendo pereat sibique hac impunitate proposita, talia uel grauiora
+      committat. Non, ut opinor, haec mala imputanda sunt nobis, cum
+      intercedimus uobis, sed potius illa bona quae, cum id facimus,
+      intuemur et uolumus, id est commendatio mansuetudinis ad conciliandam
+      dilectionem uerbo ueritatis et ut qui liberantur a temporali morte sic
+      uiuant, ne in aeternam, unde nunquam liberentur, incurrant.
+    </p>
+            <p xml:id="xAbSeN-e12269-d1e130">
+               <ref xml:id="xAbSeN-e12269-Rd1e132">item</ref>: Nihil nocendi cupiditate fiat, sed consulendi caritate; et nihil
+      fiat inaniter, nihil inhumaniter. Ita formidabitur ultio cognitoris ut
+      nec intercessoris religio contemnatur, quia et plectendo et ignoscendo
+      hoc solum bene agitur, ut uita hominum corrigatur. Quod si tanta est
+      peruersitas et impietas ut ei corrigendae nec disciplina possit
+      prodesse nec uenia, a bonis tamen intentione atque conscientia quam
+      Deus cernit, siue seueritate siue lenitate non nisi officium
+      dilectionis impletur.
+    </p>
+            <p xml:id="xAbSeN-e12269-d1e136">
+               <ref xml:id="xAbSeN-e12269-Rd1e138">idem ad bonifatium</ref>: Itaque hostem pugnantam necessitas perimat, non
+      uoluntas. Sicut rebellanti et resistenti uiolentia redditur ita uicto
+      uel capto misericordia iam debetur.
+    </p>
+            <p xml:id="xAbSeN-e12269-d1e142">
+               <ref xml:id="xAbSeN-e12269-Rd1e144">idem de quaestionibus novi et veteris testamenti, cap. ix</ref>: Quare ergo
+      sententia data est, ut qui accipit gladium gladio pereat, nisi quia
+      nulli licet excepto iudice gladio quemquam occidere? Apostolo autem
+      Petro usque ad hoc permissum est, quod dolorem faceret, non quod
+      occideret. Hoc enim audiens, ne iterum percuteret, dicit propterea,
+      quia Christianis iam factis occidere non licet. In misericordia enim
+      positis lege iuris mundo crediti uti non licet aspere.  /524/
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

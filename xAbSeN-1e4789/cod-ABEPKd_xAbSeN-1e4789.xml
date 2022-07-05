@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 63</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 63</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e4789"><!-- xAbSeN-q63 -->
+            <head xml:id="xAbSeN-1e4789-Hd1e103">Quaestio 63</head>
+            <head xml:id="xAbSeN-1e4789-Hd1e106" type="question-title"> quod christus secundum carnem non fuerit de tribu iuda et
+      contra</head>
+    
+            <p xml:id="xAbSeN-1e4789-d1e109">ORIGENES SUPER EPISTOLAM PAULI AD ROMANOS HOMILIA 1: Qui factus est ei
+      ex semine Dauid secundum carnem. Quomodo uidetur Christus ex semine
+      Dauid descendere, quem constat ex Ioseph non esse natum, in quem
+      Ioseph series ex Dauid descendentis generationis adducitur? Quibus
+      occurrere quamuis molestum sit secundum litterae rationem, tamen
+      respondetur a nostris, quod Maria, quae desponsata Ioseph erat,
+      secundum legem sine dubio contribuli suo et cognato coniuncta est; et
+      quamuis dicatur ad eam ab angelo, quia Elisabeth, cognata tua, et ipsa
+      pariet filium in senectute sua, Elisabeth autem ex filiabus
+      Aaron esse dicatur, tamen affirmabitur a nostris, quod cognationis
+      nomen non solum ad contribules sed ad omnes qui sunt ex genere Israel
+      possit aptari, sicut idem apostolus de omnibus simul dicit: qui sunt
+      cognati mei secundum carnem. Haec quidem et alia his similia
+      respondentur. Nobis tamen haec intelligenda secundum spiritalem uel
+      allegoricam rationem magis uidentur, secundum quod nihil obest, etiam
+      quod Ioseph pater Christi dicitur. Et a Matthaeo refertur, quod Ioram
+      genuit Oziam. In quarto autem Regnorum scriptum est, quod Ioram genuit
+      Ochoziam, Ochozias Ioas, Ioas Amasiam, Amasias Azariam, ipsum qui
+      interdum Ozias nominatur, et Azarias Ionatham.
+    </p>
+            <p xml:id="xAbSeN-1e4789-d1e114">
+               <ref xml:id="xAbSeN-1e4789-Rd1e116">item</ref>: Cuius rei dissertio certum est, quod non secundum historiam sed
+      secundum spiritualem intelligentiam constet, quae non est nobis nunc
+      pulsanda. Interim sufficit nobis ad eos qui aduersantur, respondere
+      quod sicut Iesus Ioseph filius esse dicitur et Ozias genitus ex Ioram,
+      ex quo non est genitus, ita et ex semine Dauid secundum carnem
+      Christus potest accipi, et quicquid rationis in Ioram protulerint et
+      Ioseph, hoc et in Dauid dicamus.
+    </p>
+            <p xml:id="xAbSeN-1e4789-d1e120">
+               <ref xml:id="xAbSeN-1e4789-Rd1e122">paulus in epistola ad hebraeos</ref>: Manifestum est enim quod ex Iuda ortus
+      sit dominus noster, in qua tribu nihil de sacerdotibus Moyses locutus
+      est.
+    </p>
+            <p xml:id="xAbSeN-1e4789-d1e127">
+               <ref xml:id="xAbSeN-1e4789-Rd1e129">hieronymus super epistolam ad hebraeos</ref>: Quid adhuc necessarium per
+      ordinem Melchiaedech alium surgere sacerdotem, non secundum Aaron
+      etc. Volens ostendere apostolus generationem Melchisedech non ex Sem
+      progenie, unde Abraham sed ex Cham, cuius posteritatem subsequentem
+      scriptura non memorat, originem trahere, dicit eum sine patre, sine
+      matre, id est originis numeratione, neque initia neque finem
+      mortis habere conscriptum.
+    </p>
+            <p xml:id="xAbSeN-1e4789-d1e135">
+               <ref xml:id="xAbSeN-1e4789-Rd1e137">item</ref>: Hoc autem ideo apostolus facit, ut ostendat eum qui ex
+      Hebraeorum generatione non esset, benedixisse patriarcham et in eo
+      similitudinem Christi, qui non esset ex tribu Leui, id est sacerdotali
+      sed ex Iudae.
+    </p>
+            <p xml:id="xAbSeN-1e4789-d1e141">
+               <ref xml:id="xAbSeN-1e4789-Rd1e143">augustinus contra faustum lib. ii, cap. ii</ref>: Dominus Dei secundum
+      diuinitatem, idem ipse filius Dauid ex semine Dauid secundum
+      carnem. Quod si nobis credere non prodesset, non hoc tam attente
+      apostolus Timotheo commendaret, dicens: memor esto Christum Iesum
+      resurrexisse a mortuis, ex semine Dauid, secundum euangelium meum.
+      Contra quod euangelium quisquis aliud annuntiauerit ut anathema sit,
+      magna cure fideles admonuit.
+    </p>
+            <p xml:id="xAbSeN-1e4789-d1e147">
+               <ref xml:id="xAbSeN-1e4789-Rd1e149">item</ref>: Cognationum seriem non usque ad Mariam sed usque ad Ioseph
+      Matthaeus perducit, primo quia mariti eius fuerat propter uirilem
+      sexum potius honoranda persona. Neque enim quia concubitu non
+      permixtus, ideo non maritus, cum ipse Matthaeus narret ab angelo
+      Mariam ipsius coniugem appellatam.
+    </p>
+            <p xml:id="xAbSeN-1e4789-d1e153">
+               <ref xml:id="xAbSeN-1e4789-Rd1e155">item</ref>: Cogitare enim debemus fieri potuisse, ut et Ioseph maritus
+      Mariae diceretur, habens eam coniugem non concubitu sed affectu, quod
+      est carius, et ideo non debuisse uirum uirginis matris Christi
+      separari a serie parentum Christi; et ipsam Mariam aliquam de stirpe
+      Dauid uenam sanguinis ducere, ut caro Christi etiam ex uirgine
+      procreata sine Dauid semine esse non posset.
+    </p>
+            <p xml:id="xAbSeN-1e4789-d1e159">
+               <ref xml:id="xAbSeN-1e4789-Rd1e161">item</ref>: Quid restat nisi et Mariam non fuisse extraneam a cognatione
+      Dauid?
+    </p>
+            <p xml:id="xAbSeN-1e4789-d1e166">
+               <ref xml:id="xAbSeN-1e4789-Rd1e168">item</ref>: Quisquis ita dicit Mariam ad consanguinitatem Dauid non
+      pertinuisse, manifestum est quod scripturarum tam excellenti
+      auctoritati obluctetur.  /244/
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

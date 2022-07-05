@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 130</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 130</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-e10276"><!-- xAbSeN-q130 -->
+            <head xml:id="xAbSeN-e10276-Hd1e103">Quaestio 130</head>
+            <head xml:id="xAbSeN-e10276-Hd1e106" type="question-title"> quod nullus humanus concubitus possit esse sine culpa
+      et contra</head>
+    
+            <p xml:id="xAbSeN-e10276-d1e109">
+               <ref xml:id="xAbSeN-e10276-Rd1e111">ambrosius super epistolam pauli i ad corinthios, lib. ii</ref>: Si autem
+      acceperis, non peccasti. Non utique peccat, quia quod concessum est
+      facit.
+    </p>
+            <p xml:id="xAbSeN-e10276-d1e115">
+               <ref xml:id="xAbSeN-e10276-Rd1e117">augustinus de nuptiis et concupiscentia</ref>: Quamuis concubitus qui fit
+      intentione generandi non sit ipse peccatum, quia bona uoluntas animi
+      sequentem ducit, non ducentem sequitur.
+    </p>
+            <p xml:id="xAbSeN-e10276-d1e121">
+               <ref xml:id="xAbSeN-e10276-Rd1e123">idem de bono coniugali</ref>: Coniugalis enim concubitus generandi gratia
+      non habet culpam; concupiscentiae uero satiandae, sed tamen cum
+      coniuge propter thori fidem, uenialem habet culpam. Adulterium uero
+      siue fornicatio letalem habet culpam.
+    </p>
+            <p xml:id="xAbSeN-e10276-d1e128">
+               <ref xml:id="xAbSeN-e10276-Rd1e130">item</ref>: Nunc autem quid dicturi sumus aduersus euidentissimam uocem
+      apostoli dicentis: Quod uult faciat; non peccat, si nubat, et si
+      accepisti uxorem, non peccasti, et si nupaerit uirgo, non peccat? Hinc
+      ergo iam dubitare fas non est nuptias non esse peccatum. Non itaque
+      nuptias secundum ueniam concedit apostolus. Nam quis ambigat
+      absurdissime dici, non eos peccasse, quibus uenia datur?  Sed illum
+      concubitum secundum ueniam concedit, qui fit per incontinentiam non
+      sola causa procreandi et aliquando nulla causa procreandi, quoniam
+      nuptiae non fieri cogunt sed ignosci impetrant; si tamen non ita sit
+      nimius ut impediat tempora orandi nec immutetur in eum usum qui est
+      contra naturam. Concubitus enim necessarius causa generandi
+      inculpabilis est et solus ipse nuptialis. Ille autem qui ultra
+      istam necessitatem progreditur, iam non rationi sed libidini
+      obsequitur. Et hunc tamen non exigere sed reddere coniugi, ne
+      fornicando damnabiliter peccent, ad personam pertinet coniugalem.
+    </p>
+            <p xml:id="xAbSeN-e10276-d1e136">
+               <ref xml:id="xAbSeN-e10276-Rd1e138">item</ref>: Bonum ergo sunt nuptiae, maxime si filios quos carnaliter
+      desiderant, spiritualiter nutriant. Ne quod purificari lex hominem et
+      post coniugalem concubitum iubet, peccatum esse declarat, si non est
+      ille qui secundum ueniam conceditur, qui etiam nimius impedit
+      orationes; sed sicut lex multa ponit in sacramentis et in umbris
+      futurorum, quaedam in semine quasi materialis informitas, quae formata
+      corpus hominis redditura est, in significatione posita est uitae
+      informis et ineruditse; a qua informitate quia oportet hominem
+      doctrina et forma et eruditione mundari, in huius rei signum illa
+      purificatio praecepta est post seminis emissionem. Neque enim et in
+      somnis peccatum fit; et tamen etiam ibi praecepta est purificatio. Aut
+      si et hoc peccatum quisquam putet non arbitrans accidere nisi ex
+      aliquo huius modi desiderio, quod procul dubio falsum est, numquid et
+      solita menstruum peccata sunt feminarum? a quibus tamen eas eadem
+      legis uetustas praecepit expiari nonnisi propter illam ipsam
+      materialem informitatem, quae facto conceptu tanquam in aedificationem
+      corporis additur; ac per hoc cum informiter fluit, significari lex per
+      illam uoluit animum sine disciplinae forma indecenter fluidum ac
+      dissolutum, quem formari oportere significat, cum talem fluxum
+      corporis iubet purificari. Postremo numquid et mori peccatum est, aut
+      sepelire non etiam bonum opus humanitatis est? Et tamen purificatio et
+      inde mandata est, quia et mortuum corpus uita deserente non peccatum
+      est sed peccatum significat animae desertae a iustitia. Bonum, inquam,
+      sunt nuptiae et contra omnes calumnias possunt sana ratione defendi.
+      /450/
+    </p>
+            <p xml:id="xAbSeN-e10276-d1e142">
+               <ref xml:id="xAbSeN-e10276-Rd1e144">item</ref>: Continentia non corporis sed animae uirtus est.  Virtutes autem
+      animi aliquando in corpore manifestantur, aliquando in habitu latent,
+      sicut martyrum uirtus apparuit in tolerando passiones.
+    </p>
+            <p xml:id="xAbSeN-e10276-d1e148">
+               <ref xml:id="xAbSeN-e10276-Rd1e150">item</ref>: Iam enim erat in Iob patientia, quam nouerat Dominus et cui
+      testimonium perhibebat, sed hominibus innotuit temptationis examine.
+    </p>
+            <p xml:id="xAbSeN-e10276-d1e154">
+               <ref xml:id="xAbSeN-e10276-Rd1e156">item</ref>: Verum ut apertius intelligatur quomodo sit uirtus in habitu,
+      etiam si non sit in opere, loquor de exemplo de quo nullus dubitat
+      catholicorum. Dominus Iesus quod in ueritate carnis esurierit et
+      sitierit et manducauerit et biberit, nullus ambigit eorum qui ex eius
+      euangelio fideles sunt. Num igitur non erat in illo continentiae
+      uirtus a cibo et potu quanta erat in Iohanne baptista? Venit enim
+      Iohannes non manducans neque bibens, et dixerunt: daemonium habet.
+      Venit filius hominis manducana et bibens et dixerunt: ecce homo uorax
+      et potator uini, amicus publicanorum et peccatorum.
+    </p>
+            <p xml:id="xAbSeN-e10276-d1e160">
+               <ref xml:id="xAbSeN-e10276-Rd1e162">item</ref>: Deinde ibi subiecit, cum de Iohanne ac de se illa dixisset
+      iuatificata est sapientia a filiis suis, qui uident continentiae
+      uirtutem in habitu animi semper esse debere, in opere autem pro rerum
+      ac temporum opportunitate manifestari, sicut uirtus patientiae
+      sanctorum martyrum. Quo circa sicut non est impar meritum patientiae
+      in Petro, qui passus est, et in Iohanne, qui passus non est, sic non
+      est impar meritum continentiae in Iohanne, qui nullas expertus est
+      nuptias, et in Abraham, qui filios generauit. Et illius enim
+      caelibatus et illius conubium pro temporum distributione Christo
+      militauerunt. Sed continentiam Iohannes et in opere, Abraham uero in
+      solo habitu habebat. Illo itaque tempore cum et lex dies patriarcharum
+      subsequens maledictum dixit, qui non excitaret semen in Israel, et qui
+      poterat non promebat sed tamen habebat. Ex quo autem uenit plenitudo
+      temporis, ut diceretur, qui poteat capere, aupiat, qui habet
+      operatur, qui operari noluerit, non se habere mentiatur. Ac per hoc ab
+      eis qui corrumpunt mores bonos colloquiis malis, inani uersutia
+      dicitur homini Christiano continenti et nuptias recusanti, tu ergo
+      melior quam Abraham? Quod ille cum audierit non perturbetur; sed
+      dicat, Ego quidem non sum melior quam Abraham, sed melior est castitas
+      caelibum quam castitas nuptiarum, quarum Abraham unam habebat in usu,
+      ambas in habitu. Caste quippe coniugaliter uixit; esse autem caste
+      sine coniugio potuit, sed tunc non oportuit.
+    </p>
+            <p xml:id="xAbSeN-e10276-d1e169">
+               <ref xml:id="xAbSeN-e10276-Rd1e171">item</ref>: Potest autem fieri ut minor sit continentiae uirtus in animo
+      eius qui non utitur nuptiis, quibus est usus Abraham; sed tamen maior
+      est quam in animo eius qui propterea tenuit coniugii castitatem, quia
+      non potuit ampliorem. Sic et femina innupta, quae cogitat ea
+      quae sunt domini, ut sit sancta et corpore et spiritu, cum audierit
+      impudentem illum percunctatione dicentem, tu ergo melior quam Sara?
+      respondeat, Ego melior sum, sed his quae uirtute huius continentiae
+      carent, quod de Sara non credat. Fecit ergo illa cum ista uirtute quod
+      illi tempori congruebat, a quo ego sum immunis, ut in meo etiam
+      corpore appareat quod illa in animo construebat. Res ergo ipsas si
+      comparemus, nullo modo dubitandum est meliorem esse castitatem
+      continentiae quam castitatem nuptialem; homines uero cum comparamus,
+      ille est melior qui bonum amplius habet.
+    </p>
+            <p xml:id="xAbSeN-e10276-d1e175">
+               <ref xml:id="xAbSeN-e10276-Rd1e177">item</ref>: Maius enim bonum est obedientiae quam continentiae. Nam conubium
+      nusquam nostrarum scripturarum auctoritate damnatur; inobedientia uero
+      nusquam absoluitur. Si ergo proponatur uirgo permansura sed tamen
+      inobediens, et maritata quae uirgo permanere non posset sed tamen
+      obediens, quam meliorem dicamus? Minus laudabilem quam si uirgo esset,
+      an damnabilem sicut uirgo est? Ita si conferas ebriosam uirginem
+      sobriae coniugatae, quis dubitet eandem ferre sententiam? Nuptiae
+      quippe et uirginitas duo bona sunt, quorum alterum maius;
+      sobrietas autem et ebriositas, sicut obedientia et contumacia illa
+      bona sunt, haec male.  Melius est autem habere omnia bona uel minora
+      quam magnum bonum cum magno malo, quia et in corporibus bonis melius
+      est habere Zachaei staturam cum sanitate quam Goliae cum febre.
+    </p>
+            <p xml:id="xAbSeN-e10276-d1e183">
+               <ref xml:id="xAbSeN-e10276-Rd1e185">item</ref>: Quod enim cibus ad salutem hominis, hoc est concubitus ad
+      salutem generis, et utrumque non est sine delectatione carnali, quae
+      tamen modificata temperantia refrenante in usum naturalem redacta,
+      libido esse non potest. Quod est autem in sustenanda uita illicitus
+      cibus, hoc est in quaerenda prole fornicarius uel adulterinus
+      concubitus. Et quod est in luxuria uentris et gutturis illicitus
+      cibus, hoc est in libidine nullam prolem quaerente illicitus
+      concubitus. Et quod est in cibo licito nonnullus immoderatior
+      appetitus, hoc est in coniugibus uenialis ille concubitus.
+    </p>
+            <p xml:id="xAbSeN-e10276-d1e189">
+               <ref xml:id="xAbSeN-e10276-Rd1e191">item</ref>: Aliud est non concumbere nisi sola uoluntate generandi, quod non
+      habet culpam.
+    </p>
+            <p xml:id="xAbSeN-e10276-d1e195">
+               <ref xml:id="xAbSeN-e10276-Rd1e197">idem in enchiridion cap. xvi</ref>: Non est institute regeneratio nisi quia
+      uitiosa est generatio, usque adeo ut de legitimo matrimonio procreatus
+      dicat: In iniquitatibus conceptus sum, et in peccatis concepit me
+      mater mea.
+    </p>
+            <p xml:id="xAbSeN-e10276-d1e201">
+               <ref xml:id="xAbSeN-e10276-Rd1e203">gregorius libro pastorali cap. li</ref>: Culpae quippe esse innuitur quod
+      indulgeri perhibetur.
+    </p>
+            <p xml:id="xAbSeN-e10276-d1e208">
+               <ref xml:id="xAbSeN-e10276-Rd1e210">moralium lib. xxxii</ref>: Concessit minima, ut maiora declinaret, dicens:
+      Propter fornicationem autem unuaquisque habeat auam uxorem. Et quia
+      tune solum coniuges in admixtione sine culpa sunt cum non pro explenda
+      libidine sed pro suscipienda prole miscentur, ut hoc quod concesserat,
+      sine culpa quamuis minima non esse monstraret, adiunxit: Hoc autem
+      dico aecundum indulgentiam, non secundum imperium.  /453/
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

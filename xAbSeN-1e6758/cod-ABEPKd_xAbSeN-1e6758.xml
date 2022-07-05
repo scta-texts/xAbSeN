@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 90</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 90</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e6758"><!-- xAbSeN-q90 -->
+            <head xml:id="xAbSeN-1e6758-Hd1e103">Quaestio 90</head>
+            <head xml:id="xAbSeN-1e6758-Hd1e106" type="question-title"> quod dominus post ascensionem non sit locutus in terra
+      et contra</head>
+    
+            <p xml:id="xAbSeN-1e6758-d1e109">
+               <ref xml:id="xAbSeN-1e6758-Rd1e111">augustinus super epistolam iohannis homilia ix</ref>: Ascensurus dixit uerba
+      nouissima; post illa uerba non est locutus in terra.
+    </p>
+            <p xml:id="xAbSeN-1e6758-d1e115">
+               <ref xml:id="xAbSeN-1e6758-Rd1e117">gregorius xl homiliarum lib. ii homilia iii, de hospitali viro, qui in
+      specie peregrini dominum quoque iesum suscepit, ipso profitente et ei
+      in sequenti nocte per visionem dicente</ref>: Caeteris diebus me in membris
+      meis, hesterno autem die me in memetipso suscepisti. Ecce in
+      iudicium ueniens dicit: Quod uni ex minimis meis fecistis, mihi
+      fecistia. Ecce ante iudicium cum per membra sua suscipitur,
+      susceptores suos etiam per semetipsum requirit; et tamen nos ad
+      hospitalitatis gratiam pigri sumus.
+    </p>
+            <p xml:id="xAbSeN-1e6758-d1e123">
+               <ref xml:id="xAbSeN-1e6758-Rd1e125">idem eiusdem libri homilia xix, de martyrio monacho qui ipsum dominum
+      iesum christum in specie leprosi sustulit in humeros et portavit</ref>:
+      Cumque iam monasterii foribus propinquaret, spiritualis pater eiusdem
+      monasterii magnis clamare uocibus coepit, Currite, currite, ianuas
+      monasterii citius aperite, quia frater Martyrius uenit dominum
+      portans. Statim uero ut Martyrius ad monasterii aditum peruenit, is
+      qui leprosus esse putabatur de collo eius exsiliens et in ea specie
+      apparens, qua recognosci ab hominibus solet redemptor humani generis,
+      Deus et homo Christus Iesus, ad caelum Martyrio aspiciente rediit,
+      eique ascendens dixit, Martyri, tu me non erubuisti super terram, ego
+      te non erubescam super caelos. Qui sanctus uir mox ut est monasterium
+      ingressus, ei pater monasterii dixit, Frater Martyri, ubi est quem
+      portabas? Cui ille respondit dicens, Ego si scissem quis esset, pedes
+      illius tenuissem.  Tunc idem Martyrius narrabat quia cum eum
+      portasset, pondus eius minime sensisset. Nec mirum, quomodo enim
+      pondus eius sentire poterat qui portantem portabat?
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

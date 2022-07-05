@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 151</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 151</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-e11989"><!-- xAbSeN-q151 -->
+            <head xml:id="xAbSeN-e11989-Hd1e103">Quaestio 151</head>
+            <head xml:id="xAbSeN-e11989-Hd1e106" type="question-title"> quod sine confessione non dimittantur peccata et contra</head>
+    
+            <p xml:id="xAbSeN-e11989-d1e109">
+               <ref xml:id="xAbSeN-e11989-Rd1e111">augustinus lib. ii de paenitentia</ref>: Non potest quisquam iustificari a
+      peccato nisi fuerit ante peccatum confessus. Unde dominus ait: Dic
+      iniquitates tuas, ut iustificeris.
+    </p>
+            <p xml:id="xAbSeN-e11989-d1e115">
+               <ref xml:id="xAbSeN-e11989-Rd1e117">hilarius in psalmo cxxxiv</ref>: Extra ueniam est qui peccatum cognoscit nec
+      cognitum confitetur. Confitendum autem semper est, non quod
+      peccandum semper est ut semper sit confitendum, sed quia peccati
+      ueteris et antiqui utilis sit indefessa confessio.
+    </p>
+            <p xml:id="xAbSeN-e11989-d1e123">
+               <ref xml:id="xAbSeN-e11989-Rd1e125">ex decretis calixti papae</ref>: Si infirmi in peccatis sint, et haec
+      presbyteris ecclesiae confessi fuerint ac perfecto corde ea relinquere
+      atque emendare satagerint, dimittuntur eis. Neque enim sine
+      confessione emendationis queunt dimitti. Unde recte subiungitur:
+      Confitemini alterutrum peocata uestra etc.
+    </p>
+            <p xml:id="xAbSeN-e11989-d1e130">
+               <ref xml:id="xAbSeN-e11989-Rd1e132">gregorius eusebio abbati</ref>: Nullum quem conspicis delicta fletu delere,
+      in conspectu diuinitatis dubites misericordiam consequi, quia nullum
+      peccantem reuersum despicit qui peccatores sanguine suo redimere
+      uenit.
+    </p>
+            <p xml:id="xAbSeN-e11989-d1e136">
+               <ref xml:id="xAbSeN-e11989-Rd1e138">beda in homilia de x leprosis</ref>: Si quis uel iudaica perfidia uel
+      haeretica prauitate uel gentili superstitione uel fraterno schismate
+      per Dei gratiam caruerit, necesse est ad ecclesiam ueniat coloremque
+      fidei uerum quem recepit, ostendat. Caetera uero peccata per se Deus in
+      conscientia relaxat.
+    </p>
+            <p xml:id="xAbSeN-e11989-d1e142">
+               <ref xml:id="xAbSeN-e11989-Rd1e144">iohannes chrysostomus de psalmo l</ref>: Peccata tua dicito, ut deleas
+      illa. Si confunderis alicui dicere, dicito Deo, qui curat ea.  Si
+      fleueris, delentur.
+    </p>
+            <p xml:id="xAbSeN-e11989-d1e148">
+               <ref xml:id="xAbSeN-e11989-Rd1e150">maximus in sermone ii feriae paschae</ref>: Petrus prorupit ad lacrimas,
+      nihil uoce precatur. Inuenio quod fleuerit, non inuenio quid
+      dixerit. Lacrimas eius lego, satisfactionem non lego.  Quod defleri
+      solet, non solet excusari, et quod defendi non potest, ablui
+      potest. Lauant enim lacrimae delictum quod uoce pudor est confiteri.
+      Lacrimae ergo uerecundiae consulunt et saluti. Veniam non postulant,
+      et merentur. Causam non dicunt, et misericordiam consequuntur. Sermo
+      interdum non totum profert negotium. Lacrimae semper totum
+      produnt affectum. Et ideo Petrus iam non utitur sermone, quo
+      fefellerat, quo peccauerat, quo fidem amiserat, ne per id ei non
+      credatur ad confitendum quo usus fuerat ad negandum. Inuenio et aliud
+      cur tacuerit Petrus, ne tam cito ueniae postulatio per impudentiam
+      plus offenderet quam impetraret. Solet enim citius mereri indulgentiam
+      quia uerecundius deprecatur.
+    </p>
+            <p xml:id="xAbSeN-e11989-d1e156">
+               <ref xml:id="xAbSeN-e11989-Rd1e158">ambrosius super lucam</ref>: Non enim sat est inuoluntate responsio
+      confitentis Iesum, sed aperta confessio. Quid proderit uerba inuoluere
+      si uideri uis denegasse? Et ideo Petrus non de industria respondisse
+      sic inducitur, quia postea recordatus est et tamen fleuit. Maluit enim
+      ipse suum peccatum accusare ut iustificaretur fatendo, quam grauaretur
+      negando. Iustus enim in primordio accusator est sui. Doluit et fleuit
+      quia errauit ut homo.  Non inuenio quid dixerit, inuenio quod
+      fleuerit.  Lacrimas eius lego, satisfactionem non lego. Lauent
+      lacrimae delictum quod uoce pudor est fiteri. Et ueniae fletus
+      consulunt et uerecundiae. rimae sine horrore culpam loquuntur, sine
+      offensione uerecundiae. Lacrimae ueniam non postulant, et merentur.
+      Inuenio cur tacuerit Petrus, ne tam cito ueniae petitio plus
+      offenderet. Ante flendum est, sic precandum.  Negauit primo Petrus et
+      non fleuit, quia non respexerat dominus.  Respice, domine Iesu, ut
+      sciamus nostrum deflere peccatum.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

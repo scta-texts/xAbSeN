@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 69</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 69</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e5236"><!-- xAbSeN-q69 -->
+            <head xml:id="xAbSeN-1e5236-Hd1e103">Quaestio 69</head>
+            <head xml:id="xAbSeN-1e5236-Hd1e106" type="question-title"> quod filius dei praedestinatus sit et contra</head>
+    
+            <p xml:id="xAbSeN-1e5236-d1e109">AUGUSTINUS TRACTATU IV SUPER IOHANNEM, Et nunc clarifica me tu pater
+      apud temetipsum etc.: Recte dicitur non praedestinatus secundum id
+      quod est Verbum, Deus apud Deum. Utquid enim praedestinaretur, cum iam
+      esset, quod erat, sine initio? Illud autem praedestinandum erat quod
+      nondum erat ut sic suo tempore fieret, quemadmodum ante omnia tempora
+      praedestinatum erat ut fieret. Quisquis igitur Dei filium
+      praedestinatum negat, hunc eundem filium hominis negat. Sed propter
+      contentiosos etiam hinc audiamus apostolum: Quod ante promiserat de
+      filio suo, qui factus est ei ex semine Dauid secundum carnem, qui
+      praedestinatus est filius Dei in uirtute etc. Secundum hanc ergo
+      pracdestinationem etiam clarificatus est, antequam mundus esset, ut
+      esset claritas eius ex resurrectione mortuorum.
+    </p>
+            <p xml:id="xAbSeN-1e5236-d1e112">
+               <ref xml:id="xAbSeN-1e5236-Rd1e114">origenes super epistolam pauli ad romanos</ref>: Qui praedeatinatus est
+      filius Dei in uirtute etc. Quamuis in latinis exemplaribus
+      "praedestinatus" soleat inueniri, tamen secundum quod interpretationis
+      ueritas habet, "destinatus" scriptum est, non "praedestinatus."
+      Destinatur enim ille qui est, praedestinatur ille qui nondum est.
+      Praesciri et praedestinari possunt illi qui nondum sunt. Ille autem
+      qui est et semper est, non praedestinatur sed destinatur. Haec a nobis
+      dicta sunt propter eos qui in unigenitum filium Dei impietatem
+      loquuntur et, ignorantes differentiam destinati et praedestinati,
+      putant eum inter eos qui ante non fuerunt numerandum.
+    </p>
+            <p xml:id="xAbSeN-1e5236-d1e120">
+               <ref xml:id="xAbSeN-1e5236-Rd1e122">item</ref>: Qui ergo semper est, destinatur. Qui autem praedestinatur,
+      nondum erat cum praedestinaretur. Necessaria igitur distinctione
+      apostolus utitur, eum qui ex semine Dauid secundum carnem est factum
+      dicens; eum uero quem filium Dei in uirtute eecundum spiritum
+      sanctificationis nominal, destinatum. Non superfluo addidit "in
+      uirtute," indicans per hoc quod substantia filius sit secundum
+      spiritum sanctificationis. Christus enim Dei uirtus et sapientia
+      dicitur, quia uapor uirtutis Dei et manatio gloriae omnipotentis
+      purissima.
+    </p>
+            <p xml:id="xAbSeN-1e5236-d1e127">Q. 070: QUOD DEUS MINORARI NON POSSIT ET CONTRA.
+    </p>
+            <p xml:id="xAbSeN-1e5236-d1e130">
+               <ref xml:id="xAbSeN-1e5236-Rd1e132">moyses propheta</ref>: Audi Israel, Dominus Deus tuus unus est. Unus non
+      potest esse maior, non potest esse minor.
+    </p>
+            <p xml:id="xAbSeN-1e5236-d1e136">
+               <ref xml:id="xAbSeN-1e5236-Rd1e138">psalmista</ref>: Minorasti eum paulo minus ab angelis.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

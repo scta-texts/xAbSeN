@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 24</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 24</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e2287"><!-- xAbSeN-q24 -->
+            <head xml:id="xAbSeN-1e2287-Hd1e103">Quaestio 24</head>
+            <head xml:id="xAbSeN-1e2287-Hd1e106" type="question-title"> quod spiritus sanctus pater quoque et filius dici possit
+      et non</head>
+    
+            <p xml:id="xAbSeN-1e2287-d1e109">
+               <ref xml:id="xAbSeN-1e2287-Rd1e111">augustinus de trinitate, lib. v</ref>: <quote xml:id="xAbSeN-1e2287-Qd1e114" source="http://scta.info/resource/adt-l5-d1e740" synch="119-147">Spiritus sanctus secundum id quod
+      scriptum est, quoniam Deus spiritus est, potest idem uniuersaliter
+      dici quia et pater spiritus et filius spiritus et pater sanctus et
+      filius sanctus.</quote>
+            </p>
+            <p xml:id="xAbSeN-1e2287-d1e118">
+               <ref xml:id="xAbSeN-1e2287-Rd1e120">et post pauca</ref>: <quote xml:id="xAbSeN-1e2287-Qd1e123" source="http://scta.info/resource/adt-l5-d1e740" synch="272-328">Spiritus sanctus quaedam patris filiique communio est,
+      et ideo fortasse sic appellatur quia patri et filio potest eadem
+      appellatio conuenire. Ut ergo ex nomine quod utrique conuenit
+      utriusque communio significetur, uocatur donum amborum spiritus
+      sanctus.</quote>
+            </p>
+            <p xml:id="xAbSeN-1e2287-d1e127">
+               <ref xml:id="xAbSeN-1e2287-Rd1e129">idem in xv</ref>: <quote xml:id="xAbSeN-1e2287-Qd1e132" source="http://scta.info/resource/adt-l15-d1e1889" synch="162-209">Multis exemplis doceri potest multarum rerum uocabula et
+      uniuersaliter poni et proprie quibusdam rebus adhiberi. Hoc ideo dixi
+      ne quis propterea nos inconuenienter existimet caritatem appellare
+      spiritum sanctum quia et Deus pater et Deus filius potest caritas
+      nuncupari.</quote>
+            </p>
+            <p xml:id="xAbSeN-1e2287-d1e137">
+               <ref xml:id="xAbSeN-1e2287-Rd1e139">item</ref>: <quote xml:id="xAbSeN-1e2287-Qd1e142" source="http://scta.info/resource/adt-l15-d1e1912" synch="43-102">Denique si in nobis Dei nihil maius est caritate et nullum est
+      maius donum Dei quam spiritus sanctus, quid consequentius quam ut ipse
+      sit caritas quae dicitur Deus et ex Deo? Et si caritas qua pater
+      diligit filium et patrem diligit filius ineffabiliter
+      communionem amborum demonstrat, quid conuenientius quam ut ille
+      proprie dicatur caritas qui spiritus est communis ambobus?</quote>
+            </p>
+            <p xml:id="xAbSeN-1e2287-d1e148">
+               <ref xml:id="xAbSeN-1e2287-Rd1e150">ambrosius de fide</ref>: De spiritu Dei uirgo concepit et quod concepit hoc
+      peperit, id est Deum, homini suo sociatum; sicut ipse dixit: Quod
+      nascitur de came caro est, et quod nascitur de spiritu spiritus est,
+      quia Deus spiritus est et de Deo natus est; sicut angelus ad Mariam
+      dixit: Spiritus Dei ueniet in te, et uirtus Altissimi obumbrabit tibi,
+      propterea quod nascetur ex te sanctum, uocabitur filius Dei. Vides
+      ergo ipsum spiritum, id est filium Dei, uenisse ad uirginem et inde
+      Dei et hominis filium processisse, nec tamen ipso indumento carnis Dei
+      filium esse mutatum.
+    </p>
+            <p xml:id="xAbSeN-1e2287-d1e154">
+               <ref xml:id="xAbSeN-1e2287-Rd1e156">ephraem diaconi lib. v</ref>: Deus, spiritus sanctus, solus sine peccato,
+      propter te proprio filio non pepercit; et tu, infelix, tui non
+      misereris?
+    </p>
+            <p xml:id="xAbSeN-1e2287-d1e160">
+               <ref xml:id="xAbSeN-1e2287-Rd1e162">hieronymus super xvii psalmum</ref>: Spiritus sanctus nec pater est nec
+      filius sed dilectio quam habet pater in filio et filius in patre.
+    </p>
+            <p xml:id="xAbSeN-1e2287-d1e166">
+               <ref xml:id="xAbSeN-1e2287-Rd1e168">beda in homilia i post ascensionem</ref>: Cum spiritus gratia datur
+      hominibus profecto mittitur a patre spiritus, mittitur et a filio,
+      procedit a patre, procedit et a filio, quia et eius missio ipsa
+      processio est qua ex patre procedit et filio.
+    </p>
+            <p xml:id="xAbSeN-1e2287-d1e172">
+               <ref xml:id="xAbSeN-1e2287-Rd1e174">augustinus in v de trinitate</ref>: <quote xml:id="xAbSeN-1e2287-Qd1e177" source="http://scta.info/resource/adt-l5-d1e753" synch="141-185">Quod datum est et ad eum qui dedit
+      refertur et ad eos quibus dedit; ita spiritus sanctus dicitur et Dei
+      qui dedit, et noster qui accipimus</quote>. <quote xml:id="xAbSeN-1e2287-Qd1e180" source="http://scta.info/resource/adt-l5-d1e756" synch="67-117">Unde scriptum est de Iohanne quod
+      in spiritu Heliae ueniret; hoc et de Moyse intelligendum est, cum ait
+      dominus: Tollam de spiritu tuo et dabo eis, hoc est de spiritu sancto
+      quem tibi dedi</quote>.
+    </p>
+            <p xml:id="xAbSeN-1e2287-d1e185">
+               <ref xml:id="xAbSeN-1e2287-Rd1e187">item</ref>: <quote xml:id="xAbSeN-1e2287-Qd1e190" source="http://scta.info/resource/adt-l5-d1e759" synch="61-74">Si non procedit nisi cum datur, nec procederet utique priusquam
+      esset cui daretur</quote>. <quote xml:id="xAbSeN-1e2287-Qd1e193" source="http://scta.info/resource/adt-l5-d1e759" synch="142-157">Nam donum potest esse et antequam detur;
+      donatum autem nisi datum fuerit nullo modo dici potest</quote>.
+    </p>
+            <p xml:id="xAbSeN-1e2287-d1e199">
+               <ref xml:id="xAbSeN-1e2287-Rd1e201">item</ref>: <quote xml:id="xAbSeN-1e2287-Qd1e204" source="http://scta.info/resource/adt-l5-d1e763" synch="3-59">Nec moueat quod spiritus sanctus, cum sit coaeternus patri et
+      filio, dicatur tamen aliquid ex tempore, ueluti hoc ipsum quod donatum
+      dicimus. Nam sempiterne spiritus donum, temporaliter autem
+      donatum. Nam et si dominus non dicitur nisi cum habere incipit seruum,
+      et ista appellatio relatiua ex tempore est Deo. Non enim sempiterna
+      creatura est cuius est ille dominus</quote>.
+    </p>
+            <p xml:id="xAbSeN-1e2287-d1e208">
+               <ref xml:id="xAbSeN-1e2287-Rd1e210">item</ref>: <quote xml:id="xAbSeN-1e2287-Qd1e213" source="http://scta.info/resource/adt-l5-d1e766" synch="1-22">Ecce dominum esse non sempiternum habet, ne cogamur etiam
+      creaturam sempiternam dicere, quia ille sempiterne non dominaretur
+      nisi etiam ista sempiterne famularetur</quote>.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

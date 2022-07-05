@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 40</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 40</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e3304"><!-- xAbSeN-q40 -->
+            <head xml:id="xAbSeN-1e3304-Hd1e103">Quaestio 40</head>
+            <head xml:id="xAbSeN-1e3304-Hd1e106" type="question-title"> quod deus quoque loco moveatur vel localis sit et non</head>
+    
+            <p xml:id="xAbSeN-1e3304-d1e109">
+               <ref xml:id="xAbSeN-1e3304-Rd1e111">propheta</ref>: Egredietur dominus de loco sancto suo etc.
+    </p>
+            <p xml:id="xAbSeN-1e3304-d1e115">
+               <ref xml:id="xAbSeN-1e3304-Rd1e117">et per semetipsam veritas</ref>: Quia descendi de caelo, non ut faciam
+      uoluntatem meam etc.
+    </p>
+            <p xml:id="xAbSeN-1e3304-d1e121">
+               <ref xml:id="xAbSeN-1e3304-Rd1e123">unde et apostolus</ref>: Quid est autem, quod ascendit, nisi quia et
+      descendit primum in inferiores partes terrae etc.?
+    </p>
+            <p xml:id="xAbSeN-1e3304-d1e128">
+               <ref xml:id="xAbSeN-1e3304-Rd1e130">augustinus de civitate dei lib. xvi</ref>: Non loco mouetur Deus quia semper
+      ubique est totus sed descendere dicitur cum aliquid inusitatum facit
+      in terra.
+    </p>
+            <p xml:id="xAbSeN-1e3304-d1e134">
+               <ref xml:id="xAbSeN-1e3304-Rd1e136">idem ad dardanum</ref>: Est ergo Deus per cuncta diffusus.  Ipse quippe ait
+      per prophetam: Caelum et terram ego impleo. Et de sapientia eius
+      scriptum est: Attingit a fine usque ad finem. Itemque scriptum est:
+      Spiritus Domini repleuit orbem terrarum. Et in psalmo: Quo ibo a
+      spiritu tuo? etc. Si ascendere in caelum etc.  Substantialiter Deus
+      ubique est.
+    </p>
+            <p xml:id="xAbSeN-1e3304-d1e140">
+               <ref xml:id="xAbSeN-1e3304-Rd1e142">item</ref>: Fatendum est ubique esse Deum per diuinitatis praesentiam
+      sed non ubique per habitationis gratiam.
+    </p>
+            <p xml:id="xAbSeN-1e3304-d1e148">
+               <ref xml:id="xAbSeN-1e3304-Rd1e150">item</ref>: Non est negligenter intuendum quod diximus Deum in se ipso esse
+      ubique totum. Ideo ubique esse dicitur quia nulli parti rerum absens
+      est, ideo totus quia cuilibet parti pariter totus adest.  Hique ab eo
+      longe esse dicuntur qui peccando dissimillimi facti sunt, et hi ei
+      appropinquare qui eius similitudinem pie uiuendo recipiunt.
+    </p>
+            <p xml:id="xAbSeN-1e3304-d1e154">
+               <ref xml:id="xAbSeN-1e3304-Rd1e156">item</ref>: Quod addidimus in se ipso, diligentius exponendum est. In se
+      ipso est, quia non continetur eis quibus est praesens, tanquam sine
+      his esse non possit. Spatia locorum tolle corporibus, nunquam erunt.
+      Tolle ipsa corpora qualitatibus corporum, non erunt ubi sunt, et ideo
+      necesse est ut non sint.
+    </p>
+            <p xml:id="xAbSeN-1e3304-d1e160">
+               <ref xml:id="xAbSeN-1e3304-Rd1e162">idem volusiano</ref>: Verbum Dei ubique totum est.  Venit autem, cum
+      manifestatur; abscedit, cum occultatur.
+    </p>
+            <p xml:id="xAbSeN-1e3304-d1e167">
+               <ref xml:id="xAbSeN-1e3304-Rd1e169">hieronymus in maiori breviario psalterii, psalmo xxx</ref>: Numquid localis
+      est Deus? Et localis et non localis; localis ad se uenientibus; non
+      localis, quia ubique est.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

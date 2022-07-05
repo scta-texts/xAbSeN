@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 81</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 81</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e6226"><!-- xAbSeN-q81 -->
+            <head xml:id="xAbSeN-1e6226-Hd1e103">Quaestio 81</head>
+            <head xml:id="xAbSeN-1e6226-Hd1e106" type="question-title"> quod in morte christi separatio divinitatis et humanitatis
+      sit et non</head>
+    
+            <p xml:id="xAbSeN-1e6226-d1e109">
+               <ref xml:id="xAbSeN-1e6226-Rd1e111">athanasius de trinitate lib. iii</ref>: Nostras infirmitates noster mortalis
+      uel passibilis homo uere sustinuit, qui post passionem a Deo rursus
+      assumptus est.
+    </p>
+            <p xml:id="xAbSeN-1e6226-d1e115">
+               <ref xml:id="xAbSeN-1e6226-Rd1e117">item</ref>: Intellige quia prius hic homo in natiuitate de Maria uirgine
+      assumptus est, et in passione permittente potestate eius traditus est,
+      et post passionem denuo assumptus ab ipso uel acceptus est.
+    </p>
+            <p xml:id="xAbSeN-1e6226-d1e121">
+               <ref xml:id="xAbSeN-1e6226-Rd1e123">item lib. vi, cap. ii</ref>: Maledictus qui hunc totum hominem, id est
+      animam et corpus, quod assumpsit, denuo assumptum uel liberatum post
+      tertiam diem a mortuis resurrexisse non confitetur, fiat, fiat.
+    </p>
+            <p xml:id="xAbSeN-1e6226-d1e128">
+               <ref xml:id="xAbSeN-1e6226-Rd1e130">hilarius super matthaeum</ref>: Clamor uero ad Deum corporis uox est
+      recedentis a se uerbi Dei testate discidium; denique cur relinquatur
+      exclamat dicens: Deus meus, quare me dereliquisti? Sed relinquitur,
+      quia erat homo morte peragendus.
+    </p>
+            <p xml:id="xAbSeN-1e6226-d1e134">
+               <ref xml:id="xAbSeN-1e6226-Rd1e136">ambrosius super lucam</ref>: Clamauit Iesus uoce magna dicens: Veua, Deus
+      meus, respice in me, quare me dereliquisti? Ergo nec ego erubescam
+      confiteri, quod Christus non erubuit magna uoce profiteri. Clamauit
+      homo, diuinitatis separatione moriturus; nam cum diuinitas mortis
+      libera sit, utique mors esse non poterat, nisi uita discederet, quia
+      uita diuinitas est.
+    </p>
+            <p xml:id="xAbSeN-1e6226-d1e140">
+               <ref xml:id="xAbSeN-1e6226-Rd1e142">augustinus super iohannem homilia xlv</ref>: Si dixerimus quia Verbum Dei
+      posuit animam et iterum sumpsit, metuendum est ne dicatur nobis, Ergo
+      aliquando anima illa separate est a Verbo et aliquando Verbum
+      illud, ex quo suscepit animam illam, fuit sine anima.
+    </p>
+            <p xml:id="xAbSeN-1e6226-d1e148">
+               <ref xml:id="xAbSeN-1e6226-Rd1e150">item</ref>: Quid fecit passio, quid fecit mors, nisi corpus ab anima
+      separauit?  Animam uero a uerbo non separauit. Mortuus est dominus
+      sine dubio.  Caro ipsius exspirauit, anima ad tempus deseruit carnem.
+      A uerbo autem animam separatam esse non dico. Latronis animae dixit:
+      hodie mecum eris in paradiso. Latronis animam non deseruit, et
+      deserebat suam?  Absit sed animam inseparabiliter habuit.
+    </p>
+            <p xml:id="xAbSeN-1e6226-d1e154">
+               <ref xml:id="xAbSeN-1e6226-Rd1e156">idem de trinitate lib. ii, cap. v</ref>: Ideo nusquam scriptum est quod Deus
+      pater maior sit spiritu sancto, quia non sic est assumpta creatura, in
+      qua appareret spiritus sanctus, sicut assumptus est filius hominis.
+      Neque enim columbam beatificauit spiritus, uel ignem unitatique
+      personae suae coniunxit in aeternum.
+    </p>
+            <p xml:id="xAbSeN-1e6226-d1e160">
+               <ref xml:id="xAbSeN-1e6226-Rd1e162">claudianus de statu animae lib. iii</ref>: Ipse quoque dominus de cruce
+      clamauit: Deus meus, quare me dereliquiati? Si enim non discessit, non
+      dereliquit. Si dereliquit, utique discessit. Sicut ergo illocalitas
+      Deo non adimitur, quo hominem Christum discedendo deseruit, sic anima
+      illocalitatis priuilegium non amittit, cum corpore moriente discedit.
+    </p>
+            <p xml:id="xAbSeN-1e6226-d1e167">
+               <ref xml:id="xAbSeN-1e6226-Rd1e169">item supra</ref>: Magis in anima est corpus quod aggrauat animam, quam in
+      corpore anima quae grauatur, onus uidelicet in portitore, non portitor
+      in onere. Quae cum ita sint, magnam animae auctoris sui inesse
+      similitudinem illud indicio est, quod sicut illocaliter mundus in Deo
+      est sic illocaliter corpus in anima.
+    </p>
+            <p xml:id="xAbSeN-1e6226-d1e173">
+               <ref xml:id="xAbSeN-1e6226-Rd1e175">fulgentius in libro de immensitate divinitatis filii dei</ref>: Communem
+      passionem diuinitatis et carnis unitas personae fecit in Christo. Per
+      hanc unitatem dominus gloriae asseritur crucifixus.
+    </p>
+            <p xml:id="xAbSeN-1e6226-d1e179">
+               <ref xml:id="xAbSeN-1e6226-Rd1e181">item</ref>: Quando mortuo Christo anima deseruit carnem tunc solutum est
+      illud templum.
+    </p>
+            <p xml:id="xAbSeN-1e6226-d1e185">
+               <ref xml:id="xAbSeN-1e6226-Rd1e187">item</ref>: Ipsa quoque Christi diuinitas, quae secundum animam contristari
+      et secundum carnem dignata est mori, secundum substantiae
+      proprietatem, sicut immortalis sic est impassibilis praedicanda.
+    </p>
+            <p xml:id="xAbSeN-1e6226-d1e193">
+               <ref xml:id="xAbSeN-1e6226-Rd1e195">item</ref>: Humanitas ergo filii nec tote in sepulcro fuit nec tote in
+      inferno sed in sepulcro secundum carnem Christus iacuit, et secundum
+      animam ad infernum descendit. Secundum eandem animam ab inferno ad
+      carnem, quam in sepulcro reliquerat, rediit. Secundum diuinitatem uero
+      quae nec loco tenetur nec fine concluditur, totus fuit in sepulcro cum
+      came, totus in inferno cum anima. Ac per hoc plenus fuit ubique
+      Christus, quia non est Deus ab humanitate quam susceperat separatus,
+      qui et in anima sua fuit ut solutis inferni doloribus ab inferno
+      uictrix rediret, et in carne sua fuit ut celeri resurrectione corrumpi
+      non posses.
+    </p>
+            <p xml:id="xAbSeN-1e6226-d1e199">
+               <ref xml:id="xAbSeN-1e6226-Rd1e201">item</ref>: Totus Christus secundum solam animam ad infernum descendit. Idem
+      atque inseparabilis Christus secundum solam carnem de sepulcro
+      surrexit. Idem atque inseparabilis Christus secundum totum hominem
+      quem accepit terram localiter deserens ascendit.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

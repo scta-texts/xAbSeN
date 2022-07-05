@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 128</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 128</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-e10167"><!-- xAbSeN-q128 -->
+            <head xml:id="xAbSeN-e10167-Hd1e103">Quaestio 128</head>
+            <head xml:id="xAbSeN-e10167-Hd1e106" type="question-title"> quod adultera nulla modo sit retinenda et contra</head>
+    
+            <p xml:id="xAbSeN-e10167-d1e109">
+               <ref xml:id="xAbSeN-e10167-Rd1e111">ambrosius in epistola i pauli ad corinthios</ref>: Uxorem certe licet
+      habere, sed si fornicata fuerit, abicienda est.
+    </p>
+            <p xml:id="xAbSeN-e10167-d1e115">HIERONYMUS (SUPER MATTHAEUM): Cum illa unam carnem in aliam diuiserit,
+      et se fornicatione separauerit, a marito, non debet teneri, ne uirum
+      quoque sub maledicto faciat dicente scriptura: Qui adulteram tenet,
+      atultua et impiua eat. Ubicumque est igitur fornicatio aut
+      fornicationis suspicio, libere uxor dimittitur.
+    </p>
+            <p xml:id="xAbSeN-e10167-d1e118">
+               <ref xml:id="xAbSeN-e10167-Rd1e120">chrysostomus super matthaeum cap. cix</ref>: Sicut crudelis et iniquus est
+      qui castam dimittit, sic fatuus est et iniustus qui retinet
+      meretricem. Nam patronus turpitudinis eius est qui crimen celat
+      uxoris.
+    </p>
+            <p xml:id="xAbSeN-e10167-d1e125">
+               <ref xml:id="xAbSeN-e10167-Rd1e127">augustinus de adulterinis coniugiis lib. ii</ref>: Quid tibi durum uidetur
+      ut post adulterium reconcilietur coniugi coniunx? Haec crimina in
+      ueteri lege nullis sacrificiis mundabantur, et ideo tunc omni modo
+      prohibitum est ab alio contaminatam uiro recipere uxorem, quamuis
+      Dauid Saulis filiam, quam pater eiusdem mulieris ab eo separatam
+      dederat alteri, tanquam noui testamenti praefigurator sine
+      contaminatione receperit. Nunc autem postea quam Christus ait
+      adulterae: nec ego te condemnabo; uade, deincepa noli peccare, quis
+      non intelligit debere ignoscere maritum quod uidet ignouisse Dominum,
+      nec iam se debere adulteram dicere cuius paenitentis crimen diuina
+      credit miseratione deletum?
+    </p>
+            <p xml:id="xAbSeN-e10167-d1e131">
+               <ref xml:id="xAbSeN-e10167-Rd1e133">item</ref>: Non erit turpis neque difficilis etiam post patrata atque
+      purgata adulteria reconciliatio coniugum, ubi per claues regni
+      caelorum non dubitatur fieri remissio peccatorum, non ut post uiri
+      diuortium adultera reuocetur sed ut post Christi consortium
+      adultera non uocetur.
+    </p>
+            <p xml:id="xAbSeN-e10167-d1e139">
+               <ref xml:id="xAbSeN-e10167-Rd1e141">hermes in lib. pastoris mandato iv</ref>: Dixit mihi pastor: Si scierit uir
+      uxorem suam deliquisse et non egerit paenitentiam mulier et permanet
+      in fornicatione sua et conuiuit cum illa uir, reus erit peccati eius
+      et particeps moechationis eius.  Quod si mulier dimissa paenitentiam
+      egerit et uoluerit ad uirum suum reuerti, si non receperit eam uir
+      suus, peccat et magnum peccatum sibi admittit. Sed debet recipere
+      peccatricem quae paenitentiam agit; sed non saepe. Seruis enim Dei
+      paenitentia una est. Hic actus similis est in muliere et in uiro.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

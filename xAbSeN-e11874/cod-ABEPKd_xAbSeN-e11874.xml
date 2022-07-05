@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 148</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 148</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-e11874"><!-- xAbSeN-q148 -->
+            <head xml:id="xAbSeN-e11874-Hd1e103">Quaestio 148</head>
+            <head xml:id="xAbSeN-e11874-Hd1e106" type="question-title"> quod ea quae condonat deus ulterius non exigat et contra</head>
+    
+            <p xml:id="xAbSeN-e11874-d1e109">
+               <ref xml:id="xAbSeN-e11874-Rd1e111">paulus apostolus in epistola ad romanos</ref>: Sine paenitentia enim sunt
+      dona et uocatio Dei.
+    </p>
+            <p xml:id="xAbSeN-e11874-d1e115">
+               <ref xml:id="xAbSeN-e11874-Rd1e117">augustinus super genesim</ref>: Cum legimus Deum dicentem paenitet me,
+      consideremus quid esse soleat in hominibus opus paenitendi. Procul
+      dubio reperitur uoluntas mutandi, sed in homine cum dolore animi est.
+    </p>
+            <p xml:id="xAbSeN-e11874-d1e121">
+               <ref xml:id="xAbSeN-e11874-Rd1e123">isidorus de summo bono lib. ii, cap. xxxi</ref>: Iurare Dei est illa
+      prouidentia qua statuit non euellere statuta. Paenitentia autem Dei
+      mutatio est, non paenitere autem statuta non reuocare, ut est illud:
+      Iurauit Dominua et non paenitebit eum.
+    </p>
+            <p xml:id="xAbSeN-e11874-d1e128">
+               <ref xml:id="xAbSeN-e11874-Rd1e130">responsiones prosperi ad rufinum cap. ii</ref>: Qui enim recedit a Christo
+      et alienus a gratia finit hanc uitam, quid nisi in perditione cadet?
+      Sed non in id quod remissum est recedit, nec in originali peccato
+      damnabitur, qui tamen propter extrema crimina ea morte afficietur quae
+      ei propter illa, quae remissa sunt, debebatur.
+    </p>
+            <p xml:id="xAbSeN-e11874-d1e134">
+               <ref xml:id="xAbSeN-e11874-Rd1e136">augustinus lib. i de baptismo</ref>: Redire dimissa peccata, ubi fraterna
+      caritas non est, apertissime dominus in euangelio docet de illo
+      conseruo, qui cum misertus non fuisset, iussit eum dominus reddere
+      quod dimiserat.
+    </p>
+            <p xml:id="xAbSeN-e11874-d1e140">
+               <ref xml:id="xAbSeN-e11874-Rd1e142">gregorius dialogorum novissimo capite</ref>: Seruus, quia conseruo suo
+      debitum non dimisit, est iussus exigi quod ei fuerat iam dimissum. Ex
+      quibus uidelicet dictis constat quia si hoc quod in nos delinquitur
+      non dimittimus, et illud rursus exigimur quod nobis iam per
+      paenitentiam dimissum fuisse gaudebamus.
+    </p>
+            <p xml:id="xAbSeN-e11874-d1e148">
+               <ref xml:id="xAbSeN-e11874-Rd1e150">rabanus</ref>: Tradidit eum tortoribus, id est malignis spiritibus, quousque
+      redderet uniuersum debitum. Semper reddet, semper cruciabitur in
+      poenis pro omnibus peccatis suis. Considerandum est quod dicit
+      uniuersum debitum, quia non solum peccata quae post baptismum homo
+      egit reputabuntur ei ad poenam, uerum etiam originalia quae in
+      baptismo dimissa sunt.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

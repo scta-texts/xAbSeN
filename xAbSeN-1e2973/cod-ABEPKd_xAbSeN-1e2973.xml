@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 34</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 34</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e2973"><!-- xAbSeN-q34 -->
+            <head xml:id="xAbSeN-1e2973-Hd1e103">Quaestio 34</head>
+            <head xml:id="xAbSeN-1e2973-Hd1e106" type="question-title"> quod deus non habeas liberum arbitrium et contra</head>
+    
+            <p xml:id="xAbSeN-1e2973-d1e109">
+               <ref xml:id="xAbSeN-1e2973-Rd1e111">hieronymis damaso, de filio prodigo</ref>: Nulli uideatur periculosum, nulli
+      es se blasphemum, quod et in apos tolos inuidiae malum diximus
+      potuisse subrepere, cum etiam de angelis hoc putemus. Sidera quippe
+      non sunt munda in conspectu eius, et contra angelos peruersum quid
+      intellexit? Et in psalmis: Non iustifioabitur in conspeotu tuo omnis
+      uiuens. Non ait, omnis homo sed omnis uiuens, id est non euangelista,
+      non apostolus -- sed ad omnia conscendo -- non angeli, non throni, non
+      dominationes, caeteraeque uirtutes. Solus Deus est in quo peccatum non
+      cadit. Caetera, cum sint liberi arbitrii, in utrunque possum suam
+      flectere uoluntatem.
+    </p>
+            <p xml:id="xAbSeN-1e2973-d1e115">
+               <ref xml:id="xAbSeN-1e2973-Rd1e117">idem ad paulam et eustochium, in expositione epistolae pauli ad
+      philemonem</ref>: Uti ne uelut ex necessitate bonum tuum esset sed
+      uoluntarium. Quod a plerisque quaeritur de praesenti loco, solui
+      potest. Si enim Deus uoluntarie et non ex necessitate bonus est,
+      debuit hominem faciens ad suam imaginem et similitudinem facere ut
+      ipse uoluntarie et non ex necessitate bonus esset. Ex quo
+      manifestum est rem eos inter se postulare contrariam. Nam ex eo quod
+      dicunt, debuit homo Deo similis fieri, illud petunt ut liberi fieret
+      arbitrii, sicut Deus ipse est. Ex eo autem quod inferunt, talis debuit
+      fieri qui malum recipere non posset, cum necessitatem ei boni
+      important, illud uolunt ut homo Deo similis non fieret.
+    </p>
+            <p xml:id="xAbSeN-1e2973-d1e123">
+               <ref xml:id="xAbSeN-1e2973-Rd1e125">augustinus quaestionum lxxxiii cap. iv</ref>: Melior autem homo est qui
+      uoluntate quam qui necessitate bonus est. Voluntas ergo libera danda
+      homini fuit.
+    </p>
+            <p xml:id="xAbSeN-1e2973-d1e130">
+               <ref xml:id="xAbSeN-1e2973-Rd1e132">idem super genesim</ref>: Sic oportebat primum hominem fieri ut et uelle
+      bene posset et male; postea uero sic esse ut male uelle non posset,
+      nec ideo libero careret arbitrio. Multo quippe liberius erit
+      arbitrium, quod omnino non poterit seruire peccato. Neque enim
+      uoluntas libera dicenda est, quia beati esse sic uolumus ut esse
+      miseri non solum nolumus sed nec esse possumus.
+    </p>
+            <p xml:id="xAbSeN-1e2973-d1e136">
+               <ref xml:id="xAbSeN-1e2973-Rd1e138">idem de civitate dei, lib xxii</ref>: <quote xml:id="xAbSeN-1e2973-Qd1e141" source="http://scta.info/resource/adcd-l22-d1e3836" synch="28-49">Id eti~m beata illa ciuitas magnum in
+      se bonum uidebit, quod nulli superiori ullus inferior inuidebit, sicut
+      nunc non inuident archangelis angeli.</quote> 
+               <quote xml:id="xAbSeN-1e2973-Qd1e144" source="http://scta.info/resource/adcd-l22-d1e3839" synch="1-19">Nec ideo liberum arbitrium non
+      habebunt quia peccata eos delectare non poterunt; magis quippe erit
+      liberum a delectatione peccandi usque ad delectationem non peccandi.</quote>
+            </p>
+            <p xml:id="xAbSeN-1e2973-d1e148">
+               <ref xml:id="xAbSeN-1e2973-Rd1e150">item</ref>: <quote xml:id="xAbSeN-1e2973-Qd1e153" source="http://scta.info/resource/adcd-l22-d1e3839" synch="141-168">Sicut prima immortalitas fuit, quam peccando Adam perdidit,
+      posse non mori, nouissima erit non posse mori; ita primum liberum
+      arbitrium posse non peccare, nouissimum non posse peccare</quote>.
+    </p>
+            <p xml:id="xAbSeN-1e2973-d1e157">
+               <ref xml:id="xAbSeN-1e2973-Rd1e159">item</ref>: <quote xml:id="xAbSeN-1e2973-Qd1e162" source="http://scta.info/resource/adcd-l22-d1e3839" synch="196-209">Certe Deus ipse nunquid, quoniam peccare non potest, ideo
+      liberum arbitrium habere negandus est?</quote> 
+               <!-- quotes should probably be combined -->
+               <quote xml:id="xAbSeN-1e2973-Qd1e167" source="http://scta.info/resource/adcd-l22-d1e3842" synch="1-61">Erit ergo illius ciuitatis in
+      singulis uoluntas libera, ab omni malo liberata, impleta omni bono,
+      oblita culparum, oblita poenarum. Nec ideo tamen suae liberationis
+      oblita ut liberatori suo sit ingrata. Quantum ergo attinet ad
+      scientiam rationalem, memor praeteritorum etiam malorum suorum;
+      quantum autem ad experientis sensum, prorsus immemor.</quote>
+            </p>
+            <p xml:id="xAbSeN-1e2973-d1e173">
+               <ref xml:id="xAbSeN-1e2973-Rd1e175">idem de correptione et gratia</ref>: Quid etiam liberius libero arbitrio,
+      quando non potuerit seruire peccato? quae future erat et homini sicut
+      facta est angelis sanctis merces meriti.
+    </p>
+            <p xml:id="xAbSeN-1e2973-d1e179">
+               <ref xml:id="xAbSeN-1e2973-Rd1e181">item</ref>: Prima ergo libertas uoluntatis erat posse non peccare; nouissima
+      erit multo maior, non posse peccare.
+    </p>
+            <p xml:id="xAbSeN-1e2973-d1e186">
+               <ref xml:id="xAbSeN-1e2973-Rd1e188">item</ref>: Illi ergo sine peccato ullo data est, cum qua conditus est,
+      libera uoluntas, et eam fecit seruire peccato. Horum uero cum fuisset
+      uoluntas serue peccati, liberta est per ilium qui dixit: Si uos filius
+      liberauerit, uere liberi eritis.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

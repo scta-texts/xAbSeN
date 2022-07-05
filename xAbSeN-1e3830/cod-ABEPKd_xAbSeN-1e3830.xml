@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 46</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 46</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e3830"><!-- xAbSeN-q46 -->
+            <head xml:id="xAbSeN-1e3830-Hd1e103">Quaestio 46</head>
+            <head xml:id="xAbSeN-1e3830-Hd1e106" type="question-title"> quod angeli ante caelum et terram vel caeteras omnes creaturas
+      facti sunt vel quod omnes angeli aequales et beati creati sunt
+      et non</head>
+    
+            <p xml:id="xAbSeN-1e3830-d1e109">
+               <ref xml:id="xAbSeN-1e3830-Rd1e111">ambrosius in hexameron de die primo</ref>: In principio, inquit, fecit Deus
+      caelum et terram et factus est mundus et coepit esse quod non erat.
+      Verbum autem Dei in principio erat et erat semper. Sed etiam angeli,
+      dominationes et potestates, etsi aliquando coeperunt, erant tamen,
+      quando hic mundus est factus. Omnia nanque creata et condita sunt,
+      uisibilia et inuisibilia.
+    </p>
+            <p xml:id="xAbSeN-1e3830-d1e115">
+               <ref xml:id="xAbSeN-1e3830-Rd1e117">hieronymus paulae et eustochio in epistola ad titum, ante saecula
+      aeterna</ref>: Sex milia necdum nostri orbis implentur anni et quantas prius
+      aeternitates, quanta tempora, quantas saeculorum origines fuisse
+      arbitrandum est, in quibus angeli [et] throni dominationes caeteracque
+      uirtutes seruierint Deo, et absque temporum uicibus atque mensuris Deo
+      iubenti substiterint.
+    </p>
+            <p xml:id="xAbSeN-1e3830-d1e123">
+               <ref xml:id="xAbSeN-1e3830-Rd1e125">isidorus in lib. officiorum</ref>: Ante omnem creaturam angeli facti sunt
+      etc.
+    </p>
+            <p xml:id="xAbSeN-1e3830-d1e130">
+               <ref xml:id="xAbSeN-1e3830-Rd1e132">augustinus de civitate dei lib. xi</ref>: Non euidenter legitur quo ordine
+      creati sunt angeli. Sed uel caeli nomine ubi dictum est, in principio
+      fecit Deus caelum et terram, uel potius lucis huius, de qua loquitur
+      figurati sunt.
+    </p>
+            <p xml:id="xAbSeN-1e3830-d1e136">
+               <ref xml:id="xAbSeN-1e3830-Rd1e138">item</ref>: Non absurda sententia mihi uidetur si, cum lux prima facta est,
+      angeli creati intelliguntur, inter sanctos angelos et immundos fuisse
+      discretum, ubi dictum est: et diuisit Deus inter lucem et tenebras.
+    </p>
+            <p xml:id="xAbSeN-1e3830-d1e142">
+               <ref xml:id="xAbSeN-1e3830-Rd1e144">idem in libro quaestionum veteris et novae legis, cap. iv</ref>: Ante quidem
+      caelum factum est et terra, deinde lux, quae in officio dies est.
+    </p>
+            <p xml:id="xAbSeN-1e3830-d1e148">
+               <ref xml:id="xAbSeN-1e3830-Rd1e150">item</ref>: Terram autem quam post caelum factam dicit, non terram solam
+      uult intelligi sed materiam significauit, id est omnia inferna quae
+      in mundi omnem speciem profecerunt. Caelum autem non hoc carnale sed
+      illud supernum quod spiritale est, in principio factum, ut, cum caelum
+      dicit primum factum, omnia inuisibilia create signaret. Totius enim
+      naturae summa et ima comprehendit, ut quidquid medium est procul dubio
+      factum credatur.
+    </p>
+            <p xml:id="xAbSeN-1e3830-d1e154">
+               <ref xml:id="xAbSeN-1e3830-Rd1e156">idem super genesim</ref>: Fiat lux et facta est lux, id est angelica et
+      caelistis substantia, ex quibus unus spiritus, qui uocatur Lucifer,
+      creatus est, sapientior et eminentior omnibus aliis, quemadmodum Iob
+      dicit de eo: ipse est principium uiarum Dei, id est actionum uel
+      operum.
+    </p>
+            <p xml:id="xAbSeN-1e3830-d1e160">
+               <ref xml:id="xAbSeN-1e3830-Rd1e162">idem in libro quaestionum orosii ad ipsum</ref>: Primus dies ipse est
+      angelica natura, quae primo caeli nomine nuncupata est.
+    </p>
+            <p xml:id="xAbSeN-1e3830-d1e167">
+               <ref xml:id="xAbSeN-1e3830-Rd1e169">item</ref>: In principio fecit Deus caelum et terram, id est in filio omnem
+      spiritalem corporalemque creaturam.
+    </p>
+            <p xml:id="xAbSeN-1e3830-d1e173">
+               <ref xml:id="xAbSeN-1e3830-Rd1e175">item</ref>: Quod dixit caelum, hoc mihi uidetur dixisse aquarum abyssum
+      tenebrosam, antea quodammodo fluitantem uitam, nisi conuertatur ad
+      creatorem, et fiat lux et contempletur Deum.
+    </p>
+            <p xml:id="xAbSeN-1e3830-d1e181">
+               <ref xml:id="xAbSeN-1e3830-Rd1e183">item</ref>: Diuisit lucem a tenebris, diuisit inter bonos et malos angelos,
+      malos appellans tenebras, bonos lucem.
+    </p>
+            <p xml:id="xAbSeN-1e3830-d1e187">
+               <ref xml:id="xAbSeN-1e3830-Rd1e189">hieronymus in ezechielem</ref>: In deliciis paradisi Dei fuisti, pro quo in
+      hebraico habet: Eden. Eden autem uertitur in delicias, quo sermone
+      demonstrat nequaquam hominem esse de quo scribitur sed contrariam
+      fortitudinem, quae quondam in Dei paradiso commorata sit.
+    </p>
+            <p xml:id="xAbSeN-1e3830-d1e193">
+               <ref xml:id="xAbSeN-1e3830-Rd1e195">item</ref>: Aurum opus decoris tui. Septuaginta: Auro replesti thesauros
+      tuos, quod cogitatio eius diuinis patuerit sacramentis et
+      congregauerit sibi diuitias spiritales, de quibus dominus praecipit:
+      Thesaurizate uobis thesauros in caelo etc. Iste est thesaurus
+      absconditus de quo loquitur thesauro abscondito in agro.
+    </p>
+            <p xml:id="xAbSeN-1e3830-d1e199">GREGORIUS IN MORALIBUS, Ipse est principium uiarum Dei: Cum Deus
+      cuncta crearet, hunc primum condidit, quem reliquis angelis
+      eminentiorem fecit. Iudaei quoque periti in lege et prophetis sic
+      senserunt dicentes in Beelzabub, principe daemoniorum.
+    </p>
+            <p xml:id="xAbSeN-1e3830-d1e203">
+               <ref xml:id="xAbSeN-1e3830-Rd1e205">idem in homilia de angelis, quae sic incipit, aestivum tempus</ref>: Procul
+      dubio nouem esse ordines angelorum inueniuntur, unde et ipsi angelo
+      qui primus est conditus per prophetam dicitur: Tu signaculum
+      similitudinis plenus sapientia et perfectus decore in deliciis
+      paradisi fuisti. Qui notandum quod non ad similitudinem Dei factus,
+      sed signaculum similitudinis dicitur, ut quia in eo subtilior est
+      natura, in illo imago Dei sublimius insinuetur expressa. Quo in loco
+      mox subditur: Omnis lapis pretiosus operimentum tuum, sardius,
+      topazius etc. Ecce nouem dixit nomina lapidum, quia profecto nouem
+      sunt ordines angelorum, quibus nimirum ordinibus ille primus angelus
+      ideo ornatus et opertus exstitit, quia dum cunctis agminibus angelorum
+      praelatus est, ex eorum comparatione clarior fuit.
+    </p>
+            <p xml:id="xAbSeN-1e3830-d1e209">
+               <ref xml:id="xAbSeN-1e3830-Rd1e211">ex libro quaestionum orosii ad augustinum</ref>: Orosius: Omnes angeli
+      aequales an inaequales creati sunt? et si aequales, cur non
+      omnes firmi et stabiles fuerunt?  si inaequales, quo merito alii
+      praescientiae suae stabilitatem suam accipere meruerunt? Augustinus:
+      Omnes quidem angeli acquales creati sunt sed cadentibus illis per
+      superbiam caeteri Domino pia obedientia cohaeserunt, accipientes
+      certam scientiam suae stabilitatis, quam illi nunquam habuerunt.
+    </p>
+            <p xml:id="xAbSeN-1e3830-d1e217">
+               <ref xml:id="xAbSeN-1e3830-Rd1e219">idem de civitate dei lib. xi</ref>: Antequam peccassent angeli, illius
+      sapientiae fuerunt participes et bonis angelis aequales; quomodo
+      dicturi sumus? quandoquidem si acquales in ea fuissent, etiam isti in
+      eius aeternitate mansissent pariter beati, quia pariter certi.
+      Quapropter si uere perfecteque beata uita nonnisi perfecta est, non
+      erat talis istorum, quandoque desitura, et propterea non aeterna, siue
+      id scirent, siue nescirent, quia scientes timor, nescientes error
+      beatos esse non sinebat.
+    </p>
+            <p xml:id="xAbSeN-1e3830-d1e223">
+               <ref xml:id="xAbSeN-1e3830-Rd1e225">idem lib. xii</ref>: Causa beatitudinis angelorum bonorum ea uerissima
+      rep[p]eritur quod ei adhaerent qui summe est. Causa uero miseriae
+      malorum angelorum est, quod ab illo, qui summe est a[d]uersi ad se
+      ipsos conuersi sunt, qui non summe sunt. Initium quippe omnis peccati
+      superbia.
+    </p>
+            <p xml:id="xAbSeN-1e3830-d1e229">
+               <ref xml:id="xAbSeN-1e3830-Rd1e231">item</ref>: Beatitudinis illorum causa est adhaerere Deo, istorum miseriae
+      non adhaerere Deo.
+    </p>
+            <p xml:id="xAbSeN-1e3830-d1e235">
+               <ref xml:id="xAbSeN-1e3830-Rd1e237">idem de correptione et gratia</ref>: Angeli quidam, quorum princeps est qui
+      dicitur diabolus, per liberum arbitrium a Deo refugae facti sunt.
+      Caeteri autem per ipsum liberum arbitrium in ueritate steterunt.
+    </p>
+            <p xml:id="xAbSeN-1e3830-d1e242">
+               <ref xml:id="xAbSeN-1e3830-Rd1e244">item</ref>: Diabolus et angeli eius etsi beati erant antequam caderent, et
+      se in miseriam casuros esse nesciebant, erat tamen adhuc quod eorum
+      adderetur beatitudini, id est ut magna per spiritum sanctum data
+      abundantia caritatis Dei cadere ulterius omnino non possent et hoc de
+      se certissime nossent.
+    </p>
+            <p xml:id="xAbSeN-1e3830-d1e248">
+               <ref xml:id="xAbSeN-1e3830-Rd1e250">item</ref>: Sed quia nesciebant suam futuram miseriam, minore quidem sed
+      tamen beatitudine sine ullo uitio fruebantur. Nam si suum casum
+      futurum nossent aeternumque supplicium, beati utique non esse
+      possent, quos huius tanti mali metus iam tunc miseros esse
+      compelleret.
+    </p>
+            <p xml:id="xAbSeN-1e3830-d1e256">
+               <ref xml:id="xAbSeN-1e3830-Rd1e258">item</ref>: Similiter hominem fecit cum libero arbitrio et quamuis sui casus
+      ignarum, tamen ideo beatum, quia et non mori et miserum non fieri in
+      sue potestate esse sentiebat.
+    </p>
+            <p xml:id="xAbSeN-1e3830-d1e262">
+               <ref xml:id="xAbSeN-1e3830-Rd1e264">philippus presbyter, auditor hieronymi, in iob</ref>: Ecce, qui seruiunt ei,
+      non sunt stabiles, et in angelis suis reperit prauitatem. Dicitur hoc
+      quidem de diabolo, qui quondam sanctus angelus fuit.
+    </p>
+            <p xml:id="xAbSeN-1e3830-d1e268">
+               <ref xml:id="xAbSeN-1e3830-Rd1e270">ambrosius autpertus in apocalipsi lib. vi</ref>: Cecidit accusator fratrum
+      nostrorum etc. In quibus uerbis intelligi datur non de prima eius
+      ruina hoc dictum fuisse, si enim, ut uerum est, angelus prima, homo
+      uero sexta die est conditus, apostate autem domino affirmante in
+      ueritate non stetit. Ac per hoc statim ut creatus est, cecidit etc.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

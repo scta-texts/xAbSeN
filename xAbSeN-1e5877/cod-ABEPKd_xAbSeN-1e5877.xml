@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 79</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 79</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e5877"><!-- xAbSeN-q79 -->
+            <head xml:id="xAbSeN-1e5877-Hd1e103">Quaestio 79</head>
+            <head xml:id="xAbSeN-1e5877-Hd1e106" type="question-title"> quod christus fefellerit et non</head>
+    
+            <p xml:id="xAbSeN-1e5877-d1e109">
+               <ref xml:id="xAbSeN-1e5877-Rd1e111">ambrosius super lucam lib. ii</ref>: Non mediocris quoque causa est ut
+      uirginitas Mariae falleret principem mundi; qui cum desponsatam uiro
+      cerneret, partum non potuit habere suspectum. Fallendi, ut dixi,
+      principis mundi fuisse consilium ipsius domini uerba declarant, cum
+      apostoli iubentur tacere de Christo, cum sanati prohibentur gloriari
+      de miraculo, cum daemones praecipiuntur silere de Dei filio. Fallendi
+      autem principis mundi fuisse consilium, etiam apostolus declarauit
+      dicens: Sed loquimur Dei sapientiam in mysterio absconditam, quam nemo
+      principum huius saeculi cognouit. Si enim cognouissent, nunquam
+      dominum maiestatis crucifixissent. Fefellit ergo, ut uinceret;
+      fefellit diabolum, cum temptaretur, ut nunquam diuinitatem propriam
+      fateretur. Sed tamen magis fefellit principes saeculi.
+    </p>
+            <p xml:id="xAbSeN-1e5877-d1e115">
+               <ref xml:id="xAbSeN-1e5877-Rd1e117">idem in apologia david</ref>: Merito uenit occultus, qui falleret principem
+      mundi tanquam Uriam illum, qui interpretatione dicitur lumen meum,
+      transfigurantem se in angelum lucis.
+    </p>
+            <p xml:id="xAbSeN-1e5877-d1e121">
+               <ref xml:id="xAbSeN-1e5877-Rd1e123">augustinus lxxxiii quaestionum cap. xv</ref>: Si phantasma fuit corpus
+      Christi, fefellit Christus; non est ueritas.
+    </p>
+            <p xml:id="xAbSeN-1e5877-d1e128">
+               <ref xml:id="xAbSeN-1e5877-Rd1e130">item cap. lvi</ref>: Summa et est neminem decipere, atque illud exhibere
+      quod dictum est: Sit in ore uestro: est, est; non, non.
+    </p>
+            <p xml:id="xAbSeN-1e5877-d1e134">
+               <ref xml:id="xAbSeN-1e5877-Rd1e136">item</ref>: Sicut ergo summa et proprie diuina uirtus est neminem decipere,
+      sic ultimum uitium est quemlibet decipere.
+    </p>
+            <p xml:id="xAbSeN-1e5877-d1e140">
+               <ref xml:id="xAbSeN-1e5877-Rd1e142">item</ref>: Est summae uirtuti propinquior qui quamquam uelit hostem
+      decipere non eum decipit, nisi auctoritate diuina. Deus enim nouit
+      sincerius qua quisque poena praemioue sit dignus.
+    </p>
+            <p xml:id="xAbSeN-1e5877-d1e148">
+               <ref xml:id="xAbSeN-1e5877-Rd1e150">item</ref>: Deus per se neminem decipit. Est enim pater ueritatis et ueritas
+      et spiritus ueritatis; dignis tamen digna distribuens utitur animis
+      pro meritis et dignitatibus, quae sunt in gradibus eorum ut si
+      quisquam dignus est decipi, non solum per se ipsum non eum decipiat
+      sed neque per talem hominem qui iam custodire persistit: sit in ore
+      uestro, est, est; non, non; neque per angelum, cui non conuenit
+      persona fallaciae sed aut per talem hominem qui nondum se huius mundi
+      cupiditatibus exuit, aut per talem angelum qui pro suse uoluntatis
+      peruersione ad uindictam peccatorum ordinatus est. Legimus enim
+      deceptum regem uaticinio pseudoprophetarum, quoniam dignus erat sic
+      decipi.
+    </p>
+            <p xml:id="xAbSeN-1e5877-d1e154">
+               <ref xml:id="xAbSeN-1e5877-Rd1e156">item</ref>: Cum et Aegyptii deceptione digni essent, et populus Israel pro
+      illa aetate generis humani in tali adhuc morum gradu constitutus esset
+      ut non indigne hostem deciperet, factum est ut iuberet Dominus uel
+      potius pro illorum cupiditate permitteret, ut uasa argentea uel aurea,
+      quibus adhuc terreni regni appetitores inhiabant, et paterent ab
+      Aegyptiis non reddituri et acciperent quasi reddituri.  Quam et[iam]
+      mercedem tam diuturni laboris atgue operis pro talium animarum gradu
+      non iniustam Deus esse uoluit, et poenam illorum quos digne fecit
+      amittere id quod reddere debuerunt. Non itaque Deus deceptor est, quod
+      credere nefarium quis non intelligat? sed meritorum et personarum
+      iustissimus distributor.
+    </p>
+            <p xml:id="xAbSeN-1e5877-d1e160">
+               <ref xml:id="xAbSeN-1e5877-Rd1e162">item</ref>: Actum est ut alia carnali populo, alia spirituali pro temporum
+      congruentia iuberentur. Non ergo mirum si hostem deceptione dignum
+      decipere iussi sunt, qui erant adhuc digni hostem decipere. Nondum
+      erant idonei quibus diceretur: Diligite inimicos uestros sed quibus
+      dici oporteret: diliges promimum tuum et oderis inimicum tuum.
+      Inchoatio quaedam facta est sub paedagogo, ut magistro perfectio
+      seruaretur.  /283/
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

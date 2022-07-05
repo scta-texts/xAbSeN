@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 142</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 142</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-e11409"><!-- xAbSeN-q142 -->
+            <head xml:id="xAbSeN-e11409-Hd1e103">Quaestio 142</head>
+            <head xml:id="xAbSeN-e11409-Hd1e106" type="question-title"> quod opera factorum non iustificent hominem et contra</head>
+    
+            <p xml:id="xAbSeN-e11409-d1e109">
+               <ref xml:id="xAbSeN-e11409-Rd1e111">paulus apostolus in epistola ad romanos</ref>: Ut sit ipse iustus et
+      iustificans eum qui est ex fide Iesu Christi. Ubi est ergo gloriatio
+      tua? Exclusa est. Per quam legem? Factorum? Non. Sed per legem
+      fidei. Arbitramur enim hominem iustificari per fidem sine operibus
+      legis.
+    </p>
+            <p xml:id="xAbSeN-e11409-d1e115">
+               <ref xml:id="xAbSeN-e11409-Rd1e117">item</ref>: Si enim Abraham ex operibus legis iustificatus est, habet
+      gloriam, sed non apud Deum. Quid enim dicit scriptura?  Credidit
+      Abraham Deo, et reputatum est ei ad iustitiam. Ei autem qui operatur,
+      merces non imputatur secundum gratiam, sed secundum debitum.  Ei uero
+      qui non operatur, credenti autem in eum qui iustificat impium,
+      deputatur fides eius ad iustitiam secundum propositum gratiae Dei.
+    </p>
+            <p xml:id="xAbSeN-e11409-d1e121">
+               <ref xml:id="xAbSeN-e11409-Rd1e123">idem post aliqua</ref>: Nemini quidquam debeatis, nisi ut inuicem diligatis;
+      qui enim diligit proximum, legem impleuit. Nam non adulterabis, non
+      occides, non furaberis, non falsum testimonium dices, non concupisces,
+      et si quod est aliud mandatum, in hoc uerbo instauratur: Diliges
+      proximum tuum sicut te ipsum; dilectio proximi malum non operatur.
+      Plenitudo ergo legis est dilectio.
+    </p>
+            <p xml:id="xAbSeN-e11409-d1e128">
+               <ref xml:id="xAbSeN-e11409-Rd1e130">item</ref>: Corde creditur ad iustitiam, ore autem confessio fit ad
+      salutem.
+    </p>
+            <p xml:id="xAbSeN-e11409-d1e136">
+               <ref xml:id="xAbSeN-e11409-Rd1e138">ambrosius super eandem epistolam</ref>: Sine paenitentia enim sunt dona et
+      uocatio Dei. Verum est, quia gratia Dei non quaerit gemitum aut
+      planctum aut opus aliquod nisi solam cordis confessionem.
+    </p>
+            <p xml:id="xAbSeN-e11409-d1e142">
+               <ref xml:id="xAbSeN-e11409-Rd1e144">veritas in evangelio</ref>: Date elemosinam, et omnia munda sunt uobis.
+    </p>
+            <p xml:id="xAbSeN-e11409-d1e148">
+               <ref xml:id="xAbSeN-e11409-Rd1e150">iohannes chrysostomus super matthaeum</ref>: Voluntas apud Deum remuneratur,
+      non opus, quia uoluntas ex arbitrio nostro procedit, opus autem per
+      Dei gratiam consummatur.
+    </p>
+            <p xml:id="xAbSeN-e11409-d1e154">
+               <ref xml:id="xAbSeN-e11409-Rd1e156">augustinus in sermone primae dominicae quadragesimae</ref>: Sed cum de
+      elemosinis loquimur, non conturbetur angusta paupertas. Omnia enim
+      compleuit qui quicquid potuit fecit, quia uoluntas perfecta faciendi
+      reputabitur pro opere facti. Sed hoc ille implere potuit qui omnem
+      pauperem quasi se ipsum considerare uoluerit, si ipse in tali
+      necessitate esset. Hoc qui fecerit noui et ueteris testamenti
+      praecepta compleuit, implens illud euangelicum: Omnia quae uultis ut
+      faciant uobis homines, et uos facite illis.
+    </p>
+            <p xml:id="xAbSeN-e11409-d1e160">
+               <ref xml:id="xAbSeN-e11409-Rd1e162">idem super psalmum xxxi</ref>: Apostolus cum commendaret iustitiam quae ex
+      fide est aduersus eos qui gloriantur de iustitia quae est ex operibus,
+      ait: si enim Abraham em operibus iustificatus eBt, habet gloriam, sed
+      non a Deo. Inuenis multos paganos propterea nolle fieri Christianos
+      quia quasi sufficiunt sibi de bona uita sua.
+    </p>
+            <p xml:id="xAbSeN-e11409-d1e167">
+               <ref xml:id="xAbSeN-e11409-Rd1e169">item</ref>: Unde dicit scriptura iustificatum Abraham? Credidit Abraham Deo,
+      et reputatum est ei ad iustitiam. Vides ergo quia ex fide, non ex
+      operibus iustificatus est. Faciam ergo quicquid uoluero quia, etsi
+      bona opera non habuero et tantum credidero in Deum, deputatur mihi ad
+      iustitiam. Respondeo ergo tamquam contra apostolum de ipso
+      Abraham, quod inuenimus in epistola alterius apostoli qui uolebat
+      corrigere homines qui male intellexerant istum apostolum. Iacobus
+      enim, contra eos qui nolebant bene operari de sola fide praesumentes,
+      ipsius Abrahae opera commendauit cuius Paulus fidem praetulit. Dicit
+      autem opus omnibus notum, Abraham filium suum immolandum Deo obtulit.
+      Laudo fructum boni operis, sed in fide agnosco radicem. Si autem hoc
+      praeter rectam fidem faceret nihil illi prodesset qualecumque opus
+      esset.
+    </p>
+            <p xml:id="xAbSeN-e11409-d1e175">
+               <ref xml:id="xAbSeN-e11409-Rd1e177">idem ad armentarium et paulinam</ref>: Iusta uero uita, cum uolumus, adest,
+      quia eam ipsam plene uelle iustitia est, nec plus aliquid perficienda
+      iustitia quam perfectam uoluntatem requirit. Vide si labor est ubi
+      uelle satis est. Unde dictum est: pax in terra hominibus bonae
+      uoluntatis. Ubi pax, ibi requies; ubi requies, ibi finis appetendi et
+      nulla causa laborandi.
+    </p>
+            <p xml:id="xAbSeN-e11409-d1e181">
+               <ref xml:id="xAbSeN-e11409-Rd1e183">idem ad deogratias presbyterum</ref>: De eo quod scriptum est, in qua
+      mensura mensi fueritis, remetietur uobis. Unde hoc dixerit Christus
+      paulo superius satis elucet. Nolite, inquit, iudicare ut non
+      iudicemini. In quo enim iudicaueritis indicio, iudicabimini. Numquid
+      si iniquo iudicio iudicabunt, iniquo iudicabuntur? Absit. Sed ita
+      dictum est tamquam diceretur, In qua uoluntate bene feceritis uel
+      male, in ipsa liberabimini uel puniemini.  In uoluntate quippe propria
+      metietur bonus homo bona facta, et in ea metietur ei beatitudo.
+      Itemque in uoluntate propria metietur malus homo mala opera, et in
+      eadem metietur ei miseria. Quoniam ubi unusquisque bonus est, cum bene
+      uult, ibi etiam malus, cum male uult.  Ac per hoc ibi etiam fit beatus
+      uel miser, hoc est in ipso suae uoluntatis affectu, quae omnium
+      factorum meritorumque mensura est. Ex qualitatibus quippe uoluntatum,
+      non ex temporum spatiis recte facta siue peccata metimur. In eadem
+      igitur mensura quamuis non aeternorum malefactorum aeterna
+      supplicia remetinntur ut, quia aeternam uoluit habere peccati
+      perfruitionem, aeternam inueniat uindictae seueritatem.
+    </p>
+            <p xml:id="xAbSeN-e11409-d1e189">
+               <ref xml:id="xAbSeN-e11409-Rd1e191">in libro xx de civitate dei</ref>: In cogitationibus enim, sicut scriptum
+      est, impii interrogatio erit. Et apostolus: Cogitationibus, inquit,
+      accusantibus uel etiam excusantibus in die, qua iudicabit Deus occulta
+      hominum.
+    </p>
+            <p xml:id="xAbSeN-e11409-d1e195">
+               <ref xml:id="xAbSeN-e11409-Rd1e197">idem in psalmo cxviii</ref>: Omnia opera uel bona uel mala a cogitatione
+      procedunt. In cogitatione quisque innocens, in cogitatione reus est;
+      propter quod scriptum est: Cogitatio sancta seruabit te. Et alibi: In
+      cogitationibus impii interrogatio erit. Et apostolus: Cogitationibus,
+      ait, accusantibus, etc.
+    </p>
+            <p xml:id="xAbSeN-e11409-d1e201">
+               <ref xml:id="xAbSeN-e11409-Rd1e203">idem in epistola iohannis, sermone x</ref>: Fides sine operibus non saluat.
+      Opus autem fidei ipsa dilectio est dicente apostolo: Est fidea quae
+      per dilectionem operatur.
+    </p>
+            <p xml:id="xAbSeN-e11409-d1e208">
+               <ref xml:id="xAbSeN-e11409-Rd1e210">ambrosius de paenitentia, lib. i</ref>: Habet qui credit suam gratiam; habet
+      alteram si fides eius passionibus coronetur. Neque enim priusquam
+      pateretur Petrus sine gratia fuit, sed ubi passus est acquisiuit
+      alteram.
+    </p>
+            <p xml:id="xAbSeN-e11409-d1e214">
+               <ref xml:id="xAbSeN-e11409-Rd1e216">hieronymus ad paulinum</ref>: Paulus nouissimus in ordine, primus in meritis
+      est, quia plus omnibus laborauit.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 120</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 120</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e9392"><!-- xAbSeN-q120 -->
+            <head xml:id="xAbSeN-1e9392-Hd1e103">Quaestio 120</head>
+            <head xml:id="xAbSeN-1e9392-Hd1e106" type="question-title"> quod haeretici oblatio non prosit et contra</head>
+    
+            <p xml:id="xAbSeN-1e9392-d1e109">
+               <ref xml:id="xAbSeN-1e9392-Rd1e111">cyprianus</ref>: Haeretici oblatio sanctificari non potest, quia ibi sanctus
+      spiritus non est, nec dominus per orationes eius et preces cuiquam
+      prodest. Non enim sine fide corpus Christi conficitur, qua manducatur.
+    </p>
+            <p xml:id="xAbSeN-1e9392-d1e115">
+               <ref xml:id="xAbSeN-1e9392-Rd1e117">hieronymus in epistola ad epithalamium</ref>: Quos in ecclesiastico ordine
+      uideris usurarios, adulteros, concubinarios, et ad cumulandam mammonae
+      pecuniam intentos, uelut haereticos deuita. Si presbyter est,
+      corpus et sanguinem domini illum tractare non audieris sed etiam
+      tractare non permiseris.
+    </p>
+            <p xml:id="xAbSeN-1e9392-d1e123">
+               <ref xml:id="xAbSeN-1e9392-Rd1e125">item</ref>: Non potestis, inquit ueritas, Deo aeruire et mammonae. Cui ergo
+      seruit qui mammonae seruit? Vis audire cui?  Idolorum culturae. Audi
+      apostolum: Auarus, quod est idolorum seruitus, non habet haereditatem
+      in regno Christi et Dei. Qui ergo propter suam auiditatem efficitur
+      idolatra, potest dici Christicola?  Non colit Christum, non sacrat
+      corpus suum, nec Christus per ipsum.
+    </p>
+            <p xml:id="xAbSeN-1e9392-d1e130">
+               <ref xml:id="xAbSeN-1e9392-Rd1e132">idem in amos propheta</ref>: Odit Deus sacrificia haereticorum et a se
+      proicit, et quotienscumque sub nomine domini fuerint congregati,
+      detestatur fetorem eorum et claudit nares sues. Et si holocausta
+      obtulerint, ut uideantur ieiunare, dare elemosinas, pudicitiam
+      polliceri, quae holocausta sunt uera, non ea suscipit Deus. Non
+      sacrificiorum magnitudinem sed offerentium merita causasque diiudicat.
+      Unde et uidua quae duo minute miserat, omnibus a saluatore praefertur,
+      quia dominus non ea quae offeruntur sed uoluntatem respicit
+      offerentium.
+    </p>
+            <p xml:id="xAbSeN-1e9392-d1e136">
+               <ref xml:id="xAbSeN-1e9392-Rd1e138">idem in sophonia</ref>: Sacerdotes impie agunt in lege domini putantes
+      eucharistiam precantis facere uerba non uitam, et necessariam esse
+      tantum sollemnem orationem et non sacerdotum merita, de quibus
+      dicitur, et sacerdos in quocumque fuerit macula, non aacedat
+      oblationes offerre domino.
+    </p>
+            <p xml:id="xAbSeN-1e9392-d1e142">
+               <ref xml:id="xAbSeN-1e9392-Rd1e144">augustinus lib. ii contra epistolam parmeniani</ref>: Per Isaiam dicit
+      dominus: Facinorosus, qui sacrificat mihi uitulum. quasi qui canem
+      occidat, et qui ponit similaginem quasi sanguinem porcinum, et qui
+      offert thus in memoriam, quasi blasphemus.
+    </p>
+            <p xml:id="xAbSeN-1e9392-d1e148">
+               <ref xml:id="xAbSeN-1e9392-Rd1e150">item</ref>: Sacrificia impiorum ipsis oberunt qui offerunt impie. Nam
+      sacrificium tale cuique fit quali corde ad accipiendum accesserit. qui
+      enim manducat et bibit in digne, iudiatum sibi manducat et
+      bibit.
+    </p>
+            <p xml:id="xAbSeN-1e9392-d1e156">
+               <ref xml:id="xAbSeN-1e9392-Rd1e158">item</ref>: Omnia sacramenta cum obsint indigne tractantibus, prosunt tamen
+      per eos digne sumentibus. 
+    </p>
+            <p xml:id="xAbSeN-1e9392-d1e162">
+               <ref xml:id="xAbSeN-1e9392-Rd1e164">item</ref>: Spiritus sanctus in ecclesiae praeposito uel ministro sic inest
+      ut, si fictus non est, operetur per eum et eiusdem mercedem et eorum
+      regenerationem uel aedificationem qui per eum siue consecrantur siue
+      euangelizantur. Si autem fictus est, desit quidem saluti eius.
+    </p>
+            <p xml:id="xAbSeN-1e9392-d1e169">
+               <ref xml:id="xAbSeN-1e9392-Rd1e171">item</ref>: Quomodo catholici non glorificant Deum, qui sacramenta eius tam
+      debita ueneratione prosequuntur, ut etiam si ab indignis tractata
+      fuerint, illis sua peruersitate damnatis, illa intemerata sanctitate
+      permanere demonstrant?
+    </p>
+            <p xml:id="xAbSeN-1e9392-d1e175">
+               <ref xml:id="xAbSeN-1e9392-Rd1e177">idem in dialogo ad petilianum</ref>: Memento sacramentis Dei nihil obesse
+      mores hominum, quo illa uel omnino non sint uel minus sancta sint.
+    </p>
+            <p xml:id="xAbSeN-1e9392-d1e181">
+               <ref xml:id="xAbSeN-1e9392-Rd1e183">item</ref>: Gratias ago quia tandem confessus es posse ualere inuocatum
+      nomen Christi ad aliorum salutem, etiam si a peccatoribus inuocetur.
+      Hinc ergo intellige, cum Christi nomen inuocatur, non obesse aliorum
+      saluti peccata aliena.
+    </p>
+            <p xml:id="xAbSeN-1e9392-d1e187">
+               <ref xml:id="xAbSeN-1e9392-Rd1e189">idem in libro quaestionum veteris testamenti</ref>: Dictum est de nequissimo
+      Caipha: Hoc autem a semetipso non dimit, acd aum easet pontifex anni
+      illiua, prophetauit. Per quod intelligitur spiritum sanctum gratiarum
+      non personam digni aut indigni sed ordinem traditionis, ut quamuis
+      aliquis boni meriti sit, non tamen possit benedicere, nisi fuerit
+      ordinatus ut officium ministerii exhibeat. Dei autem est effectum
+      tribuere benedictionis.
+    </p>
+            <p xml:id="xAbSeN-1e9392-d1e193">
+               <ref xml:id="xAbSeN-1e9392-Rd1e195">idem de unico baptismo lib. ii</ref>: Aliud est non habere aliquid, aliud
+      non iure habere uel illicite usurpare. Non itaque ideo non sunt
+      sacramenta Christi et ecclesiae, quia eis illicite utuntur non
+      haeretici solum sed etiam omnes iniqui et impii. Sed tamen illi
+      corrigendi aut puniendi, illa uero agnoscenda et ueneranda sunt.
+    </p>
+            <p xml:id="xAbSeN-1e9392-d1e201">
+               <ref xml:id="xAbSeN-1e9392-Rd1e203">nicolaus papa ad consulta bulgarorum cap. lxx</ref>: Qualiscumque sit
+      sacerdos, quae sancta sunt coinquinari non possunt.  Idcirco ab eo,
+      usquequo episcoporum iudicio reprobetur, communio percipienda est,
+      quoniam mali bona ministrando se tantummodo laedunt.  Et cerea fax
+      accensa sibi quidem detrimentum praestat, aliis uero lumen, et unde
+      aliis commodum exhibet, inde sibi dispendium praebet.  Sumite ergo ab
+      omni sacerdote intrepide Christi mysteria, quoniam omnia in fide
+      purgantur, et quia non dantis sed accipientis sit, dicente beato
+      Hieronymo, ad credendum in omni anima baptismum est perfectum. Qui
+      rursus sacrae scripturae concordans ait, Priusquam audias, ne
+      iudicaueris quemquam, atque ante probationem accusationis illatae
+      neminem a tua communione suspendas, quia non statim qui accusatur reus
+      est sed qui conuincitur criminosus.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

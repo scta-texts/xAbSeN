@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 36</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 36</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e3151"><!-- xAbSeN-q36 -->
+            <head xml:id="xAbSeN-1e3151-Hd1e103">Quaestio 36</head>
+            <head xml:id="xAbSeN-1e3151-Hd1e106" type="question-title"> quod quicquid vult deus faciat et non</head>
+    
+            <p xml:id="xAbSeN-1e3151-d1e109">
+               <ref xml:id="xAbSeN-1e3151-Rd1e111">david in psalmo cxxxiv</ref>: Omnia quaecumque uoluit dominus, fecit in
+      caelo et in terra etc.
+    </p>
+            <p xml:id="xAbSeN-1e3151-d1e115">ET APOSTOLUS AD <!--/187/--> ROMANOS: <quote xml:id="xAbSeN-1e3151-Qd1e119" source="http://scta.info/resource/rom9_19" synch="7-11">Voluntati enim eius quis resistit?</quote>
+            </p>
+            <p xml:id="xAbSeN-1e3151-d1e123">
+               <ref xml:id="xAbSeN-1e3151-Rd1e125">idem in epistola prima ad timotheum</ref>: <quote xml:id="xAbSeN-1e3151-Qd1e128" source="http://scta.info/resource/Itim2_3 http://scta.info/resource/Itim2_4">Hoc enim bonum est et acceptum
+      coram saluatore nostro Deo, qui omnes homines uult saluos fieri</quote>
+      etc.
+    </p>
+            <p xml:id="xAbSeN-1e3151-d1e133">
+               <ref xml:id="xAbSeN-1e3151-Rd1e135">et per semetipsam veritas ad ierusalem loquitur</ref>: Quoties uolui
+      congregare filios tuos etc.
+    </p>
+            <p xml:id="xAbSeN-1e3151-d1e139">
+               <ref xml:id="xAbSeN-1e3151-Rd1e141">hieronymus super danielem, in tertia visione, ubi de deo et de
+      nabuchodonosor sic loquitur</ref>: Iuxta uoluntatem enim suam faeit tam in
+      caelo quam in terra; et non est qui resistat manui eius et dicat quare
+      fecisti? Loquitur quasi homo saeculi. Non enim quod uult hoc facit,
+      sed quod bonum est hoc uult Deus. Nabuchodonosor autem sic locutus est
+      ut, dum potentiam Dei praedicat, iustitiam eius uideatur arguere quod
+      immerito poenas sustinuerit.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

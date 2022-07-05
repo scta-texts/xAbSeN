@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 123</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 123</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e9635"><!-- xAbSeN-q123 -->
+            <head xml:id="xAbSeN-1e9635-Hd1e103">Quaestio 123</head>
+            <head xml:id="xAbSeN-1e9635-Hd1e106" type="question-title"> quod coniugium fuerit inter iosephum et mariam et non</head>
+    
+            <p xml:id="xAbSeN-1e9635-d1e109">
+               <ref xml:id="xAbSeN-1e9635-Rd1e111">secundum lucam</ref>: Ascendit autem et Ioseph, ut profiteretur cum Maria
+      uxore praegnante.
+    </p>
+            <p xml:id="xAbSeN-1e9635-d1e115">
+               <ref xml:id="xAbSeN-1e9635-Rd1e117">secundum matthaeum</ref>: Ioseph, fili Dauid, noli timere accipere Mariam
+      coniugem tuam.
+    </p>
+            <p xml:id="xAbSeN-1e9635-d1e121">
+               <ref xml:id="xAbSeN-1e9635-Rd1e123">ambrosius ad virginis exhortationem lib. ii</ref>: Desponsata uiro coniugis
+      nomen accepit. Cum enim initiatur coniugium, tunc coniugii nomen
+      assumitur. Denique cum coniugitur puella, coniugium est; non cum uiri
+      admixtione cognoscitur.
+    </p>
+            <p xml:id="xAbSeN-1e9635-d1e128">
+               <ref xml:id="xAbSeN-1e9635-Rd1e130">item idem</ref>: Non defloratio uirginitatis sed pactio coningalis coniugium
+      facit.
+    </p>
+            <p xml:id="xAbSeN-1e9635-d1e134">
+               <ref xml:id="xAbSeN-1e9635-Rd1e136">augustinus de nuptiis et concupiscentia</ref>: Quibus uero placuerit ex
+      consensu ab usu carnalis concupiscentiae in perpetuum continere, absit
+      ut uinculum inter illos coniugale rumpatur; immo firmius erit quo
+      magis ea pacta secum inierunt, quae carius concordiusque /424/
+      seruanda sunt, non uoluntariis corporum nexibus sed uoluntariis
+      affectibus animorum. Neque enim fallaciter ab angelo dictum est ad
+      Ioseph: Noli timere aocipere Mariam coniugem tuam.  Coniux uocatur ex
+      prima desponsationis fide, nec mendax fuerat coniugis appellatio, ubi
+      nec fuerat nec futura erat carnis ulla commixtio. Propter quod fidele
+      coniugium parentes Christi ambo uocari meruerunt, et non solum illa
+      mater uerum etiam ille pater eius sicut coniunx matris eius, uterque
+      mente non carne.
+    </p>
+            <p xml:id="xAbSeN-1e9635-d1e140">
+               <ref xml:id="xAbSeN-1e9635-Rd1e142">item</ref>: Omne itaque nuptiarum bonum impletum est in illis parentibus
+      Christi, proles, fides, sacramentum. Prolem cognoscimus ipsum dominum;
+      fidem, quia nullum adulterium; sacramentum, quia nullum diuortium.
+    </p>
+            <p xml:id="xAbSeN-1e9635-d1e146">
+               <ref xml:id="xAbSeN-1e9635-Rd1e148">isidorus etymologiarum lib. ix, cap. vii</ref>: Coninges uerius appellantur
+      a prima desponsationis fide, quamuis adhuc inter eos ignoratur
+      coniugalis concubitus.
+    </p>
+            <p xml:id="xAbSeN-1e9635-d1e152">
+               <ref xml:id="xAbSeN-1e9635-Rd1e154">hilarius super matthaeum cap. i</ref>: Plures a spirituali doctrina admodum
+      alieni occasionem occupant turpiter opinandi quod dictum sit:
+      Priusquam conuenirent, inuenta est in utero habena de spiritu sancto,
+      et illud: Noli timere accipere Mariam coniugem tuam, et illud: Non
+      cognouit eam doneo peperit, non recordantes desponsatam fuisse, et
+      quia desponsata esset, in coniuge reciperetur.  Cognoscitur itaque
+      post partum, id est transit in coniugis nomen, non admiscetur. Denique
+      cum transire Ioseph ad Aegyptum admonetur, ita dicitur: Aocipe puerum
+      et matrem eius et rursum in Luca: Et erat Ioseph et mater eius. Et
+      quotienscumque de utroque fit sermo, mater potius Christi, quia id
+      erat, non uxor Ioseph est nuncupata, quia non erat. Sed haec quoque ab
+      angelo ratio seruata est ut, cum eam desponsatam significabat,
+      coningem nuncuparet. Ergo et coniugis nomen sponsa suscipit, et post
+      partum in coniuge recognita tantum Iesu mater ostenditur, ut
+      quemadmodum iusto Ioseph deputaretur eiusdem Mariae in uirginitate
+      coniugium, ita uenerabilis eius ostenderetur in Iesu matre
+      uirginitas. Unde homines prauissimi hinc praesumunt opinionis suae
+      auctoritatem quod plures dominum nostrum fratres habuisse sit
+      traditum. Qui si Mariae fuissent et non potius Ioseph ex priore
+      coniugio suscepti, nunquam in tempore passionis Iohanni apostolo
+      transcripta esset in matrem domini ad utrumque dicente: Mulier ecce
+      filius tuus et Iohanni: Ecce mater tua, quod ad desolatae solatium
+      caritatem filii in discipulo relinquebat.
+    </p>
+            <p xml:id="xAbSeN-1e9635-d1e160">
+               <ref xml:id="xAbSeN-1e9635-Rd1e162">ambrosius super lucam, cap. v</ref>: Ex illa hora suscepit eam discipulus in
+      suam. Utique si conuenissent, nunquam uirum proprium reliquisset, nec
+      uir eam iustus a se discedere passus esset. Quomodo autem dominus
+      diuortium praecepisset, cum ipsius sententia sit quia nemo dimittere
+      debet uxorem excepta causa fornicationis? Pulchre autem docuit sanctus
+      Matthaeus quid facere debeat iustus qui opprobrium coniugis
+      deprehendit,  ut incruentum ab homicidio, castum ab adulterio praestare
+      se debeat. Qui enim coniungitur meretrici, unum corpus est.
+    </p>
+            <p xml:id="xAbSeN-1e9635-d1e167">
+               <ref xml:id="xAbSeN-1e9635-Rd1e169">leo</ref>: Non omnes nuptiae copulam faciunt, quas non sequitur commixtio
+      sexuum; nec pertinere poterit illa mulier ad matrimonium cum qua non
+      fuit commixtio sexuum.
+    </p>
+            <p xml:id="xAbSeN-1e9635-d1e173">
+               <ref xml:id="xAbSeN-1e9635-Rd1e175">ex antiphona quadam de sancta maria</ref>: Beata mater et innupta uirgo etc.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

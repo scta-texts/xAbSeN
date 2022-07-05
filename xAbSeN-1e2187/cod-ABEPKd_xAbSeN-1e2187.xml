@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 21</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 21</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e2187"><!-- xAbSeN-q21 -->
+            <head xml:id="xAbSeN-1e2187-Hd1e103">Quaestio 21</head>
+            <head xml:id="xAbSeN-1e2187-Hd1e106" type="question-title"> quod illud "eructauit cor meum" de generatione filii sit
+      accipiendum et non</head>
+    
+            <p xml:id="xAbSeN-1e2187-d1e109">HIERONYMUS IN PSALMO XL, Eructauit cor meum uerbum bonum: Psalmus iste
+      initiatur uoce paterna. Eructauit cor meum uerbum bonum. Non de
+      coniunctione corporea sed de corde protulit aequale sibi Verbum, per
+      quod facta sunt omnia. Dico ego opera mea regi. Loquor uerbo, regi
+      filio, et cuncta perficiuntur.
+    </p>
+            <p xml:id="xAbSeN-1e2187-d1e112">
+               <ref xml:id="xAbSeN-1e2187-Rd1e114">idem de filio prodigo</ref>: Vitulus saginatus, qui ad paenitentiae
+      immolatur salutem, ipse Saluator est, cuius cotidie carne pascimur,
+      cruore potamur, pinguedine saturati in ructum laudum eius erumpimus
+      dicentes: eructuait cor meum etc.; licet quidam superstitiose magis
+      quam uere, non considerantes textum psalmi, ex patris persona hoc
+      arbitrantur intelligi.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

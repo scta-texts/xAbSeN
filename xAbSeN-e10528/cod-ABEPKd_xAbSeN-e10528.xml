@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 135</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 135</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-e10528"><!-- xAbSeN-q135 -->
+            <head xml:id="xAbSeN-e10528-Hd1e103">Quaestio 135</head>
+            <head xml:id="xAbSeN-e10528-Hd1e106" type="question-title"> quod nuptiae sint bonae et contra</head>
+    
+            <p xml:id="xAbSeN-e10528-d1e109">AUGUSTINUS DE BONO CONIUGALl: Bonum, inquam, sunt nuptiae et contra
+      omnes calumnies possum sane ratione defendi.
+    </p>
+            <p xml:id="xAbSeN-e10528-d1e112">
+               <ref xml:id="xAbSeN-e10528-Rd1e114">isidorus de summo bono lib. ii, cap. xl</ref>: Coningia uero et potestates
+      per se quidem bona sunt; per ea uero quae circa sunt, male existunt.
+      Coniugia per id quod dicit apostolus: Qui cum uxore est, cogitat quae
+      sunt mundi. Potestas per elationem, oppressionem, iustitiae
+      praeuaricationem.
+    </p>
+            <p xml:id="xAbSeN-e10528-d1e118">
+               <ref xml:id="xAbSeN-e10528-Rd1e120">hieronymus contra iovinianum lib. i</ref>: Concedo et nuptias esse donum
+      Dei, sed inter donum et donum magna distantia est.
+    </p>
+            <p xml:id="xAbSeN-e10528-d1e125">
+               <ref xml:id="xAbSeN-e10528-Rd1e127">item</ref>: Tolle ardorem libidinis et non dices melius est nubere. Melius
+      semper ad comparationem deterioris respicit, non ad simplicitatem
+      incomparabilis per se bond. Quid agis, apostole? Nosti sermonum
+      proprietates. Ubi de continentia alloqueris et uirginitate, bonum eat,
+      inquis, mulierem non tangere; ubi ad nuptias uenis, non dicis, bonum
+      est, sed melius est nubere quam uri.  Si per se bonae sunt nuptiae,
+      noli illas incendio comparare, sed simpliciter die, bonum nuptiae est.
+    </p>
+            <p xml:id="xAbSeN-e10528-d1e131">
+               <ref xml:id="xAbSeN-e10528-Rd1e133">idem lib. ii</ref>: Bonum est homini mulierem non tangere. Non dixit non
+      habere, sed non tangere, quasi in tactu periculum sit, quasi qui illam
+      tetigerit non euades, quae pretiosas animas capit. Alligabit quis
+      ignem in sinu et non comburetur? Aut ambulabit super carbones ignis,
+      et non ardebit?
+    </p>
+            <p xml:id="xAbSeN-e10528-d1e137">
+               <ref xml:id="xAbSeN-e10528-Rd1e139">idem ad pammachium</ref>: Si dixero melius est uirginem esse quam nuptam,
+      bono melius praetuli. Si autem alterum gradum fecero, melius est
+      nubere quam fornicari, malo bonum praetuli. Multa diuersitas est inter
+      id melius, quod nuptiis, et quod fornicationi anteponitur.
+    </p>
+            <p xml:id="xAbSeN-e10528-d1e145">
+               <ref xml:id="xAbSeN-e10528-Rd1e147">idem contra iovinianum lib. i</ref>: Nolite fraudare inuicem nisi forte ex
+      consensu ad tempus, ut uacetis orationi. Quale est illud bonum, quod
+      cum oratione accipere prohibet, et quod orare non permittit? Iubet
+      idem apostolus alio loco. ut semper oremus. Si ergo semper orandum et
+      in gratia seruiendum, quare quotienscumque uxori debitum reddo, orare
+      non possum? Petrus apostolus experimentum habens coniugalium
+      uinculorum, uide quid doceat. Similiter uiri cohabitantes iuxta
+      sententiam quasi infirmiori uasculo muliebri tribuentes honorem, et
+      sicut cohaeredes multiplicis gratiae, ut non impediantur orationes
+      uestrae. Si abstineamus a coitu, honorem tribuimus uxori; si non
+      abstineamus, perspicuum est honori contrariam esse contumeliam.
+    </p>
+            <p xml:id="xAbSeN-e10528-d1e151">
+               <ref xml:id="xAbSeN-e10528-Rd1e153">idem</ref>: Si quis considerat uirginem suam, id est carnem lasciuire, nec
+      refrenare potest, quod uult faciat; non peccat, si ducat
+      uxorem. Faciat, inquit, quod uult, non quod debet. Non peccat si
+      duxerit; non tamen bene facit si duxerit.
+    </p>
+            <p xml:id="xAbSeN-e10528-d1e157">
+               <ref xml:id="xAbSeN-e10528-Rd1e159">item</ref>: Igitur qui matrimonio iungit uirginem suam bene facit.
+      Significantius et proprie supra dixerat, qui ducit uxorem non peccat.
+      Aliud est non peccare, aliud bene facere. Deolina a malo et fac bonum:
+      In altero initium, in altero perfectio est. Verum ne in eo quod
+      dixerit: et qui matrimonio iungit uirginem suam bene facit, aestimet
+      aliquis obseruationem meam non stare, protinus hoc ipsum extenuat et
+      obumbrat comparatione melioris et dicit: et qui non iungit, melius
+      facit.
+    </p>
+            <p xml:id="xAbSeN-e10528-d1e164">
+               <ref xml:id="xAbSeN-e10528-Rd1e166">item</ref>: Tantum igitur inter nuptias et uirginitatem quantum inter non
+      peccare et bene facere.
+    </p>
+            <p xml:id="xAbSeN-e10528-d1e170">
+               <ref xml:id="xAbSeN-e10528-Rd1e172">item</ref>: Quae est ista necessitas quae spreto uinculo coniugali
+      uirginitatis appetit libertatem? Vae praegnantibus et
+      nutrientibus in illo die. Non hic damnantur scorta non lupanaria, de
+      quorum damnatione nulla dubitatio est, sed uteri tumentes et infantium
+      uagitus et fructus atque opera nuptiarum. Si bonum est sic esse, malum
+      est sic non esse.
+    </p>
+            <p xml:id="xAbSeN-e10528-d1e178">
+               <ref xml:id="xAbSeN-e10528-Rd1e180">item</ref>: Si acceperis uxorem, non peccasti. Aliud est non peccare, aliud
+      benefacere, et si nupserit uirgo, non peccabit.
+    </p>
+            <p xml:id="xAbSeN-e10528-d1e184">
+               <ref xml:id="xAbSeN-e10528-Rd1e186">idem in apologeticum ad pammachium</ref>: Reprehendunt me quidam, quod in
+      libris quos aduersus Iouinianum scripsi, nimius fuerim in laude
+      uirginum uel in sugillatione nuptiarum, et aiunt condemnationem esse
+      matrimonii in tantum pudicitiam praedicare ut nulla posse uideatur
+      inter uxorem et uirginem comparatio derelinqui. Ergo si bene
+      problematis memini, inter Iouinianum et nos ista contentio est, quod
+      ille exaequet uirginitati nuptias, nos subiciamus.
+    </p>
+            <p xml:id="xAbSeN-e10528-d1e190">
+               <ref xml:id="xAbSeN-e10528-Rd1e192">item</ref>: Diximus, Si bonum est mulierem non tangere, malum est ergo
+      tangere. Nihil ergo bono contrarium est nisi malum. Si autem malum est
+      et ignoscitur, ideo conceditur, ne malo quid deterius fiat etc. Hoc
+      ideo subiecimus, quia apostolus dixerat: sonum est homini mulierem non
+      tangere; propter fornicationem autem etc. In quo differunt mea uerba a
+      sensu apostoli? Nisi forte in eo, quod ille pronuntiat, ego dubito;
+      ille diffinit, ego sciscitor; ille aperte dicit, bonum est homini
+      mulierem non tangere. ego timide quaero, si bonum est mulierem non
+      tangere. Si dubitantis est, non confirmantis.
+    </p>
+            <p xml:id="xAbSeN-e10528-d1e196">
+               <ref xml:id="xAbSeN-e10528-Rd1e198">item</ref>: Non dixit, bonum est uxorem non habere, sed bonum est mulierem
+      non tangere, quasi et in tactu periculum sit, quasi qui illam
+      tetigerit non euadat. Vides igitur non de coniugibus nos exponere, sed
+      de coitu simpliciter disputare, quod ad comparationem /461/
+      uirginitatis et angelicae similitudinis bonum est homini mulierem non
+      tangere.
+    </p>
+            <p xml:id="xAbSeN-e10528-d1e203">
+               <ref xml:id="xAbSeN-e10528-Rd1e205">item</ref>: Quod si cui et asperum et reprehensione dignum uidetur tantam
+      nos inter uirginitatem et nuptias fecisse distantiam, legat sancti
+      Ambrosii de uiduis librum, et inueniet ilium inter caetera, quae de
+      uirginitate et nuptiis disputauit, etiam hoc dixisse. 'Non ergo copula
+      nuptialis quasi culpa uitanda sed quasi necessitatis sarcina
+      declinanda est. Lex enim astringit uxorem ut in laboribus et tristitia
+      filios generet, conuersio eius ad uirum sit, ut ei ipse dominetur.' Et
+      in alio loco, 'Pretio, inquit, empti estis, nolite fieri serui
+      hominum.  Videtis quam euidens coniugalis sit definitio seruitutis.'
+      Et post pusillum: 'Si igitur bonum coningium seruitium, malum quid
+      est, quando nequeunt se inuicem sanctificare, sed perdere?' Uniuersa
+      quae nos de uirginitate ac nuptiis lato sermone diffudimus, ille breui
+      artauit compendio.
+    </p>
+            <p xml:id="xAbSeN-e10528-d1e209">
+               <ref xml:id="xAbSeN-e10528-Rd1e211">item</ref>: Tument contra me mariti quare dixerim, Oro te, quale illud bonum
+      est, quod orare prohibet, quod corpus Christi accipere non permittit?
+      Iubet idem apostolus alio loco ut semper oremus. Si semper orandum
+      est, nunquam ergo coniugio seruiendum; quoniam quotienscumque uxori
+      debitum reddo, orare non possum. Hoc quare dixerim perspicuum est,
+      quia interpretabar illud apostoli dictum: Dolite fraudare inuicem,
+      nisi forte ex consensu ad tempus, ut uacetis orationi.
+    </p>
+            <p xml:id="xAbSeN-e10528-d1e215">
+               <ref xml:id="xAbSeN-e10528-Rd1e217">item</ref>: Quid est maius, orare an corpus Christi accipere? Utique corpus
+      Christi. Si per coitum quod minus est impeditur, multo magis quod
+      maius est. Diximus in eodem uolumine panes propositionis ex lege non
+      potuisse comedere Dauid et socios eius, nisi se triduo mundos a
+      mulieribus respondissent; non utique meretricibus, quod damnabatur in
+      lege, sed ab uxoribus, quibus licito iungebantur.  Populum quoque,
+      quando accepturus erat legem, tribus diebus iussum est ab
+      uxoribus abstineri. Scio Romae hanc esse consuetudinem, ut fideles
+      semper corpus Christi accipiant, quod nec reprehendo, nec probo.
+      Unusquisque in suo sensu abundat. Sed istorum conscientiam conuenio,
+      qui eodem die post coitum communicant et iuxta Persium noctem flumine
+      purgant, quare ad martyres ire non audent? quare non ingrediuntur
+      ecclesias? An alius in publico, alius in domo Christus est? Quod in
+      ecclesia non licet nec domi licet. Nihil a Deo clausum est, et
+      tenebrae quoque lucent apud eum. Probet se unusquisque et sic ad
+      corpus Christi accedat ut, dum doleo non communicasse me corpori
+      Christi, abstineam me paulisper ab uxoris amplexu, ut amori coniugis
+      amorem Christi praeferam.
+    </p>
+            <p xml:id="xAbSeN-e10528-d1e223">
+               <ref xml:id="xAbSeN-e10528-Rd1e225">item</ref>: Veniam et ad illum locum in quo arguor quare dixerim, in die
+      secundo non additum, sicut in primo et tertio et reliquis, uidit Deus
+      quia bonum est; statimque subiecerim, nobis intelligentiam dereliquit;
+      non esse bonum duplicem numerum, qui ab unione diuidat et praefiguret
+      foedera nuptiarum. Unde et in arca Noe animalia, quaecumque bina
+      ingrediuntur, immunda sunt. Impar numerus est mundus.
+    </p>
+            <p xml:id="xAbSeN-e10528-d1e229">
+               <ref xml:id="xAbSeN-e10528-Rd1e231">item</ref>: Aut reddant aliam probabiliorem causam quare non sit scriptum,
+      quod a nobis dictum est. Porro si in arca Noe omnia animalia, quae
+      bina ingrediuntur, immunda sunt, impar numerus mundus est, et hoc
+      quare scriptum sit, edisserant. Si autem non, quod a me expositum est
+      uelint nolint suscipiant. Aut profer meliores epulas et me conuiua
+      utere aut qualicumque nostra cenula contentus esto.  /463/
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

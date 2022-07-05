@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 134</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 134</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-e10498"><!-- xAbSeN-q134 -->
+            <head xml:id="xAbSeN-e10498-Hd1e103">Quaestio 134</head>
+            <head xml:id="xAbSeN-e10498-Hd1e106" type="question-title"> quod nuptiae quoque praecipiantur et non</head>
+    
+            <p xml:id="xAbSeN-e10498-d1e109">
+               <ref xml:id="xAbSeN-e10498-Rd1e111">paulus apostolus in epistola i ad corinthios</ref>: Dico autem non nuptis et
+      uiduis: bonum est illis si sic permaneant, sicut et ego. Quod si non
+      se continent, nubant. Melius est enim nubere quam uri.
+    </p>
+            <p xml:id="xAbSeN-e10498-d1e115">
+               <ref xml:id="xAbSeN-e10498-Rd1e117">iohannes chrysostomus super epistolam ad hebraeos in fine vii
+      sermonis</ref>: Si beatitudines solis monachis dictae sunt, saecularem autem
+      hominem impossibile est eas implere, qui nuptias iussit ipse ergo
+      omnes perdidit. Si enim non potest cum nuptiis ea, quae monachorum
+      sunt, implere, perierunt et corrupta sunt, et in angustum conclusit ea
+      quae uirtutis sunt; et quomodo honorabiles sunt nuptiae, quae tantum
+      nobis impediunt?
+    </p>
+            <p xml:id="xAbSeN-e10498-d1e121">
+               <ref xml:id="xAbSeN-e10498-Rd1e123">augustinus</ref>: Secundas nuptias propter incontinentiam iubet apostolus
+      dicens, melius est uiro nubere quam pro expetenda libidine cum
+      pluribus fornicari. Saepius enim nubendi licentia non est religionis
+      sed criminis.
+    </p>
+            <p xml:id="xAbSeN-e10498-d1e128">
+               <ref xml:id="xAbSeN-e10498-Rd1e130">ex epistola ad demetriadem</ref>: In scripturis diuinis prohibentur quaedam,
+      quaedam praecipiuntur, conceduntur aliqua, nonnulla suadentur.
+      Prohibentur mala, praecipiuntur bona, conceduntur media, ut nuptiae,
+      carnium usus ac uini, suadetur uirginitas.  /458/
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

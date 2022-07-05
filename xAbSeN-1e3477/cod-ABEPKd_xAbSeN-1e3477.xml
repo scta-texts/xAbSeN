@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 42</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 42</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e3477"><!-- xAbSeN-q42 -->
+            <head xml:id="xAbSeN-1e3477-Hd1e103">Quaestio 42</head>
+            <head xml:id="xAbSeN-1e3477-Hd1e106" type="question-title"> quod solus filius in angelis olim appareret et non</head>
+    
+            <p xml:id="xAbSeN-1e3477-d1e109">
+               <ref xml:id="xAbSeN-1e3477-Rd1e111">isidorus de summo bono cap. x</ref>: Ubicumque in scripturis sanctis
+      pro Deo angelus ponitur, non pater, non spiritus sanctus sed pro
+      incarnationis dispensatione solus filius intelligitur.
+    </p>
+            <p xml:id="xAbSeN-1e3477-d1e117">
+               <ref xml:id="xAbSeN-1e3477-Rd1e119">augustinus de trinitate lib.iv, cap. x, de angelis, in quibus
+      apparebat dominus et loquebatur</ref>: In angelis utique erat pater et
+      filius et spiritus sanctus, et aliquando pater, aliquando filius,
+      aliquando spiritus sanctus, aliquando etiam sine ulla distinctione
+      personae Deus per illos figurabatur.
+    </p>
+            <p xml:id="xAbSeN-1e3477-d1e123">
+               <ref xml:id="xAbSeN-1e3477-Rd1e125">idem lib. ii, cap. xi</ref>: Cum tres uiri uisi sunt Abrahae, nec quisquam
+      in eis uel forma uel aetate uel potestate maior caeteris dictus est,
+      cur non hic accipiamus uisibiliter insinuatam per creaturam uisibilem
+      trinitatis aequalitatem eandemque substantiam.
+    </p>
+            <p xml:id="xAbSeN-1e3477-d1e130">
+               <ref xml:id="xAbSeN-1e3477-Rd1e132">item in eodem libro</ref>: Si in illis uocibus quae fiebant in Exodo, et
+      illis omnibus corporalibus demonstrationibus Christus ostendebatur,
+      aut alio Christus, aiio spiritus sanctus, sicut ea quae supra diximus
+      admonent, non hoc efficitur ut Deus pater numquam tali specie patribus
+      uisus sit. Multa enim talia uisa facta sunt illis temporibus, non
+      euidenter designato in eis uel patre uel filio uel spiritu sancto, ut
+      nimis temerarium sit dicere Deum patrem numquam patribus per aliquas
+      uisibiles formas apparuisse. Hanc enim opinionem illi pepererunt, qui
+      non potuerunt in unitate trinitatis intelligere quod dictum est: Regi
+      autem saeculorum etc. et quem nemo hominum uidit nec uidere
+      potest. Quod substantia diuina, ubi pater et filius et spiritus
+      sanctus unus est Deus, intelligitur. Visiones autem illae per
+      creaturam commutabilem factae sunt, non proprie sicuti est sed
+      significatiue ostendentes Deum.  Quamquam nescio quemadmodum isti
+      intelligant quod Danieli apparuit antiquus dierum, a quo filius
+      hominis accepisse intelligitur regnum, ab illo scilicet qui ei dicit:
+      Filius meus es tu etc., postula a me etc. Si ergo Danieli et pater
+      dans regnum et filius accipiens apparuerunt in specie corporali,
+      quomodo isti dicunt patrem numquam uisum esse prophetis et ideo solum
+      debere intelligi inuisibilem? Non ergo inconuenienter creditur etiam
+      Deus pater eo modo solere apparere mortalibus. Nisi forte aliquis
+      dicet ideo non esse uisibilem patrem quia in conspectu somniantis
+      apparuit, ideo filium et spiritum sanctum uisibiles quia Moyses illa
+      omnia uigilans uidit.  Quasi uero uerbum uidit Moyses carnalibus
+      oculis, aut uideri spiritus uel humanus potest, quanto minus spiritus
+      Dei! Aut quis audeat dicere filium et spiritum sanctum etiam
+      uigilantibus esse uisibiles, patrem autem non nisi somniantibus? Unde
+      nemo sani capitis affirmare debet numquam personam patris per aliquam
+      speciem corporalem uigiliantium oculis demonstratam.
+    </p>
+            <p xml:id="xAbSeN-1e3477-d1e138">
+               <ref xml:id="xAbSeN-1e3477-Rd1e140">item</ref>: Quid dicunt de Abraham, cui uigilanti, cum scriptura
+      praemisisset dicens, Visus Dominus Abrahae, non unus aut duo sed tres
+      apparuerunt uiri, quorum nullus excelsius aliis eminuisse dictus est,
+      nullus honoratius effulsisse, nullus imperiosius egisse?
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

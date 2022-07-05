@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 75</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 75</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e5549"><!-- xAbSeN-q75 -->
+            <head xml:id="xAbSeN-1e5549-Hd1e103">Quaestio 75</head>
+            <head xml:id="xAbSeN-1e5549-Hd1e106" type="question-title"> quod in christo is qui est filius dei non sit ille qui est
+      filius hominis sive is qui est aeternus non sit is qui est
+      temporalis et contra</head>
+    
+            <p xml:id="xAbSeN-1e5549-d1e109">
+               <ref xml:id="xAbSeN-1e5549-Rd1e111">hieronymus in psalmo cxiv</ref>: Iurauit dominua. Hoc quod dicit iurauit non
+      ei qui ante Luciferum genitus est sed ei iurauit qui post Luciferum
+      natus ex uirgine est.
+    </p>
+            <p xml:id="xAbSeN-1e5549-d1e115">
+               <ref xml:id="xAbSeN-1e5549-Rd1e117">item</ref>: Ipse enim est iste Melchisedech sine patre, sine matre, sine
+      generatione. Ab omnibus ecclesiasticis dictum est, sine patre secundum
+      carnem, sine matre secundum Deum.
+    </p>
+            <p xml:id="xAbSeN-1e5549-d1e121">
+               <ref xml:id="xAbSeN-1e5549-Rd1e123">idem in sermone de assumptione sanctae mariae</ref>: Verbum quod erat in
+      principio et apud Deum erat uerbum; ipsum Deum genuit gloriosa uirgo
+      Maria ex se carnem factum.
+    </p>
+            <p xml:id="xAbSeN-1e5549-d1e128">
+               <ref xml:id="xAbSeN-1e5549-Rd1e130">item</ref>: Qui elegit nos, inquit, ante mundi constitutionem, quia profecto
+      quicquid Deus fecit ab initio, Christus fecit totum per unitatem
+      sacramenti; et ideo iam Christus erat in filio, quoniam semper per
+      sacramenti unitatem in Deo fuisse non dubitatur.
+    </p>
+            <p xml:id="xAbSeN-1e5549-d1e134">
+               <ref xml:id="xAbSeN-1e5549-Rd1e136">item</ref>: Unus in carne, unus in sacramento atque unus in spiritu [et] nec
+      admittit omnino ut alius filius hominis, alius filius Dei
+      intelligatur, quia nec tempore praescribitur nec passione separatur.
+      Sed totus Deus in Christum et Christus in Deum transiit, ut quidquid
+      Dei filius est Christus dicatur, et quidquid Christus pertulerit, id
+      Deus pertulisse recte dicatur. Nec nos hominem seorsum colimus nec
+      adoramus sed Deum incarnatum, qui proprium sibi corpus animatum
+      uniuit.
+    </p>
+            <p xml:id="xAbSeN-1e5549-d1e140">
+               <ref xml:id="xAbSeN-1e5549-Rd1e142">item</ref>: Ipsum Dei filium adoramus, qui nihil in se pro assumpto homine
+      est auctus nihilque quod uerbum caro factum est imminutus uel mutatus,
+      et ideo unus idemque semper cum Deo patre filius adoratur, non
+      recedens ex tempore, non alienus natura uel genere. Quod si tibi nouum
+      uidetur quod hominem assumpsit, noueris quod semper cum eo et in eius
+      consilio fuit.
+    </p>
+            <p xml:id="xAbSeN-1e5549-d1e148">
+               <ref xml:id="xAbSeN-1e5549-Rd1e150">item</ref>: In Christo Iesu in quo est Deus et homo, sic unus in una
+      persona, ut legatur quam saepe in diuinis litteris homo Deo coaeternus
+      propter unitatem substantiae, ac deinde Deus homini uideatur
+      compassus, cum nec ininitiabilis homo nec passibilis Deus. Sic tamen
+      unitus est Deus suo corpori ut nullam patiatur fieri inter Deum et
+      hominem humana opinione distantiam, ne forte, quod absit, alius filius
+      Dei et alius filius hominis credatur, praesertim cum scriptura sic
+      connectit et corporat Deum et hominem ut nec in tempore admodum
+      hominem quis a Deo nec in passione possit ab homine Deum
+      discernere. Unde si ad tempus respicias, inuenies semper filium
+      hominis cum filio Dei; si ad passionem, inuenies semper cum filio
+      hominis eumdem Dei filium ita unitum et indiuiduum, quantum ad uocem
+      scripturae pertinet, ut nec homo a Deo separari in tempore nec ab
+      homine Deus ualeat passione. Siquidem, ut haec apertius intelligatis,
+      ipsius Christi uerba discutite: Nemo ascendit, inquit, in caelum nisi
+      qui descendit de caelo, filius hominis qui est in caelo.
+    </p>
+            <p xml:id="xAbSeN-1e5549-d1e154">
+               <ref xml:id="xAbSeN-1e5549-Rd1e156">item</ref>: Idem Deus et homo in una substantia uel persona sine diuisione
+      aut commixtione.
+    </p>
+            <p xml:id="xAbSeN-1e5549-d1e160">
+               <ref xml:id="xAbSeN-1e5549-Rd1e162">item</ref>: Verum tamen uerbum est Deus et non caro quamquam carnem animatam
+      assumpserit. Similiter et caro caro est animata et non uerbum, licet
+      Dei uerbum caro conspecta sit ac uisa. Unde Iohannes: Quod fuit ab
+      initio, quad uidimus ac perspeximus et manus nostrae tractauerunt de
+      uerbo uitae, cum nemo Deum uerbum uidere aut tractare possit manibus,
+      nisi per sacramentum sibi uniti hominis.  Quae nimirum unio tam
+      mira est ut discerni nequeat.
+    </p>
+            <p xml:id="xAbSeN-1e5549-d1e169">
+               <ref xml:id="xAbSeN-1e5549-Rd1e171">item</ref>: Hinc est quod unus idemque manens filius unigenitus,
+      indisseparatus in utrisque naturis conspicitur, et quae sunt utriusque
+      substantiae operatur secundum unicuique essentiam uel naturalem
+      proprietatem.
+    </p>
+            <p xml:id="xAbSeN-1e5549-d1e175">
+               <ref xml:id="xAbSeN-1e5549-Rd1e177">item</ref>: Emmanuel dum unus est et in eo ipso uterque, id est Deus et
+      homo, quae utriusque naturae sunt ueraciter gessit, secundum aliud et
+      aliud operans.  Secundum quod Deus, quae diuina sunt, secundum quod
+      homo idem ipse, quae humana sunt. Et non alius miracula operatus est,
+      alius perpetrauit humana passionesque sustinuit; sed unus idemque
+      Christus, filius Dei atque filius hominis, qui et diuina gessit et
+      humana.  Siquidem inseparabiliter atque indiuise communes Christus
+      habuit actiones sed intelligendae sunt ipsorum operum qualitates,
+      contemplandumque semper ad quae prouehatur humilitas carnis, ad quae
+      inclinetur altitudo diuinitatis.
+    </p>
+            <p xml:id="xAbSeN-1e5549-d1e181">
+               <ref xml:id="xAbSeN-1e5549-Rd1e183">idem de similitudine carnis peccati</ref>: Prior homo de terra, terrenus;
+      secundus e caelo, caelestis. Quis est iste caelestis?  Ille sine
+      dubio, qui eum quem gestabat in baptismate fecit audire: Filius meus
+      es tu; ego hodie genui te. Et qualiter dicitur hodie si in principio
+      uerbum erat apud Deum? Quia non istud uerbum quod semper apud patrem
+      fuisse et esse credendum est sed homo, quem Deus uerbum susceperat,
+      audiuit, quod hic filius hominis per Dei filium Dei esse filius in Dei
+      filio promeretur.
+    </p>
+            <p xml:id="xAbSeN-1e5549-d1e187">
+               <ref xml:id="xAbSeN-1e5549-Rd1e189">ambrosius de sacramentis lib. vi</ref>: Ego sum, inquit, panis uiuus, qui de
+      caelo deacendi. Sed caro non descendit de caelo, quomodo descendit de
+      caelo panis uiuus, quia idem dominus noster Iesus Christus consors est
+      et diuinitatis et corporis; et tu, qui accipis carnem eius, diuinae
+      substantiae in illo participaris alimento.
+    </p>
+            <p xml:id="xAbSeN-1e5549-d1e195">
+               <ref xml:id="xAbSeN-1e5549-Rd1e197">augustinus contra maxentium, lib. ii</ref>: Una persona est Christus Deus et
+      homo. Propter quod etiam: Nemo, inquit, ascendit in caelum nisi qui de
+      caelo descendit, filius hominis qui est in caelo. Si ergo attendas
+      distinctionem substantiarum, filius Dei de caelo descendit, filius
+      hominis crucifixus est. Si unitatem personae, et filius hominis de
+      caelo descendit et filius Dei crucifixus est. Propter hanc ergo
+      unitatem personae non solum filium hominis dixit descendisse de caelo
+      sed esse dixit in caelo cum loqueretur super terram.
+    </p>
+            <p xml:id="xAbSeN-1e5549-d1e201">
+               <ref xml:id="xAbSeN-1e5549-Rd1e203">idem lib.  i de trinitate</ref>: Ex forma serui crucifixus est, et tamen
+      gloriae dominus crucifixus est. Talis enim erat illa susceptio, quae
+      Deum hominem faceret et hominem Deum. Quid tamen propter quid dicatur
+      prudens lector intelligit. Nam ecce diximus quia, secundum quod Deus
+      est, glorificat nos, secundum hoc utique quod dominus gloriae est, et
+      tamen dominus gloriae crucifixus est. Quia recte dicitur et Deus
+      crucifixus, non ex uirtute diuinitatis sed ex infirmitate carnis.
+    </p>
+            <p xml:id="xAbSeN-1e5549-d1e208">
+               <ref xml:id="xAbSeN-1e5549-Rd1e210">idem contra faustum</ref>: Ipsum dominum gloriae, in quantum homo factus est
+      Dei filius, praedestinatum esse dicimus.  Clamat doctor gentium: qui
+      factus est ei ex semine Dauid secundum carnem, qui praedestinatus est
+      filius Dei in uirtute, ut qui futurus erat secundum carnem filius
+      Dauid, esset tamen in uirtute filius Dei secundum spiritum
+      sanctificationis, quia natus est de spiritu sancto et uirgine.  Ipsa
+      est illa ineffabiliter facta hominis a Deo susceptio singularis, ut
+      filius Dei et filius hominis simul; et filius hominis propter
+      susceptum hominem, et filius Dei propter suscipientem Deum ueraciter
+      et proprie diceretur, ne non trinitas sed quaternitas crederetur.
+    </p>
+            <p xml:id="xAbSeN-1e5549-d1e214">
+               <ref xml:id="xAbSeN-1e5549-Rd1e216">ex libro de bono perseverantiae</ref>: Ita ut qui suscepit et quod suscepit
+      una esset in trinitate persona. Neque enim homine assumpto
+      quaternitas facta est sed trinitas mansit assumptione illa
+      ineffabiliter faciente personae unius in Deo et homine ueritatem.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

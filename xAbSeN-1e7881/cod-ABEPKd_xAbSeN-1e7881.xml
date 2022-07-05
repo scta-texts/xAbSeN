@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 110</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 110</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e7881"><!-- xAbSeN-q110 -->
+            <head xml:id="xAbSeN-1e7881-Hd1e103">Quaestio 110</head>
+            <head xml:id="xAbSeN-1e7881-Hd1e106" type="question-title"> quod baptizatus a quocunque non sit rebaptizandus et contra</head>
+    
+            <p xml:id="xAbSeN-1e7881-d1e109">
+               <ref xml:id="xAbSeN-1e7881-Rd1e111">beda in lib. i homeliarum xxxvii</ref>: Siue haereticus, siue schismaticus,
+      siue facinorosus quisque in confessione sanctae trinitatis baptizet,
+      non ualet ille qui baptizatus est a bonis catholicis rebaptizari, ne
+      confessio uel inuocatio tanti nominis uideatur adnullari.
+    </p>
+            <p xml:id="xAbSeN-1e7881-d1e117">
+               <ref xml:id="xAbSeN-1e7881-Rd1e119">augustinus super iohannem sermone v</ref>: Super quem uideris spiritum
+      descendentem. Non dicant, baptismus meus est, quia non est
+      ipsorum. Audiant ipsum Iohannem. Ecce Iohannes plenus erat spiritu
+      sancto et baptismum de caelo habebat, non ex hominibus. Sed quatenus
+      habebat, ipse dixit: parate uiam Domino.  Ubi autem cognitus est
+      Dominus, ipse factus est uia; non iam opus erat baptismo Iohannis, quo
+      pararetur uia Domino. Quid solent dicerei Ecce post Iohannem
+      baptizatum est! Post haereticos non baptizatur, quia haeretici
+      baptismum Christi dederunt, quem non dedit Iohannes.
+    </p>
+            <p xml:id="xAbSeN-1e7881-d1e123">
+               <ref xml:id="xAbSeN-1e7881-Rd1e125">idem in libro de fide ad petrum</ref>: Si in haeresi quacumque uel schismate
+      quisquam in nomine patris et filii et spiritus sancti baptismi
+      sacramentum accepit, integrum sacramentum accepit; sed salutem, quae
+      uirtus est sacramenti, non habebit, si extra ecclesiam catholicam
+      ipsum sacramentum habuerit. Ergo debet ad ecclesiam redire ut non
+      sacramentum baptismi iterum accipiat, quod hemo debet in quolibet
+      homine baptizato repetere sed ut in societate catholica uitam aeternam
+      accipiat.
+    </p>
+            <p xml:id="xAbSeN-1e7881-d1e130">
+               <ref xml:id="xAbSeN-1e7881-Rd1e132">idem de verbis domini tractatu xi</ref>: Quicumque in schismaticis uel
+      haereticis congregationibus baptizantur, quamuis non sint renati
+      spiritu tamen cum ad catholicam ecclesiam ueniunt, non repetitur
+      lauacrum carnis.
+    </p>
+            <p xml:id="xAbSeN-1e7881-d1e136">
+               <ref xml:id="xAbSeN-1e7881-Rd1e138">gregorius quirino episcopo in hibernia</ref>: Antiqua patrum institutione
+      didicimus ut quilibet apud haeresim in trinitatis nomine baptizantur,
+      cum ad sanctam ecclesiam redeunt, aut unctione chrismatis aut
+      impositione manus sola fidei professione ad sinum matris ecclesiae
+      reuocentur. Hi uero haeretici qui in trinitatis nomine minime
+      baptizantur, sicut sunt Bonosiaci et Cathafrigae quia et illi Christum
+      dominum non credunt, et isti spiritum sanctum peruerso sensu esse
+      quendam prauum hominem Montanum credunt. Quorum similes sunt alii
+      multi; cum ad sanctam ecclesiam ueniunt, baptizantur, quia baptismum
+      non fuit quod in errore positi in sanctse trinitatis nomine minime
+      perceperunt. Nec potest ipsum baptisma dici iteratum quod, sicut
+      dictum est, in trinitatis nomine non erat datum.
+    </p>
+            <p xml:id="xAbSeN-1e7881-d1e144">
+               <ref xml:id="xAbSeN-1e7881-Rd1e146">nicolaus ad consulta bulgarorum cap. civ</ref>: A quodam Iudaeo, nescitis
+      utrum Christiano an pagano, multos in patria uestra baptizatos
+      asseritis, et quid inde sit agendum consulitis. Hi profecto si in
+      nomine sanctae trinitatis uel tantum in nomine Christi, sicut in
+      Actibus apostolorum legimus, baptizati sunt, (unum quippe idemque est,
+      ut sanctus demonstrat Ambrosius) constat denuo non esse baptizandos.
+    </p>
+            <p xml:id="xAbSeN-1e7881-d1e150">
+               <ref xml:id="xAbSeN-1e7881-Rd1e152">augustinus in libro de baptismo adversus donatistas</ref>: Sacramentum enim
+      baptismi est quod habet qui baptizatur. Et sacramentum dandi baptismi
+      est quod habet qui ordinatur. Sicut autem baptizatus, si ab unitate
+      recesserit, sacramentum baptismi non amittit, sic etiam ordinatus, si
+      ab unitate recesserit, sacramentum dandi baptismi non amittit. Nulli
+      enim sacramento iniuria facienda est.
+    </p>
+            <p xml:id="xAbSeN-1e7881-d1e156">
+               <ref xml:id="xAbSeN-1e7881-Rd1e158">item</ref>: Quamobrem si euangelicis uerbis in nomine patris et filii et
+      spiritus sancti Marcion baptismum consecrabat, integrum erat
+      sacramentum, quamuis eius fides, sub eisdem uerbis aliud opinantis
+      quam catholica ueritas docet, non esset integra sed fabulosis
+      falsitatibus inquinata.
+    </p>
+            <p xml:id="xAbSeN-1e7881-d1e162">
+               <ref xml:id="xAbSeN-1e7881-Rd1e164">item</ref>: Manus autem impositio non sicut baptismus repeti non potest.
+      Quid est enim aliud nisi oratio super hominem?
+    </p>
+            <p xml:id="xAbSeN-1e7881-d1e171">
+               <ref xml:id="xAbSeN-1e7881-Rd1e173">ex decretis leonis papae</ref>: Nam hi qui baptismum acceperunt ab
+      haereticis, cum baptizati antea non fuissent, sola spiritus sancti
+      inuocatione per impositionem manuum confirmandi sunt, quia formam
+      tantum baptismi sine sanctificationis uirtute sumpserunt. Et hanc
+      regulam ut satis seruandam in omnibus praedicamus, ut semel lauacrum
+      initum nulla iteratione uioletur dicente apostolo: Unus Deus, una
+      fides, unum baptisma. Cuius ablutio nulla iteratione temerenda est
+      sed, ut diximus, sola sanctificatio sancti spiritus inuocanda, ut quod
+      ab haereticis nemo accipit a catholicis sacerdotibus consequatur.
+    </p>
+            <p xml:id="xAbSeN-1e7881-d1e177">
+               <ref xml:id="xAbSeN-1e7881-Rd1e179">ex concilio apud compendium cap. v</ref>: Si quis presbyter ordinatus fuerit
+      et deprehenderit se non baptizatum esse, baptizetur et ordinetur
+      iterum et omnes quos prius baptizauit.
+    </p>
+            <p xml:id="xAbSeN-1e7881-d1e183">
+               <ref xml:id="xAbSeN-1e7881-Rd1e185">ex epistola cypriani xxv, ad iuvaianum</ref>: Scripsisti, frater, desiderans
+      significari tibi quid nobis uideatur de haereticorum baptismo, qui
+      extra ecclesiam constituti uindicant sibi rem nec iuris sui nec
+      potestatis. Quod nos nec ratum possumus nec legitimum computare,
+      quando hoc apud illos esse constet illicitum. Et quoniam super hac re
+      quid sentiremus litteris nostris expressimus, exemplum earundem
+      litterarum tibi misi, quid in concilio, cum conplures essemus,
+      decreuimus; quid postea Quinto collegae nostro de eadem re quaerenti
+      rescripserimus; et nunc quoque cum in unum conuenissemus tam
+      prouinciae Africae quam Numidiae episcopi LXXI, hoc idem denuo
+      sententia nostra firmauimus, statuentes unum baptisma esse quod sit in
+      ecclesia catholica constitutum, ac per hoc non rebaptizari sed
+      baptizari a nobis quicumque ab adultera et prophana aqua /360/
+      uenientes abluendi sint et sanctificandi salutaris aquae ueritate.
+    </p>
+            <p xml:id="xAbSeN-1e7881-d1e189">
+               <ref xml:id="xAbSeN-1e7881-Rd1e191">item</ref>: Longe alia est apud haereticos fides; immo nihil est apud illos
+      nisi perfidia. Quomodo ergo potest uideri qui apud illos baptizatur
+      consecutus esse peccatorum remissa et diuinae indulgentiae gratiam per
+      suam fidem, qui ipsius fidei non habuerit ueritatem? Si enim, sicut
+      quibusdam uidetur, secundum fidem suam quis accipere aliquid extra
+      ecclesiam potuit, utique id accepit quod credidit. Falsum autem
+      credens uerum accipere non potuit sed potius adulterina et prophana,
+      secundum quod credebat, accepit. Quem locum prophani et adulteri
+      baptismi subtiliter Ieremias perstringit dicens: Ut quid qui
+      contristant me praeuatent? Plaga mea solida est; facta est mihi quasi
+      aqua mendax, non habens fidem. Quae est aqua mendax et perfida? Utique
+      ea quae baptismi imaginem mentitur et gratiam fidei adumbrata
+      simulatione frustratur. Quod si secundum prauam fidem baptizari
+      aliquis foris et remissa peccatorum consequi potuit et secundum eandem
+      fidem consequi et spiritum sanctum, non est necesse uenienti manum
+      imponi ut spiritum sanctum consequatur et signetur. Aut utrumque enim
+      fide sua foris consequi potuit aut neutrum eorum qui foris fuerat
+      accepit. Manifestum est autem ubi et per quos remissa peccatorum dari
+      possit. Nam Petro primum dominus, super quem aedificauit ecclesiam,
+      dedit ut id solueret in terris quod ille soluisset. Et post ad
+      apostolos loquitur dicens: sicut misit me pater et ego uos. Hoc cum
+      dixisset inspirauit et ait: Accipite epiritum sanctum. si cutus
+      remiseritis peccata etc. Unde intelligimus nonnisi in ecclesia
+      praepositis licere baptizare et remissa peccatorum dare. Filii Aaron
+      qui alienum ignem altari imposuerunt in conspectu statim domini
+      indignantis extincti sunt. Quod supplicium manet eos qui alienam aquam
+      baptismo inferunt falso, ut diuina censura ulciscatur haereticos
+      gerere quod nonnisi soli liceat ecclesiae. Quod autem quidam dicunt
+      eis qui in Samaria baptizati fuerant aduenientibus apostolis
+      Petro et Iohanne tantum super eos manum impositam esse, ut acciperent
+      spiritum sanctum, rebaptizatos tamen eos non esse, ad praesentem
+      causam uidemus omnino non pertinere. Illic enim qui crediderunt, fide
+      uera crediderant et intus ecclesiam a Philippo diacono, quem idem
+      apostoli miserant, baptizati erant sed tantummodo quod deerat a Petro
+      et Iohanne factum est, ut manu imposita infunderetur super eos
+      spiritus sanctus, quod nunc quoque apud nos geritur. Numquid de
+      ecclesiae fontibus rigare potest qui intus ecclesiam non est?
+      Haeretici in ecclesia non sunt, immo et contra ecclesiam faciunt,
+      quomodo baptizare baptismo ecclesiae possunt? Nam si baptizari quis
+      apud haereticos potuit, utique et remissa peccatorur consequi
+      potuit. Si peccatorum remissa consecutus est, sanctificatus est,
+      templum Dei factus est. Quaero cuius Dei? Si creatoris, non potuit qui
+      in eum non credidit. Si Christi, nec huius fieri potest templum qui
+      negat Deum Christum. Si spiritus sancti, quomodo spiritus sanctus
+      placatus ei esse potest, qui aut filii aut patris inimicus est? Quare
+      baptisma nobis et haereticis commune esse non potest, cum quibus nec
+      pater Deus nec filius Christus nec spiritus sanctus nec fides nec
+      ecclesia ipsa communis est. Et ideo baptizari eos oportet, qui de
+      haeresi ad ecclesiam ueniunt, quando ex nobis didicerint, baptizatos
+      quoque a Paulo eos qui iam baptismo Iohannis baptizati fuissent, sicut
+      legimus in Actibus apostolorum. Quod si iccirco haereticus ius
+      baptismi obtinere potuit, quia prior baptizauit, non possidentis erit
+      iam baptisma sed occupantis; et cum separari a se et diuidi omnino non
+      possint baptisma et ecclesia, qui occupare baptisma prior potuit et
+      ecclesiam pariter occupauit. Haec tibi rescripsimus, frater, nemini
+      praeiudicantes, quominus unusquisque episcoporum quod putat faciat
+      habens arbitrii sui liberam potestatem.
+    </p>
+            <p xml:id="xAbSeN-1e7881-d1e197">
+               <ref xml:id="xAbSeN-1e7881-Rd1e199">idem in epistola ad quintum</ref>: Nescio qua praesumptione ducuntur quidam
+      ut putent eos qui apud haereticos tincti sunt, quando ad nos
+      ueniunt, baptizari non oportere. Nos autem dicimus eos qui inde
+      ueniunt non rebaptizari apud nos sed baptizari. Neque enim accipiunt
+      ibi aliquid, ubi nihil est.
+    </p>
+            <p xml:id="xAbSeN-1e7881-d1e205">
+               <ref xml:id="xAbSeN-1e7881-Rd1e207">idem ad iuvaianum lib. ii</ref>: Oportet sanctificari aquam prius a
+      sacerdote, ut possit baptismo suo peccata abluere. Quomodo autem
+      mundare et sanctificare aquam potest qui ipse immundus est? et apud
+      quem spiritus sanctus non est? cum dominus dicat in Numeris: Et
+      quaecumque tetigerit immundus, immunda erunt. Quis autem potest dare
+      quod ipse non habeat? aut quomodo potest spiritalia agere qui ipse
+      amiserit spiritum sanctum? Et idcirco baptizandus est et innouandus.
+    </p>
+            <p xml:id="xAbSeN-1e7881-d1e212">
+               <ref xml:id="xAbSeN-1e7881-Rd1e214">sententiae episcoporum</ref>: Cyprianus dixit: Saepe censuimus haereticos ad
+      ecclesiam uenientes ecclesiae baptismo baptizari et sanctificari
+      oportere. Caecilius a Biltha dixit: Ego baptismum in ecclesia sola
+      scio et extra nullum; apud haereticos omnia per mendacium geruntur.
+      Primus a Misgirpa dixit: Censeo omnem hominem ab haeresi uenientem
+      baptizandum. Frustra enim illic putat se esse baptizatum.
+    </p>
+            <p xml:id="xAbSeN-1e7881-d1e218">
+               <ref xml:id="xAbSeN-1e7881-Rd1e220">augustinus contra petilianum de unico baptismo</ref>: Martyrem
+      gloriosissimum Cyprianum, qui apud haereticos uel schismaticos datum
+      Christi baptismum nolebat agnoscere, dum eos nimium detestaretur,
+      tanta eius merita usque ad triumphum martyrii consecuta sunt ut et
+      caritatis qua excellebat luce obumbratio illa fugaretur, et ut
+      sarmentum fructuosum fieret fructuosius, si quid habebat purgandum,
+      passionis falce ultima tolleretur. Nec nos quia baptismi ueritatem
+      etiam in haereticorum iniquitate agnoscimus, ideo Cypriano meliores
+      sumus, sicut nec Petro, quia gentes iudaizare non cogimus.
+    </p>
+            <p xml:id="xAbSeN-1e7881-d1e224">
+               <ref xml:id="xAbSeN-1e7881-Rd1e226">ecclesiastica historia lib. x, cap. vi, de statutis nicaeni concilii</ref>:
+      Iubet et ut Paulianistae, qui sunt Fotiniaci, rebaptizentur.
+    </p>
+            <p xml:id="xAbSeN-1e7881-d1e232">IDEM LIB. VII, CAP. 11: In urbe uero Roma Cornelio episcopatum regente
+      et apud Carthaginem Cypriano, ambobus fide uirtute pietate
+      praestantibus, quaestio exorta est in Africae magis partibus si
+      oporteret haereticos rebaptizari. Cumque id a Cipriano et caeteris
+      paene omnibus per Africam sacerdotibus oportere fieri decerneretur,
+      Cornelius et caeteri omnes per Italiam sacerdotes huiusmodi decretum
+      manente sacerdotali concordia refutauerunt.
+    </p>
+            <p xml:id="xAbSeN-1e7881-d1e235">
+               <ref xml:id="xAbSeN-1e7881-Rd1e237">hieronymus adversus vigilantium</ref>: Ergo uigilias malae aliorum uigiliae
+      non destruent; quin potius pudicitiae uigilare cogantur qui libidini
+      dormiunt. Quod enim semel fecisse bonum est, non potest malum esse si
+      frequenter fiat. Aut si aliqua culpa uitandum est, non ex eo quod
+      saepe sed ex eo quod fit aliquando, culpabile est.
+    </p>
+            <p xml:id="xAbSeN-1e7881-d1e241">
+               <ref xml:id="xAbSeN-1e7881-Rd1e243">idem in epistola pauli ad ephesios lib. ii</ref>: Solliciti seruare unitatem
+      spiritus in uincuto pacis. Unum corpus et unus spiritus.  Facit contra
+      omnes haereticos, ut sciant non habere se baptisma sed in una Christi
+      ecclesia fontem esse uitalem.
+    </p>
+            <p xml:id="xAbSeN-1e7881-d1e248">
+               <ref xml:id="xAbSeN-1e7881-Rd1e250">cassiodorus senator de institutione divinarum scripturarum lib. i</ref>:
+      Impossibile est omnino complecti quantum inter alios scriptores
+      praeter iterationem baptismatis, quam usus atque ratio rapudiauit
+      ecclesiae, conferat beatissimus Cyprianus uelut oleum decurrens in
+      omnem suauitatem, lingua composita declamator insignis doctorque
+      mirabilis.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

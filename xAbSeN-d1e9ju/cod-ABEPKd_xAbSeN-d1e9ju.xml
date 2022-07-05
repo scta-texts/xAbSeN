@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prologus</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Prologus</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+           <pb ed="#C" n="1"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-d1e9ju"><!-- xAbSeN-prologus -->
+            <head xml:id="xAbSeN-d1e9ju-Hd1e103">Prologus</head>
+           <p xml:id="xAbSeN-d1e9ju-d1e106">
+            <!--/89/-->
+            <pb ed="#C" n="1"/>
+            <lb ed="#C" n="2"/>Cum in tanta uerborum multitudine nonnulla etiam sanctorum dicta
+    <lb ed="#C"/>non solum ab inuicem diuersa uerum <add place="above-line">etiam</add> inuicem aduersa uideantur non est 
+    <lb ed="#C"/>temere de eis iudicandum per quos mundus ipse iudicandus est
+    <lb ed="#C"/>sicut scriptum est: <quote xml:id="xAbSeN-d1e9ju-Qd1e124" source="http://scta.info/resource/sap3_8" synch="1-2">iudicabunt sancti nationes</quote> et iterum: <quote xml:id="xAbSeN-d1e9ju-Qd1e127" source="http://scta.info/resource/mt19_28" synch="24-30">sedebitis et 
+    <lb ed="#C"/>uos indicantes</quote> nec tanquam <seg type="correction">m<add place="above-line">e</add>ndaces</seg> eos arguere aut tanquam 
+    <lb ed="#C"/>erroneos contemnere praesumamus quibus a domino dictum est <quote xml:id="xAbSeN-d1e9ju-Qd1e141" source="http://scta.info/resource/lc10_16" synch="1-11">qui uos 
+    <!-- above text checked; below only lines added -->
+    <lb ed="#C"/>audit, me audit; et qui uos spernit, me spernit.</quote> Ad nostram itaque recurrentes 
+    <lb ed="#C"/>imbecillitatem nobis potius gratiam in
+    intelligendo deesse quam 
+    <lb ed="#C"/>eis in scribendo defuisse credamus, quibus ab
+    ipsa dictum est Veritate: 
+    <lb ed="#C"/>non enim uos estis qui loquimini sed
+    spiritus patris uestri qui loquitur 
+    <lb ed="#C"/>in uobis. Quid itaque mirum si
+    absente nobis spiritu ipso, per quem 
+    <lb ed="#C"/>ea et scripta sunt et dictata
+    atque ipso quoque scriptoribus intimata, ipsorum 
+    <lb ed="#C"/>nobis desit
+    intelligentia? Ad quam nos maxime peruenire impedit 
+    <lb ed="#C"/>inusitatus
+    locutionis modus ac plerumque earundem uocum 
+    <lb ed="#C"/>significatio diuersa, cum
+    modo in hac modo in illa significatione uox eadem 
+    <lb ed="#C"/>sit posita. Quippe
+    quemadmodum in sensu suo ita et in uerbis suis unus<lb ed="#C"/>quisque abundat. Et
+    cum iuxta Tullium: <quote xml:id="xAbSeN-d1e9ju-Qd1e169">In omnibus identitas mater sit satieta<lb ed="#C"/>tis</quote>
+    id est fastidium generet, oportet in eadem quoque re uerba ipsa
+    uariare nec omnia 
+    <lb ed="#C"/>uulgaribus et communibus denudare uerbis; quae, ut
+    ait beatus Augustinus, ob 
+    <lb ed="#C"/>hoc teguntur ne uilescant, et eo amplius
+    sunt gratiora quo sunt 
+    <lb ed="#C"/>maiore studio inuestigata et difficilius
+    conquisita. Saepe etiam, 
+    <lb ed="#C"/>pro diuersitate eorum quibus loquimur, uerba
+    commutari oportet; cum frequenter 
+    <lb ed="#C"/>eueniat ut uerborum propria
+    significatio nonnullis sit incognita aut 
+    <lb ed="#C"/>minus usitata. Quibus quidem
+    <!--/90/--> si ad doctrinam, ut oportet, loqui uolumus, 
+    <lb ed="#C"/>magis eorum usus quam
+    proprietas sermonis aemulandus est, sicut et ipse 
+    <lb ed="#C"/>grammaticae princeps
+    et locutionum instructor Priscianus edocet. 
+    <lb ed="#C"/>Quod etiam diligentissimus
+    ecclesiae doctor beatus attendens <ref xml:id="xAbSeN-d1e9ju-Rd1e196">augustinus, cum 
+    <lb ed="#c"/>in quarto de
+    doctrina christiana</ref> ecclesiasticum instrueret doctorem, omnia 
+    <lb ed="#C"/>illum
+    quae intelligentiam praepediunt eorum quibus loquitur, praeterire
+    admo<lb ed="#C"/>net et tam ornatum quam proprietatem sermonis contemnere, si
+    absque istis 
+    <pb ed="#C" n="2"/>
+            <lb ed="#C"/>ad intelligentiam facilius poterit peruenire
+    
+    <quote xml:id="xAbSeN-d1e9ju-Qd1e210" source="http://scta.info/resource/addc-l4-d1e277" synch="103-113">Non curante, inquit, illo qui docet, 
+      <lb ed="#C"/>quanta eloquentia doceat sed
+    quanta euidentia</quote>.  <quote xml:id="xAbSeN-d1e9ju-Qd1e215" source="http://scta.info/resource/addc-l4-d1e289" synch="5-39">Diligens appetitus 
+      <lb ed="#C"/>aliquando negligit uerba
+    cultiora. Unde ait quidam, cum de tali genere 
+      <lb ed="#C"/>eloqutionis ageret,
+    esse in ea quamdam diligentem negligentiam.</quote>
+    
+    Item <del rend="strikethrough">bibonis</del>
+    
+            <lb ed="#C"/>
+            <quote xml:id="xAbSeN-d1e9ju-Qd1e228" source="http://scta.info/resource/addc-l4-d1e289" synch="52-199">In bonis doctoribus tanta docendi cura sit ut uerbum quod, 
+      <lb ed="#C"/>nisi
+    obscurum uel ambiguum, latinum esse non potest, uulgi autem more
+      <lb ed="#C"/>sicut dicitur ut ambiguitas obscuritasque uitetur, non sic
+    dicatur ut 
+      <lb ed="#C"/>a doctis sed potius ut ab indoctis dici solet. Si enim
+    non 
+      <lb ed="#C"/>piguit dicere interpretes nostros de sanguinibus, quoniam
+    senserunt ad 
+      <lb ed="#C"/>rem pertinere ut eo loco pluraliter enuntietur hoc
+    nomen quod 
+      <lb ed="#C"/>in latina lingua singulariter tantummodo dicitur, cur
+    pietatis 
+      <lb ed="#C"/>doctorem pigeat imperitis loquentem ossum potius quam os
+    dicere, ne 
+      <lb ed="#C"/>ista syllaba non ab eo quod sunt ossa sed ab eo quod
+      sunt ora intel<lb ed="#C" break="no"/>ligatur? Quid enim prodest locutionis integritas
+    quam non sequitur 
+      <lb ed="#C"/>intellectus audientis, cum loquendi omnino
+    nulla sit causa si quod 
+      <lb ed="#C"/>loquimur non intelligunt propter quos, ut
+    intelligant, loquimur?  
+      <lb ed="#C"/>Qui ergo docet, uitabit uerba omnia quae
+    non docent.</quote>
+    
+    Item:
+    
+    <quote xml:id="xAbSeN-d1e9ju-Qd1e257" source="http://scta.info/resource/addc-l4-d1e305" synch="60-94">Insignis 
+      <lb ed="#C"/>est indolis in uerbis uerum amare non uerba. Quid enim
+    prodest 
+      <lb ed="#C"/>clauis aurea si aperire quod uolumus non potest? Aut quid
+    obest 
+      <lb ed="#C"/>lignea si hoc potest, quando nihil quaerimus nisi patere
+    quod clausum est?</quote>
+    
+    Quam sit etiam temerarium de sensu et intelligentia 
+    <lb ed="#C"/>alterius alterum
+    iudicare, <!--/91/--> quis non uideat cum soli Deo corda et 
+    <lb ed="#C"/>cogitationes
+    pateant?  Qui nos etiam ab hac praesumptione 
+    <lb ed="#C"/>reuocans ait:
+    
+    <quote xml:id="xAbSeN-d1e9ju-Qd1e275" source="http://scta.info/resource/lc6_37" synch="1-5">Nolite iudicare et non iudicabimini</quote>.
+    
+    Et apostolus:
+    
+    <lb ed="#C"/>
+            <quote xml:id="xAbSeN-d1e9ju-Qd1e280" source="http://scta.info/resource/Icor4_5">Nolite inquit ante tempus indicare, quoadusque ueniat qui
+      illu<lb ed="#C" break="no"/>minabit abscondita tenebrarum et manifestabit consilia
+    cordium</quote>
+    
+            <lb ed="#C"/>ac si aperte dicat: Illi committite in talibus iudicium qui solus
+    omnia nouit 
+    <lb ed="#C"/>atque ipsarum quoque discretor est cogitationum, iuxta
+    quod et de 
+    <pb ed="#C" n="3"/>
+            <lb ed="#C"/>occultis eius mystertis typice super agno paschali scriptum
+    est:
+    
+    <quote xml:id="xAbSeN-d1e9ju-Qd1e294">Si quid 
+      <lb ed="#C"/>residuum fuerit, igni comburatur</quote>
+    
+    hoc est si quid est diuinorum mysteriorum 
+    <lb ed="#C"/>quod intelligere non
+    ualeamus, spiritui, per quem scripta sunt, docenda potius 
+    <lb ed="#C"/>reseruemus
+    quam temere definiamus.
+    
+    Illud quoque diligenter attendi conuenit 
+    <lb ed="#C"/>ne, dum aliqua nobis ex
+    dictis sanctorum obiciuntur tamquam opposita
+    <lb ed="#C"/>sint uel a ueritate
+    aliena, falsa tituli inscriptione uel scripturae ipsius 
+    <lb ed="#C"/>corruptione
+    fallamur. Pleraque enim apocrypha ex sanctorum nominibus, 
+    <lb ed="#C"/>ut
+    auctoritatem haberent, intitulata sunt; et nonnulla in ipsis etiam
+    <lb ed="#C"/>diuinorum testamentorum scriptis scriptorum uitio corrupta sunt. Unde
+    <lb ed="#C"/>fidelissimus scriptor et ueracissimus interpres Hieronymus, Ad Laetam
+    De 
+    <lb ed="#C"/>Institutione Filiae scribens, nos praemonuit dicens:
+    
+    Caueat omnia 
+    <lb ed="#C"/>apocrypha; et si quando ea non ad dogmatum ueritatem
+    sed ad signo<lb ed="#C" break="no"/>rum 
+    reuerentiam legere uoluerit, sciat non eorum esse
+    quorum titulis 
+    <lb ed="#C"/>praenotantur, et grandis esse prudentiae aurum in
+    luto quaerere.
+    
+    Idem 
+    <lb ed="#C"/>super LXXVII psalmum, de inscriptione tituli eius, qui est huius
+    modi: 'intel<lb ed="#C" break="no"/>lectus Asaph', ait sic:
+    
+    Scriptum est secundum Matthaeum: cum 
+    <lb ed="#C"/>locutus fuisset Dominus in
+    parabolis et illi non intelligerent et caetera; 
+    <lb ed="#C"/>haec inquit facta
+    sunt ut impleretur quod scriptum est per Isaiam 
+    <lb ed="#C"/>prophetam:
+    aperiam in parabolis os meum. Euangelia usque 
+    <lb ed="#C"/>hodie <!--/92/--> ita
+    habent. Hoc Isaias non loquitur sed Asaph.
+    
+    Item:
+    
+    Ergo 
+    <lb ed="#C"/>simpliciter dicamus, quomodo scriptum est in Matthaeo et
+    Iohanne 
+    <lb ed="#C"/>quod Dominus hora sexta crucifixus sit, in Marco quod
+    hora tertia, 
+    <lb ed="#C"/>error scriptorum fuit, et in Marco hora sexta
+    scriptum fuit; 
+    <lb ed="#C"/>sed multi pro episomo graeco putauerunt esse
+    gamma, sicut 
+    <lb ed="#C"/>ibi error fuit scriptorum, ut pro Asaph Isaiam
+    scriberent. Scimus 
+    <lb ed="#C"/>enim quia plurima ecclesia de imperitis
+    congregata fuit 
+    <lb ed="#C"/>gentilibus. Cum ergo legerent in euangelio: Ut
+    impleretur quod 
+    <lb ed="#C"/>scriptum est in Asaph propheta, ille qui primus
+    scribebat 
+    <pb ed="#C" n="4"/>
+            <lb ed="#C"/>euangelium coepit dicere, Quis est iste Asaph propheta?
+    Non 
+    <lb ed="#C"/>erat notus in populo. Et quid fecit? Ut errorem emendaret,
+    <lb ed="#C"/>fecit errorem. Dicamus aliquid simile <del rend="strikethrough">sunt s?ixtum est ? 
+    <lb ed="#C"/>im</del> In alio loco secundum Matthaeum: Retulit inquit XXX argenteos 
+    <lb ed="#C"/>pretium appretisti, sicut
+    scriptum est in Ieremia propheta. In Ieremia 
+    <lb ed="#C"/>hoc penitus inuenire
+    non potuimus sed in Zacharia. Videtis 
+    <lb ed="#C"/>ergo quia et hic error fuit sicut ibi. Quid itaque mirum, si in 
+    <lb ed="#C"/>euangellis quoque nonnulla per ignorantiam
+    scriptorum corrupta fuerint, 
+    <lb ed="#C"/>ita et in scriptis posteriorum patrum,
+    qui longe minoris sunt 
+    <lb ed="#C"/>auctoritatis, nonnunquam eueniat? Si itaque
+    aliquid a ueritate 
+    <lb ed="#C"/>absonum in scriptis sanctorum forte uideatur, pium
+    est et humilitati 
+    <lb ed="#C"/>congruum atque caritati debitum, quae <quote xml:id="xAbSeN-d1e9ju-Qd1e389">omnia credit,
+    omnia sperat, omnia 
+    <lb ed="#C"/>sustinet</quote> nec facile uitia eorum quos amplectitur
+    suspicatur, 
+    <lb ed="#C"/>ut aut eum scripturae locum non fideliter interpretatum
+    aut corrup<lb ed="#C" break="no"/>tum 
+    esse credamus, aut nos eum non intelligere profiteamur.
+    
+    <lb ed="#C"/>Nec illud minus attendendum esse arbitror, utrum talia 
+    <lb ed="#C"/>sint ea quae de
+    scriptis sanctorum proferuntur, quae uel ab 
+    <lb ed="#C"/>ipsis alibi retractata sint et, cognita postmodum ueritate, correcta, 
+    sicut in plerisque
+    beatus Augustinus egit; aut magis secundum 
+    <lb ed="#C"/>aliorum opinionem quam
+    secundum propriam dixerint sententiam, 
+    <lb ed="#C"/>sicut in plerisque <!--/93/-->
+    Ecclesiastes dissonas diuersorum inducit senten<lb ed="#C"/>tias, unde et
+    tumultuator interpretatur, beato in quarto Dialogorum 
+    <lb ed="#C"/>attestante
+    Gregorio; aut sub quaestione potius reliquerunt 
+    <lb ed="#C"/>ea inquirentes quam
+    certa definitione terminarent, 
+    <lb ed="#C"/>sicut praedictus uenerabilis doctor
+    Augustinus in editione super 
+    <lb ed="#C"/>Genesin Ad Litteram se fecisse perhibet,
+    ita de hoc opere in primo 
+    <lb ed="#C"/>Retractationum suarum commemorans:
+    
+    <quote xml:id="xAbSeN-d1e9ju-Qd1e424">In quo opere, inquit, plura 
+      <lb ed="#C"/>quaesita quam inuenta sunt, et eorum
+      quae inuenta sunt, pauciora firmata, caetera uero ita posi<lb ed="#C"/>ta
+    uelut adhuc requirenda sint.</quote>
+    
+    Beato quoque attestante Hieronymo 
+    <pb ed="#C" n="5"/>
+            <lb ed="#C"/>nouimus morem catholicorum doctorum
+    hunc fuisse, ut in commentariis 
+    <lb ed="#C"/>suis nonnullas etiam haereticorum
+    pessimas opiniones suis insere<lb ed="#C"/>rent 
+    sententiis dum perfectioni studentes nulla antiquorum praeteriisse 
+    <lb ed="#C"/>gauderent. Unde rescribens ad beatum Augustinum, cum ab eo super 
+    <lb ed="#C"/>expositionem cuiusdam loci epistolae Pauli ad Galatas pulsaretur, ait:
+    
+    <lb ed="#C"/>Quaeris cur dixerim in commentariis epistolae Pauli ad Galatas,
+    Paulum 
+    <lb ed="#C"/>id in Petro non potuisse reprehendere quod ipse
+    fecerat. Et asseris 
+    <lb ed="#C"/>simulationem apostolicam non fuisse dispensatoriam sed ueram, et <add place="above-line">me</add> non 
+    <lb ed="#C"/>debere docere mendacium. Respondeo debere prudentiam tuam praefa<lb ed="#C"/>tiunculae
+    commentariorum meorum meminisse, quod imbecillitatem 
+    <lb ed="#C"/>uirium mearum sentiens Origenis commentarios sum secutus. 
+    <lb ed="#C"/>Scripsit enim ille uir in epistola Pauli ad Galatas uolumina; 
+    <lb ed="#C"/>praetermitto <name xml:id="xAbSeN-d1e9ju-Nd1e465">Didimum</name> uidentem meum et Apollinarem Laudicenum de ecclesia nuper
+    egressum et Alexandrum ueterem haereticum, qui 
+    <lb ed="#C"/>et ipsi nonnullos
+    super hac re commentarios reliquerunt. Legi 
+    <lb ed="#C"/>haec omnia et in
+    mentem meam plurima coaceruans, accito notario, 
+    <lb ed="#C"/>uel mea uel
+    aliena dictaui.
+    
+    Item:
+    
+    Eruditionis <add place="above-line">tuae</add> fuerat quaerere 
+    <lb ed="#C"/>utrum ea quae scripsimus
+    haberentur in Graecis; ut, si illi non 
+    <lb ed="#C"/>dixissent, tunc meam
+    proprie sententiam condemnares, 
+    <lb ed="#C"/>praesertim cum libere in
+    praefatione confessus sim Origenis commen<lb ed="#C" break="no"/>tarios 
+    me esse secutum
+    et uel mea uel aliena dictasse, ut 
+    <lb ed="#C"/>lectoris arbitrio
+    derelinquerem utrum probanda essent an im<lb ed="#C" break="no"/>probanda.
+    
+    Sic et beatum Hilarium et nonnullos sanctos multa 
+    <lb ed="#C"/>ex ipsius Origenis
+    uel aliorum errantium scriptis interseruisse 
+    <lb ed="#C"/>sententiis non ambigimus,
+    opinionem nobis aliorum potius 
+    <lb ed="#C"/>praesentantes quam sententiam
+    proferentes; quod tamen non 
+    <lb ed="#C"/>tam per ipsos nobis quam per alios
+    postmodum innotuit. nam et 
+    <lb ed="#C"/>praedictus doctor <name xml:id="xAbSeN-d1e9ju-Nd1e504">ieronymus</name> ad
+    Vigilantium presbyterum, cum se excusaret quod 
+    <lb ed="#C"/>Origenis dicta
+    nonnunquam uel poneret uel transferret:
+    
+    Si hoc, 
+    <lb ed="#C"/>inquit, crimen est, arguatur confessor Hilarius, qui <del rend="strikethrough">sunt</del>
+            <pb ed="#C" n="6"/>
+            <lb ed="#C"/>psalmorum interpretationem et homelias in Iob ex libris eius
+    <lb ed="#C"/>transtulit.
+    
+    Ubi quidem cum nonnulla reperiremus a ueritate dissona 
+    <lb ed="#C"/>uel aliorum
+    sanctorum scripti contraria, Origeni potius quam 
+    <lb ed="#C"/>Hilario sunt
+    imputanda, licet ipse hoc Hilarius non distin<lb ed="#C" break="no"/>guat. 
+    Quale est illud
+    statim, quod primum psalmum de 
+    <lb ed="#C"/>capite non esse intelligendum adstruere
+    nititur sed generaliter 
+    <lb ed="#C"/>de quolibet alio iusto esse accipiendum. Quod
+    et ipse Hieronymus 
+    <lb ed="#C"/>in quadam expositione quorundam psalmorum, Origenem
+    <lb ed="#C"/>similiter prosecutus posuit. Ipsum quoque fortasse Origenem, ipso
+    <lb ed="#C"/>attestante, non ambigendum est nonnulla magnis erroribus implicita
+    <lb ed="#C"/>iuxta opinionem aliorum protulisse. Unde et Hieronymus ad Auitum
+    <lb ed="#C"/>scribendo presbyterum, multiplices colligens errores quos 
+    <lb ed="#C"/>
+            <name xml:id="xAbSeN-d1e9ju-Nd1e545">Origenes</name> in
+    libris suis Peri Arcon posuit, de ipso ita locutus 
+    <lb ed="#C"/>est Origene:
+    
+    Post tam nefandam disputationem qua lectoris 
+    <lb ed="#C"/>animum uulnerauit,
+    'Haec' inquit 'iuxta nostram sententiam 
+    <lb ed="#C"/>non sunt dogmata sed
+    quaesita tantum ataue proiecta, ne 
+    <lb ed="#C"/>penitus intacta uiderentur.'
+    
+    Sic et ipse supra Hieronymus 
+    <lb ed="#C"/>dixit sua uel aliena saepe dictasse, ut
+    lectoris arbitrio 
+    <lb ed="#C"/>derelinqueret utrum probanda essent an improbanda.
+    Beatus 
+    <lb ed="#C"/>quoque Augustinus, pleraque ex operibus suis retractando ac
+    <lb ed="#C"/>corrigendo, multa se ibi ex opinione magis aliorum quam 
+    <lb ed="#C"/>ex propria
+    posuisse sententia profitetur. Nonnulla 
+    <lb ed="#C"/>etiam in Euangelio iuxta
+    opinionem hominum magis quam secundum 
+    <lb ed="#C"/>ueritatem rerum dici uidentur;
+    ueluti cum Ioseph pater 
+    <lb ed="#C"/>Christi a matre quoque ipsius Domini iuxta
+    opinionem <!-- hand shift?? -->et morem 
+    <lb ed="#C"/>uulgi appellatur, ita quidem dicente:
+    
+    <quote xml:id="xAbSeN-d1e9ju-Qd1e578">Ego et pater tuus dolentes quaere<lb ed="#C"/>bamus 
+      te</quote>.
+    
+    <!-- additional text not in 77 critical edition?? -->
+    <unclear>Et apostolous et mixta quod aspectum ppripitur modo coelum 
+    <lb ed="#C"/>stellatum dirimus modo non modo solem talu?um modo vero minim?ie ut in
+    <lb ed="#C"/>luna plus vel minus lucr?: modo etiam penitus non lucru?; tum fa?
+    <lb ed="#C"/>equaliter haec semper imperfectum mani?ant qui non nobis equaliter se?
+    <lb ed="#C"/>appasiunt</unclear>
+            <!-- end editional text-->
+    
+    Et apostolus in plerisque dicta derogantium sibi secutus, aliter
+    <pb ed="#C" n="7"/>
+            <lb ed="#C"/>de se ipso quam sentiat <!--/95/--> esse non ueretur profiteri. Quale est illud:
+    Nos stulti 
+    <lb ed="#C"/>propter Christum, uos autem prudentes in Christo.
+    <!--left off with line breaks here -->
+    
+    Idem etiam apostolus Melchisedech "sine patre et matre et sine
+    genealogia" dicit, "nec initium dierum aut finem" habere, quia hoc
+    scilicet nostram notitiam latet quod scriptura non docet, non quod ita
+    rei ueritas sese habeat. Samuel quoque in phantasmate apparuisse
+    Pythonissae dicitur, non tam secundum ueritatem quam secundum rei
+    similitudinem, quae intuentibus falsam gignebat opinionem. Ut enim
+    beatus meminit Augustinus, phantasma illud Samuel appellatum est quia
+    similitudinem Samuelis exhibebat, sicut et aliquis se in somnis Romam
+    uidisse dicit quia similitudinem eius mente concepit.
+    
+    Poeticae quoque seu philosophicae scripturae pleraque ita iuxta
+    opinionem loquuntur, quasi in ueritate consistant, quae tamen a
+    ueritate penitus discrepare liquet. Unde est illud Ouidianum:
+    
+    Fertilior seges est alienis semper in agris,
+    Vicinumque pecus grandius uber habet.
+    
+    Boethius quoque in tertio Topicorum accidens et substantiam duo prima
+    rerum genera cum dixerit, ad opinionem potius quam ad ueritatem
+    aspexit. Quod uero philosophi quoque pleraque iuxta opinionem aliorum
+    magis quam iuxta suam proferebant sententiam, Tullius, lib. II De
+    Officiis, his uerbis manifeste profitetur:
+    
+    Iustitia cum sine prudentia satis habeat auctoritatis, prudentia
+    sine iustitia nihil ualet ad faciendam fidem. Quo enim quisque
+    uersutior et callidior, hoc inuidiosior et suspectior, detracta
+    opinione probitatis. Quamobrem intelligentiae iustitia coniuncta
+    quantum uolet habebit ad faciendam fidem uirium.  Iustitia sine
+    prudentia multum poterit; sine iustitia nil ualebit prudentia.
+    Sed ne quis sit admiratus cur, quod inter omnes philosophos
+    constet a meque ipso disputatum saepe sit, qui unam habet omnes
+    habere uirtutes, nunc ita seiungam, quasi possit quisque, quod
+    non idem prudens sit, iustus esse; alia est illa cum ueritas
+    ipsa limatur in disputatione, alia cum ad omnes accommodatur
+    oratio.  Quamobrem ut uulgus ita nos hoc loco loquimur, ut alios
+    fortes, alios uiros bonos, alios prudentes esse dicamus.
+    Popularibus enim uerbis est agendum et usitatis cum loquimur.
+    
+    Quotidiani denique sermonis usus est iuxta iudicium corporalium
+    sensuum pleraque dici aliter quam in re consistat. Cum enim nullus in
+    toto mundo uacuus omnino sit locus qui non uel aere uel aliquo corpore
+    repleatur, uacuam tamen prorsus arcam esse dicimus in qua nihil esse
+    uisu percipimus. Qui etiam iuxta quod aspectus oculorum iudicat, modo
+    caelum stellatum dicimus, modo non, et modo solem calidum, modo uero
+    minime, uel modo lunam plus uel minus lucere, modo etiam penitus non
+    lucere, cum tamen aequaliter haec semper in re permaneant quae non
+    nobis aequaliter semper apparent.
+    
+    Quid itaque mirum si a sanctis quoque patribus nonnulla ex opinione
+    magi quam ex ueritate nonnunquam prolata sint aut etiam scripta?
+    Diligenter et illud discutiendum est, cum de eodem diuersa dicuntur,
+    quid ad praecepti coartationem, quid ad indulgentiae remissionem uel
+    ad perfectionis exhortationem intendatur, ut secundum intentionum
+    diuersitatem aduersitatis quaeramus remedium. Si uero praeceptio est,
+    utrum generalis an particularis, id est ad omnes communiter an ad
+    aliquos specialiter directa. Distinguenda quoque tempora sunt et
+    dispensationum causae, quia saepe quod uno tempore est concessum alio
+    reperitur prohibitum; et quod ad rigorem saepius praecipitur ex
+    dispensatione nonnunquam temperatur. Haec autem in institutionibus
+    ecclesiasticorum decretorum uel canonum maxime distingui necesse
+    est. Facilis autem plerumque controuersiarum solutio reperietur si
+    eadem uerba in diuersis significationibus a diuersis auctoribus posita
+    defendere poterimus.
+    
+    His omnibus praedictis modis soluere controuersias in scriptis
+    sanctorum d ligens lector attentabit. Quod si forte adeo manifesta sit
+    controuersia ut nulla possit absolui ratione, conferendae sunt
+    auctoritates, et quae potioris est testimonii et maioris
+    confirmationis potissimum retinenda. Unde est illud Isidori ad /97/
+    Massionem episcopum:
+    
+    In fine autem epistolae hoc adiciendum putaui, ut quotienscumque
+    in gestis conciliorum discors sententia inuenitur, illius magis
+    teneatur sententia cuius antiquior aut potior extat auctoritas.
+    
+    Constat quippe et prophetas ipsos quandoque prophetiae gratia caruisse
+    et nonnulla ex usu prophetandi, cum se spiritum prophetiae habere
+    crederent, per spiritum suum falsa protulisse; et hoc eis ad
+    humilitatis custodiam permissum esse ut sic uidelicet uerius
+    cognoscerent quales per spiritum Dei et quales per suum existerent, et
+    se eum qui mentiri uel falli nescit ex dono habere cum haberent. Qui
+    etiam cum habetur, sicut non omnia uni confert dona ita nec de omnibus
+    mentem eius quem replet, illuminat sed modo hoc modo illud reuelat, et
+    cum unum aperit alterum occultat. Quod quidem beatus Gregorius in
+    prima super Ezechielem homelia manifestis declarat exemplis. Ipsum
+    etiam apostolorum principem, qui tot diuinae gratiae donis et
+    miraculis coruscabat, post illam quoque specialem a Domino promissam
+    sancti spiritus effusionem, qui eius discipulos omnem doceret
+    ueritatem, non in mediocrem lapsum errorem de circumcisionis adhuc et
+    quorundam antiquorum rituum obseruantia, cum a coapostolo suo Paulo
+    grauiter atque salubriter publice correctus esset, a perniciosa
+    simulatione desistere non puduit.
+    
+    Quid itaque mirum, cum ipsos etiam prophetas et apostolos ab errore
+    non pentus fuisse constet alienos, si in tam multiplici sanctorum
+    patrum scriptura nonnulla propter supra positam causam erronee prolata
+    seu scripta uideantur? Sed nec tamquam mendacii reos argui sanctos
+    conuenit, si nonnulla quandoque aliter quam se rei ueritas habeat
+    arbitrantes, non per duplicitatem sed per ignorantiam dicant; nec
+    praesumptioni uel peccato imputandum est quidquid ex caritate ad
+    aliquam aedificationem dicitur, cum apud Deum omnia discuti iuxta
+    intentionem constet, sicut scriptum est: /98/
+    
+    Si oculus tuus fuerit simplex, totum corpus tuum lucidum erit.
+    
+    Unde et illud est beati Augustini De Ecclesiastica Disciplina
+    tractantis:
+    
+    Habe, inquit, caritatem,et fac quicquid uis.
+    
+    Idem super epistolam Iohannis:
+    
+    Qui non habent caritatem, non sunt ex Deo. Quidquid uis, habe;
+    hoc solum non habeas, nihil tibi prodest. Alia si non habeas, hoc
+    habe, et implesti legem.
+    
+    Item:
+    
+    Semel ergo breue praeceptum tibi praecipitur: dilige, et quod uis
+    fac.
+    
+    Idem De Doctrina Christiana, libro primo:
+    
+    Quisquis, inquit, scripturas diuinas uel quamlibet earum partem
+    intellexisse sibi uidetur, ita ut eo intellectu non aedificet
+    istam geminam caritatem Dei et proximi, nondum intellexit.
+    Quisquis uero talem inde sententiam dixerit, ut huic aedificandae
+    caritati sit utilis, nec tamen hoc dixerit quod ille quem legit
+    eo loco sensisse probatur, non [in] perniciose fallitur, nec
+    omnino mentitur. Inest quippe in mentiente uoluntas falsa dicendi.
+    
+    Idem Contra Mendacium:
+    
+    Mendacium est falsa significatio uocis cum uoluntate fallendi.
+    
+    Idem in Enchiridion, cap. XXIII:
+    
+    Nemo sane mentiens iudicandus est qui dicit falsum quod putat
+    uerum, quia quantum in ipso est non fallit ipse sed fallitur. Non
+    itaque mendacii sed aliquando temeritatis arguendus est qui falsa
+    incautius credita pro ueris habet. Potius e contrario ille
+    mentitur qui dicit uerum quod putat falsum. Quantum enim ad
+    animum eius attinet, quia non quod sentit hoc dicit, non
+    uerum dicit, quamuis uerum inueniatur esse quod dicit; nec ullo
+    modo liber est a mendacio qui ore nesciens uerum loquitur, sciens
+    autem uoluntate mentitur.
+    
+    Item:
+    
+    Omnis qui mentitur contra id quod animo sentit loquitur uoluntate
+    fallendi.
+    
+    Idem super euangelia, lib. II:
+    
+    Iacob autem quod matre fecit auctore ut patrem fallere uideretur,
+    si diligenter attendatur, non est mendacium sed mysterium. Verax
+    enim significatio nullo modo mendacium recte dici potest.
+    
+    Mendacium quippe hoc loco spiritalis doctor non nisi peccatum accipit,
+    quod magis iuxta intentionem loquentis quam secundum qualitatem
+    locutionis Deus, qui cordis et renum probator est, pensat, non tam ea
+    quae fiunt quam quo animo fiunt attendens. A quo quidem immunis est
+    quisquis prout existimat sincere ac non fraudulenter neque per
+    duplicitatem loquitur, iuxta quod scriptum est:
+    
+    Qui ambulat simpliciter, ambulat confidenter.
+    
+    Alioquin et apostolus Paulus mendacii arguendus esset, qui
+    existimationem suam magis quam ueritatem rei secutus, scribens ad
+    Romanos ait:
+    
+    Hoc igitur cum consummauero et assignauero eis fructum hunc,
+    proficiscar per uos in Hispaniam.
+    
+    Aliud itaque est mentiri, aliud est errare loquentem et a ueritate in
+    uerbis per errorem non per malitiam recedere.
+    
+    Quod si forte sanctis etiam ipsis, ut diximus, accidere Deus
+    permittat, in his quidem quae nullum fidei detrimentum habent, nec id
+    etiam illis infructuose accidit quibus omnia cooperantur in bonum. Hoc
+    et ipsi ecclesiastici doctores diligenter attendentes et nonnulla in
+    suis operibus corrigenda esse credentes, posteris suis emendandi uel
+    non sequendi licentiam concesserunt, si qua illis retractare et
+    corrigere non licuit. Unde et supra nominatus doctor Augustinus
+    Retractationum libro I:
+    
+    Scriptum est, inquit, ex muitiloquio non effugies peccatum.
+    
+    Item:
+    
+    Apostolus Iacobus: Sit inquit omnis homo uelox ad audiendum,
+    tardus autem ad loquendum.
+    
+    Item:
+    
+    In multis enim offendimus omnes. Si quis in uerbo non offendit,
+    hic perfectus est uir. Ego mihi hanc perfectionem nec nunc arrogo
+    cum sim senex; quanto minus cum iuuenis coepi scribere.
+    
+    Idem in prologo libri III De Trinitate:
+    
+    Noli meis litteris quasi scripturis canonicis inseruire, sed in
+    illis quod non credebas cum inueneris, constanter crede. In istis
+    autem quod certum non habebas nisi certum intellexeris, noli
+    firme retinere.
+    
+    Idem ad Vincentium Victorem, lib. II:
+    
+    Negare non possum nec debeo, sicut in ipsis moribus ita multa
+    esse in tam multis opusculis meis quae possint iusto iudicio et
+    nulla temeritate culpari.
+    
+    Item in epistola ad Vincentium:
+    
+    Noli, frater, contra diuina tam clara testimonia colligere uelle
+    calumnias ex episcoporum scriptis, siue nostrorum siue Hilarii
+    siue Cypriani et Agrippini; quia hoc genus litterarum ab
+    auctoritate canonis distinguendum est. Non enim sic leguntur
+    tanquam ita ex eis testimonium proferatur, ut contra sentire non
+    liceat, sicubi forte aliter sapuerint quam ueritas postulat.
+    
+    Idem ad Fortunatianum:
+    
+    Neque quorumlibet disputationes quamuis catholicorum et
+    laudatorum hominum uelut scripturas canonicas habere debemus, ut
+    nobis non liceat, salua honorificentia quae illis debetur
+    hominibus, aliquid in eorum scriptis improbare atque respuere, si
+    forte inuenerimus quod aliter senserint quam ueritas
+    habet. Talis ego sum in scriptis aliorum quales uolo esse (inter)
+    lectores meos.
+    
+    Idem Contra Faustum, lib. I, cap. XI:
+    
+    Paulum aliquando errasse et proficiendo mutasse sententiam absit
+    ut dicamus. De his enim libris dici potest aliquid eos habere non
+    consonum qui non praecipiendi auctoritate sed proficiendi
+    exercitatione scribuntur a nobis.
+    
+    Item:
+    
+    Nos enim sumus quibus idem dicit apostolus: Et si quid aliter
+    sapitis, id quoque uobis Deus reuelabit. Quod genus litterarum
+    non cum credendi necessitate sed cum iudicandi libertate legendum
+    est. Cui tamen ne intercluderetur locus et adimeretur posteris ad
+    quaestiones difficiles tractandas atque uersandas linguae ac
+    stili saluberrimus labor, distincta est a posteriorum libris
+    excellentia canonicae auctoritatis ueteris et noui testamenti.
+    Ibi si quid uelut absurdum mouerit non licet dicere, auctor huius
+    libri non tenuit ueritatem; sed aut codex mendosus est aut
+    interpres errauit aut tu non intelligis. In opusculis autem
+    posteriorum quae libris innumerabilibus continentur, si qua
+    forte propterea putantur a uero dissentire, quia non ut dicta sunt
+    intelliguntur, tamen liberum ibi habet lector auditorue iudicium,
+    quod uel approbet quod placuerit uel improbet quod offenderit, et
+    ideo cuncta huiusmodi, nisi uel certa ratione uel illa canonica
+    auctoritate defendantur, ut demonstretur siue omnino ita esse
+    siue fieri potuisse quod uel disputatum ibi est uel narratum; si
+    cui displicuerit aut credere noluerit, non reprehenditur.
+    
+    Scripturas itaque canonicas ueteris et noui testamenti dicit
+    instrumenta, in quibus a ueritate aliquid dissentire haereticum est
+    profiteri. De quibus quidem scripturis idem in epistola quarta ad
+    Hieronymum ita meminit:
+    
+    In expositione quoque epistolae Pauli apostoli ad Galatas
+    inuenimus quoddam quod nos multum mordeat. Si enim ad scripturas
+    sanctas admissa fuerint uel officiosa mendacia, quid in eis
+    remanebit auctoritatis? Quae tandem de scripturis illis
+    sententia proferetur cuius pondere contentiosa falsitatis
+    obteretur improbitas?
+    
+    Idem ad eundem de eisdem scripturis:
+    
+    Mihi uidetur exitiosissime credi aliquod in sacris libris esse
+    mendacium, id est eos homines per quos nobis illa scriptura
+    ministrata est atque conscripta aliquid in suis libris fuisse
+    mentitos. Admisso enim semel in tantum auctoritatis fastigium
+    officioso mendacio aliquo, nulla illorum librorum particula
+    remanebit quae non, ut cuique uidebitur uel ad mores difficilis
+    uel ad fidem incredibilis, eadem perniciosissima ad mentis
+    auctoris consilium officiumque referatur.
+    
+    Beatus quoque Hieronymus cum inter ecclesiasticos doctores quosdam
+    caeteris anteferret, ita nobis legendos esse consuluit ut eos magis
+    diiudicemus quam sequamur. Unde est illud eius consilium ad Laetam De
+    Institutione Filiae:
+    
+    Cypriani, inquit, opuscula semper in manu teneat; Athanasii
+    opuscula et Hilarii librum inoffenso currat pede; illorum
+    tractatibus, illorum ingeniis delectetur in quorum libris pietas
+    fidei non uacillat; caeteros sic legat ut magis diiudicet quam
+    sequatur.
+    
+    Idem in psalmo LXXXVI, quasi auctoritatem his omnibus penitus
+    auferens, ait:
+    
+    Dominus narrabit in scriptura populorum et principum, horum qui
+    fuerunt in ea. Non dixit qui sunt in ea sed qui
+    fuerunt.  Populorum non sufficit sed etiam principum dicit, et
+    quorum principum? Qui fuerunt. Videte ergo quomodo scriptura
+    sancta sacramentis plena est. Legimus apostolum dicentem: An
+    experimentum eius quaeritis qui in me loquitur Christus? Quod
+    Paulus loquitur, Christus loquitur (qui enim uos recipit, me
+    recipit) in scripturis principum, in scriptura populorum, quae
+    est scriptura populis omnibus. Videte quid dicat: qui fuerunt,
+    non qui sunt; ut exceptis apostolis quodcumque aliud postea
+    dicatur, abscidatur, non habeas postea auctoritatem. Quamuis ergo
+    sanctus sit aliquis post apostolos, quamuis dissertus sit, non
+    habeas auctoritatem.
+    
+    Idem ad Vigilantium:
+    
+    Quisquis multorum tractatorum opuscula legit, debet esse sicut
+    probatus nummularius, ut si quis nummus signatus moneta publica,
+    reprobetur; in cordis marsupio recondatur. Non ratio ponderanda
+    est, sicut scriptum Hoc tamen de commentatoribus dictum adulter
+    est et figuram Caesaris non habet nec qui autem Christi faciem
+    claro praefert lumine enim praeiudicata doctoris opinio sed
+    doctrinae est: Omnia probate, quod bonum est tenete.
+    
+    Hoc tamen de commentatoribus dictum est, non de canonicis scripturis
+    quibus indubitatam fidem conuenit adhibere. Idem ad Paulinum de
+    sanctis doctoribus in ea Bonus homo de bono cordis thesauro:
+    
+    Taceo de caeteris uel defunctis uel adhuc uiuentibus, super quibus
+    in utramque partem post nos iudicabunt alii.
+    
+    His autem praelibatis places, ut instituimus, diuerse sanctorum patrum
+    dicta colligere, quae nostrae occurrerint memoriae aliquam ex
+    dissonantia quam habere uidentur quaestionem contrahentia, quae
+    teneros lectores ad maximum inquirendae ueritatis exercitium prouocent
+    et acutiores ex inquisitione reddant. Haec quippe prima sapientiae
+    clauis definitur assidua scilicet seu frequens interrogatio; ad quam
+    quidem toto desiderio arripiendam philosophus ille omnium
+    perspicacissimus Aristoteles in praedicamento Ad Aliquid studiosos
+    adhortatur dicens:
+    
+    Fortasse autem difficile est de huiusmodi rebus confidenter
+    declarare nisi saepe pertractata sins. Dubitare autem de singulis
+    non erit inutile.
+    
+    Dubitando quippe ad inquisitionem uenimus; inquirendo ueritatem
+    percipimus. Iuxta quod et Veritas ipsa:
+    
+    Quaerite, inquit, et inuenietis, pulsate et aperietur
+    uobis.
+    
+    Quae nos etiam proprio exemplo moraliter instruens, circa duodecimum
+    aetatis suae annum sedens et interrogans in medio doctorum inueniri
+    uoluit, primum discipuli nobis formam per interrogationem exhibens
+    quam magistri per praedicationem, cum sit tamen ipsa Dei plena ac
+    perfecta sapientia. Cum autem aliqua scripturarum inducuntur dicta,
+    tanto amplius lectorem excitant et ad inquirendam ueritatem alliciunt
+    quanto magis scripturae ipsius commendatur auctoritas. Unde placuit
+    nobis huic operi nostro, quod ex sanctorum dictis compilauimus in unum
+    uolumen congregatis, decretum illud Gelasii papae de authenticis
+    libris praescribere, quo uidelicet sciatur nihil nos hic ex apocryphis
+    induxisse. Excerpta etiam Retractationum beati Augustini adiunximus ex
+    quibus appareat nihil hic ex his quae ipse retractando correxerit,
+    positum esse.  /105/
+    
+    
+    EX DECRETIS GELASII PAPAE DE LIBRIS AUTHENTICIS
+    
+    Sancta Romana Ecclesia post illae ueteris uel noui Testamenti quas
+    regulariter suscipimus, etiam has suscipi non prohibet scripturas:
+    Sanctam synodum Nicaenam CCCXVIII Patrum mediante Maximo Constantino
+    Augusto, in qua Arrius haereticus condemnatus est. Sanctam synodum
+    Constantinopolitanam mediante Theodosio seniore Augusto, in qua
+    Macedonius haereticus debitam damnationem excepit. Sanctam synodum
+    Ephesinam, in qua Nestorius damnatus est cum consensu beatissimi
+    Caelestini Papae mediante Cyrillo Alexandrinae sedis antistite et
+    Archadio episcopo ab Italia destinato. Sanctam synodum Calcedonensem
+    mediante Martiano Augusto et Anatolino Constantinopolitano episcopo,
+    in qua Nestoriana et Euticiana haeresis simul cum Dioscoro eiusque
+    complicibus damnatae sunt. Sed et si qua sunt concilia a sanctis
+    Patribus hactenus instituta, praeter istorum quattuor auctoritatem et
+    custodienda et recipienda decreuimus.
+    
+    Iam nunc subiciendum de opusculis sanctorum Patrum quae in ecclesia
+    catholica recipiuntur. Opuscula beati Cypriani martyris et
+    Cartaginensis episcopi. Item opuscula beati Gregorii Nazanzeni
+    episcopi. Item opuscula beati Basilii Capadoceni episcopi. Item
+    opuscula beati Athanasii Alexandrini episcopi. Item opuscula beati
+    Hylarii Pictauiensis episcopi. Item opuscula beati Ieronimi
+    presbyteri. Item opuscula beati Iohannis Constantinopolitani
+    episcopi. Item opuscula beati Theophili Alexandrini episcopi. Item
+    opuscula beati Cyrilli Alexandrini episcopi. Item opuscula beati
+    Ambrosii Mediolanensis episcopi. Item opuscula beati Augustini
+    Ypponensis episcopi. Item opuscula beati Prosperi uiri
+    religiosissimi. Item epistola beati Leonis Papae ad Flauianum
+    Constantinopolitanum episcopum destinata, cuius textum quispiam si
+    usque ad unum iota disputauerit et non eam in omnibus uenerabiliter
+    receperit, anathema sit.
+    
+    Item opuscula atque tractatus omnium Patrum orthodoxorum, qui in nullo
+    a sanctae Romanae ecclesiae consortio deuiauerunt, nec ab eius fideli
+    praedicatione seiuncti sunt sed ipsius communionis per gratiam Dei
+    usque ad ultimum diem uitae suae fuere participes, legendos
+    decernimus.
+    
+    Item decretales epistolas, quas beatissimi Papae diuersis temporibus
+    ab urbe Roma pro diuersorum Patrum consolatione dederunt,
+    uenerabiliter suscipiendas.
+    
+    Item gesta sanctorum martyrum, quae multiplicibus tormentorum
+    cruciatibus mirabilibus confessionum triumphis irradiant, quis ita
+    esse catholicorum dubitet, et maiora eos in agonibus fuisse perpessos
+    nec suis uiribus sed Dei gratia et adiutorio uniuersa tolerasse? Sed
+    ideo secundum antiquam auctoritatem uel consuetudinem singulari
+    cautela in sancta Romana ecclesia non leguntur, quia et eorum qui
+    scripsere nomina penitus ignorantur, et ab infidelibus aut dictis
+    superflua aut minus apta quam rei ordo fuerit scripta esse putantur:
+    sicut cuiusdam Quirici et Iulittae, sicut Georgii aliorumque
+    huiusmodo passiones quae ab haereticis perhibentur conscriptae.
+    Propter quod, ut dictum est, ne uel leuis subsannandi oriretur
+    occasio, in sancta Romana ecclesia non leguntur. Nos tamen cum
+    praedicta ecclesia omnes martyres et eorum gloriosos agones, qui Deo
+    magis quam hominibus noti sunt, omni deuotione ueneremur.
+    
+    Item uitas Patrum, Pauli, Antonii, Hylarionis et omnium heremitarum,
+    quas tamen uir beatissimus scripsit Ieronimus, cum omni honore
+    suscipimus.
+    
+    Item actus beati Siluestri apostolicae sedis praesulis, licet eius qui
+    scripsit nomen ignoremus, a multis tamen in urbe Roma catholicis legi
+    cognouimus et pro antiquo usu multae hoc imitantur ecclesiae.
+    
+    Item scriptura de inuentione crucis dominicae et alia scriptura de
+    inuentione capitis beati Iohannis Baptistae nouellae quidem
+    reuelationes sunt et nonnulli eas catholici legunt. Sed cum haec ad
+    catholicorum manus aduenerint, beati Pauli apostoli praecedat
+    sententia: Omnia probate, quod bonum est tenete.
+    
+    Item Rufinus uir religiosissimus plurimos ecclesiastici operis edidit
+    libros, nonnullas autem scripturas interpretatus est; sed quoniam
+    beatissimus Ieronimus in aliquibus eum de arbitrii libertate notauit,
+    illa sentimus quae praedictum beatum Ieronimum sentire cognoscimus: et
+    non solum de Rufino sed etiam de uniuersis quos uir saepius memoratus
+    zelo Dei et fidei religione reprehendit.
+    
+    Item Origenis nonnulla opuscula, quae uir beatissimus Ieronimus non
+    repudiat, legenda suscipimus. Reliqua autem omnia cum auctore suo
+    dicimus esse renuenda.
+    
+    Item chronica Eusebii Caesariensis atque eiusdem historiae
+    ecclesiasticae libros, quamuis in primo narrationis suae libro
+    tepuerit et post in laudibus atque excusatione Origenis scismatici
+    unum conscripserit librum: propter rerum tamen singularem notitiam,
+    quae ad instructionem pertinet, usquequsque non dicimus renuendos.
+    
+    Item Orosium uirum eruditissimum collaudamus, quia ualde nobis
+    necessaria aduersus paganorum calumnias ordinauit, miraque breuitate
+    contexuit.
+    
+    Item uenerabilis uiri Sedulii paschale opus, quod heroicis descripsit
+    uersibus, insigni laude proferimus.
+    
+    Item Iuuenci nichilominus laboriosum opus non spernimus sed miramur.
+    
+    Caeterum quae ab haereticis conscripta uel praedicta sunt, nullatenus
+    recipit catholica et apostolica Romana ecclesia. E quibus pauca quae
+    ad memoriam uenerint et a catholicis uitanda sunt, credimus esse
+    subdenda.
+    
+    ITEM EIUSDEM DE LIBRIS APOCRYPHIS
+    
+    In primis Ariminensem synodum a Constantio Caesare Constantini filio
+    congregatam mediante Tauro praefecto, ex tunc et in aeternum
+    confitemur esse damnatam. Item itinerarium nomine Petri apostoli, quod
+    appellatur sancto Clementis lib. VIII, apocryphi. Actus nomine Andreae
+    apostoli, apocryphus. Actus nomine Thomae apostoli, apocryphi. Actus
+    nomine Petri apostoli, apocryphi. Actus nomine Philippi apostoli,
+    apocryphi. Euangelia Taddei nomine, apocrypha. Euangelia nomine
+    Barnabae apostoli, apocrypha. Euangelia Thomae apostoli, quibus
+    Manichaei utuntur, apocrypha. Euangelia nomine Bartholomei apostoli,
+    apocrypha.  Euangelia nomine Andreae apostoli, apocrypha. Euangelia
+    quae falsauit Lucianus, apocrypha. Euangelia quae falsauit Ycius,
+    apocrypha. Liber de infantia Saluatoris, apocryphus. Liber de
+    natiuitate Saluatoris et de sancta Maria uel de obstetrice Saluatoris,
+    apocryphus. Liber qui appellatur Pastoris, apocryphus. Libri omnes
+    quos fecit Leutius discipulus diaboli, apocryphi. Liber qui appellatur
+    Fundamentum, apocryphus. Liber qui appellatur Thesaurus,
+    apocryphus. Liber qui est de filiabus Adae uel Genesis,
+    apocryphus. Centimetrum de Christo Virgilianis compaginatum uersibus,
+    apocryphum. Liber qui appellatur Actus Teclae et Pauli,
+    apocryphus. Liber qui appellatur Nepotis, apocryphus. Liber
+    prouerbiorum ab haereticis conscriptus et sancti Sixti nomine
+    signatus, apocryphus. Reuelatio quae appellatur Pauli, apocrypha.
+    Reuelatio quae appellatur Thomae apostoli, apocrypha.  Reuelatio quae
+    appellatur Stephani, apocrypha. Liber qui appellatur Transitus sanctae
+    Mariae, apocryphus. Liber qui appellatur Paenitentia Adam,
+    apocryphus. Liber Diogiae nomine gigantis, qui post diluuium cum
+    dracone ab haereticis pugnasse perhibetur, apocryphus.  Liber qui
+    appellatur Testamentum Iob, apocryphus. Liber qui appellatur
+    Paenitentia Origenis, apocryphus. Liber qui appellatur Paenitentia
+    Cypriani, apocryphus. Liber qui appellatur Iamne et Mambre,
+    apocryphus. Liber qui appellatur Sors apostolorum, apocryphus. Liber
+    Lusan, apocryphus. Liber canonum apostolorum, apocryphus. Liber
+    Phisiologus ab haereticis conscriptus et beati Ambrosii nomine
+    praesignatus, apocryphus. Historia Eusebii Pamphili, apocrypha.
+    Opuscula Tertulliani siue Africani, apo crifa. Opuscula Postumiani et
+    Galli, apocrypha. Opuscula Montani et Priscillae et Maximillae,
+    apocrypha.  Omnia opuscula Fausti Manichaei, apocrypha. Opuscula
+    alterius Clementis Alexandrini, apocrypha. Opuscula Cassiani
+    presbyteri Galliarum, apocrypha. Opuscula Victorini Pictauiensis,
+    apocrypha.  Opuscula Fausti Pegiensis Galliarum, apocrypha. Opuscula
+    Frumentii, apocrypha. Epistola Abagari ad Ihesum et Ihesu ad Abagarum,
+    apocrypha. Passio Quirici et Iulittae, apocrypha. Passio Georgii,
+    apocrypha. Scripta quae appellantur Salomonis Contradictio, apocrypha.
+    Philacteria omnia, quae non ab angelo, ut illi confingunt sed magis a
+    daemone conscripta sunt, apocrypha. Haec et his similia, quae Simon
+    Magus, Nicholaus, Cherintus, Marcion, Basilides, Ebion, Paulus etiam
+    Samosatenus, Photinus et Bonosus qui simili errore defecerunt, /111/
+    Montanus quoque cum suis obscaenissimis sequacibus, Apollinaris,
+    Valentinus siue Manichaeus, Faustus, Sabellius, Arrius, Macedonius,
+    Eunomius, Nouatus, Sabbatius, Calistus, Donatus, Eustatius,
+    Iouinianus, Pelagius, Iulianus et Latiensis, Caelestinus,
+    Maximinianus, Priscillianus ab Hispania, Lampedius, Dioscorus,
+    Euticius, Petrus et alius Petrus, e quibus unus Alexandriam, alius
+    Antiochiam maculauit, Achatius Constantinopolitanus, cum consortibus
+    suis, nec non et omnes haereses, quae ipsi eorumque discipuli, siue
+    scismatici docuerunt uel conscripserunt, quorum nomina minime
+    retinemus non solum repudiata uerum etiam ab omni catholica Romana
+    ecclesia eliminata, atque cum suis auctoribus auctorumque sequacibus
+    sub anathematis indissolubili uinculo, in aeternum confitemur esse
+    damnata. <!--  /112/  /113/ -->
+    
+    
+    INCIPIUNT SENTENTIAE EX DIVINIS SCRIPTURIS
+    COLLECTAE QUAE CONTRARIE VIDENTUR. PRO QUA
+    QUIDEM CONTRARIETATE HAEC COMPILATIO SENTIARUM
+    "SIC ET NON" APPELLATUR
+           </p>
+  </div>
+      </body>
+   </text>
+</TEI>

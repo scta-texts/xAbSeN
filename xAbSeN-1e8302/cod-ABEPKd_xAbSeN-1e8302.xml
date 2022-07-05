@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 114</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 114</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e8302"><!-- xAbSeN-q114 -->
+            <head xml:id="xAbSeN-1e8302-Hd1e103">Quaestio 114</head>
+            <head xml:id="xAbSeN-1e8302-Hd1e106" type="question-title">  quod in baptismo iohannis peccata dimittebantur et non</head>
+    
+            <p xml:id="xAbSeN-1e8302-d1e109">
+               <ref xml:id="xAbSeN-1e8302-Rd1e111">augustinus quaestionum veteris et novae legis cap. xviii, secundae
+      partis</ref>: Baptismum Iohannis coeptum non cessauit sed adhibitum est ei
+      quod deerat. Iohannes enim tantum baptizauit, non spiritum sanctum
+      credentibus dedit, sicut et ipse dicit de saluatore: Ego quidem
+      baptizo uos in aqua in paenitentia, ipse autem uos baptizabit in
+      spiritu sancto, hoc est per me remissio peccatorum, non tamen datur
+      spiritus sanctus, ut purificati filii dicantur; hoc saluatori
+      reseruatum est, ut filii Dei non fierent nisi accepto a filio spiritu
+      sancto. Amplificatum ergo est baptismum Iohannis, non euacuatum.
+    </p>
+            <p xml:id="xAbSeN-1e8302-d1e115">
+               <ref xml:id="xAbSeN-1e8302-Rd1e117">ex sermone chrysostomi in decollatione sancti iohannis</ref>: Herodes,
+      inquit, tenuit Iohannem et alligauit eum. Qui uincula soluerat
+      peccatorum, peccatoris uinculis alligatur, ut uincta uenia locum
+      ueniae non relinquat.
+    </p>
+            <p xml:id="xAbSeN-1e8302-d1e121">
+               <ref xml:id="xAbSeN-1e8302-Rd1e123">ambrosius in epistola ad galatas</ref>: Noc solum uolo discere a uobis
+      etc. Quos, quia in adultero baptismate sub nomine baptismi Iohannis
+      fuerant non tincti sed sordidati, Paulus in trinitatis nomine
+      baptizari praecepit.
+    </p>
+            <p xml:id="xAbSeN-1e8302-d1e128">
+               <ref xml:id="xAbSeN-1e8302-Rd1e130">gregorius in xx homilia lib. i</ref>: Et uenit in omnem regionem Iordanis
+      praedicans baptismum pacnitentiae in remissionem peccatorum. Cunctis
+      legentibus liquet quia Iohannes baptismum paenitentiae non solum
+      praedicauit uerum etiam quibusdam dedit. Sed tamen baptismum suum in
+      remissionem peccatorum dare non potuit.  Remissio etenim peccatorum in
+      solo nobis baptismo Christi tribuitur.  Notandum itaque quod dicitur:
+      praedicans baptismum paenitentiae in remissionem peccatorum, quoniam
+      baptismum quod peccata solueret, quia dare non poterat, praedicabat,
+      ut sicut incarnatum uerbum patris praecurrebat uerbo praedicationis,
+      ita baptismum paenitentiae quo peccata soluuntur, praecurreret
+      suo baptismate, quo peccata solui non possunt; ut quia eius sermo
+      praecurrebat praesentiam redemptoris, ipsum quoque eius baptisma
+      praecedendo fieret umbra ueritatis.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

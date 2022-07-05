@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 45</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 45</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e3696"><!-- xAbSeN-q45 -->
+            <head xml:id="xAbSeN-1e3696-Hd1e103">Quaestio 45</head>
+            <head xml:id="xAbSeN-1e3696-Hd1e106" type="question-title"> quod deus per corporales imagines non sit repraesentandus
+      et contra</head>
+    
+            <p xml:id="xAbSeN-1e3696-d1e109">
+               <ref xml:id="xAbSeN-1e3696-Rd1e111">ex libro deuteronomii</ref>: Non habebis Deos alienos coram me, non facies
+      tibi sculptile, neque omnem similitudinem, quae est in caelo desuper,
+      et quae est in terra deorsum, neque eorum quae sunt in aquis sub
+      terra, non adorabis ea neque coles.
+    </p>
+            <p xml:id="xAbSeN-1e3696-d1e115">
+               <ref xml:id="xAbSeN-1e3696-Rd1e117">item ex eodem</ref>: Locutus est Dominus ad nos de medio ignis. Vocem
+      uerborum audisti et formam penitus non uidisti. Non uidisti aliquam
+      similitudinem in die, qua locutus est Dominus uobis in Horeb de medio
+      ignis, ne forte decepti faciatis uobis sculpturam aut imaginem; ne
+      forte oculis leuatis uideas solem et lunam et astra caeli, et errore
+      deceptus adores ea, et colas quae creauit Deus in ministerium cunctis
+      gentibus.
+    </p>
+            <p xml:id="xAbSeN-1e3696-d1e121">
+               <ref xml:id="xAbSeN-1e3696-Rd1e123">item</ref>: Et pronuntiabunt leuitae dicentque ad omnes uiros Israel excelsa
+      uoce: Maledictus homo, qui facit sculptile et conflatile,
+      abominationem Domini, opus manuum artificum, ponetque illud in
+      abscondito, et respondebit omnis populus et dicet Amen.
+    </p>
+            <p xml:id="xAbSeN-1e3696-d1e128">ORIGENES IN EXODO, HOMILIA VIII: Non facies tibi idolum, neque
+      omnem similitudinem et caetera. Si quis faciat speciem alicuius,
+      similitudinem facit. De idolis autem apostolus dicit quia nihil est
+      idolum in mundo. Idolum facit, qui facit quod non est. Quid est, quod
+      non est? Species quam non uidit oculus sed ipse sibi animus
+      fingit. Ut si quis in uno hominis habitu duas facies fingat, aut
+      humano pectori postremas partes equi aut piscis adiungat. Haec et
+      similia qui facit, facit quod non est, nec habet aliquid simile
+      sui. Non adorabis ea, neque coles. Potest quis interdum adorare
+      inuitus. Colere uero est toto his affectu et studio mancipari.
+    </p>
+            <p xml:id="xAbSeN-1e3696-d1e133">AUGUSTINUS SUPER PSALMUM CXIII, EO LOCO UBI SCRIPTUM EST "Nequando
+      dicent gentes, ubi est Deus eorum" ETC: Quia inuisibilem Deum colimus,
+      qui nullorum corporeis oculis, cordibus autem paucorum mundissimis
+      notus est, tanquam ideo possent dicere gentes: ubi est Deus eorum?
+      quia ipsi possent ostendere deos suos.
+    </p>
+            <p xml:id="xAbSeN-1e3696-d1e136">
+               <ref xml:id="xAbSeN-1e3696-Rd1e138">item</ref>: Multo honestius non habetis quod possitis ostendere, quam ut in
+      eo, quod de istis oculis a uobis ostenditur, uestri cordis caecitas
+      ostendatur.
+    </p>
+            <p xml:id="xAbSeN-1e3696-d1e142">
+               <ref xml:id="xAbSeN-1e3696-Rd1e144">item</ref>: Noli addere manus hominum ut illo metallo quod fecit uerus
+      Deus uelis facere falsum deum; immo falsum hominem, quem pro uero
+      uenereris Deo; quem quisquis pro uero homine in amicitiam reciperet,
+      insaniret. Ducit enim, et affectu quodam infirmo rapit infirma corda
+      mortalium formae similitudo, et membrorum imitata compago. Sed sicut
+      fabricata singula ostenderis, sic ostende officia singulorum, quorum
+      te effigies et humana uanitas trahit. Os enim habent, et non loquentur
+      etc. Iam ergo artifex melior est qui ea potuit membrorum motu atque
+      officio fabricare. Melior et tu, quamuis ea non feceris, quoniam quae
+      illa non possunt facis. Melior est bestia; ad hoc enim additum est:
+      Non clamabunt in faucibus suis.
+    </p>
+            <p xml:id="xAbSeN-1e3696-d1e150">
+               <ref xml:id="xAbSeN-1e3696-Rd1e152">item</ref>: Et quaedam bestiae sicut simiae manibus contrectant.
+    </p>
+            <p xml:id="xAbSeN-1e3696-d1e156">
+               <ref xml:id="xAbSeN-1e3696-Rd1e158">item</ref>: Lectorem uel auditorem fecit intentum, ut admoneri se inueniat
+      simulacris gentium non tantum homines sed etiam bestias se debere
+      praeponere; ut si pudet adorare bestiam, quam fecit Deus uidentem,
+      audientem etc., uiderent quam pudendum esset adorare mutum et carens
+      uitae sensusque simulacrum.
+    </p>
+            <p xml:id="xAbSeN-1e3696-d1e163">
+               <ref xml:id="xAbSeN-1e3696-Rd1e165">item</ref>: Quanto ergo melius mures atque serpentes, atque id genus
+      animantium colerent quod simulacris, si ita dicendum, quodammodo
+      iudicant, in quibus quia non sentinnt humanam uitam, non curant
+      humanam figuram? Itaque in eis plerumque nidificant, et nisi humanis
+      motibus deterreantur nulla sibi habitacula munitiora conquirunt. Mouet
+      ergo se homo, ut uiuentem bestiam a deo suo deterreat, et illum non se
+      mouentem quasi potentem colit, a quo meliorem deterruit. Deterruit
+      enim uidentem a caeco, audientem a surdo etc., immo deteriorem quam
+      mortuum. Mortuum quippe manifestum est aliquando uixisse. Quapropter
+      deum, qui nec uiuit, nec uixit, profecto et mortuns antecedit.
+    </p>
+            <p xml:id="xAbSeN-1e3696-d1e169">
+               <ref xml:id="xAbSeN-1e3696-Rd1e171">item</ref>: Quamquam, ut illi asserunt, species membrorum in signo aliquo
+      fabrefacta, cum adorari atque honorari a multitudine coeperi[n]t,
+      parit unoquoque sordidum simulacrum -- talis hominum affectus inuitat.
+    </p>
+            <p xml:id="xAbSeN-1e3696-d1e175">
+               <ref xml:id="xAbSeN-1e3696-Rd1e177">item</ref>: Itaque ne quisquam dicat, cum irrisa fuerint simulacra, non hoc
+      uisibile colo sed numen quod illic inhabitat inuisibiliter, ipsa
+      numina in alio psalmo sic damnat: Quoniam dii gentium daemonia. Dicit
+      etiam apostolus quao idolum non sit aliquid sed quod immolant gentes,
+      daemoniis immolant. Videntur autem sibi purgatioris esse religionis
+      qui dicunt, nec simulacrum nec daemonium colo sed effigiem corporalem
+      et eius rei signum intueor quam colere debeo. Itaque interpretantur
+      simulacra, ut alio simulacro dicant significari terram, unde
+      templum solent appellare Telluris; alio mare, sicut Neptuni simulacro;
+      alio aerem, sicut Iunonis; alio ignem, sicut Vulcani; alio luciferum,
+      sicut Veneris etc. De quibus rursum cum exagitari coeperint, quod
+      corpora colant, maxime terram, et mare, et aerem, et ignem, quorum
+      nobis usus in promptu est, audent respondere non se ipsa corpora
+      colere sed quae illis regendis praesident. Seruierunt ereaturae
+      potius quam creatori. Nam priore autem parte huius sententiae
+      simulacra damnauit; posteriore autem interpretationes simulacrorum.
+      Effigies enim a fabro factas appellando nominibus earum rerum quas
+      fabricauit Deus, transmutant ueritatem Dei in mendacium. Res autem
+      ipsas pro diis habendo et uenerando seruierunt creaturae. Quis autem
+      adorat aut orat intuens simulacrum, qui non sic afficitur ut ab eo se
+      audiri putet, ab eo sibi i praestari quod desiderat speretur?
+    </p>
+            <p xml:id="xAbSeN-1e3696-d1e183">
+               <ref xml:id="xAbSeN-1e3696-Rd1e185">item</ref>: Hoc enim quodammodo extorquet illa figura membrorum, ut animus
+      uiuens in sensibus corporeis magis arbitretur sentire corpus, quod suo
+      corpori simillimum uidet.
+    </p>
+            <p xml:id="xAbSeN-1e3696-d1e189">
+               <ref xml:id="xAbSeN-1e3696-Rd1e191">item</ref>: Sed nos pleraque instrumenta et uasa huiusmodi materia habemus
+      in usu celebrandorum sacrorum. Et sunt profecto etiam ipsa quid aliud
+      quam opera manuum hominum? Veruntamen nunquid os habent et non
+      loquentur?  oculos habent et non uidebunt? Numquid eis supplicamus,
+      quia per ea supplicamus Deo? Illa causa maxima est pietatis insaniae,
+      quod plus ualet in affectionibus miserorum uiuenti similis forma, quae
+      sibi efficit supplicari, quam quod eum manifestum est non esse
+      uiuentem, ut debeat a uiuente contemni. Plus enim ualent simulacra ad
+      curuandam infelicem animam quod oculos habent, aures, nares, manus et
+      pedes, quam ad corrigendum quod non loquentur, non uident etc. Ita
+      sequitur ut illud quoque fiat, similes illis fiant omnes qui faciunt
+      ea, et omnes qui confidunt in eis. Videant ergo isti apertis et
+      sentientibus oculis, et adorent clausis et mortuis mentibus nec
+      uidentia nec uiuentia simulacra.  Domus autem Israel sperauit in
+      Domino. Spes enim quae uidetur non est spes; quod enim uidet quis quid
+      sperat?
+    </p>
+            <p xml:id="xAbSeN-1e3696-d1e197">
+               <ref xml:id="xAbSeN-1e3696-Rd1e199">idem lib. iv de trinitate dei cap. xxxii, de varrone loquens ait</ref>:
+      Dicit etiam idem acutissimus auctor atque doctissimus quod hi soli
+      uideantur ei animaduert isse quid esset Deus, qui crediderunt eum esse
+      animam motu ac ratione mundum gubernantem. Ac per hoc, ac si nondum
+      tenebat quod ueritas habet, Deus enim uerus non anima sed animae
+      quoque est conditor: tamen unum Deum colendum fateretur atque
+      suaderet.
+    </p>
+            <p xml:id="xAbSeN-1e3696-d1e204">
+               <ref xml:id="xAbSeN-1e3696-Rd1e206">item</ref>: Dicet etiam antiquos Romanos plus centum annos et septuaginta
+      deos sine simulacro coluisse. Quodsi adhuc, inquit, mansisset, castius
+      dii obseruarentur. Cui sententiae suae testem adhibet inter caetera
+      etiam gentem Iudaeam. Nec dubitat eum locum ita concludere ut dicat,
+      qui primi populis simulacra deorum posuerunt, eos ciuitatibus suis et
+      metum depressisse et errorem addidisse, prudenter aestimans deos
+      facile posse in simulacrorum stoliditate contemni. Quod uero non ait
+      "errorem tradiderunt," sed "addiderunt," iam utique fuisse etiam sine
+      simulacris uult intelligi errorem Quapropter cum solos dicit
+      animaduertisse quid esset Deus, qui eum crederent animam mundum
+      gubernantem, castiusque existimat sine simulacris obseruare
+      religionem; quis non uideat quantum propinquauerit ueritate?
+    </p>
+            <p xml:id="xAbSeN-1e3696-d1e210">
+               <ref xml:id="xAbSeN-1e3696-Rd1e212">sanctus epiphanius in epistola ad iohannem constantinopolitanum, quam
+      beatus transtulit hieronymus</ref>: Audiui quosdam murmurare contra me,
+      quando simul pergebamus ad locum sanctum, qui uocatur Bethel, et
+      uenissem ad uillam, quae dicitur Anablatha, uidissemque ibi
+      praeteriens lucernam ardentem et interrogassem qui locus esset,
+      didicissemque esse ecclesiam et intrassem, ut orarem, inueni ibi uelum
+      pendens in imaginem quasi Christi uel sancti cuiusdam. Cum ergo
+      hoc uidissem in ecclesia Christi contra auctoritatem scripturarum
+      hominis pendere imaginem, scidi illud et magis dedi consilium
+      custodibus eiusdem loci, ut pauperem mortuum eo obuoluerent et
+      efferrent. Illique contra murmurantes dicerent, Si scindere uoluerat,
+      iustum erat, ut aliud daret uelum atque mutaret. Quod cum audirem, me
+      daturum esse pollicitus sum et missurum. Nunc autem misi quod potui
+      reperire, et precor ut iubeas presbytero ipsius loci suspendere uelum
+      a lectore quod a nobis missum est, et deinceps praecipere in ecclesia
+      Christi istius modi uela quae contra religionem nostram ueniunt non
+      suspendi.
+    </p>
+            <p xml:id="xAbSeN-1e3696-d1e218">
+               <ref xml:id="xAbSeN-1e3696-Rd1e220">ex secunda collatione abbatis isaac</ref>: Non est mirandum hominem
+      simplicissimum et de natura diuinitatis nunquam penitus eruditum
+      rusticitatis uitio et consuetudine erroris antiqui usque nunc detineri
+      et in errore pristino perdurare, dum secundum consuetudinem erroris
+      illius, quo daemones hominum figura compositos excolebant, nunc quoque
+      illam incomprehensibilem atque ineffabilem ueri numinis maiestatem
+      subscriptione alicuius existimant adorandam, nihil se tenere uel
+      habere credentes, si propositam non habuerint imaginem quandam in
+      supplicatione positi iugiter interpellent, eanque circumferant mente
+      ac prae oculis teneant semper affixam.
+    </p>
+            <p xml:id="xAbSeN-1e3696-d1e224">
+               <ref xml:id="xAbSeN-1e3696-Rd1e226">ex concilio eliberitano cap. i</ref>: Placuit picturas in ecclesiis fieri
+      non debere, ne quod colitur et adoratur in parietibus
+      depingatur.
+    </p>
+            <p xml:id="xAbSeN-1e3696-d1e230">
+               <ref xml:id="xAbSeN-1e3696-Rd1e232">gregorius secundino servo dei recluso</ref>: Aliud est enim picturam
+      adorare, aliud per picturae historiam quid sit adorandum addiscere.
+      Nam quod legentibus scripturam, hoc idiotis patet picturam
+      cernentibus, quia in ipsa uident quid sequi debeant, in ipsa legunt,
+      qui litteras nesciunt.
+    </p>
+            <p xml:id="xAbSeN-1e3696-d1e236">
+               <ref xml:id="xAbSeN-1e3696-Rd1e238">item</ref>: Frangi ergo non debuit, quod non ad adorandum in ecclesiis sed
+      ad instruendas solummodo mentes fuit nescientium collocatum.
+    </p>
+            <p xml:id="xAbSeN-1e3696-d1e243">
+               <ref xml:id="xAbSeN-1e3696-Rd1e245">actio iv synodi xiii</ref>: Ioannes apocrisarius /210 orientalium sedium
+      dixit, Significat sermo patris nostri Sophronii, quod melius sit
+      iurantem periurare quam conseruare sacramentum in confractione
+      sanctarum imaginum. Hoc autem dicimus, et quidam se sacramento
+      excusant.
+    </p>
+            <p xml:id="xAbSeN-1e3696-d1e249">
+               <ref xml:id="xAbSeN-1e3696-Rd1e251">leo nonus michaeli patriarchae</ref>: Recordamini illius nefandae synodi,
+      quam uoluerunt uocari VII nostri haeresiarchae, quorum conspiratione
+      ipsius domini nostri Iesu Christi et sanctorum reuerendae imagines aut
+      flammis traditae sunt aut aquis submersae, picturae uero de parietibus
+      deletae. Quibus quamuis restiterit Romanorum pontificum auctoritas,
+      prae cunctis tamen sanctissimi papae Nicolai, qui per legatos suos tam
+      pro sacris imaginibus quam pro depositione Ignatii et substitutione
+      Photii ecclesiam sanctae Sophiae clausit, donec sedis apostolicae
+      acquiesceret decretis.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

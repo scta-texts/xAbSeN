@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 78</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 78</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e5752"><!-- xAbSeN-q78 -->
+            <head xml:id="xAbSeN-1e5752-Hd1e103">Quaestio 78</head>
+            <head xml:id="xAbSeN-1e5752-Hd1e106" type="question-title"> quod christus servilem timorem habuisse videatur et non</head>
+    
+            <p xml:id="xAbSeN-1e5752-d1e109">
+               <ref xml:id="xAbSeN-1e5752-Rd1e111">augustinus de sermone domini in monte</ref>: Beati pauperes spiritu, id est
+      non inflati, dum se diuinae auctoritati subdit anima, timens post hanc
+      uitam ne pergat ad poenas, etiamsi forte in hac uita sibi beata
+      esse uideatur.
+    </p>
+            <p xml:id="xAbSeN-1e5752-d1e117">
+               <ref xml:id="xAbSeN-1e5752-Rd1e119">item</ref>: Videtur ergo mihi septiformis operatio spiritus sancti, de qua
+      Isaias loquitur his gradibus congruere. Sed interest ordinis; nam ibi
+      enumeratio ab excellentioribus rebus coepit, hic uero ab inferioribus.
+    </p>
+            <p xml:id="xAbSeN-1e5752-d1e123">
+               <ref xml:id="xAbSeN-1e5752-Rd1e125">item</ref>: Initium aapientiae timor domini est.
+    </p>
+            <p xml:id="xAbSeN-1e5752-d1e130">
+               <ref xml:id="xAbSeN-1e5752-Rd1e132">item</ref>: Timor Dei congruit humilibus, de quibus dicitur beati pauperes
+      spiritu, id est non superbi, quibus apostolus dicit, Noli altum sapere
+      sed time, id est noli extolli.
+    </p>
+            <p xml:id="xAbSeN-1e5752-d1e136">
+               <ref xml:id="xAbSeN-1e5752-Rd1e138">idem in libro de gratia et libero arbitrio</ref>: Ne arbitremur nos non
+      accepisse spiritum timoris domini, quod sine dubio magnum est Dei
+      donum, de quo dicit Isaias: Requieacet auper eum spiritus sapientiae
+      etc. Spiritus timoris domini, de quo dicit Christus: Eum timete, qui
+      habet potestatem aorpus et animam perdere in Gehennam.
+    </p>
+            <p xml:id="xAbSeN-1e5752-d1e142">
+               <ref xml:id="xAbSeN-1e5752-Rd1e144">hieronymus de mansionibus filiorum israel</ref>: Noli altum sapere sed
+      time. Deus enim superbis resistit, humilibus autem dat gratiam; et qui
+      se exaltat, uideat ne cadat.  Potentes potenter tormenta patientur.
+      Timor uirtutum custos est; securitas ad lapsum facilis.  Unde et in
+      psalmo, postguam saluator dixerat: Dominus regit me etc. iungit
+      timorem, qui custos est beatitudinis, et infert: Virga tua et baculus
+      tuus ipsa me consolata sunt. Et est sensus: dum tormenta formido,
+      seruaui gratiam quam acceperam.
+    </p>
+            <p xml:id="xAbSeN-1e5752-d1e148">
+               <ref xml:id="xAbSeN-1e5752-Rd1e150">gregorius in moralibus lib. i</ref>: Timens Deum et recedens a malo.
+      Scriptum est de illo: Et repleuit eum spiritus timoris domini.
+      Incarnatus enim dominus in semetipso omne quod nobis inspirauit,
+      ostendit ut quod praecepto diceret, exemplo suaderet.  Iuxta
+      humanitatis igitur naturam redemptor noster Deum timuit, quia ut
+      superbum hominem redimeret, mentem pro illo humilem sumpsit.
+    </p>
+            <p xml:id="xAbSeN-1e5752-d1e156">
+               <ref xml:id="xAbSeN-1e5752-Rd1e158">dominus in evangelio</ref>: Paenitentiam agite, appropinquauit enim regnum
+      caelorum.
+    </p>
+            <p xml:id="xAbSeN-1e5752-d1e162">
+               <ref xml:id="xAbSeN-1e5752-Rd1e164">item</ref>: Nolite timere eos qui corpus occidunt, animam autem non possunt
+      occidere. Sed timete eum qui potest animam et corpus perdere in
+      Gehennam.
+    </p>
+            <p xml:id="xAbSeN-1e5752-d1e169">
+               <ref xml:id="xAbSeN-1e5752-Rd1e171">chrysostomus super matthaeum</ref>: Magister, quod est mandatum magnum in
+      lege? Diliges dominum, Deum tuum, in toto corde tuo; diliges, inquit,
+      non timebis, dicente Iohanne: Perfecta dilectio foras mittit
+      timorem. Donec enim homo timet Deum, non eum diligit. Timere enim
+      seruorum est, diligere autem filiorum; timor sub necessitate est,
+      dilectio in libertate. Qui in timore seruit Deo, poenam quidem euadit,
+      mercedem autem iustitiae non habet, quia inuitus fecit bonum propter
+      timorem. Non uult ergo Deus ut timeatur ab hominibus quasi Deus sed ut
+      diligatur quasi pater, quia adoptionis spiritum donauit hominibus.
+      Quid est diligere Deum ex toto corde? Ut cor tuum non sit inclinatum
+      ad ullius rei dilectionem amplius quam Dei. Quomodo cognoscitur uxoris
+      plena dilectio? Uxor neminem debet sapientiorem putare quam uirum
+      suum, etsi sit alter sapientior; neminem fortiorem, etsi sit alter
+      fortior; neminem formosiorem, etsi sit alter formosior. Perfectum
+      odium et perfectus amor iudicio rerum cognoscitur. Ut puta, si
+      perfecte odias aliquem qualiacumque fuerint apud illum, omnia tibi
+      displicent, siue quid dicit, siue quid agit. Sic etsi perfecte aliquem
+      amas, quaecumque sunt apud eum tibi placent. Ergo et quaecumque mulier
+      uidens aliquem dixerit, Quam sapiens uir, utinam uir meus talis esset!
+      iam amor eius minus habet aliquid de perfecto amore. Sic et anima
+      Christiana, quae sponsa est Christi, ita debet diligere Deum ut nihil
+      sit in mundo quod amplius amet quam Deum. Pro quanta autem parte plus
+      aliquid amauerit, pro tanta parte minus habet Deum. Quid est in toto
+      corde, animam diligere Deum?  Certissimum animum habere in
+      ueritate, et firmum in fide. Alius est amor cordis, alius animae. Amor
+      cordis quodammodo carnalis est, ut etiam carnaliter Deum amemus.
+    </p>
+            <p xml:id="xAbSeN-1e5752-d1e177">
+               <ref xml:id="xAbSeN-1e5752-Rd1e179">item</ref>: si licet homini uxorem etc. Viro casto qualiscumque uxor bona
+      uidetur, quia perfecta caritas uitia non sentit.
+    </p>
+            <p xml:id="xAbSeN-1e5752-d1e183">
+               <ref xml:id="xAbSeN-1e5752-Rd1e185">beda super parabolas</ref>: Timor domini principium sapientiae. Duo sunt
+      timores Domini. Primus seruilis, qui principium scientiae uel
+      sapientiae uocatur. Secundus amicabilis, qui perfectionem sapientiae
+      comitatur. Timor seruilis principium sapientiae. Sed hunc timorem
+      perfecta dilectio foras mittit. Succedit autem timor domini sanctus,
+      permanens in saeculum saeculi, quem non excludit sed auget caritas.
+      Ipse est quo timet filius bonus ne uel in modico oculos amantissimi
+      patris offendat.  Uterque autem timor in futuro saeculo cessabit;
+      caritas uero nunquam excidet sed in plenitudine sapientiae perpetua
+      manebit; quod est cognoscere uerum et unum Deum, et quem misisti,
+      Iesum Christum.
+    </p>
+            <p xml:id="xAbSeN-1e5752-d1e189">
+               <ref xml:id="xAbSeN-1e5752-Rd1e191">augustinus super psalmum xviii</ref>: Timor domini sanctus permanena in
+      aaeculum aaeculi. Timor non ille sub lege poenalis temporalia bona
+      sibi subtrahi perhorrescens, quorum dilectione anima fornicatur sed
+      castus quo ecclesia sponsum suum quanto ardentius diligit tanto
+      diligentius offendere cauet, et ideo non foras mittit consummata
+      dilectio timorem hunc sed permanet in saeculum saeculi.
+    </p>
+            <p xml:id="xAbSeN-1e5752-d1e195">
+               <ref xml:id="xAbSeN-1e5752-Rd1e197">item</ref>: Timor domini non seruilis sed castus, gratis amans, non puniri
+      timens ab eo quem tremit sed separari ab eo quem diligit.  Iste est
+      timor castus, non quem consummata caritas foras mittit sed permanens
+      in saeculum saeculi. Hic est spiritus sanctus; id est, hunc donat
+      spiritus sanctus.
+    </p>
+            <p xml:id="xAbSeN-1e5752-d1e201">
+               <ref xml:id="xAbSeN-1e5752-Rd1e203">idem in libro quaestionum lxxxiii, cap. xxxv</ref>: Nulli dubium est non
+      aliam metuendi esse causam nisi ne id quod amamus aut adeptum
+      amittamus, aut non adipiscamur speratum.
+    </p>
+            <p xml:id="xAbSeN-1e5752-d1e210">
+               <ref xml:id="xAbSeN-1e5752-Rd1e212">item</ref>: Si cupit, quia nihil aliud est cupiditas nisi amor rerum
+      transeuntium, metuat necesse est ne aut amittat eas cum adeptus
+      fuerit, aut non adipiscatur.
+    </p>
+            <p xml:id="xAbSeN-1e5752-d1e216">
+               <ref xml:id="xAbSeN-1e5752-Rd1e218">cap. xxxvi</ref>: Nemo beatissimus metuit. Non est itaque uitium, non
+      metuere. At audacia uitium est. Non ergo quisquis non metuit audax
+      est, quamuis omnis qui audet non metuat.
+    </p>
+            <p xml:id="xAbSeN-1e5752-d1e222">
+               <ref xml:id="xAbSeN-1e5752-Rd1e224">item</ref>: Cum commune sit non metuere beatissimo et audaci sed beatissimus
+      id habeas per tranquillitatem animi, audax per temeritatem.
+    </p>
+            <p xml:id="xAbSeN-1e5752-d1e228">
+               <ref xml:id="xAbSeN-1e5752-Rd1e230">idem supra, cap. xxvi</ref>: Sapientia Dei hominem ad exemplum, quo recte
+      uiueremus, suscepit. Pertinet autem ad uitam rectam quae non sunt
+      metuenda non metuere. Mors autem metuenda non est. Oportuit ergo id
+      ipsum illius hominis quem Dei sapientia suscepit morte monstrari. Sunt
+      autem qui quamuis mortem ipsam non timeant, genus tamen aliquod mortis
+      horrescunt. Nihilo minus hoc cruce ostendendum fuit. Nihil erat inter
+      omnia genera mortis illo genere exsecrabilius et formidolosius.
+    </p>
+            <p xml:id="xAbSeN-1e5752-d1e234">
+               <ref xml:id="xAbSeN-1e5752-Rd1e236">cap. lxii</ref>: Omnis qui beate uult uiuere, si uiuit ut uult, beatus est.
+      Omnis autem homo beate uult uiuere. Omnis ergo homo qui uiuit ut uult,
+      beatus est. Ex quo conficitur neminem uiuere ut uult qui turpiter
+      uiuit, quia nemo beatus est qui turpiter uiuit. Ideo autem non uiuit
+      ut uult, quia, etsi multa secundum uoluntatem suam faciat,
+      consequuntur plura contra ipsius uoluntatem.
+    </p>
+            <p xml:id="xAbSeN-1e5752-d1e240">
+               <ref xml:id="xAbSeN-1e5752-Rd1e242">hieronymus super eundem psalmum</ref>: Timor domini sanctus permanet in
+      saeculum saeculi. Timor cum caritate; unde dixit: perfecta caritas
+      foras mittit timorem. Time non timore Gehennae aut timore poenae sed
+      timore sancto.  Sic timeas, ut quem amas non perdas per negligentiam.
+      /281/
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

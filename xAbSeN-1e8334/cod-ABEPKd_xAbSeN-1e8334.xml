@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 115</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 115</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e8334"><!-- xAbSeN-q115 -->
+            <head xml:id="xAbSeN-1e8334-Hd1e103">Quaestio 115</head>
+            <head xml:id="xAbSeN-1e8334-Hd1e106" type="question-title"> quod nihil adhuc definitum sit de origine animae et contra</head>
+    
+            <p xml:id="xAbSeN-1e8334-d1e109">
+               <ref xml:id="xAbSeN-1e8334-Rd1e111">augustinus retractationum lib. i</ref>: Item alio loco de animo dixi:
+      "Securior rediturus in caelum." Iturus autem quam rediturus dixissem
+      securius, propter eos qui putant animos humanos pro meritis peccatorum
+      suorum de caelo lapsos siue deiectos in corpora ista detrudi. Sed ita
+      dixi in caelum, tanquam dicerem ad Deum, qui eius est conditor, sicut
+      beatus Cyprianus non cunctatus est dicere, Nam cum corpus e terra,
+      spiritum possideamus e caelo. Et in libro Ecclesiastes scriptum est:
+      Spiritus reuertatur ad Deum, qui dedit illum. Quod utique sic
+      intelligendum est, ut non resistamus apostolo dicenti nondum natos
+      nihil egisse boni aut mali. Sine controuersia ergo quaedam originalis
+      regio beatitudinis animi Deus ipse est, qui eum non quidem de se ipso
+      genuit sed de nulla re alia condidit. Quod autem attinet ad eius
+      originem, utrum de illo uno sit qui primus creatus est, quando factus
+      est homo, an similiter fiant singuli singulis, nec tunc sciebam nec
+      adhuc scio.
+    </p>
+            <p xml:id="xAbSeN-1e8334-d1e115">
+               <ref xml:id="xAbSeN-1e8334-Rd1e117">gregorius secundino, servo dei incluso</ref>: De origine animae inter
+      sanctos patres requisitio non parua uersata est. Sed utrum ipsa ab
+      Adam descenderit an certe singulis detur, incertum remansit; eamque in
+      hac uita insolubilem fassi sunt esse quaestionem. Grauis enim est
+      quaestio, nec ualet ab homine comprehendi. Quia, si de Adam substantia
+      anima cum carne nascitur, cur non etiam cum carne moritur? Si uero cum
+      carne non nascitur, cur in ea carne quae de Adam prolata est
+      obligata peccatis tenetur? Sed cum hoc sit incertum, illud incertum
+      non est, quia nisi sacri baptismatis gratia fuerit renatus homo, omnis
+      anima originalis peccati uinculis est obstricta. Hinc enim scriptum
+      est: Non est mundus in conspectu eius nec unius dioi infans super
+      terrain. Hinc Dauid ait: In iniquitatibus conceptus sum.
+    </p>
+            <p xml:id="xAbSeN-1e8334-d1e123">
+               <ref xml:id="xAbSeN-1e8334-Rd1e125">ex libro sapientiae</ref>: Sortitus um animam bonam, et cum essem magis
+      bonus, ueni ad corpus incoinquinatum.
+    </p>
+            <p xml:id="xAbSeN-1e8334-d1e130">EX OBSEQUlO MORTUORUM, QUOD AD DEUM DICITUR: Ut animam ad te
+      reuertentem blande leniterque suscipias.
+    </p>
+            <p xml:id="xAbSeN-1e8334-d1e133">
+               <ref xml:id="xAbSeN-1e8334-Rd1e135">ex libro hieronymi ad augustinum, qui sic incipit, de reliquis quae ad
+      finem pertinent</ref>: An certe, quod ecclesiasticum est secundum eloquia
+      saluatoris: Pater meus usque modo operatur et ego operor; et illud
+      Isaiae: Qui format spiritum hominis in ipso; et in psalmis: Qui fingit
+      per singulos corda eorum, cotidie Deus fabricatur animas et coeditor
+      esse non cessat?
+    </p>
+            <p xml:id="xAbSeN-1e8334-d1e139">
+               <ref xml:id="xAbSeN-1e8334-Rd1e141">idem</ref>: Qui dicunt prius animas fuisse quam nati sins, et non corpori
+      secundum exemplum primi hominis a Deo cotidie fieri, anathema sint.
+    </p>
+            <p xml:id="xAbSeN-1e8334-d1e145">
+               <ref xml:id="xAbSeN-1e8334-Rd1e147">ambrosius libro ii de cain et abel</ref>: Inseritur hoc loco dogma de
+      incorruptione animae, quod in ipsa uera et beata uita sit, qua
+      unusquisque bene cum suis uiuit, multo purius ac beatius cum huius
+      carnis anima nostra deposuerit inuolucrum, et quasi quodam carcere
+      isto fuerit absolute corporeo, in ilium superiorem euolans locum unde
+      nostris infuse uisceribus cum passione corporis huius ingemuit.
+    </p>
+            <p xml:id="xAbSeN-1e8334-d1e151">
+               <ref xml:id="xAbSeN-1e8334-Rd1e153">gennadius de dogmate christiano</ref>: Animas hominum non esse ab initio
+      inter caeteras intellectuales naturas nec simul creates, sicut
+      Origenes fingit, neque cum corporibus per coitus seminari, sicut
+      Luciferiani, Cyrillus et aliqui Latinorum praesumptores affirmant,
+      quasi naturae consequentia seruiente; sed dicimus corpus tantum
+      per coniugii copulam seminari, Dei uero iudicio coagulari atque
+      compingi et formari, ac formato iam corpore animam creari et infundi,
+      ut uiuat homo ex anima constans et corpore; creationem uero animae
+      solum creatorem nosse.
+    </p>
+            <p xml:id="xAbSeN-1e8334-d1e159">
+               <ref xml:id="xAbSeN-1e8334-Rd1e161">item idem</ref>: Anima humana non cum carne moritur quia, ut dictum est, nec
+      cum carne seminatur sed, formato in uentre matris corpore, Dei iudicio
+      creari et infundi.
+    </p>
+            <p xml:id="xAbSeN-1e8334-d1e166">
+               <ref xml:id="xAbSeN-1e8334-Rd1e168">hilarius super psalmum cxxix</ref>: Deus hominem ad imaginem sui faciens,
+      eum ex humili natura caelestique composuit, anima uidelicet et
+      corpore; et prius quidem animam de uno illo et incomprehensibili nobis
+      uirtutis suae opere constituit. Non enim cum ad imaginem Dei hominem
+      fecit, tunc et corpus effecit. Genesis docet longe postea quam ad
+      imaginem Dei homo erat factus puluerem sumptum formatumque corpus;
+      dehinc rursum in animam uiuentem per inspirationem Dei factus, naturam
+      hanc, scilicet terrenam atque caelestem quodam inspirationis foedere
+      copulatam.
+    </p>
+            <p xml:id="xAbSeN-1e8334-d1e172">
+               <ref xml:id="xAbSeN-1e8334-Rd1e174">augustinus de fide, ad petrum</ref>: Credimus iam formato corpore animam
+      creari et infundi, ut uiuat in utero homo ex anima constans et
+      corpore.
+    </p>
+            <p xml:id="xAbSeN-1e8334-d1e178">
+               <ref xml:id="xAbSeN-1e8334-Rd1e180">idem in libro quaestionum veteris et novae legis, cap. xxiii</ref>:
+      Inhonestum puto animas generari, ut anima nascatur ex anima. Nam si
+      cum semine et anima existit ex anima, multae animae cotidie pereunt
+      cum fluxo semine.
+    </p>
+            <p xml:id="xAbSeN-1e8334-d1e184">
+               <ref xml:id="xAbSeN-1e8334-Rd1e186">item</ref>: Quod manifestius declarat Moyses dicens: Si quis mulierem in
+      utero habentem percusserit et abortauerit, si quidem formatum
+      fuerit, reddet animam pro anima; si uero informatum fuerit, pecunia
+      multetur, manifeste declarans non esse animam ante formam.
+    </p>
+            <p xml:id="xAbSeN-1e8334-d1e192">
+               <ref xml:id="xAbSeN-1e8334-Rd1e194">item</ref>: Consideremus facturam Adae. In Adam enim exemplum datum est, ut
+      intelligatur quia iam formatum corpus accepit animam. Nam poterat
+      animam limo terrae admiscere et sic formare corpus; sed primum
+      oportebat domum compaginari et sic habitatorem induci animam.
+    </p>
+            <p xml:id="xAbSeN-1e8334-d1e198">
+               <ref xml:id="xAbSeN-1e8334-Rd1e200">idem de quantitate animae</ref>: Anima est facta similis Deo, quia Deus
+      fecit eam immortalem indissolubilem, quae de nihilo facta est.
+    </p>
+            <p xml:id="xAbSeN-1e8334-d1e205">
+               <ref xml:id="xAbSeN-1e8334-Rd1e207">item</ref>: Sicut elementa pura non habent aliqua praeiacentia uel actu uel
+      natura ex quibus naturaliter componantur, ita nec anima.
+    </p>
+            <p xml:id="xAbSeN-1e8334-d1e211">
+               <ref xml:id="xAbSeN-1e8334-Rd1e213">idem in libro de origine animae</ref>: Anima non de Deo est sed ab ipso de
+      nihilo est creata.
+    </p>
+            <p xml:id="xAbSeN-1e8334-d1e217">
+               <ref xml:id="xAbSeN-1e8334-Rd1e219">item</ref>: Si autem de nulla re alia facta est, de nihilo facta est procul
+      dubio sed ab ipso.
+    </p>
+            <p xml:id="xAbSeN-1e8334-d1e223">
+               <ref xml:id="xAbSeN-1e8334-Rd1e225">idem ad hieronymum</ref>: Hoc certe sentis, quod singulas animas singulis
+      nascentibus modo Deus faciat.
+    </p>
+            <p xml:id="xAbSeN-1e8334-d1e229">
+               <ref xml:id="xAbSeN-1e8334-Rd1e231">idem ad optatum</ref>: Beatus Hieronymus, tam sanctum Victorinum martyrem
+      quam plerosque secutus Catholicos, se potius fieri quam propagari
+      animas credere significauit; illud etiam adiungens animarum propaginem
+      occidentalem se tenere solere.
+    </p>
+            <p xml:id="xAbSeN-1e8334-d1e235">
+               <ref xml:id="xAbSeN-1e8334-Rd1e237">item idem ad eundem</ref>: Qui animarum propaginem inconsiderata temeritate
+      defendunt.
+    </p>
+            <p xml:id="xAbSeN-1e8334-d1e242">
+               <ref xml:id="xAbSeN-1e8334-Rd1e244">item ad eundem</ref>: Quis haec ita intelligere malit: omnes animae eorum
+      qui exierunt ex femoribus etus, ut etiam sic possit intelligi secundum
+      corpus tantum exisse homines de femoribus patris?
+    </p>
+            <p xml:id="xAbSeN-1e8334-d1e248">
+               <ref xml:id="xAbSeN-1e8334-Rd1e250">idem rursus in epistola ad hieronymum, de eodem loquens</ref>: Optarem ut
+      haec sententia uera esset; si uera est, ut a te inuictissime
+      defendatur. Non enim quod dictum est: spiritus reuertitur ad
+      dominum qui dedit illum, istam sententiam confirmat quam uolumus esse
+      nostram.
+      
+      ITEM AD EUNDEM, DE EO QUOD DICITUR DEUS REQUIEVISSE SEPTIMO DIE AB
+      OMNI OPERA: Nouas, inquit, creando animas singulas, singulis suam
+      cuique nascenti, non aliquid facere dicitur quod ante non fecerat. Iam
+      enim fecerat hominem; hoc et nunc facit non instituendo quod non erat,
+      sed multiplicando quod erat.
+    </p>
+            <p xml:id="xAbSeN-1e8334-d1e256">
+               <ref xml:id="xAbSeN-1e8334-Rd1e258">idem super genesim ad litteram</ref>: Si quaeratur unde Christus animam
+      habuerit, malim dicere unde Adam quam de Adam.
+    </p>
+            <p xml:id="xAbSeN-1e8334-d1e262">
+               <ref xml:id="xAbSeN-1e8334-Rd1e264">item</ref>: Qui animat carnes in uteris matrum, ut oriantur.
+    </p>
+            <p xml:id="xAbSeN-1e8334-d1e268">
+               <ref xml:id="xAbSeN-1e8334-Rd1e270">remigius super psalterium</ref>: Domine, quando respicies? restitue animam
+      meam a malignitate eorum, a leonibus unicam meam: Unica uocatur anima
+      Christi, quae unice ex uirgine nata, unice conuersata, singulariter
+      resurrexit, singulariter caelos ascendit.
+    </p>
+            <p xml:id="xAbSeN-1e8334-d1e274">
+               <ref xml:id="xAbSeN-1e8334-Rd1e276">isidorus de summo bono, lib. i, cap. xii</ref>: Animam non esse priusquam
+      corpori misceatur sed tunc eam creari quando et corpus creatur cui
+      admisceri uidetur, credimus.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

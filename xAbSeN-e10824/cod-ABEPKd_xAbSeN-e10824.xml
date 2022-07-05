@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 138</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 138</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-e10824"><!-- xAbSeN-q138 -->
+            <head xml:id="xAbSeN-e10824-Hd1e103">Quaestio 138</head>
+            <head xml:id="xAbSeN-e10824-Hd1e106" type="question-title"> quod caritas semel habita nunquam amittatur et contra</head>
+    
+            <p xml:id="xAbSeN-e10824-d1e109">
+               <ref xml:id="xAbSeN-e10824-Rd1e111">salomon in proverbiis, cap. xviii</ref>: Omni tempore diligit qui
+      amicus est, et frater in angustiis comprobatur.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e117">
+               <ref xml:id="xAbSeN-e10824-Rd1e119">idem in cantico canticorum</ref>: Aquae multae non potuerunt extinguere
+      caritatem, nec flumina obruent illam.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e123">
+               <ref xml:id="xAbSeN-e10824-Rd1e125">paulus apostolus in epistola ad romanos</ref>: Quis nos separabit a caritate
+      Dei? tribulatio an angustia etc.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e130">IDEM IN EPISTOLA I AD CORINTHIOS. Caritas nunquam excidit, siue
+      prophetiae euacuabuntur, siue linguae cessabunt, siue scientia
+      destruetur.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e133">
+               <ref xml:id="xAbSeN-e10824-Rd1e135">hieronymus super epistolam ad corinthios</ref>: Caritas nunquam excidit. Hoc
+      est ipsa sola permanet in futuro aut certe quae uera est non finitur.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e139">
+               <ref xml:id="xAbSeN-e10824-Rd1e141">idem ad heliodorum</ref>: Caritas nunquam excidit; haec uiuit semper in
+      pectore.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e145">
+               <ref xml:id="xAbSeN-e10824-Rd1e147">idem ad rufinum</ref>: Amicitia quae desinere potest, uera nunquam fuit. In
+      amico non res quaeritur, sed uoluntas. Amicitia quae finiri potest,
+      nunquam uera fuit. Magis enim in insidiis nostrorum periclitamur quam
+      aliorum. Unde dicitur: Etenim homo paois meae, in quo etc. Nonnulli
+      altioribus gradibus dediti mutant mores, et quos conglutinatos
+      habebant, postquam ad culmen honoris perueninnt, amicos habere
+      despiciunt. Amicitia enim uera nulla ui excluditur et nullo tempore
+      aboletur, et ubicumque se uertit tempus, illa firma perdurat, quia
+      ueraciter diligit amicum. Quantaslibet ab eo patiatur iniurias,
+      nullatenus ab amore eius auertitur. Omni tempore diligit qui amicus
+      est, et frater in angustiis comprobatur.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e151">
+               <ref xml:id="xAbSeN-e10824-Rd1e153">augustinus super psalmum xxi</ref>: Amate, sed quid ametis uidete. Amor Dei,
+      amor proximi caritas dicitur; amor huius sseculi, cupiditas.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e157">
+               <ref xml:id="xAbSeN-e10824-Rd1e159">idem lib. iv de doctrina christiana</ref>: Caritatem uoco motum animi ad
+      fruendum Deo propter ipsum, et se atque proximo propter Deum.
+      Cupiditatem autem motum animi ad fruendum se et proximo et quolibet
+      corpore non propter Deum.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e166">
+               <ref xml:id="xAbSeN-e10824-Rd1e168">idem in lib. quaestionum lxxxiii, cap. xxxvii</ref>: Nihil aliud est amare
+      quam propter se ipsam rem aliquam appetere.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e172">
+               <ref xml:id="xAbSeN-e10824-Rd1e174">item</ref>: Amor rerum amandarum caritas uel dilectio melius dicitur.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e178">
+               <ref xml:id="xAbSeN-e10824-Rd1e180">item cap. xxxviii</ref>: Est autem cupiditas adipiscendi aut obtinendi
+      temporalia.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e184">
+               <ref xml:id="xAbSeN-e10824-Rd1e186">idem super illum psalmi versiculum</ref>: Voluntarie saorifioabo tibi etc.
+      Quid offeram nisi quod ait: Saorificium laudis honorifioubit me? Quare
+      uoluntarie? quia gratis amo quod laudo.  Gratuitum sit quod amatur et
+      quod laudatur. Quid est gratuitum? Ipse propter se, non propter aliud.
+      Si enim laudas Deum, ut det tibi aliquid, iam non gratis amas Deum.
+      Erubesce. Si te uxor tua propter diuitias amaret, et forte tibi
+      paupertas accideret, de adulterio cogitaret. Cum ergo te a coniuge
+      gratis amari uis, tu Deum propter aliud amabis? Quod praemium
+      accepturus es a Deo, o auare? Non tibi terram, sed se ipsum seruat qui
+      fecit caelum et terram. Voluntarie sacrificabo tibi. Noli ex
+      necessitate. Si enim propter aliud laudas, ex necessitate laudas. Si
+      adesset tibi quod amas, non laudares.  Laudas, uerbi gratia, ut tibi
+      det pecuniam; si haberes aliunde, numquid laudares? Si ergo propter
+      pecuniam laudas, non uoluntarie sacrificas sed ex necessitate, quia
+      praeter illum nescio quid aliud amas. Contemne omnia, ipsum attende,
+      et haec quae dedit propter dantem bona sunt. Nam dat prorsus ista
+      temporalia, et quibusdam bono eorum, quibusdam malo eorum, secundum
+      altam profunditatem iudiciorum suorum.  Ipsum autem gratis dilige,
+      quia melius ab eo non inuenis quod det quam se ipsum, aut si inuenis
+      melius, hoc pete. Voluntarie sacrificabo tibi, quia gratis. Quid est
+      gratis? Et confitebor nomini tuo, domine, quaniam bonum est. Nihil
+      aliud nisi quia bonum est. Numquid ait, quia das mihi aurum? /473/
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e190">
+               <ref xml:id="xAbSeN-e10824-Rd1e192">idem de moribus ecclesiae contra manichaeos</ref>: Bonorum summa nobis Deus
+      est, Deus nobis est summum bonum. Neque enim infra remanendum nobis
+      est neque ultra quaerendum. Alterum enim periculosum, alterum nullum.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e196">
+               <ref xml:id="xAbSeN-e10824-Rd1e198">item</ref>: Sicut scriptum est: quia propter te afficimur tota die. Caritas
+      non potuit signari expressius quam quod dictum est propter te.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e203">
+               <ref xml:id="xAbSeN-e10824-Rd1e205">idem de disciplina ecclesiastica tractans</ref>: Habe caritatem et fac
+      quidquid uis.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e209">
+               <ref xml:id="xAbSeN-e10824-Rd1e211">idem super epistolam iohannis, sermone ii</ref>: Dilectio sola discernit
+      inter filios Dei et filios diaboli.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e215">
+               <ref xml:id="xAbSeN-e10824-Rd1e217">item</ref>: Non discernuntur filii Dei a filiis diaboli nisi caritate.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e221">
+               <ref xml:id="xAbSeN-e10824-Rd1e223">item sermone vi</ref>: Habere baptismum et malus esse potest; habere
+      prophetiam et malus esse potest. Accipere sacramentum corporis et
+      sanguinis domini et malus esse potest. Habere autem caritatem et malus
+      esse non potest. Quid est ipse spiritus interpellat pro sanctis, nisi
+      ipsa caritas quae in te per spiritum facta est? Ideo dicit idem
+      apostolus: Caritas Dei diffusa est in cordibus nostris per spiritum
+      sanotum, qui datus est nobis.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e227">
+               <ref xml:id="xAbSeN-e10824-Rd1e229">tullius in secundo rhetoricae</ref>: Amicitia est uoluntas erga aliquem
+      bonarum rerum illius ipsius causa, quem diligit, cum eius pari
+      uoluntate.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e233">
+               <ref xml:id="xAbSeN-e10824-Rd1e235">idem in libro de amicitia</ref>: Praestat amicitia propinquitati quod ex
+      propinquitate beneuolentia tolli potest, ex amicitia non potest.
+      Sublata enim beneuolentia amicitiae nomen tollitur, propinquitatis
+      manet. Quanta autem uis amicitiae sit, ex hoc intelligi maxime potest,
+      quod ex societate infinita generis humani, quam conciliauit ipsa
+      natura, ita contracta est res et adducta in angustum, ut omnis caritas
+      aut inter duos aut inter paucos iungeretur. Est enim amicitia nihil
+      aliud nisi omnium diuinarum humanarumque rerum cum beneuolentia et
+      caritate consensio. Qua quidem haud scio an excepta sapientia
+      quidquam melius sit hominibus a diis immortalibus datum.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e242">
+               <ref xml:id="xAbSeN-e10824-Rd1e244">augustinus de trinitate titulo ix</ref>: Utrum autem etiam tunc uirtutes
+      quibus in hac mortalitate bene uiuitur, desinant esse cum ad aeterna
+      perduxerint nonnulla quaestio est. Quibusdam enim uisum est desituras,
+      et bonos animos sola beatos esse cognitione, hoc est contemplatione
+      naturae quae creauit omnes caeteras. Cui regenti esse subditum, si
+      iustitiae est, immortalis est omnino iustitia nec in illa esse
+      beatitudine desinet, sed talis ac tanta erit ut perfectior et maior
+      esse non possit. Fortassis et aliae tres uirtutes, prudentia sine ullo
+      iam periculo erroris, fortitudo sine molestia tolerandorum malorum,
+      temperantia sine repugnatione libidinum, erunt in illa felicitate, ut
+      prudentiae sit nullum bonum Deo praeponere uel aequare, fortitudinis
+      fortissime cohaerere, temperantiae nullo deflexu noxio delectari. Nunc
+      autem quod agit iustitia in subueniendo miseris, quod prudentia in
+      praecauendis insidiis, quod fortitudo in perferendis molestiis, quod
+      temperantia in coercendis delectationibus prauis non ibi erit ubi
+      nihil omnino mali erit. Ac per hoc ista uirtutum opera, sicut fides ad
+      quam referenda sunt, et aliam nunc facinnt trinitatem cum ea
+      praesentia tenemus, aliam tunc factura sunt cum ea non esse sed fuisse
+      in memoria reperiemus.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e248">
+               <ref xml:id="xAbSeN-e10824-Rd1e250">item lib. xiv</ref>: De tribus uirtutibus, prudentia, fortitudine,
+      temperantia, cum dicitur quod desinant, nonnihil dici uidetur.
+      Iustitia uero immortalis est.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e254">
+               <ref xml:id="xAbSeN-e10824-Rd1e256">item</ref>: Tullius in hac tantum uita omnes quattuor necessarias dixit esse
+      uirtutes, nullam uero earum cum ex hac uita migrabimus.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e260">
+               <ref xml:id="xAbSeN-e10824-Rd1e262">item</ref>: Regenti naturae esse subditum si iustitiae est, immortalis
+      est iustitia.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e268">
+               <ref xml:id="xAbSeN-e10824-Rd1e270">idem super genesim ad litteram</ref>: Istae quippe uirtutes quae nunc
+      propter transigendam istam peregrinationem ualde necessariae sunt, nec
+      erunt in illa uita propter quam adipiscendam necessariae sunt.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e274">
+               <ref xml:id="xAbSeN-e10824-Rd1e276">idem in psalmo xx</ref>: Erat tunioa, dicit euangelista, desuper texta. Quae
+      est ista tunica nisi caritas, quam nemo potest diuidere? Quae est ista
+      caritas nisi unitas? In ipsa sors mittitur; nemo illam diuidit.
+      Sacramenta sibi haeretici diuiserunt, caritatem non, et quia diuidere
+      non potuerunt, recesserunt. Illa autem integra manet; qui habet hanc,
+      securus est. Nemo illum mouet de ecclesia catholica; et si foris
+      incipiat habere, intus mittitur quomodo ramus oliuae a columba.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e281">
+               <ref xml:id="xAbSeN-e10824-Rd1e283">idem de fide et operibus</ref>: Fides gratiae christianae, id est ea quae
+      per dilectionem operatur, posita in fundamento neminem perire
+      permittit.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e287">
+               <ref xml:id="xAbSeN-e10824-Rd1e289">idem super illum locum evangelii iohannis</ref>: Haec mando uobis, ut
+      diligatis inuicem. Merito itaque magister bonus dilectionem sic saepe
+      commendat tamquam sola praecipienda sit, sine qua non possunt prodesse
+      caetera bona, et quae non potest haberi sine caeteris bonis quibus
+      homo efficitur bonus.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e293">
+               <ref xml:id="xAbSeN-e10824-Rd1e295">idem in sermone ii super epistolam iohannis</ref>: Ut sciatis quia unctio
+      quam accepimus ab eo permanet in nobis. Unctio inuisibilis caritas
+      illa est quae in quocumque fuerit, tanquam radix illi erit, quamuis
+      ardente sole arescere non potest.  Omne quod radicatum est, nutritur
+      calore solis, non arescit.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e299">
+               <ref xml:id="xAbSeN-e10824-Rd1e301">idem in sermone v</ref>: Si quis paratus sit mori etiam pro fratribus,
+      perfecta est in illo caritas. Sed numquid mox ut nascitur, iam prorsum
+      perfecta est? Ut perficiatur, nascitur. Cum fuerit nata, nutritur; cum
+      fuerit nutrita, roboratur. Cum fuerit roborata, perficitur. Cum
+      ad perfectionem uenerit, quid dicit? Mihi uiuere Christus est, et mori
+      luorum; optabam dissolui et esse cum Christo.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e307">ITEM SERMONE VIl: Semel ergo breue praeceptum tibi praecipitur;
+      dilige, et quod uis fac. Radix sit intus dilectionis. Non potest de
+      ista radice nisi bonum existere.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e310">
+               <ref xml:id="xAbSeN-e10824-Rd1e312">item sermone viii</ref>: Radicata est caritas, securus esto. Nihil mali
+      procedere potest. Amplius non potuit dilectio commendari quam ut
+      diceretur Deus: Deus dilectio est, et qui manet in dilectione, in Deo
+      manet, et Deus in eo. Habitas in Deo, ut continearis; habitat in te
+      Deus, ut contineat, ne cadas.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e317">
+               <ref xml:id="xAbSeN-e10824-Rd1e319">item sermone ix</ref>: Manet in te Deus ut te contineat; manes in Deo ne
+      cadas, quia de ipsa caritate apostolus dicit: Caritas numquam oadit.
+      Quomodo cadit quem continet Deus? In hoc perfecta est dilectio Dei in
+      nobis, ut fiduciam habeamus in die iudicii.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e323">
+               <ref xml:id="xAbSeN-e10824-Rd1e325">item</ref>: Carissimi, etsi cor nostrum non male senserit, fiduciam habemus
+      ad Deum. Cor non male senserit, quia germana dilectio est in nobis non
+      ficta, salutem fraternam quaerens, nullum emolumentum exspectans a
+      fratre nisi salutem ipsius.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e329">
+               <ref xml:id="xAbSeN-e10824-Rd1e331">item</ref>: Quisquis ergo habuerit caritatem fraternam, corque eius
+      interrogatum sub ius to examine non ei al iud responderit quam
+      germanam ibi esse radicem caritatis unde boni fructus existant, habet
+      fiduciam apud Deum.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e335">IDEM IN PSALMO CIII, SUPER ILLUM LOCUM, Qui tegis aquis superiora
+      eius: In omnibus scripturis supereminentissimum locum caritas obtinet.
+      Hanc nobiscum non communicant mali. Ipse est enim fons proprius
+      bonorum, proprius sanctorum, de quo dicitur, Nemo alienus communicet
+      tibi. Qui sunt alieni? Omnes qui audiunt, non noui uos.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e340">
+               <ref xml:id="xAbSeN-e10824-Rd1e342">idem ad iulianum comitem</ref>: Caritas quae deseri potest, nunquam uera
+      fuit.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e346">
+               <ref xml:id="xAbSeN-e10824-Rd1e348">gregorius moralium lib. x</ref>: Valida est ut mors dilectio, quia nimirum
+      mentem, quam semel ceperit, a dilectione mundi funditus occidit et
+      insensibilem contra terrores reddit.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e353">
+               <ref xml:id="xAbSeN-e10824-Rd1e355">ex levitico</ref>: Ignis in altari semper ardebit, quem nutriet sacerdos,
+      subiciens mane ligna per singulos dies.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e359">
+               <ref xml:id="xAbSeN-e10824-Rd1e361">item</ref>: Ignis est iste perpetnus qui nunquam deficiet de altari.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e365">
+               <ref xml:id="xAbSeN-e10824-Rd1e367">gregorius lib. xxv moralium</ref>: Altare Dei est cor nostrum, in quo
+      necesse est ad Deum caritatis flammam indesinenter accendere, cui, ne
+      in eo caritatis flamma deficiat, tam exempla praecedentium quam sacrae
+      scripturae testimonia congerere non desistat. Quia enim interna
+      nouitas nostra ipsa cotidie huius uitae conuersatione ueterascit,
+      ignis iste nutriendus est.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e371">
+               <ref xml:id="xAbSeN-e10824-Rd1e373">item</ref>: Ignis enim iste in altari domini, id est in corde nostro, citius
+      extinguitur nisi solerter adhibitis exemplis patrum et dominicis
+      testimoniis reparetur.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e377">
+               <ref xml:id="xAbSeN-e10824-Rd1e379">item</ref>: Quia uero eadem caritas in cordibus electorum inextinguibilis
+      manet, apte subditur: ignis est iste perpetuus, qui nunquam defiotet
+      de attari, quia etiam post hanc uitam eorum mentibus feruor caritatis
+      accrescit, ut Deus quo magis uisus fuerit, amplius diligatur.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e383">
+               <ref xml:id="xAbSeN-e10824-Rd1e385">ambrosius in apologia david</ref>: Paulus merito gloriatur in
+      infirmitatibus. Sciebat enim uirtutis abundantia plurimos etiam
+      sanctos sine remedio corruisse.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e390">
+               <ref xml:id="xAbSeN-e10824-Rd1e392">hieronymus in ezechiele</ref>: Non enim ex praeteritis sed ex praesentibus
+      iudicamur; cauendumque et semper timendum ne ueterem gloriam et
+      solidam firmitatem unius horae procella subuertat.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e398">
+               <ref xml:id="xAbSeN-e10824-Rd1e400">responsiones prosperi ad rufinum, cap. iii</ref>: A sanctitate ad
+      immunditiam, a iustitia ad iniquitatem, a fide ad impietatem plerosque
+      transire non dubium est, et tales ad praedestinationem filiorum Dei
+      cohaeredum Christi non pertinere certissimum est.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e404">ITEM, CAP. VIl: Ex regeneratis in Christo Iesu quosdam relicta fide et
+      piis moribus apostatare a Deo et impiam uitam in sua auersione finire
+      multis, quod dolendum est, probatur exemplis.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e407">
+               <ref xml:id="xAbSeN-e10824-Rd1e409">gregorius homilia xxxviii</ref>: Tres pater meus sorores habuit, quae
+      cunctae tres sacrae uirgines fuerunt. Quarum una Tharsilla, alia
+      Gordiana, alia Emiliana dicebatur. Uno omnes ardore conuersse, uno
+      eodemque tempore sacratae, sub districtione regulari degentes, in domo
+      propria socialem uitam ducebant, etc.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e413">
+               <ref xml:id="xAbSeN-e10824-Rd1e415">item</ref>: Gordiana autem oblita dominici timoris, oblita pudoris et
+      reuerentiae, oblita consecrationis, conductorem agrorum suorum
+      postmodum maritum duxit.  Ecce omnes tres uno prius ardore conuersae
+      sunt sed non in uno eodemque studio permanserunt. Quia, iuxta
+      dominicam uocem multi uocati, pauci uero electi. Haec ergo dixi, ne
+      quis in bono iam opere positus sibi uires boni operis tribust, ne quis
+      de propria actione confidat; quia, etsi iam nouit hodie qualis sit,
+      adhuc cras quid futurus sit nescit. Nemo ergo de suis iam operibus
+      securus gaudeat, quando adhuc in huius uitae incertitudine qui se
+      finis sequatur ignorat.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e419">
+               <ref xml:id="xAbSeN-e10824-Rd1e421">idem in pastorali, cap. iii</ref>: Dauid factus est in morte uiri crudeliter
+      rigidus, qui in appetitu feminae eneruiter fluxerat. Quem profecto ab
+      electorum numero culpa longius raperet, nisi hunc ad ueniam flagella
+      reuocassent.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e426">IDEM IN HOMILIA ILLIUS LECTIONIS EVANGELICAE, Si quis diligit me,
+      sermonem meum seruabit etc. Ipse namque spiritus amor est, unde et
+      Iohannes dicit: Deus caritas est. Qui ergo mente integra Deum
+      desiderat, profecto iam habet quem amat. Neque quisquam posset Deum
+      diligere, si eum quem diligit non haberet. Sed ecce si unusquisque
+      uestrum requiratur an diligat Deum, respondet: diligo. In ipso autem
+      lectionis exordio audistis quid ueritas dixerit: si quis diligit
+      etc. Probatio ergo dilectionis exhibitio est operis. Hinc in epistola
+      sua idem Iohannes dicit: Qui dicit, quia diligo Deum, et mandata eius
+      non custodit, mendam est. Vere enim diligimus si mandata eius
+      seruamus. Nam qui adhuc per illicita desideria defluit profecto Deum
+      non amat, quia ei in sua uoluntate contradicit.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e431">
+               <ref xml:id="xAbSeN-e10824-Rd1e433">item</ref>: Nunquam amor Dei est otiosus. Operatur etenim magna, si est; si
+      uero operari renuit, amor non est.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e437">
+               <ref xml:id="xAbSeN-e10824-Rd1e439">idem moralium xxix</ref>: Multos enim uidemus cotidie, quia iustitiae luce
+      resplendeant et tamen ad finem suum nequitiae obscuritate tenebrantur.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e443">
+               <ref xml:id="xAbSeN-e10824-Rd1e445">item</ref>: Quis discernat uel quis perduret in malo uel quis perseueret in
+      bono uel quis ab infimis ad summa conuertatur uel quis a summis
+      reuerberetur ad infima? Latro de patibulo transiuit ad regnum. Iudas
+      de apostolatus gloria est lapsus in tartarum.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e449">
+               <ref xml:id="xAbSeN-e10824-Rd1e451">deuteronomium, cap.  lxxxi</ref>: Non accipies personam nec munera, quia
+      munera excaecant oculos sapientum et mutant uerba iustorum.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e455">
+               <ref xml:id="xAbSeN-e10824-Rd1e457">augustinus super epistolam iohannis, sermone ii</ref>: Qui habent caritatem
+      nati sunt ex Deo, qui non habent non sunt ex Deo. Quicquid uis habe;
+      hoc solum non habeas, nihil tibi prodest; alia si non habeas, hoc
+      habe, et implesti legem. Qui enim diligit alterum, legem impleuit, ait
+      apostolus, et plenitudo legis caritas.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e462">IDEM IN LIB. DE CARITATE, SUPER HOC CAPUT, Omnis qui natus est ex Deo,
+      non facit pecoatum, quia semen eius in ipso manet, et non potest
+      peccare, quia ex Deo natus est: Fortasse secundum quoddam dixit
+      peccatum, non secundum omne, et tale peccatum est illud ut, si
+      quisquam hoc admiserit, confirmet caetera. Si non admiserit, soluat
+      caetera. Quod est hoc peccatum? facere contra mandatum. Quod est
+      mandatum? Mandatum nonum do uobis ut diligatis inuicem.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e467">
+               <ref xml:id="xAbSeN-e10824-Rd1e469">isidorus de summo bono, lib. ii, cap. iii</ref>: Dilectio Dei morti
+      comparatur dicente Salomone: Valida est ut mors dileotio; quia sicut
+      mors uiolenter separat animam a corpore, ita dilectio Dei segregat
+      hominem a mundano et carnali amore. Qui Dei praecepta contemnit, Deum
+      non diligit. Neque enim regem diligimus, si odio leges eius habemus.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e473">
+               <ref xml:id="xAbSeN-e10824-Rd1e475">ex evangelio</ref>: Ipse enim Pater amat uos, quia uos me amastis.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e479">
+               <ref xml:id="xAbSeN-e10824-Rd1e481">item</ref>: Tu scis, domine, quia amo te.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e485">
+               <ref xml:id="xAbSeN-e10824-Rd1e487">item</ref>: Si diligeretis me, gauderetis utique quia uado ad Patrem.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e491">
+               <ref xml:id="xAbSeN-e10824-Rd1e493">augustinus super iohannem</ref>: Si me quaeritis, sinite hos abire, ut
+      impleretur sermo quem dimit, quia quos dedisti mihi, non perdidi ex
+      eis quemquam. Cur ergo, si tunc morerentur, perderet eos nisi quia
+      nondum sic in eum credebant quomodo credunt quicumque non pereunt?
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e498">
+               <ref xml:id="xAbSeN-e10824-Rd1e500">idem quaestionum veteris et novae legis cap. lxxiii</ref>: Etiam Maria,
+      per quam mysterium gestum est incarnationis, in morte domini
+      dubitauit, ita ut in resurrectione domini firmaretur. Omnes enim in
+      morte domini dubitauerunt; et quia omnis ambiguitas resurrectione
+      domini recessura erat, pertransire dixit gladium.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e504">
+               <ref xml:id="xAbSeN-e10824-Rd1e506">idem in libro de correptione et gratia</ref>: Accepi enim fidem quae per
+      dilectionem operatur, sed in illa usque in finem perseuerantiam non
+      accepi.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e510">
+               <ref xml:id="xAbSeN-e10824-Rd1e512">item</ref>: Fides quae per dilectionem operatur profecto aut omnino non
+      deficit aut, si qui sunt quorum deficit, reparatur antequam uita ista
+      finiatur, et deleta quae intercurrerat iniquitate, usque in
+      finem perseuerantia deputatur. Qui uero perseueraturi non sunt, procul
+      dubio nec illo tempore quo bene pieque uixerunt, in istorum numero
+      computandi sunt.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e518">
+               <ref xml:id="xAbSeN-e10824-Rd1e520">item</ref>: Hic si a me quaeritur cur eis Deus perseuerantiam non dederit,
+      qui eam qua Christiane uiuerent dilectionem dedit, me ignorare
+      respondeo.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e524">
+               <ref xml:id="xAbSeN-e10824-Rd1e526">item</ref>: Mirandum est quidem multumque mirandum quod filiis suis
+      quibusdam Deus, quos regenerauit in Christo, quibus fidem, spem,
+      dilectionem dedit, non dat perseuerantiam, cum filiis alienis scelerum
+      tantum dimittat atque impertita gratia faciat filios suos.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e530">
+               <ref xml:id="xAbSeN-e10824-Rd1e532">idem in eodem</ref>: Credendum est quosdam de filiis perditionis non accepto
+      dono perseuerandi usque in finem uitae, in fide quae per dilectionem
+      operatur incipere uiuere, et aliquando fideliter ac iuste uiuere, et
+      postea cadere, neque de hac uita priusquam hoc eis contingat auferri.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e537">
+               <ref xml:id="xAbSeN-e10824-Rd1e539">item</ref>: Iustus si a iustitia sua recesserit, et defunctus in impietate
+      sua fuerit, in poenas ibit, nec ei sua praeterita iustitia proderit.
+      Si autem tunc mortuns esset quando iustus erat, tunc requiem
+      inuenisset.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e543">
+               <ref xml:id="xAbSeN-e10824-Rd1e545">idem in eodem</ref>: Fecit Deus hominem rectum ab initio humanae creaturae.
+      Qui ex rectitudine, in qua Deus eum primitus fecit, sua mala uoluntate
+      decidens prauus effectus est.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e549">
+               <ref xml:id="xAbSeN-e10824-Rd1e551">item</ref>: Si autem iam regeneratus et iustificatus in malam uitam sua
+      uoluntate relabitur, certe iste non potest dicere, non accepi; quod
+      acceptam gratiam Dei suo in malum libero amisit arbitrio.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e555">
+               <ref xml:id="xAbSeN-e10824-Rd1e557">item</ref>: An adhuc et iste nolens corripi potest dicere, quid ego feci,
+      qui non accepi? quem constat accepisse, et sua culpa, quod acceperat,
+      amisisse? Possum, inquit, possum omnino, quando me arguit quod ex bona
+      uita in mala mea uoluntate lapsus sum, dicere adhuc, Quid ego
+      feci, qui non accept? Accepi enim fidem quae per dilectionem operatur,
+      sed in illa usque in finem perseuerantiam non accept.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e563">
+               <ref xml:id="xAbSeN-e10824-Rd1e565">item</ref>: Dicit apostolus his qui seoundum propositum uocati sunt.
+      Propositum autem non suum, sed Dei de quo alibi dicit, ut secundum
+      electionem propositum Dei maneret. Horum fides quae per dilectionem
+      operatur, profecto aut omnino non deficit, aut, si qui sunt quorum
+      deficit, reparatur antequam uita ista finiatur, et delete quae
+      intercurrerat iniquitate, usque in finem perseuerantia deputatur. Qui
+      uero perseueraturi non sunt ac sic a fide christiana et conuersatione
+      lapsuri sunt ut tales eos huius uitae finis inueniat, procul dubio nec
+      illo tempore quo bene pieque uiuunt, in istorum numero computandi
+      sunt; et tamen quis eos neget electos, cum credunt et baptizantur et
+      secundum Deum uiuunt? Plane dicuntur electi a nescientibus quid futuri
+      sins, non ab illo qui eos nouit non habere perseuerantiam, quae ad
+      beatam uitam perducit electos.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e569">
+               <ref xml:id="xAbSeN-e10824-Rd1e571">item</ref>: Ex nobis exierunt, sed non erant ex nobis. Filiorum Dei uox est:
+      Iohannes loquitur, Quod si fuissent ex nobis, permansissent utique
+      nobisoum.  Quid aliud dicunt nisi, non erant filii, etiam quando erant
+      in professione et nomine filiorum, non quia iustitiam simulauerunt,
+      sed quia in ea non permanserunt. Neque enim ait, nam si fuissent ex
+      nobis, ueram non fictam iustitiam tenuissent utique nobiscum, sed
+      permansissent utique nobisoum. In bono illos uolebat procul dubio
+      permanere. Erant itaque in bono, sed in eo non permanserunt.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e576">
+               <ref xml:id="xAbSeN-e10824-Rd1e578">idem de civitate dei</ref>: Septenarius pro uniuerso saepe ponitur, sicuti
+      est: septies cadit iustus et resurgit, id est quotienscumque
+      ceciderit, non peribit; quod non de iniquitatibus sed de
+      tribulationibus ad humilitatem perducentibus intelligi uoluit.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e584">
+               <ref xml:id="xAbSeN-e10824-Rd1e586">idem in homilia xi</ref>: Princeps omnium uitiorum, dum uidit Adam ex limo
+      terrae ad imaginem Dei formatum, pudicitia armatum, temperantia
+      compositum, caritate splendidum, inuidus hoc hominem terrenum
+      accepisse, quod ipse, dum esset angelus, per superbiam perdidisset,
+      primos parentes illis donis ac tantis bonis exspoliauit pariter ac
+      peremit. Nam cum homini abstulisset fidem, pudicitiam, continentiam,
+      suo dominio subiugauit.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e590">
+               <ref xml:id="xAbSeN-e10824-Rd1e592">item</ref>: Amissa temperantia intemperans effectus est; perdita caritate
+      malus inuentus est.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e596">
+               <ref xml:id="xAbSeN-e10824-Rd1e598">idem in libro de fide ad petrum, cum de spiritibus humanis loqueretur,
+      ait</ref>: Cum ipsi in corporibus sint, non particulatim sunt; sed sicut in
+      totis corporibus toti, sic in eorumdem corporum partibus toti sunt.
+      Tamen cogitationum uarietas diuersitatem in eis temporalis mutationis
+      ostendit, dum modo aliquid nesciunt, modo sciunt, modo uolunt, modo
+      nolunt, modo sapiunt, modo desipiunt, modo iniqui ex iustis, modo
+      iusti sunt ex iniquis, modo pietatis illustrantur lumine, modo
+      deprauantur tenebroso impietatis errore.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e602">
+               <ref xml:id="xAbSeN-e10824-Rd1e604">hieronymus ad rusticum</ref>: lustitia iusti non liberabit eum in qucounque
+      die peccauerit; et iniquitas iniqui non nocebit ei quaecumque die
+      conuersus fuerit.  Unumquemque iudicat sicut inuenerit, nec praeterita
+      considerat sed praesentia, si tantum crimina uetera nouella
+      conuersione mutentur.
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e608">
+               <ref xml:id="xAbSeN-e10824-Rd1e610">gregorius in omeliis de angelis</ref>: Per prophetam dominus dicit quia
+      quacumque hora iustus peccauerit, omnes iustitiae eius in obliuione
+      erunt coram me. Iustus es, iram pertimesce ne corruas.  /484/
+    </p>
+            <p xml:id="xAbSeN-e10824-d1e615">
+               <ref xml:id="xAbSeN-e10824-Rd1e617">idem moralium lib. viii</ref>: Homo conditus, in eo quod ab ingenita standi
+      soliditate uoluntatis pedem ad culpam mouit, a dilectione conditoris
+      in semetipso protinus cecidit.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

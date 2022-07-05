@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 41</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 41</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e3367"><!-- xAbSeN-q41 -->
+            <head xml:id="xAbSeN-1e3367-Hd1e103">Quaestio 41</head>
+            <head xml:id="xAbSeN-1e3367-Hd1e106" type="question-title"> quod deus ipse sit qui antiquis patribus apparebat et non</head>
+    
+            <p xml:id="xAbSeN-1e3367-d1e109">
+               <ref xml:id="xAbSeN-1e3367-Rd1e111">ecclesiastica historia cap. i</ref>: Multis antea astitisse ostenditur sed
+      euidentius et familiarius Abrahae atque eius familiae, quantum fas
+      erat, Deum hominibus innotuisse describitur, quia apparuit Deus
+      Abrahae tanquam communis aliquis homo sedenti ad ilicem Mambre. At
+      ille exsurgens cum hominem uideret, adorauit Deum et ueneratur ut
+      Deum. Sed et propriae uocis professione praesentiam se testatur non
+      ignorare diuinam dicens: Dominator, Domine etc. Quae utique
+      omnia non ad patrem sed ad filium referenda posterioris in carne ratio
+      dispensationis plenius expleta designat. Item propheta: Misit uerbum
+      suum etc. Eundemque cum apparuisset Iacob Deum esse scripture designat
+      dicens: Ex Israel erit nomen tuum, quia inualuisti cum Deo. Et paulo
+      post dicit: Vidi Pominum facie ad faciem etc. Neque enim fas est de
+      aliquo angelorum uel caelestium uirtutum ista sentire. Nullum enim
+      eorum, si quando mortalibus ex caelesti praecipiuntur adesse mandato,
+      Dominum uel Deum diuinus sermo commemorat. Hic etiam Iesu successori
+      Moysi cum adstitisset percunctanti quis esset, responsis
+      euidentissimis assignauit dicens: princeps militiae uirtutum Domini
+      ego sum. Cunque his auditis adoraret famulus, ut decebat, solue,
+      innuit ad eum, corrigiam calciamenti etc. In quo consideranda est
+      praeceptorum similitudo, quondam non erat hic alius ab qui dixerat ad
+      Moysen de rubo: Ne appropies huc, solue calciamenta etc. Et addidit
+      dicens: Ego sum Deus patrum tuorum etc. Claruit ergo ex his omnibus
+      quod uerbum Dei et Deus designatus est.
+    </p>
+            <p xml:id="xAbSeN-1e3367-d1e117">
+               <ref xml:id="xAbSeN-1e3367-Rd1e119">hieronymus ad marcellinum et anasichiam</ref>: Sempiternus Deus erat qui
+      Adae in paradiso uisus est et cum Iacob locutus est.
+    </p>
+            <p xml:id="xAbSeN-1e3367-d1e123">
+               <ref xml:id="xAbSeN-1e3367-Rd1e125">idem ad damasum</ref>: Iuxta quod et ipsum Dominum et angelos in humanas
+      uidimus se mutasse formas ut metus uidentibus demeretur.
+    </p>
+            <p xml:id="xAbSeN-1e3367-d1e130">EX EPISTOLA BEATI HILARII AD DlVERSAS PROVINCIAS DESTINATA. QUAE SIC
+      INCIPIT "DILECTISSIMIS ET BEATISSIMIS FRATRIBUS": Si quis cum Iacob
+      non filium quasi hominem colluctatum sed Deum innascibilem uel patrem
+      eius dicat, anathema sit.
+    </p>
+            <p xml:id="xAbSeN-1e3367-d1e133">
+               <ref xml:id="xAbSeN-1e3367-Rd1e135">idem in xii de trinitate</ref>: Hinc etiam saepe naufragium est quia
+      unigenitus Deus sub prophetica auctoritate creatura esse defenditur,
+      quia ex persona sapientiae dictum est: Dominus creauit me initium
+      uiarum suarum.
+    </p>
+            <p xml:id="xAbSeN-1e3367-d1e139">
+               <ref xml:id="xAbSeN-1e3367-Rd1e141">item</ref>: Videamus itaque in quas Dei uias et in quae opera a saeculis
+      creata sit nata ante saecula ex Deo sapientia. Vocem Domini
+      deambulantis in paradiso Adam audiuit. Putasne deambulantis
+      incessum, nisi in specie assumptae creationis auditum, ut in aliqua
+      creatione consisteret, qui inambulando fuerat auditus?
+    </p>
+            <p xml:id="xAbSeN-1e3367-d1e147">
+               <ref xml:id="xAbSeN-1e3367-Rd1e149">item</ref>: Angelus ad Agar loquitur, et utique idem Deus est.  Numquid
+      speciei eiusdem est cum angelus uidetur, cuius est in ea natura qua
+      Deus est? Sed quid de angelo dicam? Homo ad Abraham uenit.  Num quid
+      secundum hominem in creationis istius habitu Christus talis consistit,
+      qualis et Deus est?  Sed et homo loquitur, et corpore assistit, et
+      cibo alitur, uerumtamen Deus adoratur. Certe qui ante angelus nunc
+      etiam homo est, nec naturalem hanc esse Dei speciem diuersitas ipsius
+      assumptae creationis pateretur intelligi. Adest autem ad Iacob etiam
+      usque ad luctae complexum inhabitu humano, et manum conserit, et
+      membris nititur, lateribus inflectitur, et in omni motu nostro
+      incessuque consistit. Sed idem postea Moysi esse ignis ostenditur.
+      Curre per tempora et intellige qualis uisus sit caeteris quibus se in
+      habitu humanae creationis ingessit. Incessit in uias Dei et in opera
+      Dei ad cognitionem scilicet Dei et nostrae aeternitatis profectam.
+      Etiam his omnibus Deus, qui ignis consumens est, ita creatus inest, ut
+      creationem ea uirtute qua assumpsit, absumeret, potens abolere
+      rursum quod tantum ad causam contemplationis exstiterat.
+    </p>
+            <p xml:id="xAbSeN-1e3367-d1e153">
+               <ref xml:id="xAbSeN-1e3367-Rd1e155">idem libro i</ref>: Et dixit angelus Domini ad Agar, multiplicans
+      multiplicabo semen tuum etc. Et uocauit nomen Domini qui loquebatur
+      secum, tu Deus, qui adspexisti me. Angelus Dei loquitur; duplex in
+      angelo Dei significatio est, ipse qui est et ille cuius est.
+    </p>
+            <p xml:id="xAbSeN-1e3367-d1e159">
+               <ref xml:id="xAbSeN-1e3367-Rd1e161">item</ref>: Primum angelus Domini, secundo Dominus; uocauit enim nomen Domini qui
+      loquebatur secum; tertio Deus: Tu enim es Deus qui adspexisti me. Qui
+      angelus Dei dictus est, idem Dominus et Deus est.  Est autem secundum
+      prophetam filius Dei magni consilii angelus. Ut personarum distinctio
+      absoluta esset, angelus Dei est nuncupatus; qui enim est Deus ex Deo,
+      ipse est angelus Dei. Ut uero honor debitus redderetur et
+      Dominus et Deus est praedicatus.
+    </p>
+            <p xml:id="xAbSeN-1e3367-d1e168">
+               <ref xml:id="xAbSeN-1e3367-Rd1e170">item</ref>: Angelus loqui ad Agar coepit. Confessio audientis et Dominum eum
+      esse et Deum edocet. Ita qui sub ministerio magni consilii nuntiandi
+      angelus est, ipse et natura et nomine Deus est.
+    </p>
+            <p xml:id="xAbSeN-1e3367-d1e174">
+               <ref xml:id="xAbSeN-1e3367-Rd1e176">item</ref>: Procedit pleniore doctrinae profectu sermo. Deus Abraham
+      loquitur. Viri tres sedenti assistunt, unum adorat et Deum
+      confitetur. Idemque adoratus et confessus ab illo tempore eodem in
+      futurum redditurum se promittit, et Sarae filium futurum Deus ad
+      Abraham locutus est. Idem postea de rebus ipsis uir ab eo uisus
+      alloquitur. Virum licet conspectum Abraham tamen Dominum adorauit,
+      sacramentum scilicet futurae corporationis cognoscens.
+    </p>
+            <p xml:id="xAbSeN-1e3367-d1e180">
+               <ref xml:id="xAbSeN-1e3367-Rd1e182">ambrosius de fide</ref>: Si angeli in figura hominum saepe sunt uisi, et
+      tamen aliud non sunt quam quod esse se norunt, neque substantiam
+      mutant cum formam humani corporis sumunt, quanto magis ipse Dominus?
+      Sic filium Dei uisum a patribus approbamus ut non totum in illo, quod
+      Deus est, uideretur sed dispositiones rerum futurarum, quae
+      complendae erant, in illo per imaginem cernerentur. Nam quis filium
+      Dei uidere potuit antequam conspicabilem materiam, cum ei placuit,
+      assumpsit uel hominem induere dignatus est? Qui etsi Abrahae uisus
+      est sed in forma humani corporis uisus est, quod postremis temporibus
+      in homine uenturus esse ostenderetur. Iacob autem alibi in angelo,
+      alibi uidetur in homine. Qui ideo se in angelo demonstrauit ut nuntium
+      se magni consilii indicaret. In homine uero, cum quo et conluctatus
+      fuisse describitur, ut imaginem futurae colluctationis, quam cum
+      Israel habiturus erat, cum secundum hominem aduenisset, indicaret. Sed
+      ut Deum crederet, cum quo sub figura hominis luctabatur, Israel, id
+      est homo uidens Deum, nomen accepit, qui figuram hominis uiderat quam
+      Dei filius induerat. Moysi in rubo in flamma ignis apparuit, ut lumen
+      credentibus incredulis iudicium demonstraret. Populum Israel in
+      columna nubis per diem et per noctem in columna ignis quasi dux
+      itineris praecedebat, ut baptismi gratiam per nubem et donum sancti
+      spiritus per ignem ostenderet, quia Paulus in nube patres baptizatos
+      scribit, et spiritum ignem esse apostolorum Acta declarant. Denique
+      cum Moyses oraret ut faciem Domini pure uideret, non poteris, inquit,
+      uidere faciem meam; non enim uidebit homo faciem meam et uiuet.
+    </p>
+            <p xml:id="xAbSeN-1e3367-d1e188">
+               <ref xml:id="xAbSeN-1e3367-Rd1e190">augustinus lib. viii de genesi ad litteram</ref>: Si modum quaerimus quomodo
+      locutus sit Deus, certissime tenere debemus Deum aut per suam
+      substantiam loqui aut per sibi subditam creaturam sed per substantiam
+      non loqui nisi ad creandas naturas. Ad spiritales uero atque
+      intellectuales non solum creandas sed etiam illuminandas, cum iam
+      possint capere locutionem eius qualis est in uerbo eius, quod in
+      principio erat uerbum etc.  Illis autem, qui eum capere non possum,
+      cum loquitur Deus, non nisi per creaturam loquitur aut tantummodo
+      spiritalem, siue in somnis siue in exstasi in similitudine rerum
+      corporalium aut etiam per corporalem, dum sensibus corporis uel aliqua
+      species apparet uel intonant uoces.
+    </p>
+            <p xml:id="xAbSeN-1e3367-d1e194">
+               <ref xml:id="xAbSeN-1e3367-Rd1e196">item</ref>: Nonnulli haeretici putant substantiam filii Dei nullo assumpto
+      corpore per se ipsam esse uisibilem et ideo, antequam ex uirgine
+      corpus acciperet, ipsum esse uisum patribus. Quae impietas procul a
+      catholicis mentibus repellenda est.
+    </p>
+            <p xml:id="xAbSeN-1e3367-d1e200">
+               <ref xml:id="xAbSeN-1e3367-Rd1e202">idem de civitate dei lib. x</ref>: Nec mouere debet quod, cum sit
+      inuisibilis, uisibiliter patribus apparuisse memoratur. Sicut enim
+      sonus quo auditur sententia, non est hoc quod ipsa, ita et species qua
+      uisus est Deus in natura inuisibili constitutus, non erat quod ipse.
+      Nec illi ignorabant inuisibilem Deum in specie corporali, quod ipse
+      non erat, se uidere. Nam et loquebatur cum loquente Moyses et ei tamen
+      dicebat: Si inueni gratiam ante te, ostende mihi temetipsum
+      scienter ut uideam te.
+    </p>
+            <p xml:id="xAbSeN-1e3367-d1e209">
+               <ref xml:id="xAbSeN-1e3367-Rd1e211">idem super iohannem homelia iii</ref>: Deum nemo uidit unquam. Moyses uidit
+      nubem, uidit angelum, uidit ignem.  Omnis illa creatura typum Domini
+      sui gerebat, non ipsius Domini praesentiam exhibebat. Namque habes
+      aperte in lege: Et loquebatur Moyses cum Domino contra in contra,
+      sicut amicus cum amico suo.  Sequeris ipsam scripturam, inuenies
+      Moysen dicentem: Si inueni gratiam in conspectu tuo, ostende mihi te
+      ipsum manifeste, ut uideam te.  Responsum accepit: Non potes uidere
+      faciem meam. Loquebatur ergo cum Moyse angelus portans typum Domini,
+      et illa omnia quae ibi per angelum facta sunt futuram istam gratiam et
+      ueritatem promittebant. Omnia quae corporaliter uisa sunt, non erant
+      illa substantia Dei. Facta sunt illa uisibilia corporaliter per
+      creaturam, in quibus typus ostenderetur; non utique substantia ipsa
+      demonstrabatur.
+    </p>
+            <p xml:id="xAbSeN-1e3367-d1e215">
+               <ref xml:id="xAbSeN-1e3367-Rd1e217">idem de trinitate lib. iii, cap. x</ref>: Omnia quae patribus uisa sunt, cum
+      Deus illis praesentaretur, per creaturam facta esse manifestum
+      est. Etsi nos latet quomodo ea ministris angelis fecerit, per angelos
+      tamen esse facta dicimus. Cur ergo scriptum est, dixit Dominus, et non
+      potius, dixit angelus? Quia cum uerba iudicis praeco pronuntiat, non
+      scribitur in gestis, ille praeco dixit sed ille iudex.
+    </p>
+            <p xml:id="xAbSeN-1e3367-d1e221">
+               <ref xml:id="xAbSeN-1e3367-Rd1e223">item</ref>: Ante incarnationem saluatoris cum Deus apparere dicebatur uoces
+      illae ac species corporales per angelos factae sunt, ipsis loquentibus
+      uel agentibus aliquid ex persona Dei.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

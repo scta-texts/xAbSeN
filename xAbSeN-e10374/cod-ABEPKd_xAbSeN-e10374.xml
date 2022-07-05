@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 131</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 131</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-e10374"><!-- xAbSeN-q131 -->
+            <head xml:id="xAbSeN-e10374-Hd1e103">Quaestio 131</head>
+            <head xml:id="xAbSeN-e10374-Hd1e106" type="question-title"> quod nulli liceat eam cum qua fornicatus fuerit in coniugium
+      ducere et contra</head>
+    
+            <p xml:id="xAbSeN-e10374-d1e109">
+               <ref xml:id="xAbSeN-e10374-Rd1e111">gregorius felici, episcopo siciliae</ref>: Eam quam aliquis ex propria
+      consanguinitate coniugem habuit uel aliqua illicita pollutione
+      maculauit, in coniugium ducere nulli Christianorum licet quia
+      incestuosus est talis coitus.
+    </p>
+            <p xml:id="xAbSeN-e10374-d1e115">
+               <ref xml:id="xAbSeN-e10374-Rd1e117">augustinus de bono coniugali</ref>: Posse sane fieri legitimas nuptias ex
+      male coniunctis honesto postea placito consequente manifestum est.
+    </p>
+            <p xml:id="xAbSeN-e10374-d1e121">
+               <ref xml:id="xAbSeN-e10374-Rd1e123">idem de nuptiis et concupiscentia</ref>: Denique mortuo uiro cum quo uerum
+      conubium fuit, fieri uerum conubium potest cum quo prius adulterium
+      fuit.
+    </p>
+            <p xml:id="xAbSeN-e10374-d1e128">
+               <ref xml:id="xAbSeN-e10374-Rd1e130">ivo carnotensis gualterio meldensi episcopo</ref>: Consulit fraternitas
+      uestra utrum quis habere possit in uxorem quam prius habuit pellicem.
+      Super hoc diuersas habemus sententias, alias prohibentes, alias
+      permittentes. Dicit enim Gregorius, Eam quam aliquis etc. Legitur
+      quoque in concilio Cabilonensi cap. XXIV, Iuxta canonicam auctoritatem
+      raptores ad coniugia legitima raptas sibi iure uindicare non posse.
+      Habemus et in decreto Hormisdae papae nuptias occulte factas non esse
+      legitimas. Et papa Euaristus contubernia non coniugia dicit esse
+      illarum mulierum quae non sunt a parentibus traditae et legibus
+      dotatae et a sacerdotibus solemniter benedictae. Habetur et in
+      concilio Aquisgrani habito, Qui mulierem rapuerit, uel furatus fuerit,
+      aut seduxerit, nunquam eam uxorem habeat. E diuerso uero legimus in
+      decretis Eusebii papae cap. V, Virgines, quae uirginitatem non
+      custodierint, si eosdem, qui eas uiolauerunt, maritos acceperint, eo
+      quod solas nuptias uiolauerint, post paenitentiam unius anni
+      reconcilientur. Dicit quoque beatus Augustinus, Posse sane fieri
+      legitimas etc. Quantum ergo mihi uidetur, quod quidam patres
+      concubinas uxores fieri uetuerunt, honestatem coniugii commendantes et
+      foedam concubinatus consuetudinem coercere cupientes, rigorem
+      iustitiae tenere decreuerunt. Quod uero alii aliter scripserunt, hoc
+      intelligo, quia instinctu misericordiae quorundam imbecillitati
+      occurrentes rigorem canonum temperare maluerunt. In quibus quidem
+      sententiis non alia mihi uidetur esse distantia nisi quam inter se
+      habent iudicium et misericordia.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

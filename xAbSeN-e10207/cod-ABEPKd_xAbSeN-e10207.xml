@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 129</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 129</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-e10207"><!-- xAbSeN-q129 -->
+            <head xml:id="xAbSeN-e10207-Hd1e103">Quaestio 129</head>
+            <head xml:id="xAbSeN-e10207-Hd1e106" type="question-title"> quod saepius nubere liceat et non</head>
+    
+            <p xml:id="xAbSeN-e10207-d1e109">
+               <ref xml:id="xAbSeN-e10207-Rd1e111">paulus in epistola i ad corinthios</ref>: Mulier alligata est quanto tempore
+      uir eius uiuit. Quod si dormierit uir eius, liberata est: cui uult
+      nubat, tantum in domino.
+    </p>
+            <p xml:id="xAbSeN-e10207-d1e115">
+               <ref xml:id="xAbSeN-e10207-Rd1e117">idem in epistola i ad timotheum</ref>: Adolescentiores autem uiduas deuita.
+    </p>
+            <p xml:id="xAbSeN-e10207-d1e121">
+               <ref xml:id="xAbSeN-e10207-Rd1e123">item</ref>: Volo ergo iuniores nubere, filios procreare etc.
+    </p>
+            <p xml:id="xAbSeN-e10207-d1e128">
+               <ref xml:id="xAbSeN-e10207-Rd1e130">augustinus de professione sanctae viduitatis ad iulianam</ref>: De tertiis
+      et de quartis et de ultra pluribus nuptiis solent homines mouere
+      quaestionem. unde et breuiter respondeo nec ullas nuptias audeo
+      damnare nec eis uerecundiam numerositatis auierre.
+    </p>
+            <p xml:id="xAbSeN-e10207-d1e134">
+               <ref xml:id="xAbSeN-e10207-Rd1e136">item</ref>: Nec contra humanae uerecundiae sensum audeo dicere, ut quotiens
+      uoluerit mortuis uiris nubat femina, nec ex meo corde praeter
+      auctoritatem scripturae quotaslibet nuptias audeo condemnare.
+    </p>
+            <p xml:id="xAbSeN-e10207-d1e140">
+               <ref xml:id="xAbSeN-e10207-Rd1e142">hieronymus ad pammachium</ref>: Obtrectatores mei uideant me secundas ac
+      tertias nuptias concessisse. /447/
+    </p>
+            <p xml:id="xAbSeN-e10207-d1e146">
+               <ref xml:id="xAbSeN-e10207-Rd1e148">item</ref>: Ego etiam nunc libera uoce pronuntio non damnari in ecclesia
+      digamiam, immo nec trigamiam et ita licere quinto et sexto et ultra
+      quomodo et secundo marito nubere. Habeat quaelibet octauum maritum et
+      esse desinat prostituta.
+    </p>
+            <p xml:id="xAbSeN-e10207-d1e152">
+               <ref xml:id="xAbSeN-e10207-Rd1e154">idem contra iovinianum lib. i</ref>: Tolerabilius est uni homini esse
+      prostitutam quam multis, si quidem illa in euangelio Samaritana sextum
+      maritum habere se dicens arguitur a domino, quod non sit uir eius. Ubi
+      numerus maritorum, ibi uir qui proprie maritus est, esse desistit.
+    </p>
+            <p xml:id="xAbSeN-e10207-d1e158">
+               <ref xml:id="xAbSeN-e10207-Rd1e160">item</ref>: Ubi unus exceditur, nihil refert secundus an tertius sit, quia
+      desinit esse monogamus. Non damno digamos, immo nec trigamos et, si
+      dici potest, octagamos. Plus etiam inferam, etiam scortatorem recipio
+      paenitentem.
+    </p>
+            <p xml:id="xAbSeN-e10207-d1e165">
+               <ref xml:id="xAbSeN-e10207-Rd1e167">idem ad agorochiam de monogamia</ref>: Vidi duo inter se paria uilissimorum
+      e plebe hominum comparata, unum, qui uiginti sepelisset uxores,
+      alteram, quae uicesimum secundum habuisset maritum, extremo sibi, ut
+      ipsi putabant, matrimonio copulatos. Summa omnium exspectatio quis
+      quem primus efferret. Vicit maritus et totius urbis populo confluente
+      coronatus uxoris multinubae feretrum praecedebat. Quid dicimus tali
+      mulieri?  Nempe illud quod dominus Samaritanae: Viginti duos habuisti
+      maritos, et iste, a quo nunc sepeliris, non est tuus.
+    </p>
+            <p xml:id="xAbSeN-e10207-d1e171">
+               <ref xml:id="xAbSeN-e10207-Rd1e173">idem ad salviam</ref>: Primus Lamech maledictus et sanguinarius et de Cain
+      stirpe descendens unam costam diuisit in duas et plantarium digamiae
+      protinus diluuii poena subuertit. Unde illud apostoli, quod
+      fornicationis metu indulgere compellitur: uolo adoleacentulas nubere,
+      nullam occasionem dare aduersario maledicti causa. Cur induxerit,
+      statim subiecit: Iam enim quaedam declinauerunt post sathan. Ex quo
+      intelligimus illum non stantibus coronam, sed iacentibus manum
+      porrigere. Vide qualia sint secunda matrimonia, quae lupanaribus
+      praeferuntur, quia dealinauerunt quaedam poat authan. Ideo
+      adolescentula uidua, quae se non potest continere uel non uult,
+      maritum potius accipiat quam diabolum. Pulchra nimium et appetenda
+      res, quae sathanae comparatione suscipitur.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

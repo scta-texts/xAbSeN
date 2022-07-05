@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 103</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 103</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e7425"><!-- xAbSeN-q103 -->
+            <head xml:id="xAbSeN-1e7425-Hd1e103">Quaestio 103</head>
+            <head xml:id="xAbSeN-1e7425-Hd1e106" type="question-title"> quod omnes apostoli excepto iohanne uxores habuerint
+      et contra</head>
+    
+            <p xml:id="xAbSeN-1e7425-d1e109">EUSEBIUS CAESARIENSIS EPISCOPUS IN ECCLESIASTICA HISTORIA
+      LIB. III, CAP. XXVIII: Clemens sane hic, cuius uoces annotauimus,
+      scribens aduersum eos qui nuptias spernunt, inter caetera etiam haec
+      dicit: An et apostolos improbant? Petrus enim ac Philippus et uxores
+      habuerunt, et filias etiam uiris nuptum dederunt. Sed et Paulum non
+      taedet apostolum in quodam epistola sua mentionem uel salutationem
+      facere comparis suae, quam se ideo negat circumducere, ut ad
+      praedicationem euangelii expeditior fiat.
+    </p>
+            <p xml:id="xAbSeN-1e7425-d1e114">
+               <ref xml:id="xAbSeN-1e7425-Rd1e116">ambrosius in ii epistola ad corinthios</ref>: Omnes apostoli exceptis
+      Iohanne et Paulo uxores habuerunt.
+    </p>
+            <p xml:id="xAbSeN-1e7425-d1e120">
+               <ref xml:id="xAbSeN-1e7425-Rd1e122">hieronymus ad eustochium virginem</ref>: De uirginibus, inquit apostolus,
+      praeceptum domini non habeo, quod, et ipse ut esset uirgo, non fuit
+      imperii sed propriae uoluntatis. Neque enim audiendi sunt qui eum
+      uxorem habuisse confingunt, cum suadens perpetuam castitatem
+      intulerit: Volo autem omnes homines esse sicut me ipsum. Et in alio
+      loco: Nunquid non habemus potestatem mulieres circumducendi, sicut et
+      caeteri apostoli?
+    </p>
+            <p xml:id="xAbSeN-1e7425-d1e127">
+               <ref xml:id="xAbSeN-1e7425-Rd1e129">idem de illustribus viris</ref>: Iacobus, frater domini, uinum et siceram
+      non bibit, ex utero matris sanctus fuit, carnem nullam comedit,
+      nunquam tonsus est nec unctus nec usus balneo; genua eius creduntur
+      traxisse camelorum duritiam.
+    </p>
+            <p xml:id="xAbSeN-1e7425-d1e133">
+               <ref xml:id="xAbSeN-1e7425-Rd1e135">idem contra iovinianum</ref>: Iacobus, frater domini, fuit perpetuae
+      uirginitatis, ut Iosephus quoque refert. Ipse scribit in epistola sua:
+      Nolite errare, fratres. Omne datum optimum etc. Virgo uirginitatem
+      docet, quia omne perfectum desursum descendit ubi non sunt nuptiae.
+    </p>
+            <p xml:id="xAbSeN-1e7425-d1e139">
+               <ref xml:id="xAbSeN-1e7425-Rd1e141">haimo in i epistola ad corinthios</ref>: Volo autem omnes homines esse sicut
+      me ipsum, id est, si fieri posset, uellem omnes homines esse uirgines,
+      sicut ego sum, et amare uirginitatem, sicut ego amo.  /338/
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

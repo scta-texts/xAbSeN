@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 62</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 62</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e4705"><!-- xAbSeN-q62 -->
+            <head xml:id="xAbSeN-1e4705-Hd1e103">Quaestio 62</head>
+            <head xml:id="xAbSeN-1e4705-Hd1e106" type="question-title"> quod christus clauso utero virginis natus sit et contra</head>
+    
+            <p xml:id="xAbSeN-1e4705-d1e109">
+               <ref xml:id="xAbSeN-1e4705-Rd1e111">symbolum ephesini concilii</ref>: Natiuitatem nostram ex uulua sustinuit,
+      homo de muliere procedens, non quod erat abiciens.
+    </p>
+            <p xml:id="xAbSeN-1e4705-d1e115">
+               <ref xml:id="xAbSeN-1e4705-Rd1e117">item</ref>: Natiuitatem sustinet ex uulua corpoream.
+    </p>
+            <p xml:id="xAbSeN-1e4705-d1e121">
+               <ref xml:id="xAbSeN-1e4705-Rd1e123">beda super lucam</ref>: Quod ait adaperiena uuluam, consuetae natiuitatis
+      more loquitur; non quod dominus sacri uentris hospitium, quod
+      ingressus sanctificauerat, egressus deuirginasse credendus sit sed
+      iuxta fidem catholicam clauso uirginis utero quasi sponsus suo
+      processisse de thalamo.
+    </p>
+            <p xml:id="xAbSeN-1e4705-d1e128">AUGUSTINUS DE SECRETO INCARNATIONIS CHRISTI: Christe licet tu
+      clausum dimiseris uterum tuum, nobis tamen permisisti aperire
+      euangelium tuum incredulis.
+    </p>
+            <p xml:id="xAbSeN-1e4705-d1e133">
+               <ref xml:id="xAbSeN-1e4705-Rd1e135">idem in enchiridion cap. xxxv</ref>: Quo si uel nascente corrumperetur eius
+      integritas, non iam ille de uirgine nasceretur.
+    </p>
+            <p xml:id="xAbSeN-1e4705-d1e139">
+               <ref xml:id="xAbSeN-1e4705-Rd1e141">ex homeliis gregorii papae in octavis paschae</ref>: Illud enim corpus
+      domini intrauit ad discipulos ianuis clausis, quod ad humanos oculos
+      per natiuitatem suam clauso exiit utero uirginis. Quid ergo mirum si
+      clausis ianuis post resurrectionem suam in aeternum iam uicturus
+      intrauit, qui moriturus ueniens non aperto utero uirginis exiuit?
+    </p>
+            <p xml:id="xAbSeN-1e4705-d1e145">
+               <ref xml:id="xAbSeN-1e4705-Rd1e147">hieronymus ad pammachium</ref>: Christus uirgo, mater uirginis nostri uirgo
+      perpetua. Haec est porta orientalis in Ezechiele semper clausa.
+      Respondeant mihi quomodo clausis ianuis Iesus ingressus est, et ego
+      respondebo quomodo sit uirgo post partum, mater ante quam nupta.
+    </p>
+            <p xml:id="xAbSeN-1e4705-d1e151">
+               <ref xml:id="xAbSeN-1e4705-Rd1e153">idem in ii dialogo suo contra pelagium</ref>: Magis ad specialem natiuitatem
+      saluatoris quam ad omnium hominum hoc referri potest, quod dicitur,
+      qui aperit uuluam sanctus domino uocabitur.  Solus enim Christus
+      clausas portas uuluae uirginalis aperuit, quae tamen clausae iugiter
+      permanserunt. Haec est porta orientalis clausa, per quam solus
+      pontifex ingreditur et egredidur et nihilominus semper clausa est.
+    </p>
+            <p xml:id="xAbSeN-1e4705-d1e157">
+               <ref xml:id="xAbSeN-1e4705-Rd1e159">idem ad eustochium</ref>: Dei filius pro nostra salute, hominis factus est
+      filius; decem mensibus, ut nascatur, exspectat; fastidia sustinet,
+      cruentus egreditur.
+    </p>
+            <p xml:id="xAbSeN-1e4705-d1e164">
+               <ref xml:id="xAbSeN-1e4705-Rd1e166">hormisda papa ad iustinum augustum</ref>: Ut, qui antea erat Dei filius,
+      fieret filius hominis et nasceretur hominis more, matris uuluam natus
+      aperiens, et uirginitatem matris diuinitatem uirtute non soluens.
+    </p>
+            <p xml:id="xAbSeN-1e4705-d1e170">
+               <ref xml:id="xAbSeN-1e4705-Rd1e172">anastasius epitecto episcopo</ref>: Gabriel mittitur ad Mariam non
+      transitorie uirginem sed uirginem desponsatam.
+    </p>
+            <p xml:id="xAbSeN-1e4705-d1e178">
+               <ref xml:id="xAbSeN-1e4705-Rd1e180">item</ref>: Et partus meminit scriptura et dicit, Inuoluit puerum, et beata
+      sunt ubera quae suxit, et oblatum est sacrificium quia aperuit qui
+      natus est, uuluam. Haec autem parturientis uirginis erant indicia.
+    </p>
+            <p xml:id="xAbSeN-1e4705-d1e184">
+               <ref xml:id="xAbSeN-1e4705-Rd1e186">ambrosius super lucam</ref>: Quia omne masoutinum, adaperiena uuluam,
+      sanctum Domino uocabitur. Verbis enim legis promittebatur uirginis
+      partus. Et bene sanctus quia immaculatus.  Quia quod nuacetur er te
+      sanctum, uocabitur filius Dei. Nam si litteram sequamur, quomodo
+      sanctus omnis masculus? Numquid sanctus Achab? Sed ille sanctus per
+      quem figura futuri mysterii legis praescripta signabant, eo quod solus
+      sanctae ecclesiae uirginis ad generandos populos Dei immaculatae
+      fecunditatis aperiret genitale secretum. Dicit ergo, solus aperuit
+      sibi uuluam.
+    </p>
+            <p xml:id="xAbSeN-1e4705-d1e190">
+               <ref xml:id="xAbSeN-1e4705-Rd1e192">item</ref>: Priuaquam te formarem in utero, noui te et in uulua matria
+      sanctificaui te. Qui ergo uuluam sanctificauit alienam, hic est qui
+      aperuit matris suae uuluam ut immaculatus exiret.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

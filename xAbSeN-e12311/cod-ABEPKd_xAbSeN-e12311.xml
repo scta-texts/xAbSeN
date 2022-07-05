@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 157</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 157</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-e12311"><!-- xAbSeN-q157 -->
+            <head xml:id="xAbSeN-e12311-Hd1e103">Quaestio 157</head>
+            <head xml:id="xAbSeN-e12311-Hd1e106" type="question-title"> quod liceat hominem occidere et non</head>
+    
+            <p xml:id="xAbSeN-e12311-d1e109">
+               <ref xml:id="xAbSeN-e12311-Rd1e111">hieronymus super isaiam, lib. v</ref>: Non crudelis est qui crudelem
+      iugulat.
+    </p>
+            <p xml:id="xAbSeN-e12311-d1e115">
+               <ref xml:id="xAbSeN-e12311-Rd1e117">idem in epistola ad galatas</ref>: Qui malos percutit in eo quod mali sunt,
+      et habet causam interfectionis ut occidat pessimos, minister est
+      domini.
+    </p>
+            <p xml:id="xAbSeN-e12311-d1e121">
+               <ref xml:id="xAbSeN-e12311-Rd1e123">idem super ieremiam</ref>: Homicidas enim et sacrilegos et uenenarios punire
+      non est effusio sanguinis sed legum ministerium.
+    </p>
+            <p xml:id="xAbSeN-e12311-d1e128">
+               <ref xml:id="xAbSeN-e12311-Rd1e130">cyprianus in nono genere abusionis</ref>: Rex debet furta cohibere,
+      adulteria punire, impios de terra perdere, parricidas et periurantes
+      non sinere uiuere.
+    </p>
+            <p xml:id="xAbSeN-e12311-d1e134">
+               <ref xml:id="xAbSeN-e12311-Rd1e136">augustinus de libero arbitrio</ref>: Si homicidium est hominem occidere,
+      potest occidere aliquando sine peccato. Nam et miles hostem et iudex
+      uel minister eius nocentem, et cui forte inuito atque imprudenti telum
+      manu fugit, non mihi uidentur peccare cum hominem occidunt.
+    </p>
+            <p xml:id="xAbSeN-e12311-d1e140">
+               <ref xml:id="xAbSeN-e12311-Rd1e142">item</ref>: Militi iubetur lege ut hostem necet, a qua caede si
+      temperauerit, ab imperatore poenas luit. Nonne istas leges iniustas
+      uel potius nullas dicere audebimus? Nam mihi lex esse non uidetur quae
+      iusta non fuerit.
+    </p>
+            <p xml:id="xAbSeN-e12311-d1e146">
+               <ref xml:id="xAbSeN-e12311-Rd1e148">idem in exodo, cap. xxvii</ref>: Israelitae furtum non fecerunt spoliando
+      Aegyptios sed Deo iubenti ministerium praebuerunt, quemadmodum cum
+      minister indicis occidit eum quem lex iussit occidi, profecto, si id
+      sponte faciat, homicida est etiamsi eum quem occidit scit occidi a
+      iudice debuisse.
+    </p>
+            <p xml:id="xAbSeN-e12311-d1e152">
+               <ref xml:id="xAbSeN-e12311-Rd1e154">idem in levitico, cap lxxv</ref>: Cum homo iuste occiditur, lex eum occidit,
+      non tu.  /525/
+    </p>
+            <p xml:id="xAbSeN-e12311-d1e158">
+               <ref xml:id="xAbSeN-e12311-Rd1e160">idem lib. i de civitate dei</ref>: Non occides, his exceptis quos Deus
+      occidi iubet, siue data lege pro tempore ad personam expressa
+      iussione. Non autem ipse occidit qui ministerium debet iubenti, sicut
+      adminiculum gladius utenti.
+    </p>
+            <p xml:id="xAbSeN-e12311-d1e165">
+               <ref xml:id="xAbSeN-e12311-Rd1e167">item</ref>: Miles cum obediens potestati, sub qua legitime constitutus est,
+      hominem occiderit, nulla ciuitatis suae lege reus est homicidii; immo
+      nisi fecerit, reus imperii deserti atque contempti est. Quod si sua
+      sponte atque auctoritate fecisset, crimen effusi sanguinis humani
+      incidisset. Itaque unde punitur si fecit iniussus, inde punietur nisi
+      fecerit iussus.
+    </p>
+            <p xml:id="xAbSeN-e12311-d1e171">
+               <ref xml:id="xAbSeN-e12311-Rd1e173">idem ad publicolam</ref>: De occidendis hominibus ne ab eis quisque
+      occidatur, non mihi placet consilium, nisi forte sit miles aut publica
+      functione, ut non pro se hoc faciat sed pro aliis et pro ciuitate,
+      accepta legitima potestate si eius congruit personae.
+    </p>
+            <p xml:id="xAbSeN-e12311-d1e177">
+               <ref xml:id="xAbSeN-e12311-Rd1e179">item</ref>: Dictum est, ne resistamus malo, ne nos uindicta delectet, quae
+      alieno malo animum pascit, non ut correctionem hominum negligamus.
+    </p>
+            <p xml:id="xAbSeN-e12311-d1e183">
+               <ref xml:id="xAbSeN-e12311-Rd1e185">idem ad marcellam</ref>: Si terrena ista respublica praecepta christiana
+      custodiat, et ipsa bella sine beneuolentia non gerentur.
+      Misericorditer enim, si fieri potest, etiam bella gerentur a bonis, ut
+      licentiosis cupiditatibus domitis haec uitia perderentur quae iusto
+      imperio uel extirpari uel puniri debuerunt. Nam si disciplina
+      christiana omnia bella culparet, hoc potius militibus consilium
+      salutis petentibus in euangelio daretur, ut abicerent arma seque
+      militiae omnino subtraherent. Dictum est autem eis, neminem
+      concusseritis, nulli calumniam feceritis, sufficiat uobis stipendium
+      uestrum. Quibus proprium stipendium sufficere debere praecepit,
+      militare utique non prohibuit.
+    </p>
+            <p xml:id="xAbSeN-e12311-d1e191">
+               <ref xml:id="xAbSeN-e12311-Rd1e193">idem ad bonefatium comitem</ref>: Utile tibi tuisque dabo consilium: arripe
+      manibus arma; oratio aures pulset auctoris, quia, quando pugnatur,
+      Deus apertis caelis spectat, et partem quam inspicit iustam, ibi dat
+      palmam.
+    </p>
+            <p xml:id="xAbSeN-e12311-d1e197">
+               <ref xml:id="xAbSeN-e12311-Rd1e199">idem contra faustum</ref>: Siue Deo siue aliquo legitimo imperio inbente
+      gerenda bella suscipiuntur a bonis. Alioquin Iohannes, cum ad eum
+      baptizandi milites uenirent dicentes, et nos quid faciemus?
+      responderet eis, arma abicite, militiam istam deserite; neminem
+      percutite; prosternite neminem. Sed quia sciebat eos haec militando
+      facere, non esse homicidas sed ministros legis, et non ultores
+      iniuriarum suarum sed salutis publicae defensores, respondit eis,
+      Neminem concusseritis, nulli calumniam feceritis, sufficiat uobis
+      stipendium uestrum.
+    </p>
+            <p xml:id="xAbSeN-e12311-d1e204">
+               <ref xml:id="xAbSeN-e12311-Rd1e206">isidorus etymologiarum lib. xviii, cap. iii</ref>: Iustum bellum
+      est quod ex dicto geritur de rebus repetendis aut propulsandorum
+      hostium causa.
+    </p>
+            <p xml:id="xAbSeN-e12311-d1e210">
+               <ref xml:id="xAbSeN-e12311-Rd1e212">nicolaus papa ad consulta bulgarorum</ref>: Si nulla urget necessitas, non
+      solum quadragesimali sed omni tempore est a proeliis abstinendum. Si
+      autem ineuitabilis urget opportunitas, nec quadragesimali est tempore
+      pro defensione tam sua quam patriae seu legum paternarum, bellorum
+      procul dubio praeparationi parcendum, ne uidelicet Deum uideatur homo
+      temptare si habet quod faciat et suae ac aliorum saluti consulere non
+      procurat et sanctae religionis detrimenta non praecauet.  /527/
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

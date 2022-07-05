@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 126</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 126</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e9894"><!-- xAbSeN-q126 -->
+            <head xml:id="xAbSeN-1e9894-Hd1e103">Quaestio 126</head>
+            <head xml:id="xAbSeN-1e9894-Hd1e106" type="question-title"> quod dimissa fornicante uxore viro liceat alteram ducere
+      et contra</head>
+    
+            <p xml:id="xAbSeN-1e9894-d1e109">
+               <ref xml:id="xAbSeN-1e9894-Rd1e111">ambrosius super epistolam i pauli ad corinthios</ref>: Hic autem, qui
+      matrimonio iuncti aunt, praecipio non ego sed dominus uxorem a uiro
+      non discedere. quod si disceseerit, manere innuptam, aut uiro ano
+      reconciliari. Et uir uxorem non dimittat. Non permittitur mulieri ut
+      nubat, si uirum suum causa fornicationis dimiserit, quia inferior non
+      ea lege utitur qua potior. Si tamen apostatet uir aut usum quaerat
+      uxoris inuertere, nec alii potest nubere mulier nec reuerti ad illum.
+    </p>
+            <p xml:id="xAbSeN-1e9894-d1e115">
+               <ref xml:id="xAbSeN-1e9894-Rd1e117">item</ref>: Et uirum umorem non dimittere, subauditur nisi causa
+      fornicationis. Et ideo non subiecit, sicut de muliere, dicens quod si
+      dimisserit manere sic, quia uiro licet ducere uxorem, si dimiserit
+      uxorem peccatem, quia non ita lege constringitur uir sicut mulier.
+    </p>
+            <p xml:id="xAbSeN-1e9894-d1e123">
+               <ref xml:id="xAbSeN-1e9894-Rd1e125">ex triburiensi concilio cap. xv</ref>: Si quis cum uxore fratris sui
+      dormierit, adulter et moecha diebus uitae suae absque coniugio maneat.
+      Ille uero cuius uxor fuit, si uult, aliam coniugem accipiat.
+    </p>
+            <p xml:id="xAbSeN-1e9894-d1e130">
+               <ref xml:id="xAbSeN-1e9894-Rd1e132">hieronymus ad oceanum de morte fabiolae</ref>: Praecepit dominus uxorem non
+      debere dimitti, excepta causa fornicationis, et si dimissa fuerit,
+      manere innuptam. Quicquid uiris iubetur, hoc consequenter redundat ad
+      feminas. Neque enim adultera uxor dimittenda est, et uir moechus
+      tenendus. Si quia meretrici iungitur unum corpus facit. Ergo quae
+      scortatori impuroque sociatur unum cum eo corpus efficitur. Aliae sunt
+      leges Caesarum, aliae Christi; aliud Papinianus, aliud Paulus
+      praecipit. Apud illos impudicitiae frena laxantur et solo stupro atque
+      adulterio condemnato, passim per lupanaria et ancillas libido
+      permittitur. Apud nos quod non licet feminis, aeque non licet uirus,
+      et eadem seruitus pari conditione censetur. Dimisit ergo, ut aiunt,
+      uitiosum; dimisit illius et illius criminis noxium; dimisit, paene
+      quod clamante uicinia uxor bona non prodidit.
+    </p>
+            <p xml:id="xAbSeN-1e9894-d1e136">
+               <ref xml:id="xAbSeN-1e9894-Rd1e138">augustinus de adulterinis coniugiis lib. ii</ref>: Quoniam mulier alligata
+      est quamdiu siue moechus siue castus uir eius uiuit, moechatur si
+      alteri nupserit; et uir alligatus quamdiu siue moecha siue casta eius
+      uxor uiuit, moechatur si alteram duxerit. Quapropter si dimiserit uir
+      adulteram mulierem, et eam non uult recipere nec post paenitentiam,
+      custodiat continentiam, etsi non ex uoluntate eligendi potioris boni,
+      certe ex necessitate uitandi perniciosi mali.
+    </p>
+            <p xml:id="xAbSeN-1e9894-d1e144">
+               <ref xml:id="xAbSeN-1e9894-Rd1e146">item</ref>: Puto enim Christianum neminem reluctari adulterum esse, qui uel
+      diu languente uel diu absente uel continenter uiuere cupiente sua
+      uxore alteri commixtus est feminae.  Sic ergo et dimissa adultera
+      adulter est cum adultera; quoniam non ille uel ille sed omnis, qui
+      dimittit uxorem auam et ducit alteram, moechatur.
+    </p>
+            <p xml:id="xAbSeN-1e9894-d1e150">
+               <ref xml:id="xAbSeN-1e9894-Rd1e152">idem in eodem</ref>: Illi quibus displicet ut inter uirum et uxorem par
+      pudicitiae forma seruetur, et potius eligunt in hac causa mundi
+      legibus subditi esse quam Christi, quoniam iura forensia non eisdem
+      quibus feminas pudicitiae nexibus uiros uidentur astringere, legant
+      quid imperator Antonius, non utique Christianus, de hac re
+      constituerit, ubi maritus uxorem de adulterii crimine accusare non
+      sinitur, cui moribus suis non praebuit castitatis exemplum. Sane,
+      inquit, periniquum uidetur mihi esse ut pudicitiam uir ab uxore exigat
+      quam ipse non exhibet.
+    </p>
+            <p xml:id="xAbSeN-1e9894-d1e156">
+               <ref xml:id="xAbSeN-1e9894-Rd1e158">item libro de decem chordis</ref>: Non moechaberis, id est non ibis ad aliam
+      praeter uxorem tuam. Tu exigis hoc ab uxore et non uis hoc reddere
+      uxori? Et cum debeas uirtute praecedere uxorem, uis uxorem tuam
+      uictricem esse tu uictus iacens, et cum tu caput sis uxoris, uis tuam
+      domum capite deorsum pendere?
+    </p>
+            <p xml:id="xAbSeN-1e9894-d1e162">
+               <ref xml:id="xAbSeN-1e9894-Rd1e164">item de adulterinis coniugiis lib. ii</ref>: Indignantur mariti si audiant
+      adulteros uiros pendere similes adulteris feminis poenas, cum tanto
+      grauius eos puniri oportuerit, quanto magis ad eos pertinet et uirtute
+      uincere et exemplo regere feminas.
+    </p>
+            <p xml:id="xAbSeN-1e9894-d1e169">
+               <ref xml:id="xAbSeN-1e9894-Rd1e171">idem de sermone domini in monte lib. i</ref>: Nihil enim iniquius quam
+      fornicationis causa dimittere uxorem si et ipse conuincitur fornicari.
+      Occurrit enim illud: In quo enim alterum iudicas, teipsum condemnas;
+      eadem enim agis, quae iudicas. Quapropter quisquis fornicationis causa
+      uult abicere uxorem prior debet esse a fornicatione purgatus, quod
+      similiter etiam de femina dixerim.
+    </p>
+            <p xml:id="xAbSeN-1e9894-d1e177">
+               <ref xml:id="xAbSeN-1e9894-Rd1e179">idem de adulterinis coniugiis lib. i</ref>: Illa ergo mulier manere innupta
+      praecipitur, si discesserit, quae a fornicante uiro discessit.
+    </p>
+            <p xml:id="xAbSeN-1e9894-d1e183">
+               <ref xml:id="xAbSeN-1e9894-Rd1e185">item</ref>: Restat ut quod dictum est, si discesserit, manere innuptam, de
+      illa dictum docere debeamus cui licere discedere utique a fornicante
+      didicimus.
+    </p>
+            <p xml:id="xAbSeN-1e9894-d1e189">
+               <ref xml:id="xAbSeN-1e9894-Rd1e191">item</ref>: Dominus ait: Quicumque dimiserit uxorem suam ezeepta causa
+      fornicationis et aliam duxerit, moechatur; si hoc modo intelligendum
+      est, ut quicumque causa fornicationis dimiserit et aliam duxerit non
+      moechetur, non uidetur in hac causa par forma esse mariti et uxoris,
+      quandoquidem mulier etiamsi causa fornicationis discesserit a uiro et
+      alii nupserit, moechatur, uir autem si eadem causa uxorem dimiserit et
+      aliam duxerit, non moechatur. At si par forma est in utroque, uterque
+      moechatur si se alteri iunxerit, etiam cum se a fornicante
+      disiunxerit. Parem uero esse formam in hac causa uiri atque mulieris
+      ostendit apostolus ubi ait: Similiter et uir non habet potestatem
+      corporia sui, sed mulier.  Cur ergo, ais, interposuit dominus causam
+      fornicationis, et non potius ait generaliter, quicumque dimiserit
+      uxorem suam et aliam duxerit, moechatur, si et ille moechus est qui
+      dimissa fornicante muliere alteram ducit? Credo quia illud quod maius
+      est Deus commendare uoluit.  Maius enim esse adulterium quis negat
+      uxore non fornicante dimissa alteram ducere, quam si fornicantem
+      dimiserit et alteram duxerit?  Quemadmodum igitur si dixerimus,
+      quicumque mulierem a marito praeter causam fornicationis dimissam
+      duxerit, moechatur, procul dubio uerum dicimus nec tamen ideo illum
+      qui non propter causam fornicationis dimissam duxerit ab hoc crimine
+      absoluimus, sed utrosque moechos esse minime dubitamus; ita eum qui
+      praeter causam fornicationis uxorem dimiserit et aliam duxerit,
+      moechum pronuntiamus nec ideo tamen eum qui propter causam
+      fornicationis dimiserit et aliam duxerit ab huius peccati labe
+      defendimus. Ambos enim, licet alterum altero grauius, moechos tamen
+      esse cognoscimus.
+    </p>
+            <p xml:id="xAbSeN-1e9894-d1e197">
+               <ref xml:id="xAbSeN-1e9894-Rd1e199">item</ref>: Propter quodlibet tamen fornicationis genus siue carnis siue
+      spiritus, ubi et infidelitas intelligitur, et dimisso uiro non licet
+      alteri nubere et dimissa uxore non licet alteram ducere, quoniam
+      dominus nulla exceptione facta dixit: si umor dimiserit uirum auum et
+      alii nupserit, moechatur.
+    </p>
+            <p xml:id="xAbSeN-1e9894-d1e203">
+               <ref xml:id="xAbSeN-1e9894-Rd1e205">idem de nuptiis et concupiscentia lib. i</ref>: Usque adeo manent inter
+      uiuentes semel inita iura nuptiarum, ut potius sint inter se coniuges
+      qui ab alterutro separati sunt, quam cum his quibus aliis adhaeserunt.
+      Cum aliis quippe adulteri non essent, nisi ad alterutrum coniuges
+      permanerent. Denique mortuo uiro cum quo uerum conubium fuit, fieri
+      uerum conubium non potest cum quo prius adulterium fuit. Ita manet
+      etiam inter uiuentes quiddam coniugale, quod nec separatio nec cum
+      adultero copulatio possit auferre. Manet autem ad noxam criminis, non
+      ad uinculum foederis, sicut apostata anima uelut de coniugio Christi
+      recedens etiam fide perdita sacramentum fidei non amittit quod lauacro
+      regenerationis accepit.
+    </p>
+            <p xml:id="xAbSeN-1e9894-d1e210">
+               <ref xml:id="xAbSeN-1e9894-Rd1e212">idem ad pollentium de adulterinis coniugiis lib. i</ref>: Videtur tibi tunc
+      a uiro discedentem feminam nubere non debere si nulla uiri
+      fornicatione compulsa discesserit. Tunc enim eis, ut putas, alia
+      coniugia liceret inquirere si fornicationis causa diuortium
+      nasceretur.
+    </p>
+            <p xml:id="xAbSeN-1e9894-d1e216">
+               <ref xml:id="xAbSeN-1e9894-Rd1e218">item</ref>: Dictum est: Quicumque dimiserit uxorem, excepta causa
+      fornicationis, facit eam moechari. Tunc enim non ipse dimittendo facit
+      adulteram, sed dimittit adulteram.
+    </p>
+            <p xml:id="xAbSeN-1e9894-d1e222">
+               <ref xml:id="xAbSeN-1e9894-Rd1e224">item</ref>: Cum igitur nos dicimus etiam illi mulieri quae uirum fornicantem
+      dimiserit, alteri nubere non licere, tu autem dicis licere quidem sed
+      non expedire, utrique procul dubio dicimus eam quae fornicantem uirum
+      dimittit, nubere non debere.  Verum hoc interest quod nos, quando
+      coniuges ambo Christiani sunt, mulier si a uiro fornicante
+      discesserit, dicimus non licere alteri nubere, a uiro autem non
+      fornicante non licere discedere.
+    </p>
+            <p xml:id="xAbSeN-1e9894-d1e230">
+               <ref xml:id="xAbSeN-1e9894-Rd1e232">item</ref>: Apostolus, immo per apostolum dominus quia mulierem non
+      permittit a uiro non fornicante discedere, restat ut eam prohibeat, si
+      discesserit, nubere quam permittit a fornicante discedere. De qua enim
+      dicicedere permittitur ut non nubat.
+    </p>
+            <p xml:id="xAbSeN-1e9894-d1e236">
+               <ref xml:id="xAbSeN-1e9894-Rd1e238">item</ref>: Quod dominus ait: Quicumque dimiserit uxorem nisi ex causa
+      fornicationis, et aliam duxerit, moechatur etc. Simili locutione
+      Iacobus ait: Scienti igitur bonum facere et non facienti, peccatum est
+      illi.
+    </p>
+            <p xml:id="xAbSeN-1e9894-d1e242">
+               <ref xml:id="xAbSeN-1e9894-Rd1e244">item</ref>: Unde cum dicimus, quicumque mulierem praeter causam
+      fornicationis dimissam duxerit, moechatur, de uno quidem dicimus, nec
+      tamen ideo moechari negamus eum qui eam duxerit quam propter causam
+      fornicationis maritus dimiserit. Ita cum ambo sint moechi, et ille
+      scilicet qui dimiserit uxorem suam praeter causam fornicationis et
+      aliam duxerit et ille qui propter causam fornicationis uxore dimissa
+      se alteri copulauerit, profecto quando de uno eorum legimus, non ita
+      intelligere debemus quasi alter moechus negatus sit. Sed si hoc
+      Matthaeus, quia expressa una specie alteram tacuit, fecit ad
+      intelligendum difficile, numquid non alii idipsum ita complexi sunt ut
+      de utroque possit intelligi? Nam secundum Marcum scriptum est:
+      Quicumque dimiserit uxorem suam et aliam duxerit, adulterium committit
+      super eam; et si dimiserit uxor uirum suum, et alii nupserit,
+      moechatur. Secundum Lucam sic: Omnis qui dimittit uxorem suam, et
+      ducit alteram, moechatur, et qui dimissam a uiro duxerit, moechatur.
+    </p>
+            <p xml:id="xAbSeN-1e9894-d1e249">
+               <ref xml:id="xAbSeN-1e9894-Rd1e251">item</ref>: Quid enim scis, inquit, mulier, si uirum saluum facies? aut unde
+      scis uir etc. Ad lucrandos coniuges et filios Christo etiam exemplis
+      quae iam prouenerant uidetur adhortatus.  Cur ergo non expediat etiam
+      infideles coniuges dimitti a fidelibus causa euidenter expressa /438/
+      est. Non enim propter uinculum cum talibus coniugale seruandum, sed ut
+      acquirantur Christo, recedi ab infidelibus coniugibus uetat.
+    </p>
+            <p xml:id="xAbSeN-1e9894-d1e255">
+               <ref xml:id="xAbSeN-1e9894-Rd1e257">item</ref>: Apostolus dicit: Omnia licita sunt, sed non omnia expediunt.
+      Nemo quod suum est quaerat sed quod alterius.
+    </p>
+            <p xml:id="xAbSeN-1e9894-d1e261">
+               <ref xml:id="xAbSeN-1e9894-Rd1e263">item</ref>: Quae licita sunt, id est nullo praecepto domini prohibentur.
+    </p>
+            <p xml:id="xAbSeN-1e9894-d1e267">
+               <ref xml:id="xAbSeN-1e9894-Rd1e269">item</ref>: Sunt quae dicuntur non a domino praecipi, quamuis domino
+      moneantur offerri, ut tanto intelligantur esse gratiora quanto magis
+      ostenduntur indebita.
+    </p>
+            <p xml:id="xAbSeN-1e9894-d1e273">
+               <ref xml:id="xAbSeN-1e9894-Rd1e275">item</ref>: Illis qui se non continent utique expedit nubere. Qui autem
+      uouerint continentiam, nec licet nec expedit. Porro discedere ab
+      infideli coniuge licet, sed non expedit. Manere autem cum illo, si
+      cohabitare consentit, et licet et expedit. Quia si non liceret,
+      expedire non posset. Ac per hoc non omnia quae licita sunt, expediunt.
+      Sunt quippe licita quae non expediunt, sicut apostolo teste didicimus.
+      Sed inter id quod illicitum est et ideo non expedit atque id quod
+      licitum est nec tamen expedit quid intersit, aliqua uniuersali regula
+      definire difficile est. Citius enim quisque dixerit, omne quod fieri
+      non expedit, peccatum est; omne autem peccatum illicitum est.  Omne
+      ergo quod non expedit, illicitum est. Et ubi erunt illa quae licita
+      esse, sed non expedire apostolus dixit? Quapropter quia et aliqua
+      peccata esse licita dicere non audemus, restat ut dicamus fieri
+      aliquid quod non expediat, et tamen, si licitum est, non esse
+      peccatum, quamuis quoniam non expedit, non sit utique faciendum. Quod
+      si absurdum uidetur ut aliquid fiat quod non expedit et dicatur non
+      peccasse qui fecerit, intelligendum est hoc ex consuetudine sermonis
+      absurdum. Quae ita late patet, ut etiam iumenta quamuis sint rationis
+      expertia tamen plerumque dicamus debere uapulare cum peccant; peccare
+      autem proprie non est nisi eius qui utitur rationali uoluntatis
+      arbitrio. Quod in omnibus mortalibus animantibus non nisi homini est
+      diuinitus attributum. Sed aliud est cum proprie loquimur, aliud est
+      cum uerba ex aliis rebus tranferendo uel abutendo mutuamus.
+    </p>
+            <p xml:id="xAbSeN-1e9894-d1e281">
+               <ref xml:id="xAbSeN-1e9894-Rd1e283">item</ref>: Ea mihi uidentur licere et non expedire quae per iustitiam
+      quidem, quae coram Deo est, permittuntur, sed propter offensionem
+      hominum, ne ob hoc impediantur a salute, uitanda sunt.
+    </p>
+            <p xml:id="xAbSeN-1e9894-d1e288">
+               <ref xml:id="xAbSeN-1e9894-Rd1e290">item</ref>: Dimittere infidelem coniugem si non liceret. dominus prohiberet,
+      neque apostolus prohibens diceret: Ego dico, non dominus.  Nam si
+      propter fornicationem carnis permittitur homo a coniuge separari,
+      quanto magis in coniuge mentis fornicatio detestanda est, id est
+      infidelitatis? De qua scriptum est: Quoniam ecce, qui ae longe faciunt
+      a te, peribunt; per didisti omnem qui fornica[n]tur abs te.  Sed quia
+      ita licitum est ut non expediat, ne propter coniugum separationes
+      offensi homines doctrinam salutis exhorreant ac sic perituri in eadem
+      infidelitate remaneant, apostolus monendo fieri uetat quod ita licitum
+      est ut non expediat.
+    </p>
+            <p xml:id="xAbSeN-1e9894-d1e294">
+               <ref xml:id="xAbSeN-1e9894-Rd1e296">item</ref>: Aliquando hoc dominus per Esdram prophetam iussit et factum est;
+      dimiserunt Israelitae uxores alienigenas, per quas fiebat ut et ipsi
+      alienos seducerentur ad deos, non ut illae per maritos uero
+      acquirerentur Deo. Unde iusserat dominus per Moysen ne quis uxorem
+      alienigenam duceret. Merito ergo quas duxerant domino prohibente,
+      domino iubente dimiserunt.
+    </p>
+            <p xml:id="xAbSeN-1e9894-d1e300">
+               <ref xml:id="xAbSeN-1e9894-Rd1e302">item</ref>: Infidelis hominis fornicatio est maior in corde, nec uera eius
+      pudicitia cum coniuge dici potest, quia omne quod non est ex fide
+      peccatum eat, quamuis ueram fidelis habeat pudicitiam etiam cum
+      infideli coninge. Ideo autem nec iuberi debuerunt fideles ab
+      infidelibus separari, quia non contra iussionem domini gentiles
+      fuerunt ambo coniuncti.
+    </p>
+            <p xml:id="xAbSeN-1e9894-d1e308">
+               <ref xml:id="xAbSeN-1e9894-Rd1e310">concilium milevitanum cap. xvii</ref>: Neque dimissus ab uxore, neque
+      dimissa a marito alteri coniungatur, sed ita maneant aut sibi
+      reconcilientur.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

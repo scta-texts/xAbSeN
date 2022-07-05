@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 84</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 84</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e6426"><!-- xAbSeN-q84 -->
+            <head xml:id="xAbSeN-1e6426-Hd1e103">Quaestio 84</head>
+            <head xml:id="xAbSeN-1e6426-Hd1e106" type="question-title"> quod christus descendens ad inferos omnes liberaverit
+      inde et non</head>
+    
+            <p xml:id="xAbSeN-1e6426-d1e109">
+               <ref xml:id="xAbSeN-1e6426-Rd1e111">origenes super genesim homilia ultima</ref>: Catulus leonis Iuda etc. Mors
+      Christi oppressio et triumphus daemonum fuit. Omnem namque praedam
+      quam leo ille contrarius inuaserat, prostrato homine et deiecto hic
+      leo eripuit.
+    </p>
+            <p xml:id="xAbSeN-1e6426-d1e115">
+               <ref xml:id="xAbSeN-1e6426-Rd1e117">ambrosius in epistola pauli ad romanos</ref>: Omnes enim pecaauerunt tam
+      Iudaei quam Graeci, quam ob rem Christi mors omnibus proficit, et hic
+      in saeculo, quid credendum et obseruandum est, docuit; et de inferno
+      omnes eripuit.
+    </p>
+            <p xml:id="xAbSeN-1e6426-d1e121">
+               <ref xml:id="xAbSeN-1e6426-Rd1e123">item</ref>: Sicut et ad Galatas dicit: Christus nos redemit offerens se pro
+      nobis. Permisit enim se uolenti diabolo sed inpraescio. Putans
+      enim Christum se posse retinere, quia uirtutem eius ferre non potuit,
+      omnes quos tenebat simul cum illo amisit.
+    </p>
+            <p xml:id="xAbSeN-1e6426-d1e130">
+               <ref xml:id="xAbSeN-1e6426-Rd1e132">item</ref>: Manifestum est omnes in Adam peccasse quasi in massa.
+    </p>
+            <p xml:id="xAbSeN-1e6426-d1e136">
+               <ref xml:id="xAbSeN-1e6426-Rd1e138">item</ref>: Mors secunda in Gehenna, quam non peccato Adae patimur sed eius
+      occasione propriis peccatis acquiritur, a qua boni immunes sunt,
+      tantum nisi quod in inferno erant sed superiore.
+    </p>
+            <p xml:id="xAbSeN-1e6426-d1e142">
+               <ref xml:id="xAbSeN-1e6426-Rd1e144">item</ref>: Gratiam autem Dei in plures abundare est, quia et in his qui
+      delicto Adae mortui dicuntur similiter peccantes, et in his qui non
+      peccauerunt in hac similitudine praeuaricationis Adae: paterno autem
+      peccato ex sententia Dei erant apud inferos, gratia Dei abundauit in
+      descensu saluatoris omnibus dans indulgentiam cum triumpho sublatis
+      eis in caelum.
+    </p>
+            <p xml:id="xAbSeN-1e6426-d1e148">
+               <ref xml:id="xAbSeN-1e6426-Rd1e150">idem in epistola ad colossenses</ref>: Qui eripuit nos de potes tate
+      tenebrarum etc. In quo habemus redemptionem etc. Nam sine fide Christi
+      nullus egressus de inferno est, quia obligatus peccatis exire ianuas
+      Tartari non potest.
+    </p>
+            <p xml:id="xAbSeN-1e6426-d1e154">
+               <ref xml:id="xAbSeN-1e6426-Rd1e156">gregorius in homilia sabbati infra octavas paschae</ref>: Haec festiuitas
+      recte dici potest solempnitas solempnitatum. Per hanc electi, qui
+      quamuis in tranquillitatis sinu tamen apud inferni claustra
+      tenebantur, ad paradisi amoena reducti sunt. Quod ante passionem
+      dixit, in resurrectione sua Dominus adimpleuit: Si exaltatus fuero a
+      terra, omnia traham ad me ipsum. Omnia etenim traxit, qui de electis
+      suis apud inferos nullum reliquit. Omnia abstulit, utique electa.
+      Neque etenim infideles quosque et pro suis criminibus aeternis
+      suppliciis deditos ad ueniam resurgendo reparauit sed illos ex inferni
+      claustris rapuit quos suos in fide et actibus recognouit. Unde recte
+      etiam per Osee dicitur: Ero mors tua, o mors; ero morsus tuus,
+      inferne! Id namque quod occidimus, agimus ut penitus non sit. Ex
+      eo etenim quod mordemus, partem abstrahimus et partem relinquimus.
+      Quia ergo in electis suis funditus occidit mortem, mors mortis
+      extitit. Quia uero ex inferno partem abstulit et partem reliquit, non
+      occidit funditus sed momordit infernum.
+    </p>
+            <p xml:id="xAbSeN-1e6426-d1e162">
+               <ref xml:id="xAbSeN-1e6426-Rd1e164">augustinus ad optatum</ref>: Illa tamen sit fides salua qua credimus nullum
+      hominem liberari a contagio mortis, quod prima natiuitate contraxit,
+      nisi per unum mediatorem. Cuius hominis eiusdemque Dei saluberrima
+      fide etiam illi salui facti sunt qui, priusquam ueniret in carne,
+      crediderunt in carne uenturum. Eadem namque fides est et nostra et
+      illorum, quoniam illi crediderunt futurum, et nos credimus
+      factum. Unde dicit apostolus: Habentes autem eundem spiritum. Si ergo
+      eundem spiritum fidei et illi habebant qui uenturum in carne
+      praenuntiarunt Christum, quem etiam illi qui eum uenisse nuntiarunt,
+      sacramenta esse potuerunt pro temporum diuersitate diuersa, ad
+      unitatem tamen eiusdem fidei concordissime recurrentia. Scriptum est
+      in Actibus apostolorum loquente Petro: Quid temptatis Deum, ingum
+      imponere, quod neque patres nostri, neque nos potutmus portare? Sed
+      per gratiam domini lesu credimus nos saluari, quem ad modum et
+      illi. Si ergo et illi per gratiam domini Iesu saluos fieri se
+      crediderunt, manifestum est quoniam haec gratia et antiquos iustos
+      uiuere fecit ex fide. Iustus autem ex fide uiuit. Proinde cum omnes
+      iusti, hoc est ueraces Dei cultores, siue ante incarnationem siue post
+      incarnationem Christi nec uixerint nec uiuant nisi ex fide
+      incarnationis Christi, in quo gratiae plenitudo, profecto quod
+      scriptum est non esse aliud nomen sub caelo, in quo oportet saluos
+      fieri nos, ex illo tempore ualet ad saluandum, ex quo in Adam uitiatum
+      est genus humanum.
+    </p>
+            <p xml:id="xAbSeN-1e6426-d1e169">
+               <ref xml:id="xAbSeN-1e6426-Rd1e171">idem ad consulta hilarii</ref>: Ut sciamus antiquos iustos, quicumque esse
+      potuerunt, non nisi per eandem fidem liberatos per quam liberamur et
+      nos, fidem scilicet incarnationis Christi, quae illis
+      praenuntiabatur sicut et nobis annuntiatur.
+    </p>
+            <p xml:id="xAbSeN-1e6426-d1e177">
+               <ref xml:id="xAbSeN-1e6426-Rd1e179">idem ad dardanum</ref>: Sacramentum regenerationis nostrae manifestum esse
+      uoluit manifestus mediator. Erat autem antiquis iustis aliquod
+      occultum, cum tamen et illi eadem fide salui fierent quae fuerat suo
+      tempore reuelanda. Non enim audamus fideles temporis nostri praeferre
+      amicis Dei per quos nobis ista prophetata sunt, cum Deum Abraham et
+      Isaac et Iacob ita se Deus esse commemoret ut hoc dicat suum nomen in
+      aeternum.
+    </p>
+            <p xml:id="xAbSeN-1e6426-d1e183">
+               <ref xml:id="xAbSeN-1e6426-Rd1e185">idem de nuptiis et concupiscentia lib. i</ref>: Non quod ante circumcisionem
+      iustitia fidei nulla erat. Nam cum adhuc esset in praeputio, ex fide
+      iustificatus est ipse Abraham, pater gentium, quae fidem ipsius erant
+      sectaturae. Sed superioribus temporibus omni modo latuit sacramentum
+      iustificationis ex fide.  Eadem tamen fides mediatoris saluos iustos
+      faciebat antiquos, pusillos cum magnis, non uetus testamentum quod in
+      seruitutem generat, non lex quae non sic data est quae possit
+      uiuificare sed gratia Dei per Iesum Christum dominum nostrum. Quia
+      sicut credimus nos Christum in carne uenisse, sic illi uenturum; sicut
+      nos mortuum ita illi moriturum; sicut nos resurrexisse ita illi
+      resurrecturum; et nos et illi ad iudicium mortuorum uiuorumque
+      uenturum.
+    </p>
+            <p xml:id="xAbSeN-1e6426-d1e189">
+               <ref xml:id="xAbSeN-1e6426-Rd1e191">idem in libro de correptione et gratia</ref>: Si enim, sicut ueritas
+      loquitur, nemo liberatur a damnatione quae facta est per Adam, nisi
+      per fidem Iesu Christi, et tamen ab hac damnatione non se liberabunt
+      qui potuerunt dicere se non audisse euangelium Christi, cum fides ez
+      auditu sit, quanto minus se liberabunt qui dicturi sunt,
+      perseuerantiam non accepimus? Iustior enim uidetur excusatio
+      dicentium, non accepimus audientiam, quam dicentium, non accepimus
+      perseuerantiam. Quoniam potest dici homini, In eo quod audieras et
+      tenueras perseuerares, si uelles. Nullo modo autem dici potest, /305/
+      id quod non audieras crederes, si uelles.
+    </p>
+            <p xml:id="xAbSeN-1e6426-d1e195">
+               <ref xml:id="xAbSeN-1e6426-Rd1e197">hieronymus in epistola ad galatas libro i</ref>: Aiunt quidam, Si uerum sit
+      ex operibus legis neminem iustificari sed ex fide Iesu Christi,
+      patriarchas sanctos, qui ante aduentum Christi fuerunt, imperfectos
+      fuisse. Quos ammonere debemus, sanctos, qui antiquitus fuerunt, ex
+      fide Christi iustificatos.  Siquidem Abraham uidit diem Christi, et
+      Moyses maiores diuitias aestimauit thesauris Aegyptiorum improperium
+      Christi, aspiciebat enim in remunerationem, et Isaias uidit gloriam
+      Christi ut Iohannes euangelista commemorat, et Iudas de omnibus
+      generaliter: commonere, inquit, uos uolo, quoniam Iesus populum de
+      terra Aegypti saluans, secundo eos qui non crediderunt perdidit.
+    </p>
+            <p xml:id="xAbSeN-1e6426-d1e201">
+               <ref xml:id="xAbSeN-1e6426-Rd1e203">gregorius super extremam partem ezechielis homilia v</ref>: Et qui praeibant
+      et qui sequebantur clamabant dicentes: Osanna benedictus qui uenit in
+      nomine domini. Quia omnes electi qui in Iudaea esse potuerunt siue qui
+      nunc in ecclesia existunt in mediatorem Dei et hominum crediderunt et
+      credunt.
+    </p>
+            <p xml:id="xAbSeN-1e6426-d1e208">
+               <ref xml:id="xAbSeN-1e6426-Rd1e210">idem georgio presbytero et theodoro diacono</ref>: Diaconibus narrantibus
+      agnoui quod dilectio uestra dixisset, dominum Iesum Christum ad
+      inferos descendentem omnes qui illic confiterentur eum Deum, saluasse
+      atque a poenis liberasse. De qua re uolo ut uestra caritas longe
+      aliter sentiat. Descendens quippe ad inferos solos illos per suam
+      gratiam liberauit qui eum uenturum esse crediderunt et praecepta eius
+      uiuendo tenuerunt.
+    </p>
+            <p xml:id="xAbSeN-1e6426-d1e214">
+               <ref xml:id="xAbSeN-1e6426-Rd1e216">item</ref>: Sed ne dilectionem uestram in mea disputatione immorer, quid de
+      hac haeresi Philaster in libro quem de haeresibus scripsit, dixerit,
+      agnoscat. Cuius haec uerba sunt: Sunt haeretici qui dicunt dominum in
+      infernum descendisse et omnibus post mortem etiam ibidem se nunciasse,
+      ut confitentes ibidem saluarentur, cum hoc sit contrarium dicente
+      propheta Dauid: In inferno autem quis confitebitur tibi?
+    </p>
+            <p xml:id="xAbSeN-1e6426-d1e222">
+               <ref xml:id="xAbSeN-1e6426-Rd1e224">beda in actibus apostolorum de verbis petri apostoli</ref>: Hic est lapis
+      qui reprobatus est a uobis aedificantibus qui factus est in caput
+      anguli; Et non est in alio aliquo salus. Si in nullo alio sed in
+      Christo tantum mundi salus est, ergo et patres testamenti ueteris
+      eiusdem redemptoris incarnatione et passione saluati sunt qua nos
+      saluari credimus. Etsi enim sacramenta pro temporum ratione discrepent
+      fides tamen una eademque concordat, quia quam nos per apostolos
+      factam, eandem illi dispensationem Christi per prophetas didicerant
+      esse uenturam.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

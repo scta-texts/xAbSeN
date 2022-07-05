@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 153</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 153</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-e12090"><!-- xAbSeN-q153 -->
+            <head xml:id="xAbSeN-e12090-Hd1e103">Quaestio 153</head>
+            <head xml:id="xAbSeN-e12090-Hd1e106" type="question-title"> quod sit pro omnibus orandum et contra</head>
+    
+            <p xml:id="xAbSeN-e12090-d1e109">
+               <ref xml:id="xAbSeN-e12090-Rd1e111">paulus apostolus in epistola i ad timotheum</ref>: Obsecro igitur primum
+      omnium fieri obsecrationes, orationes, postulationes, gratiarum
+      actiones pro omnibus hominibus, pro regibus, et omnibus qui in
+      sublimitate sunt constituti, ut quietam et tranquillam uitam agamus in
+      omni pietate et castitate. Hoc enim bonum est, et acceptum coram
+      saluatore nostro Deo, qui omnes homines uult saluos fieri et ad
+      agnitionem ueritatis uenire.
+    </p>
+            <p xml:id="xAbSeN-e12090-d1e115">
+               <ref xml:id="xAbSeN-e12090-Rd1e117">ambrosius de paenitentia lib. i</ref>: Sed dicent, scriptum est: Si
+      peccauerit homo in hominem, orabunt pro eo; Bi autem in Deum
+      peccauerit, quis orabit pro eo? Non scriptum est nullus, sed
+      quis. Et alibi: Quis sapiens, et intelliget haec? Numquid nullus
+      intelliget? Et quis fidelis dispensator et prudens quem constituet
+      dominus etc. Similiter accipiendum: quis orabit pro eo? hoc est,
+      singularis uitae aliquis debet orare pro eo qui peccauit in
+      dominum. Quo maior culpa eo maiora quaerenda sunt suffragia.
+    </p>
+            <p xml:id="xAbSeN-e12090-d1e123">
+               <ref xml:id="xAbSeN-e12090-Rd1e125">item</ref>: Est peccatum ad mortem, non de illo dico ut oret. Non ad Moysen
+      et Ieremiam loquebatur, sed ad populum qui quorum peccatorum alium
+      peccatorem debet exhibere, cui satis est, si pro leuioribus delictis
+      Deum precetur, grauiorum ueniam iustorum orationibus reseruandam
+      putet.
+    </p>
+            <p xml:id="xAbSeN-e12090-d1e130">
+               <ref xml:id="xAbSeN-e12090-Rd1e132">item</ref>: Nonne ipse Iohannes cognouerat Stephanum pro persecutoribus
+      suis, qui Christi nomen audire non poterant, deprecatum? Cuius
+      precationis effectum in apostolo uidemus, qui lapidantium uestimenta
+      seruabat.
+    </p>
+            <p xml:id="xAbSeN-e12090-d1e136">
+               <ref xml:id="xAbSeN-e12090-Rd1e138">item</ref>: Denique Paulus docet non deserendos eos qui peccatum ad mortem
+      fecerint.
+    </p>
+            <p xml:id="xAbSeN-e12090-d1e142">
+               <ref xml:id="xAbSeN-e12090-Rd1e144">beda super epistolam iohannis</ref>: Qui soit fratrem suum pecoare pecoatum
+      non ad mortem, petet et dabit ei uitam. Loquitur autem de cotidianis
+      leuibusque peccatis, quae sicut difficile uitantur sic etiam facile
+      curantur. Sed quo ordine haec alterutrum petitio sit celebranda pro
+      peccatis, Iacobus insinuat apertius dicens: Confitemini alterutrum
+      peocata uestra et orate pro inuioem ut saluemini. Si igitur dictu uel
+      cogitatu uel obliuione uel ignorantia forte deliquisti, uade ad
+      fratrem, confitere illi, et tu eius errata pie intercedendo dilue.
+      Porro si grauius quid admisisti, induc presbyteros ecclesiae et ad
+      examen illorum castigare.  Est peccatum ad mortem, non pro illo dico
+      ut quis roget. Ostendit Iohannes esse quosdam fratres pro quibus non
+      orare nobis praecipitur, cum dominus etiam pro persecutoribus /515/
+      orare nos iubeat; quod aliter solui non potest, nisi fateamur esse
+      aliqua peccata in fratribus quae inimicorum persecutione grauiora
+      sins. Peccatum fratris ad mortem est, cum post agnitionem Dei, quae
+      per gratiam Christi data est, quisque oppugnat fraternitatem et
+      aduersus ipsam gratiam qua reconciliatus est Deo, inuidentiae facibus
+      agitatur. Peccatum autem non ad mortem est, si quis amorem a fratre
+      non alienauerit sed officia fraternitatis debita per aliquam
+      infirmitatem animi non exhibuerit. Quapropter et dominus ait: Pater,
+      ignosoe illis, quia nesotun quid faolunt. Nondum gratiae spiritus
+      sancti participes facti, quia nondum Christo crediderant, neque
+      aduersus illam communem gratiam dimicabant. Potest autem peccatum ad
+      mortem peccatum usque ad mortem accipi, pro quo rogare quempiam uetat,
+      quia scilicet peccatum quod in hac uita non corrigitur, eius uenia
+      frustra post mortem postulatur.  Scimus quia omnis qui natus est ex
+      Deo non peccat. Sunt peccata ad mortem, de qualibus dicit apostolus:
+      quaniam qui talia agunt, regnum Dei non consequentur. Qui natus est ex
+      Deo non peccat peccatum, uidelicet ad mortem; quod et de omni crimine
+      capitali et de illo specialiter potest intelligi quo uiolatur caritas,
+      sicut exposuimus.  Sed et peccatum ad mortem usque ad tempora mortis
+      protractum diximus posse intelligi.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

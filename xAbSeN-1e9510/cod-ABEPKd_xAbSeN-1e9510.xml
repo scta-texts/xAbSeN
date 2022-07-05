@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 122</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 122</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e9510"><!-- xAbSeN-q122 -->
+            <head xml:id="xAbSeN-1e9510-Hd1e103">Quaestio 122</head>
+            <head xml:id="xAbSeN-1e9510-Hd1e106" type="question-title"> quod omnibus nuptiae concessae sint et contra</head>
+    
+            <p xml:id="xAbSeN-1e9510-d1e109">
+               <ref xml:id="xAbSeN-1e9510-Rd1e111">paulus apostolus in epistola i ad corinthios</ref>: De quibus autem
+      scripsistis mihi: bonum est homini mulierem non tangere; propter
+      fornicationem autem unusquisque suam uxorem habeat et unaquaeque uirum
+      suum.
+    </p>
+            <p xml:id="xAbSeN-1e9510-d1e115">
+               <ref xml:id="xAbSeN-1e9510-Rd1e117">actus primae sedis stephani papae cap. iii</ref>: Aliter se habet
+      orientalium traditio ecclesiarum, aliter huius sanctse Romanae
+      ecclesiae. Nam eorum presbyteri, diaconi atque subdiaconi matrimonio
+      copulantur.  Istius autem ecclesiae uel occidentalium nullus a
+      subdiaconis usque ad episcopum licentiam habeat coniugium sortiendi.
+    </p>
+            <p xml:id="xAbSeN-1e9510-d1e121">
+               <ref xml:id="xAbSeN-1e9510-Rd1e123">leo contra epistolam nicetae abbatis</ref>: Seriatim et aperte prosequamur
+      quod sancta Romana ecclesia in gradibus clericorum agit. Clericos enim
+      ostiarios, lectores, exorcistas, acolytos, si extra uotum et habitum
+      monachi inueniantur et continent iam pro fiteri nolunt, uxorem ducere
+      uirginem cum benedictione sacerdotali permittit. Non autem uiduam aut
+      repudiatam, quia propter hoc deinceps nec ad subdiaconatum prouehi
+      poterunt, nec laicus non uirginem sortitus uxorem aut bigamus ad
+      clericatum.
+    </p>
+            <p xml:id="xAbSeN-1e9510-d1e128">
+               <ref xml:id="xAbSeN-1e9510-Rd1e130">beda de tabernaculo</ref>: Feminalia, quae ad operiendam carnem turpitudinis
+      filiis Aaron dantur, illam castimoniae portionem, quae ab
+      appetitu copulae coniugalis proprie cohibet, designant, sine qua nemo
+      uel sacerdotium suscipere uel ad altaris potest ministerium
+      consecrari, id est nisi aut uirgo permanserit aut cum uxore
+      coniunctionis foedera soluerit.
+    </p>
+            <p xml:id="xAbSeN-1e9510-d1e136">
+               <ref xml:id="xAbSeN-1e9510-Rd1e138">gregorius venantio episcopo lunensi</ref>: Statuimus diaconem et abbatem
+      quem de portu Veneris indicas cecidisse, ad sacrum ordinem non debere
+      uel posse aliquo modo reuocari. Subdiacones quoque quos similis culpa
+      constringit, ab officio suo inreuocabiliter depositi inter laicos
+      communionem accipiant.
+    </p>
+            <p xml:id="xAbSeN-1e9510-d1e142">IDEM ARTHEMI0 SUBDIACONO: Quia aliquos monachorum ad tantum nefas
+      prosiluisse cognouimus ut uxores publice sortiantur, sub omni eos
+      uigilantia requiras et inuentos cohertione in monasterium, quorum
+      monachi fuerant, remittas.
+    </p>
+            <p xml:id="xAbSeN-1e9510-d1e145">
+               <ref xml:id="xAbSeN-1e9510-Rd1e147">idem</ref>: Peruenit ad nos, quod quidam uir nequissimus diabolico instinctu
+      de monasterio suaserit quandam exire Deo sacratam atque a quodam uiro,
+      unde exierat, sit reuocata, rursusque eam uir ille nequissimus iniqua
+      suasione de monasterio eiciens apud se nunc usque retineat impudice.
+      Volumus autem atque praecipimus ut episcopatus tui auctoritate
+      reuocetur ac reducatur.
+    </p>
+            <p xml:id="xAbSeN-1e9510-d1e151">IDEM MORALIUM LIB. Xll: Meliua est nubere quam uri. Sine culpa ad
+      coniugium ueninnt, si tamen necdum meliora deuouerunt. Nam quisquis
+      maius bonum subire proposuit, bonum minus quod licuit, illicitum
+      fecit. Scriptum quippe est: Nemo mittens manum suam super aratrum etc.
+    </p>
+            <p xml:id="xAbSeN-1e9510-d1e154">
+               <ref xml:id="xAbSeN-1e9510-Rd1e156">gelasius papa</ref>: Virginibus sacris se quosdam sociare cognouimus et post
+      dedicatum incesta foedera sacrilegaque miscere; quos protinus
+      aequum est a sacra communione detrudi et nisi per publicam probatamque
+      paenitentiam non recipi. At his certe uiaticum de saeculo
+      transeuntibus, si tamen paenituerunt, non negere.
+    </p>
+            <p xml:id="xAbSeN-1e9510-d1e163">
+               <ref xml:id="xAbSeN-1e9510-Rd1e165">ex chalcedonensi concilio</ref>: Diaconissam non debere ante XL annos
+      ordinari et hoc cum diligenti probatione. Si uero susceperit ordinem
+      et quantocumque tempore se obseruauerit ad ministerium, postea se
+      nuptiis tradiderit iniuriam faciens gratiae Dei, haec anathema sit cum
+      illo qui in illis nuptiis conuenerit.
+    </p>
+            <p xml:id="xAbSeN-1e9510-d1e169">
+               <ref xml:id="xAbSeN-1e9510-Rd1e171">item</ref>: Virginem quae se Deo consecrauit, similiter et monachum non
+      licere nuptialia iura contrahere. Quod si hoc inuenti fuerint
+      perpetrantes, excommunicentur; confitentibus autem decreuimus ut
+      habeat auctoritatem eiusdem loci episcopus misericordiam
+      humanitatemque largiri.
+    </p>
+            <p xml:id="xAbSeN-1e9510-d1e175">
+               <ref xml:id="xAbSeN-1e9510-Rd1e177">hieronymus contra iovinianum lib. i</ref>: Et si nupserit uirgo, non
+      peccabit; non illa uirgo quae se semel Dei cultui dedicauit; harum
+      siqua nupserit, habebit damnationem quia primam fidem irritam fecit.
+      Si autem hoc de uiduis adiecit, quanto magis de uirginibus
+      praeualebit, cum etiam his non liceat, quibus aliquando licuitl
+      Virgines enim quae publice consecratae nupserint, non tam adulterae
+      sunt quam incestae.
+    </p>
+            <p xml:id="xAbSeN-1e9510-d1e181">
+               <ref xml:id="xAbSeN-1e9510-Rd1e183">augustinus de conflictu vitiorum et virtutum cap. xxii</ref>: Nubendi
+      licentia quibusdam tribuitur hoc est qui uirginitatem uel castimoniam
+      uidualem nequaquam professi sunt; quibusdam autem non tribuitur, id
+      est qui uirgines uel continentes esse decreuerunt.  Fornicatio uero
+      nulli impune conceditur.
+    </p>
+            <p xml:id="xAbSeN-1e9510-d1e187">
+               <ref xml:id="xAbSeN-1e9510-Rd1e189">idem in epistola ad bonefatium comitem</ref>: Nos nouimus, nos testes sumus,
+      quod nobiscum apud Tubanas de animo et uoluntate tua fuerimus
+      collocuti. Soli tecum eramus ego et frater Alypius. Nempe omnes actus
+      publicos, quibus occupatus eras relinquere cupiebas, et te in otium
+      sanctum conferre atque in ea uita uiuere in qua serui Dei monachi
+      uiuunt. Cum ergo te esse in hoc proposito gauderemus, nauigasti
+      uxoremque duxisti. Si coniugem non haberes, dicerem tibi quod et
+      Tubanis diximus, ut in castitate continentiae uiueres. Sed ut te ad
+      istam uitam non exhorter, coniux impedimento est, sine cuius
+      consensione continenter tibi non licet uiuere, quia etsi tu eam post
+      illa Tubanensia uerba tua ducere non debebas, illa tibi tamen nihil
+      eorum sciens innocenter et simpliciter nupsit. Atque utinam posses ei
+      persuadere continentiam, ut sine impedimento redderes Deo quod te
+      debere cognoscis. Sed si id cum illa agere non potes, serua tamen
+      pudicitiam coniugalem, et roga Deum ut quod non potes modo, possis
+      aliquando.
+    </p>
+            <p xml:id="xAbSeN-1e9510-d1e195">
+               <ref xml:id="xAbSeN-1e9510-Rd1e197">idem in libro de continentia viduali ad iulianam</ref>: Iam enim conuersae
+      sunt quaedam retro sathanam, id est ab illo excellenti uirginalis uel
+      uidualis castitatis proposito in posteriora respiciendo cadere et
+      interire. Proinde quae se non continent, nubant antequam continentiam
+      profiteantur, antequam Deo uoueant; quod nisi reddant, iure
+      damnabuntur.  Alio quippe loco de talibus dicit: Cum enim in delioiia
+      egerint in Christo, nubere uolunt, habentes damnationem, quia primam
+      fidem irritam fecerunt, id est uoluntatem ad nuptias a proposito
+      continentiae deflexerunt.
+    </p>
+            <p xml:id="xAbSeN-1e9510-d1e202">
+               <ref xml:id="xAbSeN-1e9510-Rd1e204">item</ref>: Quae non coepit, deliberet; quae aggressa est, perseueret. Nulla
+      aduersario detur occasio, nulla Deo subtrahatur oblatio. In coniugali
+      quippe uinculo si pudicitia conseruatur, damnatio non timetur; sed in
+      uirginali et uiduali continentia excellentia muneris amplioris
+      expetitur; qua expetita et electa et uoti debito oblata iam non
+      solum nuptias capessere sed etiam, si non nubat, nubere uelle
+      damnabile est. Nam ut hoc demonstraret apostolus non ait, Cum in
+      detiolia egerint in Chriato nubunt, sed nubere uolunt habentea
+      damnationem, quia primam fidem irritam fecerunt, non quia nuptiae
+      talium damnandae iudicantur sed damnatur propositi fraus, damnatur
+      fracta uoti fides, damnatur non susceptio a bono inferiore sed ruina a
+      superiore; postremo damnantur tales, non quia coniugalem fidem
+      posterius inierunt, sed quia primam fidem continentiae irritam
+      fecerunt. Quod ut breuiter insinuaret apostolus, noluit dicere eas
+      habere damnationem quae post amplioris sanitatis propositum nubunt;
+      non quia non damnantur, sed ne in illis nuptiae damnari putarentur.
+    </p>
+            <p xml:id="xAbSeN-1e9510-d1e210">
+               <ref xml:id="xAbSeN-1e9510-Rd1e212">item</ref>: Habentea damnationem, quaniam primam fidem irritam fecerunt; ut
+      uoluntas, quae a proposito decidit, appareat esse damnata, siue
+      subsequantur nuptiae siue desint. Proinde qui dicunt talium nuptias
+      non esse nuptias sed potius adulteria, non mihi uidentur satis
+      diligenter considerare quid dicant. Fallit quippe eos similitudo
+      ueritatis.
+    </p>
+            <p xml:id="xAbSeN-1e9510-d1e216">
+               <ref xml:id="xAbSeN-1e9510-Rd1e218">item</ref>: Argumentantur quidam hinc dicentes, Si uiro suo uiuo quae alteri
+      nupserit, adultera est; uiuo ergo Christo, cui mors ultra non
+      dominatur, quae coniugium eius elegerat, adultera est. Qui hoc dicunt,
+      acute quidem mouentur; sed parum attendunt argumentationem talem
+      quanta sequatur absurditas. Cum enim laudabiliter etiam uiuente uiro
+      ex eius consensu continentiam Christo femina uoueat, iam secundum
+      istorum rationem nulla hoc facere debet, ne ipsum Christum adulterum
+      faciat, cui uiuente uiro nubit. Deinde cum primae nuptiae
+      melioris meriti sint quam secundae, absit ut sanctarum uiduarum iste
+      sit sensus, ut Christus eis sit secundus maritus. Ipsum enim et antea
+      habebant, quando uiris suis fideliter subditae seruiebant, non
+      carnaliter sed spiritualiter uirum; cuius ecclesia, cuius membra sunt,
+      coniunx est. Fit autem per hanc minus consideratam opinionem qua
+      putant lapsarum a sancto proposito feminarum, si nupserint, non esse
+      coniugia, non paruum malum, ut a maritis separentur uxores, quasi
+      aduiterae sint non uxores, et cum uolunt eas separatas reddere
+      continentiae, faciunt maritos earum adulteros ueros, cum suis uxoribus
+      uiuis adulteras duxerint.  Quapropter non possum dicere a proposito
+      meliore lapsas, si nupserint, feminas adulteria esse non coniugia. Sed
+      plane non dubitauerim dicere lapsus et ruinas a castitate sanctiore
+      quae uouetur domino, adulteriis esse peiores. Si enim, quod nullo modo
+      dubitandum est, ad offensionem Christi pertinet, cum membrum eius
+      fidem non seruat marito, quanto grauius offenditur, cum ipsi non
+      seruatur fides in eo quod exigit oblatum, quod non exegerat
+      offerendum! Cum enim quisque non reddit, quod non imperio compulsus
+      sed consilio admonitus uouit, tanto magis fraudati uoti auget
+      iniquitatem quanto minus habuit uouendi necessitatem.
+    </p>
+            <p xml:id="xAbSeN-1e9510-d1e224">
+               <ref xml:id="xAbSeN-1e9510-Rd1e226">item</ref>: Post uoti professionem perseueranter frangendum est et
+      uincendum, quod libet, quia non licet.
+    </p>
+            <p xml:id="xAbSeN-1e9510-d1e230">
+               <ref xml:id="xAbSeN-1e9510-Rd1e232">idem in levitico</ref>: Sororem sorori noluit superduci, quod uidetur
+      fecisse Iacob, siue quia nondum fuerat lege prohibitum siue quia
+      suppositae alterius fraude deceptus est, et illa magis de placito
+      ueniebat quam posterius accepit. Sed iniustum erat priorem dimitti, ne
+      faceret eam moechari.
+    </p>
+            <p xml:id="xAbSeN-1e9510-d1e238">
+               <ref xml:id="xAbSeN-1e9510-Rd1e240">beda</ref>: Aue gratia plena; dominus tecum; benedicta tu in mulieribus.
+      Vere etenim gratia erat plena cui diuino munere collatum est ut prima
+      inter feminas gloriosum Deo uirginitatis munus offerret. Unde iure
+      angelico aspectu simul et affatu meruit perfrui, quae angelicam
+      studuit uitam imitari. Vere dominus cum illa erat quam et prius nouae
+      castitatis consecrauit. Spiritus sanctus superueniet in te, et uirtus
+      altissimi obumbrabit tibi. Quia et mentem illius, quantum humana
+      fragilitas patitur, ab omni uitiorum sorde castigauit, et cor illius
+      cum impleuit, ab omni aestu concupiscentiae carnalis temperauit et
+      mundauit a desideriis temporalibus, ac donis caelestibus mentem simul
+      illius consecrauit et corpus.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

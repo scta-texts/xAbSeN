@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 108</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 108</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e7796"><!-- xAbSeN-q108 -->
+            <head xml:id="xAbSeN-1e7796-Hd1e103">Quaestio 108</head>
+            <head xml:id="xAbSeN-1e7796-Hd1e106" type="question-title"> quod parvuli peccatum non habeant et contra</head>
+    
+            <p xml:id="xAbSeN-1e7796-d1e109">
+               <ref xml:id="xAbSeN-1e7796-Rd1e111">hieronymus super ezechielem</ref>: Quamdiu anima in infantia constitute est,
+      peccato caret.
+    </p>
+            <p xml:id="xAbSeN-1e7796-d1e115">
+               <ref xml:id="xAbSeN-1e7796-Rd1e117">idem ad heliodorum, in epitaphio nepotiani</ref>: Regnauit mors ab Adam
+      usque ad Moysen etiam in eos etc. Si Abraham et Isaac et Iacob in
+      inferno, quis in caelorum regno? Si amici tui sub poena offendentis
+      Adam, et qui non peccauerunt alienis peccatis tenebantur obnoxii, quid
+      de his credendum est qui dixerunt in cordibus suis: non est Deus?
+    </p>
+            <p xml:id="xAbSeN-1e7796-d1e121">
+               <ref xml:id="xAbSeN-1e7796-Rd1e123">augustinus de fide ad petrum</ref>: Ideo nec aeternitas irrationabilibus
+      spiritibus data est nec aliquod eis iudicium praeparatur, in quo eis
+      uel beatitudo pro bonds uel damnatio pro malis reddatur operibus.
+      Ideo in eis nulla operum discretio requiretur, quia nullam
+      intelligendi facultatem diuinitus acceperunt. Propterea igitur eorum
+      corpora resurrectura non sunt, quia nec ipsis animalibus aut aequitas
+      aut iniquitas fuit, pro qua eis aut aeterna beatitudo sit retribuenda
+      uel poena.
+    </p>
+            <p xml:id="xAbSeN-1e7796-d1e128">
+               <ref xml:id="xAbSeN-1e7796-Rd1e130">idem in libro quaestionum veteris et novae legis</ref>: Quomodo reus
+      constituitur qui nescit quod fecerit?  /354/
+    </p>
+            <p xml:id="xAbSeN-1e7796-d1e134">IDEM IN SERMONE IN HANC LECTIONEM, Cum enim essemus in carne, AIT
+      APOSTOLUS, passiones peocatorum etc.: Concupiscentiam nesciebam, nisi
+      lex diceret: non concupisces. Homo quod bonum putabat, malum esse
+      cognoscit. Voluit frenare concupiscentiam; conatus est, uictus est.
+      Coepit esse non solum peccator sed etiam praeuaricator. Peccator enim
+      et antea erat, sed antequam legem audiret peccatorem se esse
+      nesciebat. Factus est praeuaricator qui fuit ante nescius peccator.
+    </p>
+            <p xml:id="xAbSeN-1e7796-d1e137">
+               <ref xml:id="xAbSeN-1e7796-Rd1e139">haimo super epistolam pauli ad romanos</ref>: Sine enim lege naturali uel
+      Moysi peccatum mortuum erat, id est latebat, ignorabatur, non
+      apparebat. Antequam lex naturalis et intellectus incipiat uigere in
+      paruulis aliisque hominibus, licet percutiant patrem et matrem et
+      maledicant, non peccant. Similiter antequam lex Moysi data esset,
+      erant quaedam peccata quae ignorabantur peccata esse, quae commissa
+      non tantae grauitudinis erant uel, etiamsi cognoscebantur esse
+      peccata, latebat qua poena digna essent.
+    </p>
+            <p xml:id="xAbSeN-1e7796-d1e143">
+               <ref xml:id="xAbSeN-1e7796-Rd1e145">augustinus in sermone de verbis apostoli</ref>: Ecce infantes in suis utique
+      operibus innocentes sunt, nihil secum nisi quod de primo homine
+      traxerunt habentes.  Responde mihi, quare moriuntur, si omnes homines,
+      quoniam peccant, ideo moriuntur? Quid putatis dici potuisse?
+      Peccauerunt et ipsi. Ubi pecca(ue)runt? Rogo te, quando? quomodo?
+      Bonum et malum quid sit nesciunt. Peccatum accipiunt qui praeceptum
+      non capiunt. Quid de illis dicis qui in utero moriuntur? Et ipsi,
+      inquit, peccauerunt.  Contradicit apostolus. Magis apostolum audio
+      quam te: Nondum natis neo aliquid agentibua boni aut mali.
+    </p>
+            <p xml:id="xAbSeN-1e7796-d1e149">
+               <ref xml:id="xAbSeN-1e7796-Rd1e151">isidorus de summo bono, lib. i</ref>: Innoxios esse infantes opere, non esse
+      innoxios cogitatione, quia motum quem gerunt in mente nondum possunt
+      exercere opere; ac per hoc in illis aetas est imbecillis, non animus.
+      Ad nutum enim uoluntatis non obtemperat illis fragilitas /355/
+      corporis, nec adeo opere nocere possunt sicut cogitatione mouentur.
+    </p>
+            <p xml:id="xAbSeN-1e7796-d1e155">
+               <ref xml:id="xAbSeN-1e7796-Rd1e157">gregorius dialogorum lib. iv, cap. xviii, de puero blasphemo</ref>: Et si
+      omnes baptizatos infantes atque in infantia morientes ingredi regnum
+      caeleste credendum est, omnes tamen paruulos, qui iam loqui possunt,
+      regna caelestia ingredi credendum non est, quia nonnullis paruulis
+      eiusdem regni caelestis aditus a parentibus clauditur, si male
+      nutriantur. Nam quidam in hac urbe notissimus ante triennium filium
+      habuit annorum, sicut arbitror, quinque. Quem nimis carnaliter
+      diligens remisse nutriebat, atque idem paruulus, quod dictu graue est,
+      mox eius animo ut aliquid obstitisset, maiestatem Dei blasphemare
+      consueuerat. Qui in hac ante triennium mortalitate percussus uenit ad
+      mortem.  Cumque eum pater in sinu teneret, sicut testati sunt qui
+      praesentes fuerunt, malignos ad se spiritus uenisse puer aspiciens
+      coepit clamare, Obsta, pater, obsta!  Mauri homines uenerunt, qui me
+      tollere uolunt. Qui cum hoc dixisset, maiestatis nomen protinus
+      blasphemauit et animam reddidit. Ut enim Deus ostenderet pro quo reatu
+      talibus fuisset exsecutoribus traditus, unde uiuentem pater suus
+      noluit corrigere, hoc morientem permisit iterare, quatinus reatum suum
+      pater eius agnosceret, qui paruuli filii animam negligens non paruulum
+      peccatorem Gehennae ignibus nutrisset.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

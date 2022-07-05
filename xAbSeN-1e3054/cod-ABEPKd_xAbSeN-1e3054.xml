@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 35</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 35</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e3054"><!-- xAbSeN-q35 -->
+            <head xml:id="xAbSeN-1e3054-Hd1e103">Quaestio 35</head>
+            <head xml:id="xAbSeN-1e3054-Hd1e106" type="question-title"> quod ubi deest velle dei desit et posse et contra</head>
+    
+            <p xml:id="xAbSeN-1e3054-d1e109">
+               <ref xml:id="xAbSeN-1e3054-Rd1e111">ex vita sancti hieronymi quae sic incipit, hieronymus noster</ref>: Sanctus
+      Hieronymus Eustochio ad meliora studuit hortando mandare: Cum omnia
+      possit Deus, uirginitatem suscitare non potest post ruinam, quod non
+      posse Dei non uelle alio omni modo dici poterat uerbo. Per quemdam
+      namque sapientem dicitur Deo, Tu autem dominator uirtutis, cum
+      tranquillitate iudicas, et cum magna reuerentia disponis. Subest enim
+      tibi, cum uolueris, posse. Ergo ubi non est uelle Dei, deest
+      posse. Deus quippe ut immutabilis naturae, ita immutabilis est
+      uoluntatis.
+    </p>
+            <p xml:id="xAbSeN-1e3054-d1e115">
+               <ref xml:id="xAbSeN-1e3054-Rd1e117">augustinus in tractatu de symbolo</ref>: Quod non uult omnipotens, hoc solum
+      non potest.
+    </p>
+            <p xml:id="xAbSeN-1e3054-d1e121">
+               <ref xml:id="xAbSeN-1e3054-Rd1e123">item</ref>: Sed quondam dixi hoc solum omnipotentem non posse quod non uult,
+      ne quis me temere dixisse arbitretur aliquid omnipotentem non
+      posse. Hoc et apostolus dixit: Si non oredimus, ille qui fidelis
+      permanet, negare se ipsum non potest, quia et uelle non potest. Non
+      enim potest iustitia uelle facere quod iniustum est.
+    </p>
+            <p xml:id="xAbSeN-1e3054-d1e128">
+               <ref xml:id="xAbSeN-1e3054-Rd1e130">item</ref>: Si ergo potest esse quod non uult, omnipotens non est. Est autem
+      omnipotens; ergo quidquid uult potest, et ideo quod non uult
+      esse non potest; qui propterea dicitur omnipotens, quoniam quidquid
+      uult potest.
+    </p>
+            <p xml:id="xAbSeN-1e3054-d1e136">
+               <ref xml:id="xAbSeN-1e3054-Rd1e138">idem de trinitate, lib. xiii, cap. x</ref>: <quote xml:id="xAbSeN-1e3054-Qd1e141" source="http://scta.info/resource/adt-l13-d1e1457" synch="3-86">Eos qui dicunt, itane defuit Deo
+      modus alius quo liberaret homines, ut unigenitum filium hominem fieri
+      uellet, mortalemque factum mortem perpeti? parum est sic refellere
+      ut istum modum quo nos liberare dignatur asseramus bonum; uerum etiam
+      ut ostendamus non alium modum possibilem Deo defuisse, cuius potestati
+      cuncta aeque subiacent sed sanandae nostrae miseriae conuenientiorem
+      alium modum non fuisse.</quote> 
+               <quote xml:id="xAbSeN-1e3054-Qd1e144" source="http://scta.info/resource/adt-l13-d1e1495" synch="2-24">Cur non fieret mors Christi, immo cur non,
+      praetermissis innumerabilibus modis quibus ad nos liberandos uti
+      posset omnipotens, ipsa potissimum eligeretur?</quote>
+            </p>
+            <p xml:id="xAbSeN-1e3054-d1e148">
+               <ref xml:id="xAbSeN-1e3054-Rd1e150">item</ref>: <quote xml:id="xAbSeN-1e3054-Qd1e153" source="http://scta.info/resource/adt-l13-d1e1501" synch="3-66">Poterat utique Deus hominem aliunde suscipere in quo esset
+      mediator Dei et hominum, non de genere illius Adam, sicut illum quem
+      primum creauit non de genere creauit alicuius. Poterat, uel sic uel
+      alio quo uellet modo creare unum alium de quo uinceretur uictor
+      prioris sed melius iudicauit de ipso quod uictum fuerat genere
+      hominem assumere.</quote>
+            </p>
+            <p xml:id="xAbSeN-1e3054-d1e157">
+               <ref xml:id="xAbSeN-1e3054-Rd1e159">idem in lib. quaestionum veteris et novae legis</ref>: Potuit Deus simul
+      cuncta facere sed ratio prohibuit.
+    </p>
+            <p xml:id="xAbSeN-1e3054-d1e163">
+               <ref xml:id="xAbSeN-1e3054-Rd1e165">item</ref>: Poterat animam limo terrae admiscere, et sic formare corpus sed
+      ratione infirmabatur, quia primum oportebat domum compaginari et sic
+      habitatorem induci.
+    </p>
+            <p xml:id="xAbSeN-1e3054-d1e169">
+               <ref xml:id="xAbSeN-1e3054-Rd1e171">idem in enchiridion</ref>: Omnipotentis uoluntas mala esse nunquam potest.
+      Praeterea multa potest facere quae nec facit, nec uult. Potuit enim
+      efficere ut XII legiones angelorum pugnarent contra eos qui eum
+      ceperunt.
+    </p>
+            <p xml:id="xAbSeN-1e3054-d1e176">
+               <ref xml:id="xAbSeN-1e3054-Rd1e178">evangelista matthaeus</ref>: <quote xml:id="xAbSeN-1e3054-Qd1e181" source="http://scta.info/resource/adt-l13-d1e1501">An putatis quia non possum rogare patrem, et
+      exhibebit mihi modo plus quam XII legiones angelorum?</quote> 
+               <!-- /186/-->
+            </p>
+            <p xml:id="xAbSeN-1e3054-d1e187">
+               <ref xml:id="xAbSeN-1e3054-Rd1e189">item</ref>: Tunc in clarissima sapientiae luce uidebitur quod nunc fides
+      habet, quam certe immutabilis et efficacissima sit uoluntas Dei, quam
+      multa possit et non uelit, nihil autem uelit quod non possit.
+    </p>
+            <p xml:id="xAbSeN-1e3054-d1e193">
+               <ref xml:id="xAbSeN-1e3054-Rd1e195">idem in libro de spiritu et littera</ref>: Absurdum tibi uidetur dici
+      aliquid fieri posse, cuius desit exemplum; cum, sicut credo, non
+      dubites nunquam esse factum ut per foramen acus camelus transiret, et
+      tamen ille hoc quoque dixit Deo esse possibile.
+    </p>
+            <p xml:id="xAbSeN-1e3054-d1e199">
+               <ref xml:id="xAbSeN-1e3054-Rd1e201">item</ref>: His addi possunt etiam illa quae leguntur in libro sapientiae,
+      quoniam multa posset noua tormenta Deus exercere in impios ad nutum
+      sibi seruiente creatura, quae tamen non exercuit. Potest et de monte
+      illo, quem fides in mare transferret, quod tamen nusquam factum uel
+      legimus uel audiuimus. Quisquis horum aliquid Deo dixit impossibile,
+      uides quam desipiat quamque aduersus fidem scripturae eius loquatur.
+      Multa alia hulusmodi possunt occurrere uel legenti uel cogitanti, quae
+      possibilia Deo negare non possumus quamuis eorum desit exemplum.
+    </p>
+            <p xml:id="xAbSeN-1e3054-d1e205">
+               <ref xml:id="xAbSeN-1e3054-Rd1e207">idem in libro de natura et gratia</ref>: Dominus Lazarum suscitauit; sine
+      dubio potuit. Quia uero Iudam non suscitauit, numquid dicendum est,
+      non potuit? Potuit ergo sed noluit. Nam si uoluisset, eadem etiam hoc
+      potestate fecisset; quia filius quos uult uiuifieat.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

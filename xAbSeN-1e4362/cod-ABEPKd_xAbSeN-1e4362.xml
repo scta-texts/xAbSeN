@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 53</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 53</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e4362"><!-- xAbSeN-q53 -->
+            <head xml:id="xAbSeN-1e4362-Hd1e103">Quaestio 53</head>
+            <head xml:id="xAbSeN-1e4362-Hd1e106" type="question-title"> quod peccatum adae magnum fuerit et non</head>
+    
+            <p xml:id="xAbSeN-1e4362-d1e109">
+               <ref xml:id="xAbSeN-1e4362-Rd1e111">ambrosius in epistola pauli ad romanos</ref>: Propterea sicut per unum
+      hominem pecoatum etc. Quia unus Adam id est Eua, quia mulier Adae
+      peccauit.
+    </p>
+            <p xml:id="xAbSeN-1e4362-d1e115">
+               <ref xml:id="xAbSeN-1e4362-Rd1e117">item</ref>: In quo, id est in Adam, omnes peccauerunt. Ideo dixit in quo,
+      cum de muliere loquebatur, quia non ad speciem retulit sed ad genus.
+      In similitudinem praeuaricationis Adae et Thara, pater Abrahae, et
+      Nachor et Laban proprios deos habebant. Et peccatum Adae non longe est
+      ab idolatria. Praeuaricauit enim putans se hominem futurum Deum.
+      Aestimauit enim hoc magis profuturum, quod diabolus suasit, quam quod
+      Deus iussit, in loco Dei diabolum statuens. Unde et subditus /230/
+      factus est diabolo.
+    </p>
+            <p xml:id="xAbSeN-1e4362-d1e121">
+               <ref xml:id="xAbSeN-1e4362-Rd1e123">augustinus in enchiridion cap. xlv</ref>: Quamuis et in illo peccato, quod
+      per unum hominem intrauit in mundum, et in omnes homines pertranaiit,
+      propter quod etiam paruuli baptizantur, possint intelligi plura
+      peccata, si unum ipsum in sua quasi membra singula diuidatur. Nam et
+      superbia est illic, quia homo in sua potius esse quam in Dei potestate
+      dilexit; et sacrilegium, quia Deo non credidit; et homicidium, quondam
+      se praecipitauit in mortem; et fornicatio spiritualis, quondam
+      integritas mentis humanae serpentine suasione corrupta est; et furtum,
+      quia cibus prohibitus usurpatus est; et auaritia, quia plus quam quod
+      sufficere debuit, appetiuit; et si quid aliud in hoc uno admisso
+      diligenti consideratione inueniri potest.
+    </p>
+            <p xml:id="xAbSeN-1e4362-d1e128">
+               <ref xml:id="xAbSeN-1e4362-Rd1e130">item cap. xlvi</ref>: In iniquitatibus conceptus sum et in delictia mater
+      mea in utero me aluit. Neque hic dixit in iniquitate uel in peccato,
+      cum ad hoc recte dici possit sed iniquitates et peccata dicere
+      maluit. Quia et in illo uno quod in omnes homines pertransiit atque
+      tam magnum est ut in eo mutaretur et conuerteretur humana natura,
+      reperiuntur, sicut supra disserui, plura peccata.
+    </p>
+            <p xml:id="xAbSeN-1e4362-d1e134">
+               <ref xml:id="xAbSeN-1e4362-Rd1e136">hieronymus ad virginem deo consecratam</ref>: Adae magis parcendum fuerat,
+      qui adhuc nouellus erat et nullius ante peccantis et propter peccatum
+      suum morientis retrahebatur exemplo. Tibi uero post tanta documenta,
+      post legem, post prophetas, post euangelia, post apostolos, si
+      delinquere uolueris, quomodo indulgere possit ignoro.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

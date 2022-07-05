@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 132</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 132</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-e10406"><!-- xAbSeN-q132 -->
+            <head xml:id="xAbSeN-e10406-Hd1e103">Quaestio 132</head>
+            <head xml:id="xAbSeN-e10406-Hd1e106" type="question-title"> quod sterilis non videatur ducenda et contra</head>
+    
+            <p xml:id="xAbSeN-e10406-d1e109">
+               <ref xml:id="xAbSeN-e10406-Rd1e111">augustinus contra faustum lib. i, cap. xix</ref>: Quaero cur displiceat
+      dimittere uxorem quam non ad matrimonii fidem sed ad concupiscentiae
+      crimen habendam esse censetis. Matrimonium quippe ex hoc appellatum
+      est, quod non ob aliud debet femina nubere quam ut mater fiat, quod
+      uobis odiosum est.
+    </p>
+            <p xml:id="xAbSeN-e10406-d1e115">
+               <ref xml:id="xAbSeN-e10406-Rd1e117">idem de bono coniugali</ref>: Generationis itaque causa fieri nuptias
+      apostolus ita testis est. Volo, inquit, iuniores nubere etc.
+    </p>
+            <p xml:id="xAbSeN-e10406-d1e121">IDEM DE NUPTIIS ET CONCUPISCENTiA LIB. I: Plures feminae uni uiro
+      nunquam licite inngerentur nisi ex hoc plures filii nascerentur. Unde
+      si una concumbat cum pluribus, quia non est hinc multiplicatio prolis
+      sed frequentatio libidinis, coniunx non potest esse sed meretrix.
+    </p>
+            <p xml:id="xAbSeN-e10406-d1e125">IDEM DE BONO CONIUGALl: Miror autem, si quemadmodum licet dimittere
+      aduiteram uxorem, ita liceat ea dimissa alteram ducere. Facit enim de
+      hac re scriptura difficilem nodum dicente apostolo ex praecepto domini
+      mulierem a uiro non diacedere, quod si discesserit, manere innuptam
+      aut uiro auo reconciliari. Quomodo autem uiro possit esse licentia
+      ducendae alterius si adulteram reliquerit, cum mulieri non sit
+      nubendi alteri si alterum reliquerit, non uideo. Quae si ita sunt,
+      tantum ualet illud sociale uinculum coniugum ut cum causa procreandi
+      colligetur nec ipsa causa procreandi soluatur. Posset enim homo
+      dimittere sterilem uxorem et ducere de qua filios haberet, et tamen
+      non licet.
+    </p>
+            <p xml:id="xAbSeN-e10406-d1e130">
+               <ref xml:id="xAbSeN-e10406-Rd1e132">idem in eodem</ref>: Semel initum conubium nullo modo potest nisi alicuius
+      eorum morte dissolui. Manet enim uinculum nuptiarum etiamsi proles,
+      cuius causa initum est, manifesta sterilitate non subsequatur, ita ut
+      iam scientibus coniugatis non se filios habituros separare se tamen
+      uel ipsa causa filiorum atque aliis copulare non liceat. Quod si
+      fecerint, cum eis quibus se copulauerint adulterium committunt.
+    </p>
+            <p xml:id="xAbSeN-e10406-d1e136">
+               <ref xml:id="xAbSeN-e10406-Rd1e138">idem de nuptiis et concupiscentia</ref>: Hoc custoditur in Christo et
+      ecclesia, ut uiuens a uiuente in aeternum nullo diuortio separetur.
+      Cuius sacramenti tanta obseruatio est quibusque fidelibus coniugatis
+      ut, cum filiorum procreandorum causa uel nubant feminae uel uiri
+      ducant uxores, nec sterilem coniugem fas sit dimittere, ut fecunda
+      ducatur.  Quod si quis fecerit, non lege huius saeculi, ubi
+      interueniente repudio sine crimine conceditur cum aliis alia copulare
+      conubia (quod etiam Moysen dominus propter duritiam cordis illorum
+      Israelitis permisisse testatur), sed lege euangelii reus est
+      adulterii.
+    </p>
+            <p xml:id="xAbSeN-e10406-d1e142">
+               <ref xml:id="xAbSeN-e10406-Rd1e144">idem de bono coniugali</ref>: Nunc quippe nullus pietate perfectus filios
+      habere nisi spiritaliter quaerit; tunc uero ipsius pietatis erat ratio
+      etiam carnaliter filios propagare, quia illius populi generatio nuntia
+      futurorum erat et ad dispensationem propheticam pertinebat. Ideoque
+      non sicut uni uiro etiam plures habere licebat uxores, ita uni feminae
+      plures uiros nec prolis ipsius causa, si forte illa parere posset,
+      ille generare non posset. Occulta enim lege naturae amant
+      singularitatem quae principantur; subiecta uero plura uni sine
+      dedecore subduntur. Neque enim sic habet unus seruus plures dominos
+      quomodo plures serui unum dominum, sicut multse animae uni Deo recte
+      subduntur, una uero anima post multos deos fornicari potest, non
+      fecundari.
+    </p>
+            <p xml:id="xAbSeN-e10406-d1e150">
+               <ref xml:id="xAbSeN-e10406-Rd1e152">idem de nuptiis et concupiscentia</ref>: Eo usque peruenit libidinosa
+      crudelitas ut etiam sterilitatis uenena procuret. Prorsus si ambo
+      tales sunt, coninges non sunt; etsi ab initio tales fuerunt, non sibi
+      per conubium sed per stuprum conuenerunt. Si autem non ambo sunt
+      tales, audeo dicere aut illa est quodammodo mariti meretrix aut ille
+      adulter uxoris.
+    </p>
+            <p xml:id="xAbSeN-e10406-d1e156">
+               <ref xml:id="xAbSeN-e10406-Rd1e158">idem de doctrina christiana lib. iii</ref>: Suscipiendae prolis causa erat
+      uxorum plurium simul uni uiro habendarum inculpabilis consuetudo, et
+      ideo unam feminam maritos habere plurimos honestum non erat; non enim
+      mulier eo est fecundior. In huiuscemodi rebus quicquid illorum
+      temporum sancti non libidinose faciebant, quamuis ea facerent quae hoc
+      tempore nisi per libidinem fieri non possunt, non culpat scriptura.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

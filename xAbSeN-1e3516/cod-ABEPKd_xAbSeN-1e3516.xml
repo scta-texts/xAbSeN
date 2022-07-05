@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 43</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 43</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e3516"><!-- xAbSeN-q43 -->
+            <head xml:id="xAbSeN-1e3516-Hd1e103">Quaestio 43</head>
+            <head xml:id="xAbSeN-1e3516-Hd1e106" type="question-title"> quod nullus creatus spiritus loco moveatur et contra</head>
+    
+            <p xml:id="xAbSeN-1e3516-d1e109">
+               <ref xml:id="xAbSeN-1e3516-Rd1e111">augustinus super genesin lib. viii</ref>: Spiritalem creaturam corporali
+      praeposuit Deus, quod spiritalis tantummodo mutari per tempora posset,
+      corporalis autem per tempora et locos. Per tempus mouetur animus uel
+      reminiscendo quae oblitus erat uel discendo quae nesciebat uel uolendo
+      quae nolebat; per locos autem corpus.
+    </p>
+            <p xml:id="xAbSeN-1e3516-d1e115">
+               <ref xml:id="xAbSeN-1e3516-Rd1e117">item</ref>: Quisquis intelligere conatur quemadmodum incommutabilis Deus nec
+      per tempus nec per locum motus moueat temporaliter et localiter
+      creaturam suam, non eum puto posse assequi, nisi prius intellexerit
+      quemadmodum anima, hoc est spiritus creatus, nec per locum sed per
+      tempus motus, moueat corpus per tempus et locum.
+    </p>
+            <p xml:id="xAbSeN-1e3516-d1e123">
+               <ref xml:id="xAbSeN-1e3516-Rd1e125">item</ref>: Cui non facile occurrat, quod per locum non mouetur, quae per
+      loci spatium non distenditur?  Quidquid autem per loci spatia
+      distenditur corpus est. Ac per hoc consequens est, ut anima moueri non
+      putetur, si corpus non esse credatur.
+    </p>
+            <p xml:id="xAbSeN-1e3516-d1e130">IDEM SUPER ID QUOD SCRIPTUM EST, spiritus domini ferebatur super
+      aquas: Cum aquarum nomine illa materies insinuetur informis, quae de
+      nihilo facta est, unde omnia fierent, quid prohibet spiritum sanctum
+      intelligere conditoris, quod superferebatur huic materiae non locorum
+      gradibus interuallisque spatiorum, quod nequaquam de ulla re
+      incorporea dicitur recte sed excellentia et dominantis eminentia
+      super omnia, ut omnia conderentur?
+    </p>
+            <p xml:id="xAbSeN-1e3516-d1e133">
+               <ref xml:id="xAbSeN-1e3516-Rd1e135">idem in libro quaestionum orosii ad ipsum</ref>: Spiritus conditus sicut est
+      angelorum; quia ex tempore in inferioribus iussa Dei perficiunt, lure
+      creduntur moueri ex tempore.  Corpora uero sua in locum mouent dum
+      descendunt de caelo et adscendunt.
+    </p>
+            <p xml:id="xAbSeN-1e3516-d1e139">
+               <ref xml:id="xAbSeN-1e3516-Rd1e141">item</ref>: Igitur secundum supradictam rationem spiritus creatus per tempus
+      moueri potest, non per locum. Spiritus creator sine tempore et loco,
+      corpus autem et loco et tempore.
+    </p>
+            <p xml:id="xAbSeN-1e3516-d1e145">
+               <ref xml:id="xAbSeN-1e3516-Rd1e147">item</ref>: Animantia uel uolatilia in suo genere obtemperant Deo, sicut
+      moues ille omnia temporibus opportunis, non ipse temporaliter
+      motus. Mouet itaque se ipsum sine tempore et loco, moues creatum
+      spiritum sine loco temporaliter, moues creaturam corpoream
+      temporaliter et localiter.
+    </p>
+            <p xml:id="xAbSeN-1e3516-d1e151">
+               <ref xml:id="xAbSeN-1e3516-Rd1e153">item</ref>: Orosius: Quae cause fecit ut Deus, quem adstruis moueri, non
+      moueatur in tempore? Augustinus: Deus qui est ante tempora, nihil in
+      eo est praeteritum et futurum, nulla noua cogitatio; quia si noua, et
+      accidens. Si uero aliquid accidit Deo, iam incommutabilis non est.
+      Igitur incommutabilis Deus est, nihil illi accidit etc.
+    </p>
+            <p xml:id="xAbSeN-1e3516-d1e157">
+               <ref xml:id="xAbSeN-1e3516-Rd1e159">boethius in tertio topicorum</ref>: Anima neque crescit neque minuitur neque
+      ab alio loco transit ad alium.
+    </p>
+            <p xml:id="xAbSeN-1e3516-d1e164">SYMBOLUM QUOD DICITUR APOSTOLORUM: Mortuus et sepultus descendit
+      ad inferos.
+    </p>
+            <p xml:id="xAbSeN-1e3516-d1e169">
+               <ref xml:id="xAbSeN-1e3516-Rd1e171">ambrosius de fide ad gratianum imperatorem</ref>: Seraphim de loco ad locum
+      transit, non enim complet omnia.
+    </p>
+            <p xml:id="xAbSeN-1e3516-d1e175">
+               <ref xml:id="xAbSeN-1e3516-Rd1e177">augustinus quaestionum lxxxiii cap. ix</ref>: Moueri per se animam sentit,
+      qui sentit in se esse uoluntatem, qui tamen motus non est de loco in
+      locum tanquam corporis. Localiter enim moueri corporum proprium est.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

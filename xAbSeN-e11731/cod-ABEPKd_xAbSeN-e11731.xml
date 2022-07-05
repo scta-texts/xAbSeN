@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 145</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 145</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-e11731"><!-- xAbSeN-q145 -->
+            <head xml:id="xAbSeN-e11731-Hd1e103">Quaestio 145</head>
+            <head xml:id="xAbSeN-e11731-Hd1e106" type="question-title"> quod aliquando peccamus nolentes et contra</head>
+    
+            <p xml:id="xAbSeN-e11731-d1e109">
+               <ref xml:id="xAbSeN-e11731-Rd1e111">paulus apostolus in epistola ad romanos</ref>: Non enim quod uolo bonum, hoc
+      ago, sed quod odi malum, hoc facio. Si autem quod nolo, illud facio,
+      consentio legi, quoniam bona est, etc.
+    </p>
+            <p xml:id="xAbSeN-e11731-d1e115">
+               <ref xml:id="xAbSeN-e11731-Rd1e117">isidorus de summo bono, lib.  ii, cap. xxii</ref>: Plerique non uoluntate
+      sed sola necessitate peccant pertimescentes temporalem inopiam et dum
+      praesentis saeculi necessitatem refugiunt, a futuris bonis priuantur.
+    </p>
+            <p xml:id="xAbSeN-e11731-d1e121">
+               <ref xml:id="xAbSeN-e11731-Rd1e123">ex scriptis hieronymi, sententiae ipsius viduales vel monachiles</ref>: Omne
+      peccatum actio est. Actio autem omnis uoluntaria est etc. [Require
+      retro.]
+    </p>
+            <p xml:id="xAbSeN-e11731-d1e128">
+               <ref xml:id="xAbSeN-e11731-Rd1e130">augustinus de vera religione</ref>: Nunc usque adeo peccatum uoluntarium
+      malum est, ut nullo modo sit peccatum si non sit uoluntarium; et hoc
+      quidem ita manifestum est ut nulla hinc doctorum paucitas, nulla
+      indoctorum turba dissentiat. Quare aut negandum est peccatum committi,
+      aut fatendum est uoluntate committi.
+    </p>
+            <p xml:id="xAbSeN-e11731-d1e134">
+               <ref xml:id="xAbSeN-e11731-Rd1e136">item</ref>: Voluntate ergo peccatur, et quoniam peccari non est dubium, ne
+      hoc quidem dubitandum uideo habere animas liberum uoluntatis
+      arbitrium.  Tales enim seruos suos meliores esse Deus iudicauit, si ei
+      seruirent liberaliter. Quod nullo modo fieri posset si non uoluntate
+      sed necessitate seruirent. Liberaliter igitur Deo seruiunt, neque hoc
+      Deo sed ipsis prodest.
+    </p>
+            <p xml:id="xAbSeN-e11731-d1e140">
+               <ref xml:id="xAbSeN-e11731-Rd1e142">idem hoc ipsum rursum libro i retractationum commemorans et retractans
+      ait</ref>: "Usque adeo," inquam, "peccatum uoluntarium malum est, ut nullo
+      modo sit peccatum, si non sit uoluntarium." Potest uideri falsa haec
+      diffinitio. Sed si diligenter discutiatur, inuenitur uerissima.
+      Peccatum quippe illud cogitandum est quod tantummodo peccatum
+      est, non etiam poena peccati; quamuis et illa quae non immerito non
+      uoluntaria peccata dicuntur, quae a nescientibus uel coactis
+      perpetrantur, non omni modo possunt sine uoluntate committi; quoniam
+      et ille qui peccat ignorans, uoluntate utique peccat, quod cum
+      faciendum non sit, putat esse faciendum. Et ille qui concupiscente
+      aduersus spiritum carne non ea quae uult facit, concupiscit quidem
+      nolens et in eo non facit quod uult. Sed si uincitur, concupiscentiae
+      consentit uolens. Et in eo quod non facit nisi quod uult, liber
+      scilicet iustitiae seruusque peccati.  Et illud quod in paruulis
+      dicitur originale peccatum, cum adhuc non utantur arbitrio uoluntatis,
+      non absurde uocatur etiam uoluntarium, quia ex prima hominis mala
+      uoluntate contractum factum est quodammodo haereditarium, "ut nullo
+      modo sit peccatum, si non sit uoluntarium."
+    </p>
+            <p xml:id="xAbSeN-e11731-d1e148">
+               <ref xml:id="xAbSeN-e11731-Rd1e150">item in eodem</ref>: Quod dixi "nusquam nisi in uoluntate esse peccatum,"
+      possunt Pelagiani pro se dictum putare propter paruulos, quos negant
+      habere peccatum, quasi peccatum, quod eos ex Adam dicimus originaliter
+      trahere, id est reatu eius implicatos et ob hoc poenae obnoxios
+      detineri, usquam esse potuit nisi ex uoluntate, quia uoluntate
+      commissum est, quando diuini praecepti est facta transgressio. Potest
+      etiam putari falsa ista sententia, quia dixit apostolus: si autem quad
+      nolo, hoc facio, iam non ego operor illud, sed quod in me habitat
+      peccatum. Sed de quo sic est locutus apostolus, ideo peccatum uocatur,
+      quia peccato factum est poena peccati, quandoquidem hoc de
+      concupiscentia carnis dicitur, quod aperit in sequentibus dicens: sciO
+      quia non habitat in me, hoc est in oarne mea, bonum; uelle enim
+      adiacet mihi; perfioere autem bonum non. Perfectio quippe boni est ut
+      nec ipsa concupiscentia peccati sit in homine, cui quidem,
+      quando bene uiuitur, non consentit uoluntas; uerumtamen non perficit
+      bonum, quia inest adhuc concupiscentia, cui repugnat uoluntas. Cuius
+      concupiscentiae reatus in baptismate soluitur sed infirmitas manet,
+      cui qui bene proficit reluctatur. Peccatum autem quod nusquam est nisi
+      in uoluntate, illud praecipue intelligendum est quod iusta damnatio
+      consecuta est. Hoc enim per unum hominem intrauit in mundum, quamquam
+      et hoc peccatum quo consentitur peccati concupiscentiae, non nis~ in
+      uoluntate committitur. Propter hoc et alio loco dixi, "Non igitur nisi
+      uoluntate peccatur."
+    </p>
+            <p xml:id="xAbSeN-e11731-d1e156">
+               <ref xml:id="xAbSeN-e11731-Rd1e158">item</ref>: Voluntatem definiui dicens: "Voluntas est animi motus cogente
+      nullo ad aliquid uel non admittendum uel adipiscendum." Quod dictum
+      est sic ut ad illos referretur intentio qui primi in paradiso fecerunt
+      humano generi originem mali nullo cogente peccando, hoc est libera
+      uoluntate, quia et scientes contra praeceptum fecerunt et temptator
+      suasit, non coegit. Nam qui nesciens peccauit non incongruenter nolens
+      peccasse dici potest, quamuis et ipse quod nesciens fecit uolens tamen
+      fecit.  Quae uoluntas utique sic diffinita est: est animi motus
+      cogente nullo ad aliquid uel non admittendum uel adipiscendum. Ita nec
+      tale peccatum sine uoluntate esse potuit, sed uoluntas facti, non
+      peccati. Quod tamen factum peccatum fuit; hoc enim factum est quod
+      fieri non debuit.  Qui autem sciens peccat, si potest cogenti ad
+      peccatum sine peccato resistere nec tamen facit, utique uolens peccat;
+      quoniam qui potest resistere non cogitur cedere. Qui uero cogenti
+      cupiditati bona uoluntate resistere non potest et ideo facit contra
+      praecepta, iam hoc ita peccatum est ut sit etiam poena peccati.
+      Quapropter peccatum sine uoluntate esse non posse uerissimum est.
+    </p>
+            <p xml:id="xAbSeN-e11731-d1e162">
+               <ref xml:id="xAbSeN-e11731-Rd1e164">item</ref>: Diffinitio peccati, qua diximus: "peccatum est uoluntas
+      retinendi uel consequendi quod iustitia uetat et unde liberum est
+      abstinere," propterea uerum est, quia id definitum est quod tantummodo
+      peccatum est, non quod etiam poena peccati. Nam quando tale est ut
+      idem sit et poena peccati, quantum est quod ualet uoluntas sub
+      dominante cupiditate, nisi forte si pia est, ut oret auxilium? In
+      tantum enim libera est in quantum liberata est et in tantum appellatur
+      uoluntas. Alioquin tam cupiditas quam uoluntas proprie nuncupanda
+      est. Quod si quisquam dicit etiam ipsam cupiditatem nihil aliud esse
+      quam uoluntatem, sed uitiosam peccataque seruientem, non resistendum
+      est nec de uerbis, cum res constet, controuersia facienda est. Etiam
+      sic enim ostenditur sine uoluntate nullum esse peccatum siue in opere
+      siue in origine.
+    </p>
+            <p xml:id="xAbSeN-e11731-d1e171">
+               <ref xml:id="xAbSeN-e11731-Rd1e173">item</ref>: Respondemus naturam in his uerbis meis me intelligi uoluisse
+      illam quae proprie natura dicitur, in qua sine uitio creati sumus. Et
+      iterum quod dictum est "peccati reum teneri quemquam, quia non fecit
+      quod facere non potuit, summae iniquitatis et iniuriae est," Cur ergo,
+      inquinnt, paruuli tenentur rei? respondetur, quia ex origine eius
+      tenentur, qui non fecit quod facere potuit, diuinum scilicet seruare
+      mandatum. Quod autem dixi, "animae quidquid faciunt, si natura non
+      uoluntate faciunt, id est, si libero et ad faciendum et ad non
+      faciendum motu animi carent, si denique abstinendi ab opere suo
+      potestas nulla conceditur, peccatum eorum tenere non possumus," non
+      perturbat de paruulis quaestio, quia ex illius origine rei tenentur
+      qui uoluntate peccauit, quando ei ab opere abstinendum summa potestas
+      erat.
+    </p>
+            <p xml:id="xAbSeN-e11731-d1e177">
+               <ref xml:id="xAbSeN-e11731-Rd1e179">item in eodem</ref>: "Dico," inquam, "peccatum non esse, si non propria
+      uoluntate peccetur." Ubi peccatum intelligi uolui, quod non est etiam
+      poena peccati. Nam de tali poena dixi alibi in eadem disputatione quod
+      dicendum fuit.  /503/
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 154</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 154</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-e12133"><!-- xAbSeN-q154 -->
+            <head xml:id="xAbSeN-e12133-Hd1e103">Quaestio 154</head>
+            <head xml:id="xAbSeN-e12133-Hd1e106" type="question-title"> quod nulla de causa liceat mentiri et contra</head>
+    
+            <p xml:id="xAbSeN-e12133-d1e109">
+               <ref xml:id="xAbSeN-e12133-Rd1e111">augustinus de mendacio</ref>: Sextum genus mendacii, quod nulli obest et
+      alicui prodest, uelut si quispiam pecuniam alicuius iniuste tollendam
+      sciens, ubi sit nescire se mentiatur. Septimum, quod et nulli
+      obest et prodest alicui, uelut si nolens hominem ad mortem quaesitum
+      prodere mentiatur.
+    </p>
+            <p xml:id="xAbSeN-e12133-d1e117">
+               <ref xml:id="xAbSeN-e12133-Rd1e119">item</ref>: Non est mentiendum sexto genere. Neque enim recte etiam
+      testimonii ueritas pro cuiusquam temporali commodo ac salute
+      corrumpitur. Ad sempiternam uero salutem nullus ducendus est
+      opitulante mendacio. Neque septimo genere mentiendum est. Non enim
+      cuiusdam commoditas aut salus temporalis fidei praeferenda est, nec
+      quisquam in recte factis nostris tam male mouetur ut fiat etiam animo
+      deterior longeque a pietate remotior.
+    </p>
+            <p xml:id="xAbSeN-e12133-d1e123">
+               <ref xml:id="xAbSeN-e12133-Rd1e125">idem in v psalmo</ref>: Ne quis arbitretur perfectum et spiritalem hominem
+      pro ista temporali uita, in cuius morte (non&gt; occiditur anima, siue
+      sua causa siue alterius debere mentiri. Sed quoniam aliud est mentiri,
+      aliud est uerum occultare, si quidem aliud est falsum dicere, aliud
+      est uerum tacere; si quis forte uel ad istam uisibilem mortem non uult
+      hominem perdere, paratus esse debet uerum occultare, non falsum
+      dicere, ut neque prodat neque mentiatur, nec occidat animam suam pro
+      corpore alterius.
+    </p>
+            <p xml:id="xAbSeN-e12133-d1e130">
+               <ref xml:id="xAbSeN-e12133-Rd1e132">item</ref>: Duo sunt genera mendaciorum in quibus non magna culpa est, sed
+      tamen non sunt sine culpa. Cum aut iocamur aut pro proximo
+      mentimur. Illud primum in iocando ideo non est perniciosum, quia non
+      fallit. Nouit enim ille cui dicitur, ioci causa esse dictum. Secundum
+      autem ideo mitius est, quia retinet nonnullam beneuolentiam. Illud
+      uero quod non habet duplex cor nec mendacium quidem dicendum est;
+      tanquam, uerbi gratia, si cui gladius commendetur, et promittit se
+      redditurum cum ille qui commendauit poposcerit; si forte gladium suum
+      repetat furens, manifestum est non esse reddendum, ne uel se
+      occidat uel alios, donec ei sanitas restituatur. Hoc ideo non habet
+      duplex cor, quia ille cui commendatus est gladius, cum promittebat se
+      redditurum poscenti, non cogitabat furentem posse repetere. Manifestum
+      est non esse culpandum aliquando uerum tacere, falsum autem dicere non
+      inuenitur concessum sanctis.
+    </p>
+            <p xml:id="xAbSeN-e12133-d1e138">
+               <ref xml:id="xAbSeN-e12133-Rd1e140">isidorus de summo bono lib. ii, cap. xxx</ref>: Nonnunquam peius est
+      mendacium meditari quam loqui. Nam interdum quisque incautus solet ex
+      praecipitatione loqui mendacium; meditari autem non potest nisi per
+      studium.
+    </p>
+            <p xml:id="xAbSeN-e12133-d1e144">
+               <ref xml:id="xAbSeN-e12133-Rd1e146">item</ref>: Quia scriptum est: Os quod mentitur occidit animam, et perdet
+      eos qui loquuntur mendaoium. Hoc quoque mendacii genus perfecti uiri
+      summopere fuginnt, ut nec uita cuiuslibet per eorum fallaciam
+      defendatur nec suae animae noceant, dum praestare salutem alienae
+      carni nituntur, quamquam hoc ipsum peccati genus facillime credimus
+      relaxari.
+    </p>
+            <p xml:id="xAbSeN-e12133-d1e150">
+               <ref xml:id="xAbSeN-e12133-Rd1e152">augustinus quaestionum in genesi cap. cxlv</ref>: Quod ait fratribus Ioseph:
+      Nesciebatis, quia non est augurio homo qualis ego; quid sibi uelit,
+      quaeri solet. An quia non serio sed ioco dictum est, ut exitus docuit,
+      non est habendum mendacium? Mendacia enim a mendacibus serio aguntur,
+      non ioco. Cum autem quae non sunt tamquam ioco dicuntur, non
+      deputantur mendacio.
+    </p>
+            <p xml:id="xAbSeN-e12133-d1e156">
+               <ref xml:id="xAbSeN-e12133-Rd1e158">hilarius in psalmo xiv</ref>: Est enim necessarium plerumque mendacium, et
+      nonnunquam falsitas utilis est, cum aut percussori de latente
+      mentimur, aut testimonium pro periclitante frustramur, aut fallimus
+      difficultate curationis aegrotum. Oportet enim secundum apostoli
+      doctrinam sermonem nostrum sale esse conditum. /518/
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

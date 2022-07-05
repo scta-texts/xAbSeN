@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 50</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 50</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e4220"><!-- xAbSeN-q50 -->
+            <head xml:id="xAbSeN-1e4220-Hd1e103">Quaestio 50</head>
+            <head xml:id="xAbSeN-1e4220-Hd1e106" type="question-title"> quod in caelesti uita nemo proficiat et contra</head>
+    
+            <p xml:id="xAbSeN-1e4220-d1e109">
+               <ref xml:id="xAbSeN-1e4220-Rd1e111">augustinus super iohannem sermone xxix</ref>: Ad patriam quae sursum est,
+      ubi nemo moritur, quia nemo nascitur, ubi nemo iam proficit et
+      nemo deficit.
+    </p>
+            <p xml:id="xAbSeN-1e4220-d1e117">
+               <ref xml:id="xAbSeN-1e4220-Rd1e119">ambrosius de fide ad gratianum imperatorem</ref>: Erant adhuc in caelestibus
+      qui stuperent, qui admirarentur nouam pompam, nouam gloriam, et iam
+      requirebant: Quis iste rex gloriae? Sed quia angeli processus habent
+      scientiae, solus enim sine processu Deus, dicebant alii, illi utique
+      qui affuerant resurgenti, qui uiderant: uominus fortis et potens;
+      Dominus potens in proelio. Iterum multitudo angelorum triumphali
+      agmine praecinebant: Tollite portas principes uestras, et eleuamini
+      portae aeternales, et introibit rez gloriae. Rursus alii stupentes
+      dicebant: Quis est iste rez gloriae?  Iidimus eum non habentem speciem
+      neque decorem. Si ergo ipse non est, quis est iste rex gloriae?
+      Respondebatur a scientibus: Dominus uirtutum, ipse est rex gloriae.
+    </p>
+            <p xml:id="xAbSeN-1e4220-d1e123">
+               <ref xml:id="xAbSeN-1e4220-Rd1e125">item</ref>: Quo modo ascendemus caelum? Sunt illic dispositae potestates,
+      ordinati principes, qui caeli ianuas seruant, qui ascendentem
+      interrogant.
+    </p>
+            <p xml:id="xAbSeN-1e4220-d1e130">
+               <ref xml:id="xAbSeN-1e4220-Rd1e132">item</ref>: Porta aeternalis est Petrus, Iohannes, Iacobus.
+    </p>
+            <p xml:id="xAbSeN-1e4220-d1e136">
+               <ref xml:id="xAbSeN-1e4220-Rd1e138">item</ref>: Grande mysterium Christi, quod stupuerunt angeli.
+    </p>
+            <p xml:id="xAbSeN-1e4220-d1e142">
+               <ref xml:id="xAbSeN-1e4220-Rd1e144">hieronymus ad pammachium et marcellam contra accusatorem de
+      expositione eius in epistola ad ephesios</ref>: Secundum locum breuiter
+      ponam, ubi Paulus loquitur: Sedere eum faciens ad dezberam suam in
+      caelestibus super omnem principatum et potestatem et uirtutem et
+      dominationem et omne nomen, quod nominatur non solum in hoc saeculo,
+      sed etiam in futuro, post multiplicem expositionem, cum ad ministrorum
+      Dei officia peruenissem et de principatibus ac potestatibus et
+      uirtutibus et dominationibus dicerem, etiam hoc addidi: Necesse est ut
+      subiectos habeant et timentes se et seruientes sibi et eos qui a sue
+      fortitudine roborentur. Quae distributiones officiorum non so lum in
+      praesentiarum sed etiam in futuro saeculo erunt, ut per singulos
+      profectus et honores, ascensiones et descensiones uel crescat aliquid,
+      uel decrescat et sub alia atque alia potestate, uirtute, principatu
+      et dominatione fiat. Et post exemplum terreni regis totanque
+      palatii descriptionem, postquam diuerse ministeriorum Dei officia
+      demonstrabam, addidi: Et putamus Deum, Dominum dominorum, simplici
+      tantum ministerio es contentum? Quomodo archangelus non dicitur nisi
+      prior est angelorum, sic principatus potestates et dominationes non
+      appellatur nisi subiectos aliquos habeas inferioris gradus. Sin autem
+      putat idcirco me Origenem sequi, quia profectus et honores et
+      ascensiones et descensiones, incrementa et imminutiones in expositione
+      mea posui, sciat multum interresse de angelis et Seraphin et Cherubin
+      dicere, daemones et homines fieri, quod affirmat Origenes.
+    </p>
+            <p xml:id="xAbSeN-1e4220-d1e150">
+               <ref xml:id="xAbSeN-1e4220-Rd1e152">augustinus in psalmo lxxxv</ref>: Adiuuisti me et consolatus es
+      me. Contristatus est beatus Cyprianus in passione, modo consolatus est
+      in corona. Modo consolatus adhuc tristis est. Dominus enim Iesus adhuc
+      interpellat pro nobis, omnes martyres, qui cum illo sunt,
+      interpellant. Non transeunt interpellatidnes ipsorum nisi cum
+      transierit gemitus noster. Cum transierit, in ciuitate uiuentium
+      erimus. Quis ibi gemit?
+    </p>
+            <p xml:id="xAbSeN-1e4220-d1e156">
+               <ref xml:id="xAbSeN-1e4220-Rd1e158">paulus in epistola ad romanos</ref>: Scimus enim quod omnis creature
+      ingemiscit et parturit usque adhuc.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

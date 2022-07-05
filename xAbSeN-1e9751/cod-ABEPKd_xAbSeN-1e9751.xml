@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 125</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 125</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e9751"><!-- xAbSeN-q125 -->
+            <head xml:id="xAbSeN-1e9751-Hd1e103">Quaestio 125</head>
+            <head xml:id="xAbSeN-1e9751-Hd1e106" type="question-title"> quod non sit coniugium inter infideles et contra</head>
+    
+            <p xml:id="xAbSeN-1e9751-d1e109">EX EPISTOLA I PAULI AO CORINIHI0S: Mulier alligata est, quanto tempore
+      uir eius uiuit. Quod si dormierit uir eius, liberata est; cui uult
+      nubat, tantum in domino.
+    </p>
+            <p xml:id="xAbSeN-1e9751-d1e112">
+               <ref xml:id="xAbSeN-1e9751-Rd1e114">ambrosius super hanc epistolam</ref>: Quod ei infidetie dieaedit, discedat;
+      non est enim frater etc. Hoc est non debetur reuerentia coniugii
+      ei qui horret auctorem coniugii. Non enim ratum est matrimonium quod
+      sine Dei deuotione est. Ac per hoc non est peccatum ei qui dimittitur
+      propter Deum, si alii se iunxerit.  Contumelia enim creatoris soluit
+      ius matrimonii circa eum qui relinquitur, ne accusetur alii copulatus.
+      Infidelis autem discedens et in Deum et in matrimonium peccare
+      dignoscitur, quia noluit sub Dei deuotione habere coniugium. Itaque
+      non est ei fides seruanda coniugii, qui ideo recessit, ne audiret
+      auctorem et Christianorum Deum coniugii.  Nam si Hesdras dimitti fecit
+      uxores aut uiros infideles, ut propitius fieret Deus, nec iratus si
+      alias ex genere suo acciperent (non enim ita praeceptum his est, ut
+      remissis istis alias minime ducerent); quanto ergo magis, si infidelis
+      discesserit, liberum habebit arbitrium, si uoluerit nubere legis suae
+      uiro? Illud enim non debet imputari matrimonium quod extra decretum
+      Dei factum est; sed cum post cognoscit et dolet deliquisse se, emendat
+      se ut ueniam mereatur. Si autem ambo crediderint, per cognitionem Dei
+      confirmant coniugium.
+    </p>
+            <p xml:id="xAbSeN-1e9751-d1e120">
+               <ref xml:id="xAbSeN-1e9751-Rd1e122">item</ref>: Nubat uidua cui uult, tantum in domino, id est religionis suse
+      uiro.
+    </p>
+            <p xml:id="xAbSeN-1e9751-d1e127">
+               <ref xml:id="xAbSeN-1e9751-Rd1e129">hieronymus ad pammachium</ref>: Nubat tantum in domino, id est Christiano.
+    </p>
+            <p xml:id="xAbSeN-1e9751-d1e133">
+               <ref xml:id="xAbSeN-1e9751-Rd1e135">idem contra iovinianum lib. i</ref>: Si quis frater umorem habet infidetem,
+      et haea consenserit habitare cum illo, non dimittat illam.  His quos
+      in matrimonio deprehendisset fides, hoc est si unus credidisset e
+      duobus, praecipit ne credens relinqueret non credentem.  E contrario
+      iubet, si infidelis repudiat fidelem propter fidem Christi, discedere
+      debere credentem nec coniugem praeferre Christo, cui et anima
+      postponenda est. At nunc pleraeque contemnentes apostoli iussionom
+      iunguntur gentilibus et templa Dei idolis prostituunt.  Ignoscit
+      apostolus infidelium coniunctioni quae habentes maritos in
+      Christum postea crediderunt, non his quae cum Christianae essent,
+      nupserunt gentilibus, ad quas alibi loquitur: Nolite iugum ducere cum
+      infidelibus; quae enim participatio institiae cum iniquitate? aut quae
+      societas lucis ad tenebras? quae conuentio Christi ad Belial? aut quae
+      pars fideli cum infideli? quia consensus templo Dei sum idolis? Vis
+      apertius discere quod Christianae omnino non liceat ethnico nubere?
+      Audi eundem apostolum. Cui uult nubat, tantum in domino, id est
+      Christiano.  Qui secundas nuptias tertiasque concedit in domino,
+      primas cum ethnico prohibet.
+    </p>
+            <p xml:id="xAbSeN-1e9751-d1e141">
+               <ref xml:id="xAbSeN-1e9751-Rd1e143">idem lib. iv super epistolam ad ephesios</ref>: Sicut non omnis congregatio
+      haereticorum Christi ecclesia dici potest, sic non omne matrimonium,
+      quo non uxor uiro secundum Christi praecepta coniungitur, rite
+      coniugium appellari potest, sed magis adulterium.
+    </p>
+            <p xml:id="xAbSeN-1e9751-d1e147">
+               <ref xml:id="xAbSeN-1e9751-Rd1e149">ex decretis eutychiani papae</ref>: Si quis gentilis gentilem dimiserit
+      uxorem ante baptisma, post baptismum in potestate eius erit eam
+      habere, uel non.
+    </p>
+            <p xml:id="xAbSeN-1e9751-d1e153">
+               <ref xml:id="xAbSeN-1e9751-Rd1e155">augustinus de adulterinis coniugiis</ref>: Mortuo uiro in potestate habet
+      cui uult nubere, tantum in domino. Quod duobus modis accipi potest,
+      aut Christiana permanens aut Christiano nubens. Non enim in euangelio
+      uel apostolicis litteris sine ambiguitate declaratum esse recolo,
+      utrum dominus prohibuerit fideles infidelibus iungi; quamuis
+      beatissimus Cyprianus iungere cum infidelibus uinculum matrimonii
+      dicat prostituere gentibus membra Christi. Sed quia de his qui iam
+      coniuncti sunt alia quaestio est, audiatur et hic apostolus dicens: si
+      quis frater uxorem habet infidelem etc.
+    </p>
+            <p xml:id="xAbSeN-1e9751-d1e159">
+               <ref xml:id="xAbSeN-1e9751-Rd1e161">idem de bono coniugali</ref>: Adulterium dicitur cum uel propriae libidinis
+      instinctu uel alienae consensu cum altero uel altera contra pactum
+      coniugale concumbitur atque ita frangitur fides.
+    </p>
+            <p xml:id="xAbSeN-1e9751-d1e168">
+               <ref xml:id="xAbSeN-1e9751-Rd1e170">beda super lucam</ref>: Audiuit Herodes tetrarcha famam Iesu etc. Philippus
+      Herodiadem filiam Arethae regis Arabum accepit uxorem, quam idem
+      Aretha postmodum ablatam ab eo dedit Herodi eo quot maioris esset
+      potestatis, factumque est adulterium publicum.
+    </p>
+            <p xml:id="xAbSeN-1e9751-d1e174">
+               <ref xml:id="xAbSeN-1e9751-Rd1e176">item</ref>: Herodes enim metuebat Iohannem, sciens eum uirum iustum et
+      sanctum, et custodiebat eum et audito eo multa faciebat et libenter
+      eum audiebat. Sed uicit eum amor mulieris.
+    </p>
+            <p xml:id="xAbSeN-1e9751-d1e180">
+               <ref xml:id="xAbSeN-1e9751-Rd1e182">item</ref>: Qui quoniam noluit cohibere luxuriam ad homicidae reatum
+      prolapsus est, minusque illi peccatum maioris erat causa peccati, cum
+      districto Dei iudicio contigit ut propter appetitum adulterae quam
+      detestandam sciebat, sanguinem funderet prophetae quem Deo acceptum
+      esse cognouerat.
+    </p>
+            <p xml:id="xAbSeN-1e9751-d1e186">
+               <ref xml:id="xAbSeN-1e9751-Rd1e188">item</ref>: Et contristatus est rex. Tristitiam praetendebat in uultu, unde
+      laetabatur occulte, quod ea petebantur quae et antea facere, si
+      excusabiliter posset, disponebat.
+    </p>
+            <p xml:id="xAbSeN-1e9751-d1e192">
+               <ref xml:id="xAbSeN-1e9751-Rd1e194">sermo iohannis episcopi de eadem die</ref>: Et hic tantus traditur
+      adulterae, addicitur saltatrici.
+    </p>
+            <p xml:id="xAbSeN-1e9751-d1e198">
+               <ref xml:id="xAbSeN-1e9751-Rd1e200">item</ref>: Herodes tu adulterium facis, et in carcerem uadit Iohannes.
+    </p>
+            <p xml:id="xAbSeN-1e9751-d1e205">
+               <ref xml:id="xAbSeN-1e9751-Rd1e207">ex concilio meldensi cap. i</ref>: Si quis habuerit uxorem uirginem ante
+      baptisma, alteram habere non potest. Crimina in baptismo soluuntur,
+      non coniugia.
+    </p>
+            <p xml:id="xAbSeN-1e9751-d1e211">
+               <ref xml:id="xAbSeN-1e9751-Rd1e213">innocentius rufo et eusebio, episcopis macedonibus</ref>: Deinde ponitur non
+      dici oportere eum digamum, qui catechumenus habuerit atque amiserit
+      uxorem, si post baptismum fuerit aliam sortitus, eamque primam uideri
+      quae nouo homini copulata sit, quia illud coniugium per baptismi
+      sacramentum cum caeteris criminibus sit ablutum. Dicite mihi, crimina
+      tantum dimittuntur in baptlsmo, an alia quae secundum Dei praecepta
+      ac Dei instituta complentur? Uxorem ducere crimen est, an non?
+      Si crimen est, ipse est auctor in culpa qui, ut crimina
+      committerentur, in paradiso, cum ipse eos iungeret, benedixit. Si uero
+      non est crimen, quomodo creditur inter crimina esse dimissum? Quid de
+      talium filiis percensetur? Numquid non erunt admittendi in hereditatis
+      consortio, eruntque appellandi naturales?
+    </p>
+            <p xml:id="xAbSeN-1e9751-d1e219">
+               <ref xml:id="xAbSeN-1e9751-Rd1e221">item</ref>: Ipse dominus dum interrogaretur a Iudaeis si liceret dimittere
+      uxorem, atque exponeret fieri non debere, addidit: Quod Deus
+      coniunxit, homo non separet. Ac ne de his locutus esse credatur, qui
+      post baptismum uxores sortiuntur, meminerit hoc et a Iudaeis
+      interrogatum et Iudaeis esse responsum.
+    </p>
+            <p xml:id="xAbSeN-1e9751-d1e225">
+               <ref xml:id="xAbSeN-1e9751-Rd1e227">item</ref>: Nuptialis copula, quae Dei mandato perficitur, non potest dici
+      peccatum. Eritque integrum aestimare, aboleri non posse prioris nomen
+      uxoris, cum non dimissum sit pro peccato, quia ex Dei uoluntate sit
+      completum.
+    </p>
+            <p xml:id="xAbSeN-1e9751-d1e231">
+               <ref xml:id="xAbSeN-1e9751-Rd1e233">ivo carnotensis hildeberto cenomanensium episcopo</ref>: Hoc ergo mihi
+      considerandum uidetur de muliere quae relicto Iudaismo conuolauit ad
+      baptismum, utrum consanguinea fuerit prioris mariti an non. Quod si
+      repertum fuerit, credo secundum legem Christianam quam professa est, a
+      priori marito posse dissolui et nubere cui uelit in domino. Alioquin
+      uir cui nupserit adulter erit et ipsa adultera. Baptismus enim
+      secundum Innocentium papam peccata dimittit, non coniugia soluit.
+    </p>
+            <p xml:id="xAbSeN-1e9751-d1e237">
+               <ref xml:id="xAbSeN-1e9751-Rd1e239">augustinus de nuptiis et concupiscentia ad valerium comitem</ref>: Donum Dei
+      esse etiam pudicitiam coniugalem beatus Paulus ostendit, ubi de hac re
+      loquens ait: Volo autem omnes homines esse sicut me ipsum, sed
+      unusquisque proprium donum habet a Deo, aliua quidem sic, alius
+      uero sic.
+    </p>
+            <p xml:id="xAbSeN-1e9751-d1e246">
+               <ref xml:id="xAbSeN-1e9751-Rd1e248">item</ref>: Quid ergo dicimus, quando et in quibusdam impiis inuenitur
+      pudicitia coniugalis? Utrum eo peccare dicendi sunt, quod dono Dei
+      male utantur, non id referentes ad cultum eius a quo acceperunt? An
+      forte nec done Dei putanda sunt ista, quando haec infideles agunt,
+      secundum apostoli sententiam dicentis: Omne quod non est ex fide
+      peccatum est? Quis audeat dicere donum Dei esse peccatum? De his quae
+      faciunt dictum est: Omne quod non est ex fide peccatum eat. Absit
+      autem pudicum ueraciter dici qui non propter Deum uerum fidem connubii
+      seruat uxori. Copulatio itaque maris et feminae generandi cause bonum
+      est naturale nuptiarum. Sed isto bono male utitur qui bestialiter, ut
+      sit eius intentio in uoluptate libidinis, non in uoluntate propaginis.
+      Hoc tam euidens bonum cum infideles habent, quia infideliter utuntur
+      in malum peccatumque conuertunt. Quapropter qui non hac intentione,
+      non hoc fine generant filios, ut eos ex membris hominis primi in
+      membra transferant Christi, sed infideles parentes infideli prole
+      glorientur, etiam si tantae sint obseruantiae ut secundum
+      matrimoniales tabulas non nisi liberorum procreandorum cause
+      contrahant, non est in eis uera pudicitia coniugalis. Cum enim sit
+      uirtus pudicitia, quomodo uera ratione pudicum corpus asseritur,
+      quando a uero Deo ipse animus fornicatur?  Quam fornicationem psalmus
+      accusal ubi dicit: Perdidisti omnes, qui fornicantur abs te. Dicit
+      apostolus omne quod non est ex fide, peccatum est, et sine fide
+      impossibile est placere Deo.
+    </p>
+            <p xml:id="xAbSeN-1e9751-d1e252">
+               <ref xml:id="xAbSeN-1e9751-Rd1e254">idem de bono coniugali</ref>: Bonum igitur nuptiarum per omnes gentes atque
+      omnes homines in cause generandi et in fide castitatis. Quod autem ad
+      populum Dei pertinet, etiam in sanctitate sacramenti, per quam nefas
+      est repudio discedentem alteri nubere dum uir eius uiuit, nec saltim
+      ipsa cause pariendi, quae cum sola sit qua nuptiae fiunt, nec ea re
+      non subsequente propter quam fiunt soluitur uinculum nuptiaie
+      nisi coniugis morte. Quemadmodum si fiat ordinatio clerici ad plebum
+      congregandam, etiam si plebis congregatio non subsequatur, manet in
+      illis ordinatis sacramentum ordinationis; et si aliqua culpa quisquam
+      ab officio remoueatur, sacramento domini semel imposito non carebit
+      quamuis ad indicium permanente. Generationis itaque causa fieri
+      nuptias apostolus ita testis est: Volo, inquit, iuniores nubere. Et
+      quasi ei diceretur, Ut quid? continuo subiecit, filios procreare,
+      matresfamilias esse. Ad fidem autem castitatis illud pertinet: Uxor
+      non potestatem proprti corporis habet, sed uir; similiter et uir non
+      habet poteatatem corporia aui, sed mulier. Ad sacramenti autem
+      sanctitatem illud: Uzorem a uiro non discedere, qued si discesserit
+      manere innuptam, aut uiro auo reconditiari; et uir uxorem ne
+      dimittat. Haec omnia bona sunt propter quae nuptiae bonae sunt,
+      proles, fides, sacramentum.
+    </p>
+            <p xml:id="xAbSeN-1e9751-d1e260">
+               <ref xml:id="xAbSeN-1e9751-Rd1e262">idem contra iulianum</ref>: Alia sunt ad nuptias proprie pertinentia, quibus
+      ab adulteriis nuptiae discernuntur, sicuti est tori coniugatis fides
+      etc.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 64</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 64</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e4852"><!-- xAbSeN-q64 -->
+            <head xml:id="xAbSeN-1e4852-Hd1e103">Quaestio 64</head>
+            <head xml:id="xAbSeN-1e4852-Hd1e106" type="question-title"> quod deus personam hominis non susceperit sed naturam et
+      contra</head>
+    
+            <p xml:id="xAbSeN-1e4852-d1e109">
+               <ref xml:id="xAbSeN-1e4852-Rd1e111">augustinus in libro de fide ad petrum</ref>: Ita Verbum caro factum est ut,
+      quamuis naturaliter non sit uerbum quod caro, quia duarum naturarum
+      ueritas manet in Christo secundum unam tamen personam idem uerbum caro
+      ab ipso fieret maternae conceptionis initio. Deus enim uerbum non
+      accepit personam hominis sed naturam.
+    </p>
+            <p xml:id="xAbSeN-1e4852-d1e115">
+               <ref xml:id="xAbSeN-1e4852-Rd1e117">boethius contra eutychen et nestorium</ref>: Hoc interim constet, quod inter
+      naturam personamque differre praediximus; quoniam natura est
+      cuiuslibet substantiae specificata proprietas, persona uero
+      rationabilis naturae indiuidua subsistentia.
+    </p>
+            <p xml:id="xAbSeN-1e4852-d1e121">
+               <ref xml:id="xAbSeN-1e4852-Rd1e123">ambrosius super epistolam pauli ad romanos</ref>: Seruus Iesu Christi.
+      Utrumque posuit, id est Iesu Christi, ut Dei et hominis personam
+      signaret, quia in utroque est Dominus.
+    </p>
+            <p xml:id="xAbSeN-1e4852-d1e128">
+               <ref xml:id="xAbSeN-1e4852-Rd1e130">item</ref>: Quoties scriptura aut Iesum dicit aut Christum, aliquando
+      personam Dei, aliquando hominis significat.
+    </p>
+            <p xml:id="xAbSeN-1e4852-d1e134">
+               <ref xml:id="xAbSeN-1e4852-Rd1e136">augustinus lib. ii contra manichaeos</ref>: Reliquit patrem, cum dixit, a
+      patre eriui; apparendo hominibus, cum uerbum caro factum est. Quod non
+      commutationem naturae Dei significat sed susceptionem inferioris
+      personae, id est humanae.  /245/
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

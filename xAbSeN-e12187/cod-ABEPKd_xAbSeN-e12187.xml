@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 155</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 155</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-e12187"><!-- xAbSeN-q155 -->
+            <head xml:id="xAbSeN-e12187-Hd1e103">Quaestio 155</head>
+            <head xml:id="xAbSeN-e12187-Hd1e106" type="question-title"> quod liceat homini inferre sibi manus aliquibus de causis
+      et contra</head>
+    
+            <p xml:id="xAbSeN-e12187-d1e109">HIERONYMUS IN IONA PROPHETA, Tollite me et mittite in mare, et
+      cessabit mare a uobis: Non est enim nostrum mortem arripere sed
+      illatam libenter accipere. Unde et in persecutionibus non licet
+      propria menu perire, absque ubi castitas periclitatur.
+    </p>
+            <p xml:id="xAbSeN-e12187-d1e112">
+               <ref xml:id="xAbSeN-e12187-Rd1e114">ecclesiastica historia lib. vi, cap. xxxiv</ref>: Sed et admirandam uirginem
+      longaeuae aetatis, Apolloniam nomine, cum corripuissent, dentes primo
+      ei omnes effoderunt; congestis deinde lignis exstruxerunt rogum
+      comminantes se uiuam eam incensuros nisi cum ipsis pariter impia uerba
+      proferret. At illa, ut rogum uidit esse succensum, repente se e
+      manibus eripuit impiorum atque in ignem sponte prosiluit, ita ut
+      perterrerentur ipsi crudelitatis auctores, quod promptior inuenta est
+      ad mortem femina quam persecutor ad poenam.
+    </p>
+            <p xml:id="xAbSeN-e12187-d1e118">
+               <ref xml:id="xAbSeN-e12187-Rd1e120">augustinus de civitate dei, lib. i</ref>: Restat de homine intelligamus quod
+      dictum est: non occides. Neque alterum, ergo neque te. Neque enim qui
+      se occidit, aliud quam hominem occidit.
+    </p>
+            <p xml:id="xAbSeN-e12187-d1e125">
+               <ref xml:id="xAbSeN-e12187-Rd1e127">item</ref>: Non occides, his exceptis quos Deus occidi iubet, siue data lege
+      pro tempore ad personam expressa iussione. Non autem ipse occidit qui
+      ministerium debet iubenti, sicut adminiculum gladius utenti.
+    </p>
+            <p xml:id="xAbSeN-e12187-d1e131">
+               <ref xml:id="xAbSeN-e12187-Rd1e133">item</ref>: Quaeritur utrum pro iussu Dei sit habendum quod Iephte filiam,
+      quae occurrit ei, occidit, cum se id uouisset immolaturum Deo quod ei
+      reuertenti de proelio uictori primitus occurrisset.  Nec Samson
+      aliter excusatur quod se ipsum cum hostibus ruina domus oppressit,
+      nisi quod latenter spiritus hoc iusserat, qui per illum miracula
+      faciebat.
+    </p>
+            <p xml:id="xAbSeN-e12187-d1e139">
+               <ref xml:id="xAbSeN-e12187-Rd1e141">item</ref>: Quicumque hoc in se ipsis perpetrauerunt, animi magnitudine
+      fortassis mirandi, non sapientiae sanitate laudandi sunt, quanquam, si
+      rationem diligentius consulas, nec ipsa quidem animi magnitudo recte
+      nominabitur, ubi quisque non ualendo tolerare uel quaeque aspera uel
+      aliena peccata se ipse interemerit. Magis enim mens infirma
+      deprehenditur, quae ferre non potest uel duram sui corporis
+      seueritatem uel stultam uulgi opinionem.
+    </p>
+            <p xml:id="xAbSeN-e12187-d1e145">
+               <ref xml:id="xAbSeN-e12187-Rd1e147">item</ref>: Si magno animo fieri putandum est, cum sibi homo ingerit mortem,
+      ille potius Theobrotus in hac animi magnitudine reperitur, quem ferunt
+      lecto Platonis libro, ubi de immortalitate animae disputatum est, se
+      praecipitem dedisse de muro atque ita de hac uita migrasse ad eam quam
+      credidit esse meliorem.  Quod tamen magne potius esse factum quam bene
+      testis esse potuit Plato ipse quem legerat, qui profecto id praecipue
+      potissimunque fecisset uel etiam praecepisset, nisi ea mente qua
+      immortalitatem animae uidit, nequaquam faciendum, quin etiam
+      prohibendum esse iudicasset.
+    </p>
+            <p xml:id="xAbSeN-e12187-d1e151">
+               <ref xml:id="xAbSeN-e12187-Rd1e153">item</ref>: Sed tamen illi praeter Lucretiam non facile reperiunt de cuius
+      auctoritate praescribant, nisi illum Catonem qui se Uticae occidit,
+      non quia solus id fecit sed quia uir doctus et probus habebatur.
+    </p>
+            <p xml:id="xAbSeN-e12187-d1e157">
+               <ref xml:id="xAbSeN-e12187-Rd1e159">item</ref>: Si turpe erat sub uictoria Caesaris uiuere, cur auctor huius
+      turpitudinis filio fuit, quem de Caesaris benignitate omnia sperare
+      praecepit? Cur non et illum secum coegit ad mortem?
+    </p>
+            <p xml:id="xAbSeN-e12187-d1e164">
+               <ref xml:id="xAbSeN-e12187-Rd1e166">item</ref>: Restat una causa de qua dicere coeperam, qua utile putatur ut se
+      quisque interficiat, scilicet ne in peccatum irruat uel blandiente
+      uoluptate uel dolore saeuiente. Quam causam si uoluerimus admittere eo
+      usque progressa perueniet, ut hortandi sint homines tunc se
+      potius interimere, cum lauacro sanctae regenerationis abluti
+      uniuersorum remissionem acceperint peccatorum.  Tunc enim tempus est
+      cauendi omnia futura peccata, cum sunt omnia deleta praeterita.
+    </p>
+            <p xml:id="xAbSeN-e12187-d1e172">
+               <ref xml:id="xAbSeN-e12187-Rd1e174">item</ref>: O mentes amentes! quis est hic tantus non error sed furor? Sed
+      quaedam, inquiunt, sanctae feminae tempore persecutionis ut
+      insectatores suae pudicitiae deuitarent, in rapturum atque necaturum
+      se fluuium proiecerunt eoque modo defunctae earumque martyria in
+      catholica ecclesia ueneratione celeberrima frequentantur.  De his nil
+      temere audeo iudicare. Utrum enim ecclesiae aliquibus fide dignis
+      testificationibus, ut earum memoriam sic honoret, diuina persuaserit
+      auctoritas nescio. Et fieri potest ut ita sit. Quid enim si hoc
+      fecerunt non humanitus deceptae sed diuinitus iussae, nec errantes sed
+      obedientes? De Samson aliud nobis fas non est credere.  Cum autem Deus
+      iubet seque iubere sine ullis ambagibus intimat, quis obedientiam in
+      crimen uocet? quis obsequium pietatis accuset? Nam et miles cum
+      obediens potestati, sub qua legitime constitutus est, hominem occidit,
+      nulla ciuitatis suae lege reus est homicidii; immo nisi fecerit, reus
+      imperii deserti atque contempti. Quod si ita est iubente imperatore,
+      quanto magis inbente creatore!
+    </p>
+            <p xml:id="xAbSeN-e12187-d1e178">
+               <ref xml:id="xAbSeN-e12187-Rd1e180">idem ad laetum</ref>: Sicut autem hoc praeceptum, quo perdere inbemur animam
+      nostram, non ad id ualet, ut se quisque interimat, quod inexpliabile
+      nefas est, tamen ualet, ut interimat in se carnalem animae
+      affectum.
+    </p>
+            <p xml:id="xAbSeN-e12187-d1e184">
+               <ref xml:id="xAbSeN-e12187-Rd1e186">macrobius lib. i de somnio scipionis</ref>: "Quaeso, inquam, pater
+      sanctissime atque optime, quoniam haec est uita, ut Africanum audio
+      dicere, quid moror in terris? Quin huc ad uos uenire propero?  Non est
+      ita, inquit ille. Nisi enim cum deus istis te corporis custodiis
+      liberauerit, huc tibi aditus patere non potest. Quare et tibi, Publi,
+      et piis omnibus retinendus animus est in custodia corporis, nec
+      iniussu eius, a quo ille est uobis datus, ex hominum uita migrandum
+      est, ne munus adsignatum a deo ipsi fugisse uideamini." Haec secta et
+      praeceptio Platonis est, qui in F[r]edone definit homini non esse sua
+      sponte moriendum. Sed in eodem tamen dialogo idem dicit mortem
+      philosophantibus appetendam et ipsam philosophiam meditationem esse
+      moriendi. Sed Plato duas mortes hominum nouit. Nec hoc nunc repeto,
+      quod superius dictum est, duas esse mortes, unam animae, animalis I
+      alteram; sed ipsius quoque animalis, hoc est hominis, duas asserit
+      mortes, quarum unam natura, uirtutes alteram praestant. Homo enim
+      moritur, cum anima corpus relinquit solutum lege naturae. Mori etiam
+      dicitur, cum anima adhuc in corpore constituta corporeas illecebras
+      philosophia docente contemnit et cupiditatum dulces insidias
+      reliquasque omnes exuitur passiones.  Hanc ergo mortem dicit Plato
+      sapientibus appetendam. Illam uero quam omnibus natura constituit,
+      cogi uel inferri uel accersiri uetat docens exspectandam esse naturam.
+      Hoc quoque addidit nos esse in dominio dei, cuius tutela et
+      prouidentia gubernamur. Nihil autem esse inuito domino de his quae
+      possidet ex eo loco in quo suum constituerat auferendum.  Et sicut qui
+      uitam mancipio extorquet alieno crimine non carebit, ita eum qui finem
+      sibi domino necdum iubente quaesierit, non absolutionem consequi sed
+      reatum. Haec Platonicae sectae semina altius Plotinus exsequitur. Cum
+      constet, inquit, remunerationem animis illic esse tribuendam pro modo
+      perfectionis ad quam in hac uita unaquaeque peruenit, non est
+      praecipitandus uitae finis, cum adhuc proficiendi esse possit
+      accessio. Ergo, inquies, qui iam perfecte purgatus est manum sibi
+      debet inferre, cum non sit ei causa remanendi, quia profectum ulterius
+      non requirit qui ad superna peruenit. Sed hoc ipso quo sibi celerem
+      finem spe fruendae beatitudinis arcessit, irretitur laqueis passionis,
+      quia spes sicut timor passio est; et hoc est quod Paulus filium
+      spe uitae uerioris ad se uenire properantem prohibet ac repellit.
+      "Nisi enim cum dominus, inquit, istis te corporis custodiis
+      liberauerit, huc tibi aditus patere non potest." Nec dicit quod, nisi
+      mors naturalis aduenerit, emori non poteris, sed huc uenire non
+      poteris. Pari autem constantia nec ueniens per naturam timenda est nec
+      contra ordinem cogenda naturae.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

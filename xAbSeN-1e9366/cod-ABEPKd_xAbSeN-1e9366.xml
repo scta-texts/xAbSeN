@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 119</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 119</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e9366"><!-- xAbSeN-q119 -->
+            <head xml:id="xAbSeN-1e9366-Hd1e103">Quaestio 119</head>
+            <head xml:id="xAbSeN-1e9366-Hd1e106" type="question-title"> quod presbyter uxoratus a subiectis non sit abiciendus
+      et contra</head>
+    
+            <p xml:id="xAbSeN-1e9366-d1e109">
+               <ref xml:id="xAbSeN-1e9366-Rd1e111">ex concilio grangrensi</ref>: Si quis discernit presbyterum coniugatum
+      tanquam occasione nuptiarum, quod offerre non debeat, et ab eius
+      oblatione ideo se abstinet, anathema sit.
+    </p>
+            <p xml:id="xAbSeN-1e9366-d1e115">
+               <ref xml:id="xAbSeN-1e9366-Rd1e117">item cap. iii</ref>: Quicumque discernit a presbytero, qui uxorem habuit,
+      quia non oporteat eo ministrante de oblatione percipere, anathema sit.
+    </p>
+            <p xml:id="xAbSeN-1e9366-d1e121">
+               <ref xml:id="xAbSeN-1e9366-Rd1e123">alexander secundus</ref>: Praeter haec autem praecipiendo mandamus, ut
+      nullus audiat missam presbyteri, quem scit concubinam indubitanter
+      habere aut subintroductam mulierem. Unde etiam sancta synodus haec a
+      capite sub excommunicatione statuit dicens: Quicumque
+      sacerdotum, diaconorum, subdiaconorum post constitutum praedecessoris
+      nostri sanctissimi papae Leonis aut Nicolai de castitate clericorum
+      concubinam palam duxerit, uel ductam non reliquerit, ex parte Dei et
+      auctoritate beatorum apostolorum principum Petri et Pauli praecipimus,
+      et omnino contradicimus, ut missam non cantet, neque euangelium aut
+      epistolam ad missam legat, neque in presbyterio cum his ad diuina
+      officia, qui praefatae constitutioni obedientes fuerint, maneant,
+      neque partem ab ecclesia suscipiant. Et praecipientes statuimus, ut hi
+      praedictorum ordinum, qui eisdem praedecessoribus nostris obedientes
+      castitatem seruauerint, iuxta ecclesias suas, sicut oportet religiosos
+      clericos, simul manducent et dormiant, et quidquid eis ab ecclesiis
+      competit communiter habeant. Et rogantes monemus, ut ad apostolicam
+      scilicet communem uitam summopere studeant, quatinus perfectionem cum
+      his consecuti qui centesimo fructu ditantur in caelesti patria
+      mereantur ascribi.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 97</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 97</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e7132"><!-- xAbSeN-q97 -->
+            <head xml:id="xAbSeN-1e7132-Hd1e103">Quaestio 97</head>
+            <head xml:id="xAbSeN-1e7132-Hd1e106" type="question-title"> quod petrus et paulus eodem prorsus die non revoluto anni
+      tempore passi sunt et contra</head>
+    
+            <p xml:id="xAbSeN-1e7132-d1e109">
+               <ref xml:id="xAbSeN-1e7132-Rd1e111">ecclesiastica historia lib. ii. cap. xxv, ex dictis dionysii
+      corinthiorum episcopi de petro et paulo</ref>: Ambo etenim simul aduentantes
+      et in nostra Corinthiorum ecclesia docuerunt, et per omnem Italiam
+      atque in hac urbe simul docentes etiam martyrio pariter uno eodemque
+      tempore coronati sunt.
+    </p>
+            <p xml:id="xAbSeN-1e7132-d1e115">
+               <ref xml:id="xAbSeN-1e7132-Rd1e117">anacletus omnibus episcopis et sacerdotibus in ea benedictus deus</ref>:
+      Paulus, uas eleationia, uno die unoque tempore gloriosa morte cum
+      Petro sub principe Nerone agonizans coronatus est.
+    </p>
+            <p xml:id="xAbSeN-1e7132-d1e121">
+               <ref xml:id="xAbSeN-1e7132-Rd1e123">hieronymus de illustribus viris cap. i</ref>: Simon Petrus, filius Iohannis,
+      prouinciae Galilaeae, uico Bethsaida, frater Andreae apostoli et
+      princeps apostolorum,post episcopatum Antiochensis ecclesiae et
+      praedicationem dispersionis eorum qui de circumcisione /328/
+      crediderunt, in Ponto, Galatia, Cappadocia, Asia et Bithynia, secundo
+      Claudii anno, ad expugnandum Simonem magum Romam pergit, ibique XXV
+      annis cathedram sacerdotalem tenuit usque ad ultimum annum Neronis, id
+      est XIV, a quo et affixus cruci, martyrio coronatus est capite ad
+      terram uerso et in sublime pedibus eleuatis, asserens se indignum qui
+      sic crucifigeretur sicut dominus suus.
+    </p>
+            <p xml:id="xAbSeN-1e7132-d1e128">
+               <ref xml:id="xAbSeN-1e7132-Rd1e130">item cap. v, de paulo</ref>: Et hic ergo XIV Neronis anno eodem die quo
+      Petrus, Romae pro Christo capite truncatur sepultusque est in uia
+      Ostiensi, anno post passionem domini XXXVII.
+    </p>
+            <p xml:id="xAbSeN-1e7132-d1e134">
+               <ref xml:id="xAbSeN-1e7132-Rd1e136">gregorius turonensis lib. i miraculorum, cap. xxviii</ref>: Paulus apostolus
+      post reuolutum anni circulum ipsa die qua Petrus apostolus passus
+      occubuit.
+    </p>
+            <p xml:id="xAbSeN-1e7132-d1e140">
+               <ref xml:id="xAbSeN-1e7132-Rd1e142">martyrologium</ref>: Commemoratio sancti Pauli apostoli, quem cum beato
+      Petro cruce appenso caelum gladio necatum excepit, una non tamen die
+      eadem sed euoluto anni tempore, ut uir disertus Arator scribit.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

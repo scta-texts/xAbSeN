@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 144</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 144</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-e11668"><!-- xAbSeN-q144 -->
+            <head xml:id="xAbSeN-e11668-Hd1e103">Quaestio 144</head>
+            <head xml:id="xAbSeN-e11668-Hd1e106" type="question-title"> quod peccator sit ille tantum qui assiduus est in peccatis
+      et contra</head>
+    
+            <p xml:id="xAbSeN-e11668-d1e109">
+               <ref xml:id="xAbSeN-e11668-Rd1e111">origenes in epistola pauli ad romanos, lib. v</ref>: Cum dicat quia ompes
+      peccauerunt, aliud est peccasse, aliud peccatorem esse. Peccator
+      dicitur qui in consuetudinem ac studium peccandi uenit, sicut iustus
+      non is qui semel aut bis aliquid iustitiae fecerit, sed qui in usu et
+      consuetudine iustitiam habet. Nam si qui in caeteris fere omnibus
+      iniustus sit, semel aut bis aliquid iusti operis fecerit, iuste egisse
+      dicetur, ita et iustus peccasse quidem dicetur, si aliquid commiserit
+      aliquando quod non licet, non tamen ex hoc peccator appellabitur qui
+      peccandi usum non tenet. Sicut et medicus dicitur qui usum ac studium
+      ac disciplinam habet medendi. Omnes potest fieri ut peccauerint
+      etiamsi sancti fuerint, quia nemo mundus a sorde, nec si unius diei
+      fuerit uita eius.
+    </p>
+            <p xml:id="xAbSeN-e11668-d1e115">
+               <ref xml:id="xAbSeN-e11668-Rd1e117">aristoteles in tractatu qualitatis</ref>: Differt autem habitus a
+      dispositione quod permanentior et diuturnior est. Tales uero sunt
+      scientiae et uirtutes. Scientia enim uidetur permanentium et eorum
+      quae difficile mouentur, ut si perfecte quis uel mediocriter scientiam
+      sumat, nisi forte grandis permutatio facta sit uel ab aegritudine uel
+      ab aliquo huiusmodi. Similiter autem et uirtus ut iustitia uel
+      castitas et singula talium non uidentur facile posse mouer neque
+      permutari.
+    </p>
+            <p xml:id="xAbSeN-e11668-d1e121">
+               <ref xml:id="xAbSeN-e11668-Rd1e123">boethius in commento super hunc locum</ref>: Virtus enim nisi difficile
+      mutabilis non est. Neque enim qui semel iuste iudicat iustus est,
+      neque qui semel adulterium facit est adulter, sed cum ista uoluntas
+      cogitatioque permanserit. Aristoteles enim uirtutes non putat
+      scientias, ut Socrates.
+    </p>
+            <p xml:id="xAbSeN-e11668-d1e130">
+               <ref xml:id="xAbSeN-e11668-Rd1e132">idem in libro divisionum</ref>: Ut in se ipsa diuisio sicut terminus
+      conuertatur. Conuertitur enim terminus sic: uirtus est mentis habitue
+      optimus; rursus, habitus mentis optimus uirtus est.
+    </p>
+            <p xml:id="xAbSeN-e11668-d1e136">
+               <ref xml:id="xAbSeN-e11668-Rd1e138">item idem in secundo topicorum</ref>: Sit quaestio an uirtus mentis bene
+      constitutae sit habitus. Quaestio de diffinitione etc.
+    </p>
+            <p xml:id="xAbSeN-e11668-d1e142">
+               <ref xml:id="xAbSeN-e11668-Rd1e144">ambrosius de paenitentia lib. i</ref>: Et dominus quidem uenit ad
+      peccatorem, cum peccatum ipse non haberet, et baptizari uoluit cui
+      mundari necesse non erat.
+    </p>
+            <p xml:id="xAbSeN-e11668-d1e148">
+               <ref xml:id="xAbSeN-e11668-Rd1e150">augustinus super iohannem</ref>: Serous autem non manes in domo in aeternum.
+      Aliud est peccare, aliud esse seruum peccati. Nemo enim potest non
+      esse peccator. Peccator in peccato, hoc est seruum esse peccati.
+    </p>
+            <p xml:id="xAbSeN-e11668-d1e154">
+               <ref xml:id="xAbSeN-e11668-Rd1e156">idem ad paulum</ref>: Quaeritur utrum debeat homo sine peccato esse. Si
+      debet, et potest, quia si non potest, non debet; et si non debet esse
+      sine peccato, debet esse cum peccato, et iam peccatum non erit. Quod
+      si absurdum est, confiteri necesse est hominem sine peccato debere
+      esse; et constat illum non aliud debere quam potest.
+    </p>
+            <p xml:id="xAbSeN-e11668-d1e160">
+               <ref xml:id="xAbSeN-e11668-Rd1e162">item</ref>: Per arbitrii libertatem factum est, ut esset homo cum peccato.
+      Sed iam poenalis uitiositas subsecuta ex libertate fecit necessitatem.
+      Unde et ad dominum fides clamat; De necessitatibus educ me, domine.
+    </p>
+            <p xml:id="xAbSeN-e11668-d1e167">
+               <ref xml:id="xAbSeN-e11668-Rd1e169">idem in sermone i epistolae iohannis</ref>: Non potest homo, quamdiu carnem
+      portat, non habere uel leuia peccata. Sed ista leuia nolite
+      contemnere.  Leuia multa faciunt unum grande. Multae guttae implent
+      flumen.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

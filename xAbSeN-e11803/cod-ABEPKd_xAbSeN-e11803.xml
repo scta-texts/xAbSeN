@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 146</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 146</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-e11803"><!-- xAbSeN-q146 -->
+            <head xml:id="xAbSeN-e11803-Hd1e103">Quaestio 146</head>
+            <head xml:id="xAbSeN-e11803-Hd1e106" type="question-title"> quod idem peccatum non puniat dominus hic et in futuro
+      et contra</head>
+    
+            <p xml:id="xAbSeN-e11803-d1e109">
+               <ref xml:id="xAbSeN-e11803-Rd1e111">origenes super vetus testamentum homilia xliv</ref>: Homo, inquit, si
+      matedimerit Deum, pecoatum accipiet. Qui autem nominat nomen domini,
+      morte moriatur. Quid est hoc, qui maledixerit Deum non habet poenam
+      mortis, sed qui nominauerit nomen domini? Nonne multo grauius est
+      maledicere Deum quam nominare, quamuis in uanum nominasse dicatur?
+    </p>
+            <p xml:id="xAbSeN-e11803-d1e115">
+               <ref xml:id="xAbSeN-e11803-Rd1e117">item</ref>: Putant quod qui maledicit nomen domini statim puniri debeat;
+      ille uero qui nominauerit nomen, hoc est superfluo et in uanum
+      nominauerit, sufficiat accepisse peccatum. Sed maius esse peccatum in
+      quo maledicitur Deus quam in quo nominatur, dubitare non possumus.
+      Restat ut ostendamus multo esse grauius accipere peccatum et habere
+      secum quam morte mulctari. Mors quae poenae causa infertur pro
+      peccato, purgatio est peccati ipsius pro quo inbetur inferri.
+      Absoluitur ergo peccatum per poenam mortis, nec superest aliquid quod
+      pro hoc crimine iudicii dies et poena aeterni ignis inueniat. Ubi uero
+      quis accipit peccatum et habet illud secum et permanet cum ipso nec
+      aliquo supplicio poenaque diluitur, transit cum illo etiam post
+      mortem, et quia hic temporalia non persoluit, ibi expendit aeterna
+      supplicia. Vides ergo quanto grauius sit accipere peccatum quam morte
+      mulctari. Hic enim mors pro uindicta datur, et apud iustum indicem
+      dominum non iudicatur bis in id ipsum, sicut propheta dixit. Ubi autem
+      non est soluta uindicta peccatum manet illis aeternis ignibus
+      exigendum. Possum tibi testes ex diuinis uoluminibus adhibere Ruben et
+      Iudam loquentes ad patrem suum Iacob cum uellent secum Beniamin ducere
+      ad Aegyptum. Ruben quidem ita dicit ad patrem: Ambos filios meos
+      occide, nisi reduxero ad te Beniamin. Iudas uero ait: Peccator
+      ero in te, nisi reduxero eum tibi. Iacob uero sciens multo esse
+      grauius quod promiserat Iudas, Ruben quidem non credidit filium
+      tamquam qui leuiorem elegerit poenam, Iudae uero tradidit sciens
+      grauius esse quod elegerat. Vis et de euangeliis noscere quod qui
+      recipit in hac uita male sua, ibi iam non recipiat; qui autem hic non
+      receperit, ibi reseruentur omnia? Memento, fiti, quoniam recepisti
+      bona in uita tua et Laaarus similiter mata. Nunc autem tu quidem
+      cruciaris, hic uero requiescit. Et solent homines ignorantes iudicia
+      Dei quae sunt abyssus multa conqueri aduersus Deum et dicere, Cur
+      homines iniqui in hac uita nihil patiuntur aduersi, et contra
+      colentibus Deum aerumnae superueniunt?
+    </p>
+            <p xml:id="xAbSeN-e11803-d1e123">
+               <ref xml:id="xAbSeN-e11803-Rd1e125">hieronymus super nahum prophetam</ref>: Quid cogitatis contra dominum?
+      consummationem ipse faciet. Non consurget duplex tribulatio.  Haec
+      dicit Dominus: afflixi te, et non affligam te ultra. Si crudelis
+      uidetur Deus, quia genus humanum diluuio deleuit, Sodomam et Gomorrham
+      igne et sulphure submersit, et Aegyptios in mari, Israelitas in
+      deserto prostrauit, scitote quia in praesenti ad horam punit ne in
+      futuro in aeternum puniat. Non iudicabit Deus bis in id ipsum. Qui
+      ergo puniti sunt, postea non punientur. Aliter enim propheta mentitur,
+      quod dicere nefas est. Receperunt ergo et qui in diluuio perierunt et
+      Sodomitae et Aegyptii et Israelitae in deserto male sua in uita sua.
+      Quaerit aliquis, fidelis si in adulterio deprehenditur et decollatur,
+      quid de eo fiet? aut punietur, et falsum est hoc: non iudicabit /505/
+      Deus bia in id ipaum; aut non punietur, et optandum erit adulteris ut
+      sic moriantur. Respondeo Deum, sicut omnium rerum, sic suppliciorum
+      mensuras nosse et non praeuenire sententiam, nec illi in peccatorem
+      exercendae dehinc poenae auferri potestatem, et magnum peccatum magnis
+      diutinisque cruciatibus elui. Si quis autem punitus sit, ut ille in
+      lege qui Israelitam maledixit, et qui in sabbato ligna collegerat,
+      tales postea non puniri, quia culpa leuis praesenti supplicio
+      compensata est.
+    </p>
+            <p xml:id="xAbSeN-e11803-d1e130">
+               <ref xml:id="xAbSeN-e11803-Rd1e132">item simile est in sexto ezechielis libro, ubi dicitur</ref>: Pepercit
+      oculus meus, ne interficerem eos atque delerem. In quo quaeritur
+      quomodo eis pepercit, quorum cadauera in solitudine iacuerunt, et
+      excepto Iesu Naue et Caleph nullus terram promissionis ingressus est.
+      Ex quo intelligimus uiuere eos nec aeternis suppliciis reseruatos nec
+      deletos esse de libro uiuentium.
+    </p>
+            <p xml:id="xAbSeN-e11803-d1e136">
+               <ref xml:id="xAbSeN-e11803-Rd1e138">gregorius moralium lib. ix</ref>: Indica mihi cur me ita iudices. Duobus
+      modis in hac uita indicat hominem Deus; quia aut per mala praesentia
+      irrogare iam tormenta sequentia incipit, aut tormenta sequentia
+      flagellis praesentibus extinguit. Nisi enim delictis exigentibus
+      iustus iudex et nunc et postmodum quosdam percuteret, Iudas minime
+      dixisset: Secundo eos qui non crediderunt perdidit; et de iniquis
+      psalmista non diceret: Induantur sicut diploide confusione sua.
+      Diploidem quippe duplum uestimentum dicimus.  Confusione ergo sicut
+      diploide induti sunt qui iuxta reatus sui meritum et temporali et
+      perpetua animaduersione feriuntur. Solos quippe poena supplicio
+      liberat quos immutat. Nam quos praesentia mala non corrigunt ad
+      sequentia perducunt.
+    </p>
+            <p xml:id="xAbSeN-e11803-d1e144">
+               <ref xml:id="xAbSeN-e11803-Rd1e146">idem lib. xviii de verbis iob, loquentis de divite iniquo</ref>: Et uelut
+      turbo rapiet eum de loco suo.  Locus peruersorum est temporalis uitae
+      delectatio et carnis uoluptas.  Et mittit auper eum et non
+      paroit. Peccatorem Deus quoties feriendo corrigit, ad hoc flagellum
+      emittit ut parcat. Cum uero eius uitam in peccato permanentem feriendo
+      concludit, flagellum emittit sed nequaquam parcit. Qui enim flagellum
+      emittit ut parceret, ad hoc emittit quandoque ne parcat. In hac namque
+      uita dominus tanto magis studet ut parcat quanto magis exspectando
+      flagellat, sicut ipse uoce angeli ad Iohannem ait: Ego quea amo,
+      redarguo et castigo; et sicut alias dicitur: Quem diligit Deus
+      castigat; flagellat omnem filium quam recipit. E contra autem de
+      flagello damnationis per Ieremiam dominus dicit: Plaga inimici
+      percussi te, castigatione crudeli. Quid clamae super contritione tua?
+      Insanabilis est dolor tuus. Omnis ergo diuina percussio aut purgatio
+      in nobis uitae praesentis est aut initium poenae sequentis. Propter
+      eos qui ex flagello proficiunt dictum est: Qui fingia dolorem in
+      praecepto. Quia dum flagellatur iniquus, et corrigitur; audire
+      praeceptum noluit, audiuit dolorem. Dolor ergo in praecepto fingitur
+      ei qui a malis operibus quasi praecepti uice dolore cohibetur. De his
+      uero quos damnant flagella, non liberant, dicitur: Percussisti, nec
+      doluerunt; attriuisti eos, et noluerunt accipere disciplinam. His
+      flagella ab hac uita inchoant et in aeterna percussione perdurant.
+      Unde per Moysen dominus dicit: Ignis exarsit ab ira mea et ardebit
+      usque ad inferos deoraum. Quantum ad praesentem et enim percussionem
+      spectat, dicitur ignis exarsit ab ira mea. Quantum uero ad aeternam
+      damnationem subditur: Et ardebit usque ad inferoa deorsum. Licet a
+      quibusdam dici soleat illud quod scriptum est: Non iudicat Deus
+      bis in id ipsum. Qui tamen hoc de iniquis dicunt, non attendunt: Et
+      duplici contritione contere eos, et id quod alias scriptum est: Iesus,
+      populum de terra Aegypti saluans, secundo eos qui non crediderunt
+      perdidit. Quibus tamen si consensum praebemus quamlibet culpam bis
+      feriri non posse, hoc ex peccato percussis atque in peccato suo
+      morientibus debet aestimari, quia eorum percussio hic coepta illic
+      perficitur; ut in incorrectis unum flagellum sit quod temporaliter
+      incipit, sed in aeternis suppliciis consummatur, quatinus eis qui
+      omnino corrigi renuunt iam praesentium flagellorum percussio
+      sequentium sit initium tormentorum.
+    </p>
+            <p xml:id="xAbSeN-e11803-d1e152">
+               <ref xml:id="xAbSeN-e11803-Rd1e154">idem dialogorum lib. iii</ref>: Super Sodomitua dominua ignem et sulphurem
+      pluit. Quia enim amore illicito corruptibilis carnis arserant, simul
+      incendio et fetore perierunt, quatinus in poena sua cognoscerent quia
+      aeternae morti fetoris sui se delectatione tradidissent.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 44</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 44</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e3588"><!-- xAbSeN-q44 -->
+            <head xml:id="xAbSeN-1e3588-Hd1e103">Quaestio 44</head>
+            <head xml:id="xAbSeN-1e3588-Hd1e106" type="question-title"> quod solus deus incorporeus sit et non</head>
+    
+            <p xml:id="xAbSeN-1e3588-d1e109">
+               <ref xml:id="xAbSeN-1e3588-Rd1e111">gennadius massiliensis episcopus de orthodoxa fide ecclesiasticorum
+      dogmatum</ref>: Nihil incorporeum et inuisibile in natura credendum est,
+      nisi solum Deum. Qui ex eo incorporeus creditur, quia ubique est et
+      omnia implet atque constringit, et ideo inuisibilis omnibus creaturis,
+      quia incorporeus est. Creatura omnis corporea; angeli et omnes
+      caelestes uirtutes corporeae, licet non came subsistant. Ex eo autem
+      corporeal esse credimus intellectuales naturas, quod localiter
+      circumscribuntur, sicut et anima humana, quae came clauditur, et
+      daemones, qui per substantiam angelicae naturae sunt corporei.
+    </p>
+            <p xml:id="xAbSeN-1e3588-d1e115">
+               <ref xml:id="xAbSeN-1e3588-Rd1e117">gregorius moralium lib. ii</ref>: In hoc itaque est nunc natura angelica a
+      naturae nostrae conditione distincta, quod nos et loco circumscribimur
+      et caecitatis ignorantia coartamur. Angelorum uero spiritus quidem
+      circumscripti sunt sed eorum scientiae longe super nos
+      incomparabiliter dilatantur.
+    </p>
+            <p xml:id="xAbSeN-1e3588-d1e121">
+               <ref xml:id="xAbSeN-1e3588-Rd1e123">item</ref>: Eorum itaque scientia comparatione nostra ualde dilatata est sed
+      comparatione diuinae scientiae angusta; sicut et ipsi illorum spiritus
+      comparatione quidem nostrorum corporum spiritus sunt sed comparatione
+      summi et incircumscripti spiritus corpus.
+    </p>
+            <p xml:id="xAbSeN-1e3588-d1e130">
+               <ref xml:id="xAbSeN-1e3588-Rd1e132">augustinus quaestionum lxxxiii cap. xxi</ref>: Deus non est alicubi; quod
+      alicubi enim est, continetur loco; quod continetur loco, corpus
+      est. Deus autem non est corpus; non igitur alicubi est, et in illo
+      sunt potius omnia, nec tamen ita ut ipse sit locus. Locus enim in
+      spatio est, quod longitudine et latitudine et altitudine corporis
+      occupatur. Locus tamen abusiue dicitur templum Dei, non quod eo
+      contineatur sed quod ei praesens sit.
+    </p>
+            <p xml:id="xAbSeN-1e3588-d1e136">
+               <ref xml:id="xAbSeN-1e3588-Rd1e138">collatio vii quae dicitur abbatis sereni, cap. xiii</ref>: Licet enim
+      pronuntiemus nonnullas esse spirituales naturas, ut sunt angeli,
+      archangeli, caeteracque uirtutes ipsa quoque anima rostra, uel certe
+      aer iste subtilis, tamen incorporeae nullatenus aestimandae
+      sunt. Habent enim secundum se corpus, quo subsistent, licet multo
+      tenuius quam nostra sunt corpora secundum apostoli sententiam ita
+      dicentis: et corpora caetestia et corpora terrestria, et iterum:
+      Seminatur corpus animaLe, surges corpus spirituate. Quibus manifeste
+      colligitur nihil esse incorporeum nisi solum Deum, et idcirco ipsi
+      tantummodo posse penetrabiles omnes spiritales atque intellectuales
+      esse substantial, eo quod solus totus et ubique et in omnibus sit, ita
+      ut abdita mentis uniuerse respiciat atque perlustret.
+    </p>
+            <p xml:id="xAbSeN-1e3588-d1e142">
+               <ref xml:id="xAbSeN-1e3588-Rd1e144">hilarius super matthaeum cap. v</ref>: Nonne anima plus est quam esca et
+      corpus pLus quam uestimentum? Nihil est quod non in substantia sua et
+      creatione corporeum sit, et omnium siue in caelo siue in terra, siue
+      uisibilium siue inuisibilium elementa formata sunt. Nam et animarum
+      species siue obtinentium corpora siue corporibus exulantium corporeae
+      tamen naturae substantiam sortiuntur, quia omne quod creatum est in
+      aliquo sit necesse est.
+    </p>
+            <p xml:id="xAbSeN-1e3588-d1e148">IDEM IN PSALMO CXXiX: Ad imaginem Dei homo interior effectus est
+      rationabilis, mobilis, mouers, scitus, incorporeus, subtilis,
+      aeternus. Quantum in se est, speciem naturae principalis
+      imitatur, dum transcurrit, dum circumuolat, et dicto citius nunc intra
+      oceanum est, nunc in caelos euolat, nunc in abyssis est, nunc orientem
+      nunc occidentem perlustrat, dum nunquam ut non sit aboletur. Natura
+      quidem Dei in omnibus est, neque ut alibi adsit, discedit aliunde. Sed
+      animus humanus in hac sensus sui mobilitate ad imaginem opificis sui
+      factus est, dum naturam Dei mobilitas animae perennis imitatur, nihil
+      in se habet corporale, nihil terrenum, nihil graue, nihil caducum.
+    </p>
+            <p xml:id="xAbSeN-1e3588-d1e153">
+               <ref xml:id="xAbSeN-1e3588-Rd1e155">augustinus de civitate dei lib. xxii</ref>: Iam uero contra illud, quod iam
+      dixi superius, etiam istum considerantes atque tractantes elementorum
+      ordinem, quo confidunt, non inueniunt omnino quid dicant. Sic est enim
+      hinc sursum uersus terra prima, aqua secunda, tertius aer, quartum
+      caelum, ut super omnia sit animae natura. Nam et Aristoteles quintum
+      corpus eam dixit esse, Plato nullum.
+    </p>
+            <p xml:id="xAbSeN-1e3588-d1e159">
+               <ref xml:id="xAbSeN-1e3588-Rd1e161">idem in libro contra epistolam fundamenti manichaeorum</ref>: De omni natura
+      incorporea quamuis mutabili, sicuti est anima.
+    </p>
+            <p xml:id="xAbSeN-1e3588-d1e166">
+               <ref xml:id="xAbSeN-1e3588-Rd1e168">isidorus de summo bono lib. ii cap. xii</ref>: Male a quibusdam creditur
+      anima hominis esse corporea, quae propter id ad Dei imaginem facta
+      est, ut si non incommutabilis ut Deus esset, tamen incorporea ut Deus
+      existeret, sicut angeli.
+    </p>
+            <p xml:id="xAbSeN-1e3588-d1e172">
+               <ref xml:id="xAbSeN-1e3588-Rd1e174">gregorius dialogorum lib. iv</ref>: Si esse sanctorum animas in
+      satisfactione credidisti, oportet ut per omnia esse credas et
+      iniquorum animas in inferno. Petrus: Et qua ratione credendum est,
+      quod rem incorpoream tenere ignis corporeus possit? Gregorius: Si
+      uiuentis hominis incorporeus spiritus tenetur in corpore, cur non post
+      mortem spiritus etiam corporeo igne teneatur?  Petrus: Viuente
+      quolibet idcirco spiritus tenetur in corpore, quia uiuificat
+      corpus. Gregorius: Si spiritus in hoc teneri potest, quod uiuificat,
+      quare non poenaliter et ibi teneatur, ubi mortificatur? Teneri
+      per ignem spiritum dicimus, ut in tormento ignis sit uidendo atque
+      sentiendo. Ignem namque eo ipso patitur, quod uidet; quia et cremari
+      si aspicit, concrematur. Sicque fit ut res corporea incorpoream
+      exurat, dum ex igne uisibili ardor ac dolor inuisibilis trahitur.
+    </p>
+            <p xml:id="xAbSeN-1e3588-d1e180">
+               <ref xml:id="xAbSeN-1e3588-Rd1e182">item</ref>: Reprobis Veritas in fine dictura est: Ite in ignem aeternum, qui
+      praeparatus est diabolo et angelis eius. Si igitur diabolus eiusque
+      angeli cum sint incorporei, corporeo sunt igne cruciandi, quid mirum
+      si animae, et antequam recipiant corpora, possint corporea sentire
+      tormenta? 
+    </p>
+            <p xml:id="xAbSeN-1e3588-d1e186">
+               <ref xml:id="xAbSeN-1e3588-Rd1e188">claudianus praefectorio patricio de statu animae lib. i</ref>: De quodam
+      opere sancti Hieronymi capitulum quoddam, quod quidem te constat non
+      intellixisse, subiungis, quo ait, Globos siderum corporatos esse
+      spiritus arbitrantur.
+    </p>
+            <p xml:id="xAbSeN-1e3588-d1e192">
+               <ref xml:id="xAbSeN-1e3588-Rd1e194">item</ref>: Sub ipso sancti Hieronymi nomine adiungit: Si angeli, inquit,
+      caelestia et iam corpora ad comparationem Dei immunda esse dicuntur,
+      quid putas homo existimandus est?
+    </p>
+            <p xml:id="xAbSeN-1e3588-d1e198">
+               <ref xml:id="xAbSeN-1e3588-Rd1e200">item</ref>: Nam quid hic aliud uir doctus Hieronymus dixisse censebitur,
+      nisi angelorum corpora habilitate sui atque potentia humanis praestare
+      longe corporibus? Pariter cum dixit "si angeli" et adiecit "caelestia
+      etiam corpora," duo quaedam intelligi uoluit angelos et caelestia
+      corpora. Quia cum angeli spiritus corporati sint, sunt in caelo
+      quaedam quae sola sunt corpora.
+    </p>
+            <p xml:id="xAbSeN-1e3588-d1e205">
+               <ref xml:id="xAbSeN-1e3588-Rd1e207">item</ref>: Certum namque diuina auctoritate retinemus, sanctorum corpora,
+      quae immutari merebuntur in gloria angelicis aequanda corporibus
+      dicente Domino: Et erunt siout angeli in caelo.
+    </p>
+            <p xml:id="xAbSeN-1e3588-d1e211">
+               <ref xml:id="xAbSeN-1e3588-Rd1e213">item</ref>: Duplex est ergo angelica sicuti est humana substantia, habens
+      corpus totius facilitatis maximaeque pulchritudinis, quod hominibus
+      cum iubetur appareat, habens incorporeum, quo Deum semper uideat.
+    </p>
+            <p xml:id="xAbSeN-1e3588-d1e217">
+               <ref xml:id="xAbSeN-1e3588-Rd1e219">item</ref>: Intelligere nos oportet, constare hominem ex corporeo et
+      incorporeo, constare angelum et corpore et spiritu praecipua
+      inter creaturas dignitate formato. Spiritus namque illi est omni
+      spiritu creato potior; corpus illi est de potissimo omnium elemento
+      sublimius secundum illud propheticum, ubi angelica substantia duplex
+      sine dubitatione perhibetur: Qui facit angelos suos spiritus et
+      ministros suos ignem urentem. Ignem uero non esse spiritum manifestum
+      est, quia non istic allegorice aliquid accipiendum est sicut illud ubi
+      ait Dominus: Ignem ueni mittere in terram, cum de spiritu sancto
+      diceret. Non enim credi fas est animas humanas ad amorem diuinum
+      participatione spiritus inflammari, quia eodem bono bonus est homo quo
+      bonus est angelus, et eodem bono uterque beatus.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

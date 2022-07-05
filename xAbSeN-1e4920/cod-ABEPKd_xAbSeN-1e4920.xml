@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 66</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 66</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e4920"><!-- xAbSeN-q66 -->
+            <head xml:id="xAbSeN-1e4920-Hd1e103">Quaestio 66</head>
+            <head xml:id="xAbSeN-1e4920-Hd1e106" type="question-title"> quod deus et homo in christo partes esse videantur et non</head>
+    
+            <p xml:id="xAbSeN-1e4920-d1e109">
+               <ref xml:id="xAbSeN-1e4920-Rd1e111">athanasius</ref>: Nam sicut anima rationalis et caro unus est homo ita Deus
+      et homo unus est Christus, unus omnino non confusione substantiae sed
+      unitate personae.
+    </p>
+            <p xml:id="xAbSeN-1e4920-d1e115">
+               <ref xml:id="xAbSeN-1e4920-Rd1e117">hieronymus in psalmo ii</ref>: Vox Christi: Ego autem constitutus sum
+      rex ab eo, pro parte carnis dicitur.
+    </p>
+            <p xml:id="xAbSeN-1e4920-d1e123">
+               <ref xml:id="xAbSeN-1e4920-Rd1e125">idem in psalmo xxiii</ref>: Quia est iste rex gloriae? Vox angelorum qui
+      apud patrem semper fuerunt. Ac si dicerent, Nos patrem et filium
+      semper insimul esse uidemus. Iste rex gloriae quis est? Pro parte
+      carnis dicebant.
+    </p>
+            <p xml:id="xAbSeN-1e4920-d1e130">
+               <ref xml:id="xAbSeN-1e4920-Rd1e132">augustinus in libro sententiarum prosperi</ref>: Hoc est quod dicimus, quod
+      modis omnibus approbare contendimus, sacrificium ecclesiae duobus
+      confici, duobus constare: uisibili elementorum specie et inuisibili
+      domini nostri Iesu Christi carne et sanguine; sacramento et re
+      sacramenti, id est corpore Christi; sicut Christi persona constat et
+      conficitur Deo et homine, cum ipse Christus uerus sit Deus et uerus
+      homo, quia omnis illa res illarum rerum naturam et ueritatem in se
+      continet, ex quibus conficitur. Est igitur sacramentum et res
+      sacramenti, id est corpus Christi.
+    </p>
+            <p xml:id="xAbSeN-1e4920-d1e136">
+               <ref xml:id="xAbSeN-1e4920-Rd1e138">idem in libro quaestionum orosii ad ipsum</ref>: Sicut anima et caro unus
+      est homo ita uerbum et homo unus est Christus. Duas substantias
+      accipimus in uno filio Dei, diuinitatis et humanitatis, non duas
+      personas. Si dixerimus duas esse personas, iam non erit trinitas sed
+      quaternitas.
+    </p>
+            <p xml:id="xAbSeN-1e4920-d1e142">
+               <ref xml:id="xAbSeN-1e4920-Rd1e144">idem de trinitate, lib. iv</ref>: Ita sane factum ut ibi sit non tantum
+      uerbum Dei et hominis caro sed etiam rationalis hominis anima, atque
+      hoc totum et Deus dicatur propter Deum et homo propter hominem. Quod
+      si difficile intelligitur, mens fide purgetur.
+    </p>
+            <p xml:id="xAbSeN-1e4920-d1e148">
+               <ref xml:id="xAbSeN-1e4920-Rd1e150">idem de praedestinatione sanctorum</ref>: Ipsa est illa ineffabilis facta
+      hominis a Deo uerbo susceptio singularis, ut filius Dei et filius
+      hominis simul, et filius hominis propter susceptum hominem et filius
+      Dei propter suscipientem Deum, ueraciter et proprie diceretur, /247/
+      ne non trinitas sed quaternitas crederetur.
+    </p>
+            <p xml:id="xAbSeN-1e4920-d1e154">
+               <ref xml:id="xAbSeN-1e4920-Rd1e156">idem in epistola ad volusianum de incarnatione christi</ref>: Sicut in
+      unitate personae anima utitur corpore ut homo sit, ita in unitate
+      personae Deus utitur homine ut Christus sit. In illa ergo persona
+      mixtura est animae et corporis; in hac persona mixtura est Dei et
+      hominis. Ergo persona hominis mixtura est animae et corporis, persona
+      autem Christi mixtura est Dei et hominis. Cum enim uerbum Dei
+      permixtum est animae habenti corpus, simul et animam suscepit et
+      corpus. Illud quotidie fit ad procreandos homines; hoc semel factum
+      est ad liberandos homines. Verum tamen duarum rerum incorporearum
+      commixtio facilius credi debuit quam unius incorporeae et alterius
+      corporeae. Ac per hoc uerbi Dei et animae credibilior debuit esse
+      permixtio, quam animae et corporis. Verbum igitur Dei longe alio modo
+      quodam quam eo quo creaturis caeteris adest, suscepit hominem seque et
+      illo fecit unum Iesum Christum.
+    </p>
+            <p xml:id="xAbSeN-1e4920-d1e160">
+               <ref xml:id="xAbSeN-1e4920-Rd1e162">remigius in psalmo xxxiv</ref>: Et oratio mea in ainu meo conuertetur.
+      Scimus quippe Chris tum in duabus et ex duabus subs tantiis constare,
+      diuina scilicet et humana.
+    </p>
+            <p xml:id="xAbSeN-1e4920-d1e167">
+               <ref xml:id="xAbSeN-1e4920-Rd1e169">augustinus contra maxentium</ref>: Nulla fit partium diuisio in trinitate
+      deitatis. Christus una persona est geminae substantiae, nec tamen Deus
+      pars huius personae dici potest. Alioquin filius Dei antequam formam
+      serui susciperet non erat totus. et creuit cum homo diuinitati eius
+      accessit. Quod si in una persona absurde dicitur, quia pars illius rei
+      non potest esse Christus, quanto magis trinitatis esse non potest
+      quicumque unus in tribus? In trinitate ergo, quae Deus est, pater est
+      Deus, et filius est Deus, et spiritus sanctus est Deus, et simul hi
+      tres unus Deus, nec huius trinitatis tertia pars est unus, nec maior
+      pars duo quam unus est ibi; nec maius aliquid sunt omnes quam singuli,
+      quia spiritalis nec corporalis est magnitudo.
+    </p>
+            <p xml:id="xAbSeN-1e4920-d1e175">
+               <ref xml:id="xAbSeN-1e4920-Rd1e177">idem super iohannem homilia xlv</ref>: Per similitudinem Christus multa est
+      quae per proprietatem non est. Per similitudinem et petra est et
+      ostium et lapis angularis et agnus et pastor et leo, et alia quae
+      connumerare longum est. Si autem proprietates discutias rerum, quas
+      uidere consueuisti, nec petra est nec ostium etc.
+    </p>
+            <p xml:id="xAbSeN-1e4920-d1e181">
+               <ref xml:id="xAbSeN-1e4920-Rd1e183">item</ref>: Pono, inquit, animam meam. Quis ponit? quam ponit? Quid est
+      Christus? Verbum et homo. Nec sic homo, ut sola caro sed quia homo
+      constat ex carne et anima, totus autem homo in Christo. Non enim
+      partem deteriorem suscepisset et meliorem deseruisset; pars quippe
+      hominis melior est anima quam corpus. Quia ergo totus homo in Christo,
+      quid est Christus? Verbum inquam et homo. Quid est Verbum et homo?
+      Verbum, anima, caro. Tene ergo quia nonnulli fuerunt haeretici et in
+      ista sententia; Apollinaristae haeretici ausi sunt dogmatizare quia
+      Christus non sit nisi Verbum et caro, et animam humanam non eum
+      habuisse contendunt.  Quis ponit animam et iterum sumit eam? Christus
+      ex eo quod Verbum est ponit et iterum sumit. An ex eo quod anima
+      humana est, ipsa se ponit et sumit? An ex eo quod caro est, caro
+      animam ponit et sumit? Si dixerimus quia Verbum Dei posuit animam et
+      iterum sumpsit, metuendum nobis est ne dicatur, Ergo anima illa
+      aliquando separata est a Verbo, et aliquando Verbum illud, ex quo
+      suscepit animam, fuit sine anima.
+    </p>
+            <p xml:id="xAbSeN-1e4920-d1e187">
+               <ref xml:id="xAbSeN-1e4920-Rd1e189">item</ref>: Quid fecit passio, quid fecit mors, nisi corpus ab anima
+      separauit? Animam uero a uerbo non separauit. Mortuns est dominus;
+      sine dubio caro ipsius exspirauit; anima ad tempus deseruit carnem. A
+      Verbo autem animam separatam esse non dico. Latronis animae dixit:
+      Hodie mecum eris in paradiso. Latronis animam non deserebat et
+      deserebat suam? Absit. Sed suam inseparabiliter habuit. Sicut Christus
+      animam suam posuit, sic et nos debemus animas pro fratribus ponere.
+      Ponere animam mori est; sic et Petrus dixit: Animam meam pro te ponam,
+      id est pro te moriar. Carni hoc tribue; caro ponit animam et iterum
+      sumit. Et inclinato capite tradidit spiritum, hoc est ponere animam.
+      Caro illum tradidit, emisit, exspirauit. Ideo dicitur exspirare extra
+      spiritum fieri, quomodo exulare extra solum fieri, exorbitare extra
+      orbitam fieri. Si ergo caro animam posuit, quomodo Christus animam
+      posuit? non enim caro Christus. Ita plane et caro Christus et anima
+      Christus et Verbum Christus; nec tamen tria haec tres Christi sed unus
+      Christus. Quomodo est enim unus homo anima et corpus, sic unus
+      Christus Verbum et homo. Videte quid dixerim et intelligite: anima et
+      corpus duae res sunt sed unus homo; Verbum et homo duae res sunt sed
+      unus Christus. De homine quaere. Ubi est Paulus apostolus modo? Si
+      quis respondeat, in requie cum Christo, uerum dicit. Item si quis
+      respondeat, Romae in sepulcro, et ipse uerum dicit. Illud de anima,
+      hoc de eius carne respondet. Nec tamen ideo duos dicimus apostolos,
+      unum qui requiescit in Domino, alterum qui requiescit in sepulchro.
+    </p>
+            <p xml:id="xAbSeN-1e4920-d1e195">
+               <ref xml:id="xAbSeN-1e4920-Rd1e197">idem de trinitate, lib. i</ref>: Quia forma Dei accepit formam serui,
+      utrumque Deus et utrumque homo; sed utrumque Deus propter accipientem
+      Deum, utrumque homo propter acceptum hominem.
+    </p>
+            <p xml:id="xAbSeN-1e4920-d1e201">
+               <ref xml:id="xAbSeN-1e4920-Rd1e203">item</ref>: Ex forma serui crucifixus est, et tamen dominus gloriae
+      crucifixus est. Talis enim erat illa susceptio quae Deum hominem
+      faceret et hominem Deum; quid tamen propter quid, et quid secundum
+      quid dicatur, diligens lector intelligit.  /250/
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

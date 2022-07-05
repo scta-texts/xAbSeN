@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 15</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 15</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e1673"><!-- xAbSeN-q15 -->
+            <head xml:id="xAbSeN-1e1673-Hd1e103">Quaestio 15</head>
+            <head xml:id="xAbSeN-1e1673-Hd1e106" type="question-title"> quod deus non genuerit se vel quod etiam secundum divinitatem
+      filius factus sive creatus dicatur vel quod principatu quodam
+      sive auctoritate praecedat pater et contra</head>
+    
+            <p xml:id="xAbSeN-1e1673-d1e109">
+               <ref xml:id="xAbSeN-1e1673-Rd1e111">augustinus in i de trinitate</ref>: 
+      <quote xml:id="xAbSeN-1e1673-Qd1e114" source="http://scta.info/resource/adt-l1-d1e11" synch="106-143">Qui putat huius potentiae Deum ut se
+      ipsum ipse genuerit, eo plus errat quod non solum Deus ita non est,
+      sed nec spiritalis creature nec corporalis. Nulla enim omnino res est
+      quae se ipsam gignat.</quote>
+            </p>
+            <p xml:id="xAbSeN-1e1673-d1e118">
+               <ref xml:id="xAbSeN-1e1673-Rd1e120">idem in libro quaestionum veteris et novae legis, cap. vii</ref>: Deus
+      perfectio est et nullius eget. Quid ergo opus fuit Christo ut
+      nasceretur? Deus pater, cum ea quae non erant uoluisset existere, et
+      maiestatis suae in hoc condignum opus sciret, prius de se filium
+      generauit in quo ipse uideretur, qui nihil ab eo distaret, ut
+      magnitudini suae congruus responderet effectus. Quid enim ultra posset
+      facere quam ut se alterum qui perfectus est generaret?  Hoc ergo
+      perfectum opus est quo non potest uideri praestantius aliud. Deus enim
+      ex quo sunt omnia, uolens et de creature prius filium quem in mysterio
+      in se uel apud se habebat, generauit, per quem faceret quae facta
+      sunt, ut ostenderet creaturae mysterium quod latuit in illo ex
+      aeternis, sicut dicit apostolus.
+    </p>
+            <p xml:id="xAbSeN-1e1673-d1e124">
+               <ref xml:id="xAbSeN-1e1673-Rd1e126">item, cap. cxlviii</ref>: Deus omnipotens, cum magnitudine ac bonitate
+      praestantior sit, magnum aliquid et maxime bonum edere ex se atque
+      exhibere debuerat. Sed si quid edidisset quod contra modum
+      excellentiae suae fores, aut non potuisse amplius, quod in omnipotente
+      non cadit, aut noluisse, quod in benignissimum esse uideretur. Certe
+      in summo Deo grande non fuerat fecisse, quod intra se positum uim
+      plenae summitatis non esset habiturum. Supra se ergo nihil erat. Nihil
+      est enim quod Deum uincat. Infra se parum fuerat, quia minus maximo
+      non congruebat. Simillimum itaque suum filium creans edidit ex se
+      quasi alterum se.
+    </p>
+            <p xml:id="xAbSeN-1e1673-d1e133">
+               <ref xml:id="xAbSeN-1e1673-Rd1e135">item</ref>: Qui ergo habuit filium totis sibi similitudinis partibus
+      congruentem, hoc est unicus unicum, beatus beatum, maximus maximum,
+      sempiternus aeternum, habuit itaque ante mundum creatae sobolis
+      principatum, de quo rebus oriundis impertiebat exemplum ut gignentium
+      germina suis respondere seminibus cogerentur. Nec sane aliter sinebat
+      ordo legitimus quam ut pater rerum futurus ante esse debuerat pater
+      proprius, hoc est proprii sui fetus.
+    </p>
+            <p xml:id="xAbSeN-1e1673-d1e139">
+               <ref xml:id="xAbSeN-1e1673-Rd1e141">item</ref>: Ex se id quod in se et secum semper habuit, eduxit et protulit;
+      ut si lucem ex sole nasci dicam quod ab eo procedat, non utique quasi
+      aliquando sine luce sol aut esse possit aut fuerit.
+    </p>
+            <p xml:id="xAbSeN-1e1673-d1e145">
+               <ref xml:id="xAbSeN-1e1673-Rd1e147">idem in lib. contra v haereses</ref>: Hermes, qui latine Mercurius dicitur,
+      scripsit librum qui logos tileos appellatur, id est uerbum
+      perfectum. Magnum nomen libri huius quia magnus est de quo scriptus
+      est. Audiamus quid loquatur de uerbo perfecto. Dominus, inquit, etiam
+      omnium factor deorum secundum fecit dominum; hunc fecit primum et
+      solum et uerum. Bonus autem ei uisus est et plenissimus omnium
+      bonorum. Quantum plenissimus, euangelista dicat: de plenitudine eius
+      omnes accepimus. Laetatus est et ualde dilexit tanquam unigenitum
+      suum, quem primo factum dixit, unigenitum suum appellauit
+      postea. Item alio loco dixit, Filius benedicti Dei atque bonae
+      uoluntatis. Quaerebas, pagane, coniugem Dei? audi Mercurium, Coniugem
+      Dei quaeris? coniux Dei bona uoluntas est.
+    </p>
+            <p xml:id="xAbSeN-1e1673-d1e153">
+               <ref xml:id="xAbSeN-1e1673-Rd1e155">idem in libro quaestionum veteris et novae legis, cap. lviii</ref>: Spiritum
+      sanctum, qui tertius sit a patre, secundus autem a Christo secundum
+      numeri ordinationem, iuxta substantiam autem non esse et non differre
+      unum ab altero.
+    </p>
+            <p xml:id="xAbSeN-1e1673-d1e159">
+               <ref xml:id="xAbSeN-1e1673-Rd1e161">ex libro quaestionum orosii ad augustinum</ref>: Orosius: Voluntate pater
+      genuit filium an necessitate? Augustinus: Nec uoluntate nec
+      necessitate; quia necessitas in Deo non est, praeire uoluntas
+      sapientiam non potest. Igitur prius fuit rationabiliter sapere quam
+      rationabiliter uelle. Nam quidam nostrum, cum eum interrogasset
+      haereticus utrum uolens an nolens genuerit pater filium, laudabiliter
+      respondisse fertur. Dic, inquit, et tu, haeretice, Deus pater
+      necessitate est Deus an uoluntate? Si dixisset, necessitate,
+      sequebatur grandis absurditas; si uoluntate, respondebatur illi, ergo
+      uoluntate Deus est, non natura.
+    </p>
+            <p xml:id="xAbSeN-1e1673-d1e165">
+               <ref xml:id="xAbSeN-1e1673-Rd1e167">idem de verbis domini, sermone ix</ref>: Insinuatur in nobis in patre
+      auctoritas, in filio natiuitas, in spiritu sancto patris filiique
+      communitas.
+    </p>
+            <p xml:id="xAbSeN-1e1673-d1e172">
+               <ref xml:id="xAbSeN-1e1673-Rd1e174">ecclesiasticus</ref>: <quote xml:id="xAbSeN-1e1673-Qd1e177" source="http://scta.info/resource/sir1_1 http://scta.info/resource/sir1_3 http://scta.info/resource/sir1_4 http://scta.info/resource/sir1_5">Omnis sapientia a domino Deo est, et cum illo fuit
+      semper et est ante aeuum. Sapientiam Dei praecedentem omnia, quis
+      inuestigauit? Prior omnium creata est sapientia, et intellectus
+      prudentiae ab aeuo. Fons sapientiae Dei in excelsis.</quote>
+            </p>
+            <p xml:id="xAbSeN-1e1673-d1e181">
+               <ref xml:id="xAbSeN-1e1673-Rd1e183">hilarius super psalmum cxxxvii</ref>: Tu formasti me et posuisti super me
+      manum tuam. Utrumque significat: ut quod formauit antiquum sit, quod
+      superposuit manum nouissimum sit. Quod enim secundum naturam
+      diuinitatis formatus sit, apostolus docet dicens: qui cum in forma Dei
+      esset; quod enim in forma est, formatur in forma, et ei pater
+      naturae et diuinitatis est ut referri possit ad patrem et formatus ab
+      ipso sit.
+    </p>
+            <p xml:id="xAbSeN-1e1673-d1e189">
+               <ref xml:id="xAbSeN-1e1673-Rd1e191">idem de trinitate, lib. iii</ref>: Secundum apostolum, quia in Christo
+      inhabitat omnis plenitudo diuinitatis corporaliter. Sed
+      incomprehensibiliter, inenarrabiliter ante omne tempus et saecula,
+      unigenitum ex his quae ingenita in se erant, procreauit, omne quod
+      Deus est per caritatem atque uirtutem natiuitati eius impertiens; ac
+      sic ingenito perfecto aeternoque patri unigenitus et perfectus et
+      aeternus est filius. Ea autem quae ei sunt, secundum corpus quod
+      assumpsit, bonitatis eius ad salutem nostram uoluntas est.
+    </p>
+            <p xml:id="xAbSeN-1e1673-d1e195">
+               <ref xml:id="xAbSeN-1e1673-Rd1e197">idem in xi</ref>: Verba quae loquor uobis, non a me loquor. Nam dum non a se
+      loquitur, auctori eum necesse est debere quod loquitur.
+    </p>
+            <p xml:id="xAbSeN-1e1673-d1e201">
+               <ref xml:id="xAbSeN-1e1673-Rd1e203">item</ref>: Ad id quod agit secundum natiuitatem, sibi pater auctor
+      est.
+    </p>
+            <p xml:id="xAbSeN-1e1673-d1e207">
+               <ref xml:id="xAbSeN-1e1673-Rd1e209">rursus in xii, de non nato deo patre et nato ab eo filio loquens, ait</ref>:
+      Neque ipsum est non natum atque nasci: quia illud ab altero, hoc uero
+      a nemine est. Et aliud est sine auctore esse semper aeternum, aliud
+      quod patri, id est auctori est aeternum. Ubi enim pater auctor est ibi
+      et natiuitas est. At uero ubi auctor aeternus est ibi et natiuitatis
+      aeternitas est; quia sicut natiuitas ab auctore est ita et ab aeterno
+      auctore aeterna natiuitas.
+    </p>
+            <p xml:id="xAbSeN-1e1673-d1e214">
+               <ref xml:id="xAbSeN-1e1673-Rd1e216">item</ref>: Quod ex aeterno natum est, id si non aeternum natum, iam non
+      erit et pater auctor aeternus. Si quid igitur ei qui ab aeterno patre
+      natus est ex aeternitate defuerit, id ipsum auctori, qui pater est,
+      non est ambiguum defuisse, quia quod gignenti est infinitum, infinitum
+      est etiam nascenti.
+    </p>
+            <p xml:id="xAbSeN-1e1673-d1e220">
+               <ref xml:id="xAbSeN-1e1673-Rd1e222">item</ref>: Ex aeterno nihil aliud quam aeternum; quod si non aeternum iam
+      nec pater, qui generationis est auctor, aeternus est.
+    </p>
+            <p xml:id="xAbSeN-1e1673-d1e226">
+               <ref xml:id="xAbSeN-1e1673-Rd1e228">item</ref>: Ex te natus ostenditur ut nihil aliud quam te sibi significet
+      auctorem.
+    </p>
+            <p xml:id="xAbSeN-1e1673-d1e232">
+               <ref xml:id="xAbSeN-1e1673-Rd1e234">item in xii</ref>: Filius ex te Deo patre Deus uerus et a te genitus,
+      post te ita confitendus ut tecum quia aeternae originis suae auctor
+      aeternus es. Nam qui ex te est secundus a te est.
+    </p>
+            <p xml:id="xAbSeN-1e1673-d1e240">
+               <ref xml:id="xAbSeN-1e1673-Rd1e242">ambrosius in epistola prima pauli ad corinthios</ref>: Caput Christi
+      Deus. Dignum est ut filii caput pater dicatur quia est genitor eius.
+    </p>
+            <p xml:id="xAbSeN-1e1673-d1e246">
+               <ref xml:id="xAbSeN-1e1673-Rd1e248">idem in secunda</ref>: Omnia autem ex Deo. Quamuis Christus nos redemerit,
+      omnia tamen ex Deo, quia ab ipso est omnis paternitas ideoque necesse
+      est praeferri personam patris.
+    </p>
+            <p xml:id="xAbSeN-1e1673-d1e253">
+               <ref xml:id="xAbSeN-1e1673-Rd1e255">item idem in epistola ad ephesios</ref>: Unus Deus et pater omnium, qui
+      super est etc. Patrem Deum, quia nulli debet quod est, super omnia
+      esse dixit etc.
+    </p>
+            <p xml:id="xAbSeN-1e1673-d1e259">
+               <ref xml:id="xAbSeN-1e1673-Rd1e261">hieronymus nicaeni concilii fidem exponens</ref>: Absit ergo in filio Dei
+      aliquid plus minusue, aut in loco aut in tempore aut in potentia aut
+      in scientia aut in aequalitate aut in subiectione, cum dicitur, hoc ut
+      deitati elus, non carni ascribatur. Si enim plus minusue aliquid
+      inuenitur, excepto hoc quod genuerit pater filium et excepto hoc quod
+      filius non ex semet ipso natus est sed de patre natus est proprie, aut
+      inuidens aut impotens pater, insuper etiam temporalis agnoscitur.
+    </p>
+            <p xml:id="xAbSeN-1e1673-d1e265">
+               <ref xml:id="xAbSeN-1e1673-Rd1e267">augustinus de incarnata deitate ad ianuarium de filio dei sic ait</ref>:
+      Videamus etiam qualiter sentiendum sit, quod in sapientia Salomonis
+      legimus, qui ait de sapientia, quia uapor est quidam uirtutis Dei etc.
+    </p>
+            <p xml:id="xAbSeN-1e1673-d1e271">
+               <ref xml:id="xAbSeN-1e1673-Rd1e273">item</ref>: Ex quo ostenditur semper fuisse uaporem istum uirtutis Dei
+      nullum habentem initium nisi ipsum Deum; neque enim decebat aliud esse
+      initium nisi ipsum, unde etiam est et nascitur, Deum.
+    </p>
+            <p xml:id="xAbSeN-1e1673-d1e277">
+               <ref xml:id="xAbSeN-1e1673-Rd1e279">item post aliqua</ref>: Imago bonitatis eius; principalis namque bonitas
+      sine dubio pater est, ex qua filius natus qui per omnia imago est
+      patris; procul dubio etiam bonitatis eius conuenienter imago
+      dicitur. Non enim aliqua alia bonitas existit in filio praeter
+      eam quae est in patre.
+    </p>
+            <p xml:id="xAbSeN-1e1673-d1e285">
+               <ref xml:id="xAbSeN-1e1673-Rd1e287">item</ref>: Principalis bonitas in Deo patre sentienda est, ex quo uel
+      filius natus uel spiritus sanctus procedens sine dubio bonitatis
+      naturam in se fert, quae est in eo fonte de quo uel natus est filius
+      uel procedens spiritus sanctus.
+    </p>
+            <p xml:id="xAbSeN-1e1673-d1e292">
+               <ref xml:id="xAbSeN-1e1673-Rd1e294">chrysostomus super matthaeum</ref>: Ductus est Iesus in desertum a
+      spiritu. A spiritu sancto ductus est sed non quasi minor maioris
+      praecepto sed quasi maior minoris hortatu. Nam non solum ductus aut
+      adductus dicitur qui alicuius potestate ducitur sed etiam ille qui
+      alicuius rationabili exhortatione placatur.
+    </p>
+            <p xml:id="xAbSeN-1e1673-d1e298">
+               <ref xml:id="xAbSeN-1e1673-Rd1e300">idem</ref>: Dixit paterfamilias procuratori suo. Sine dubio filius dicit
+      spiritui sancto et, si uolueris, concedo tibi ut pater filio
+      dicat. Non quaero utrum filius sit patris procurator, aut spiritus
+      sanctus filii; sed hoc dico quia procurator domus et paterfamilias nec
+      eiusdem substantiae possunt esse nec una persona esse nec aequalis
+      dignitas. Si ergo alter paterfamilias, alter procurator
+      patrisfamilias, quomodo locum habeat trinitas tua? Si autem eiusdem
+      substantiae est et est minor, iniuriam facit substantiae. Si non
+      aequalis dignitas ubi est una substantia?
+    </p>
+            <p xml:id="xAbSeN-1e1673-d1e304">
+               <ref xml:id="xAbSeN-1e1673-Rd1e306">idem</ref>: Et uidit spiritum sanctum descendentem siout columbam et
+      manentem super se. Non dixit hic est filius noster dilectus, ut ne
+      quemadmodum Deus ita et spiritus sanctus uideatur pater Christi
+      fuisse. Nam si aequales sunt per omnia, quemadmodum ille est
+      paternitate honoratus, sic et spiritus sanctus. Si autem Deus quidem
+      pater est quia filium habet, spiritus autem sanctus non est pater quia
+      nec filium habet, non est per omnia aequalis. Nec dictum est, hi sunt
+      filii mei dilecti, nec cum Christo etiam filius est quemadmodum
+      Christus. Si autem non filius quemadmodum Christus sed minister
+      fidelis Christi, non est aequalis Christo.
+    </p>
+            <p xml:id="xAbSeN-1e1673-d1e310">
+               <ref xml:id="xAbSeN-1e1673-Rd1e312">paulus apostolus ad philippenses</ref>: <quote xml:id="xAbSeN-1e1673-Qd1e315" source="http://scta.info/resource/phil2_5 http://scta.info/resource/phil2_6">Hoc sentite in uobis quod et
+      in Christo Iesu; qui cum in forma Dei esset, non rapinam arbitratus
+      est esse se aequalem Deo</quote>.
+    </p>
+            <p xml:id="xAbSeN-1e1673-d1e321">
+               <ref xml:id="xAbSeN-1e1673-Rd1e323">athanasius in symbolo fidei</ref>: Filius a patre solo est, non factus, nec
+      creatus sed genitus.
+    </p>
+            <p xml:id="xAbSeN-1e1673-d1e327">
+               <ref xml:id="xAbSeN-1e1673-Rd1e329">item</ref>: Sed in hac trinitate nihil prius aut posterius, nihil maius aut
+      minus; sed totae tres personae coaeternae sibi sunt et coaequales.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

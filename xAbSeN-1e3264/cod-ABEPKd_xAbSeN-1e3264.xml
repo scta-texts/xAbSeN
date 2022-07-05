@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 39</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 39</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e3264"><!-- xAbSeN-q39 -->
+            <head xml:id="xAbSeN-1e3264-Hd1e103">Quaestio 39</head>
+            <head xml:id="xAbSeN-1e3264-Hd1e106" type="question-title"> quod opera hominum nihil sunt et contra</head>
+    
+            <p xml:id="xAbSeN-1e3264-d1e109">
+               <ref xml:id="xAbSeN-1e3264-Rd1e111">augustinus in enchiridion, cap. ix</ref>: Satis est Christiano rerum
+      creatarum causes non nisi bonitatem intelligere creatoris, qui est
+      Deus, nullamque naturam esse quae non aut ipse sit aut ab ipso.
+    </p>
+            <p xml:id="xAbSeN-1e3264-d1e117">
+               <ref xml:id="xAbSeN-1e3264-Rd1e119">idem de moribus ecclesiae catholicae</ref>: Creatura, Paulus clamat,
+      uanitati subiecta est, neque nos potest a uanitate separare
+      ueritatique connectere quod subiectum est uanitati. Et hic nobis
+      spiritus sanctus praestat. Creatura igitur non est, quia omne quod est
+      aut Deus aut creature est.
+    </p>
+            <p xml:id="xAbSeN-1e3264-d1e123">
+               <ref xml:id="xAbSeN-1e3264-Rd1e125">paulus in epistola prima ad corinthios</ref>: Scimus quia nihil est idolum
+      in mundo.
+    </p>
+            <p xml:id="xAbSeN-1e3264-d1e130">
+               <ref xml:id="xAbSeN-1e3264-Rd1e132">prudentius hymnorum</ref>:
+    </p>
+            <p xml:id="xAbSeN-1e3264-d1e136">     Isis, Apollo, Venus nihil est
+      Maximianus et ipse nihil [est]
+      illa nihil quia facta manu
+      hic manuum quia facta colit.
+    </p>
+            <p xml:id="xAbSeN-1e3264-d1e139">
+               <ref xml:id="xAbSeN-1e3264-Rd1e141">ex psalmo cxiii</ref>: Simulacra gentium argentum et aurum, opera manuum
+      hominum.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

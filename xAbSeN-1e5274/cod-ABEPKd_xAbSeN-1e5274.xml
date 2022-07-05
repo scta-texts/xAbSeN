@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 71</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 71</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e5274"><!-- xAbSeN-q71 -->
+            <head xml:id="xAbSeN-1e5274-Hd1e103">Quaestio 71</head>
+            <head xml:id="xAbSeN-1e5274-Hd1e106" type="question-title"> quod etiam secundum divinitatem filius minor patre videatur
+      et contra</head>
+    
+            <p xml:id="xAbSeN-1e5274-d1e109">
+               <ref xml:id="xAbSeN-1e5274-Rd1e111">hieronymus de symbolo nicaeni concilii</ref>: Absit ergo in filio Dei
+      aliquid plus minusue aut in loco aut in tempore aut in potentia aut in
+      scientia aut in aequalitate aut in subiectione, cum dicitur, hoc ut
+      deitati eius, non carni ascribatur. Si enim plus minusue aliquid
+      inuenitur, excepto hoc, quod genuit pater filium, et excepto hoc, quod
+      filius non ex semetipso natus est sed de patre natus est
+      proprie, aut inuidus aut impotens pater, insuper etiam temporalis
+      agnoscitur.
+    </p>
+            <p xml:id="xAbSeN-1e5274-d1e117">
+               <ref xml:id="xAbSeN-1e5274-Rd1e119">hilarius de trinitate, lib. ix</ref>: Ut sacramentum natiuitatis et
+      mysterium assumpti corporis manifestaret, ait: quia pater maior me
+      est, a quo scilicet esset gloriam resumpturus, apud quem et in quo
+      esset glorificandus.
+    </p>
+            <p xml:id="xAbSeN-1e5274-d1e123">
+               <ref xml:id="xAbSeN-1e5274-Rd1e125">item</ref>: Glorificaturus filium pater maior est; glorificatus in patre
+      filius minor non est. Aut quomodo minor est qui in gloria Dei patris
+      est? Aut numquid pater maior non est? Maior itaque pater est, dum
+      pater est; sed filius, dum filius est, minor non est. Natiuitas filii
+      patrem constituit maiorem. Minorem uero filium esse natiuitatis natura
+      non patitur. Maior pater est, dum gloriam assumpto homini rogatur ut
+      reddat. Filius minor non est, dum gloriam resumit apud patrem; atque
+      ita et sacramentum natiuitatis et dispensatio corporationis impletur.
+      Nam et pater, dum pater est et glorificat nunc filium hominis, maior
+      est; et pater et filius unum sunt, dum ex patre natus filius post
+      assumptionem terreni corporis glorificatur in patrem.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

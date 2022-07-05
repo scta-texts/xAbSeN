@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 83</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 83</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e6338"><!-- xAbSeN-q83 -->
+            <head xml:id="xAbSeN-1e6338-Hd1e103">Quaestio 83</head>
+            <head xml:id="xAbSeN-1e6338-Hd1e106" type="question-title"> quod christus vel sancti mori voluerint et non</head>
+    
+            <p xml:id="xAbSeN-1e6338-d1e109">
+               <ref xml:id="xAbSeN-1e6338-Rd1e111">isaias propheta</ref>: Oblatus est, quia ipse uoluit.
+    </p>
+            <p xml:id="xAbSeN-1e6338-d1e115">
+               <ref xml:id="xAbSeN-1e6338-Rd1e117">ipse dominus in evangelio</ref>: Nemo tollit animam meam a me sed ego pono
+      eam.
+    </p>
+            <p xml:id="xAbSeN-1e6338-d1e121">
+               <ref xml:id="xAbSeN-1e6338-Rd1e123">item</ref>: Non ueni facere uoluntatem meam sed eius qui misit me.
+    </p>
+            <p xml:id="xAbSeN-1e6338-d1e128">
+               <ref xml:id="xAbSeN-1e6338-Rd1e130">item</ref>: Pater, si possibile est, transeat a me calix iste. Verumptamen
+      non sicut ego uolo sed sicut tu.
+    </p>
+            <p xml:id="xAbSeN-1e6338-d1e134">
+               <ref xml:id="xAbSeN-1e6338-Rd1e136">et rursum</ref>: Non mea uoluntas sed tua fiat.
+    </p>
+            <p xml:id="xAbSeN-1e6338-d1e140">
+               <ref xml:id="xAbSeN-1e6338-Rd1e142">paulus ad philippenses</ref>: Coartor autem e duobus, desiderium habens
+      dissolui et cum Christo esse etc.
+    </p>
+            <p xml:id="xAbSeN-1e6338-d1e146">
+               <ref xml:id="xAbSeN-1e6338-Rd1e148">idem ad laodicenses</ref>: Est enim mihi uera uita in Christo et mori
+      gaudium.
+    </p>
+            <p xml:id="xAbSeN-1e6338-d1e152">
+               <ref xml:id="xAbSeN-1e6338-Rd1e154">idem in secunda ad corinthios</ref>: Nam et qui sumus in tabernaculo isto,
+      ingemiscimus grauati, eo quod nolumus exspoliari sed superuestiri, ut
+      absorbeatur quod mortale est a uita.
+    </p>
+            <p xml:id="xAbSeN-1e6338-d1e158">
+               <ref xml:id="xAbSeN-1e6338-Rd1e160">hieronymus de amore dei et saeculi</ref>: Cruciat te amor carnis, tolle
+      crucem tuam et sequere dominum. Et ipse tibi dominus et saluator tuus
+      quamuis in carne Deus humanum tamen demonstrauit affectum, ubi ait:
+      Pater, si fieri potest, transeat a me calix iste. Nouerat quod calix
+      iste transire non poterat, ad eum bibendum uenerat uoluntate non
+      necessitate. Pro te uocem hominis, uocem carnis emisit; te in se
+      dignatus est transfigurare. Voluntatem ostendit qua temptari posset,
+      continuo docuit quam uoluntatem cui uoluntati praeferre deberes.
+      Pater, inquit, si fieri potest, transeat a me calix iste; uox
+      carnis, non spiritus, uox infirmitatis, non diuinitatis. si fieri
+      potest, transeat calix iste. Illa est uoluntas. de qua et Petro
+      dicitur: Cum autem senueris, alter te cinget et ducet quo tu non
+      uis. Unde ergo uicerunt martyres? quia uoluntati carnis uoluntatem
+      spiritus praeposuerunt.  Amabant hanc uitam et ideo ponderabant. Inde
+      considerabant quantum amanda esset aeterna, si sic amatur ista
+      peritura. Moriturus mori non uult et erit necessario moriturus.
+    </p>
+            <p xml:id="xAbSeN-1e6338-d1e167">
+               <ref xml:id="xAbSeN-1e6338-Rd1e169">idem in psalmo cxxxii</ref>: Ecce quam bonum et quam iocundum. Bonum est
+      martyrium sed non est iocundum.  Habet enim supplicia et poenas et
+      semper in cruciatibus dolorem, et utique in dolore non est iocunditas.
+    </p>
+            <p xml:id="xAbSeN-1e6338-d1e173">
+               <ref xml:id="xAbSeN-1e6338-Rd1e175">augustinus in psalmo lxxxv</ref>: Adiuuiati me et consolatus es
+      me. Contristatus est beatus Cyprianus in passione, modo consolatus est
+      in corona etc.
+    </p>
+            <p xml:id="xAbSeN-1e6338-d1e179">
+               <ref xml:id="xAbSeN-1e6338-Rd1e181">idem super iohannem sermone cxxi</ref>: Extendes, inquit, manus tuas, hoc
+      est crucifigeris. Ad hoc autem ut uenias, alius te cinget et ducet quo
+      non uis. Prius dixit quo fieret, deinde dixit quomodo fieret. Non enim
+      crucifixus sed crucifigendus quo nollet est ductus; nam crucifixus
+      abiit quo uolebat.  Solutus quippe a corpore uolebat esse cum Christo
+      sed si fieri posset praeter mortis molestiam, ad quam nolens ductus
+      est. Nolens ad eam uenit sed uolens eam uicit et reliquit hunc
+      infirmitatis affectum, quo nemo uult mori, usque adeo naturalem ut eum
+      beato Petro nec senectus auferre potuerit, cui dictum est: Cum
+      senueris, duceris quo non uis.  Propter nos consolandos etiam in se
+      transfigurauit ipse saluator dicens: Pater, si fieri potest, transeat
+      etc. Qui utique mori uenerat, nec habebat mortis necessitatem sed
+      uoluntatem, potestate positurus animam suam et rursus eam sumpturus.
+    </p>
+            <p xml:id="xAbSeN-1e6338-d1e185">
+               <ref xml:id="xAbSeN-1e6338-Rd1e187">item</ref>: Nam si nulla esset mortis uel parua molestia, non esset tanta
+      martyrum gloria.  /301/
+    </p>
+            <p xml:id="xAbSeN-1e6338-d1e191">
+               <ref xml:id="xAbSeN-1e6338-Rd1e193">gregorius evangeliorum homilia iii, de sancta felicitate sermonem
+      adnectens</ref>: Optauit nullum post se relinquere ne si quem haberet
+      superstitem, non posset habere consortem. Nemo ergo existimet quod
+      eius cor morientibus filiis etiam carnalis affectus minime pulsauit.
+      Neque enim filios, quos carnem suam esse nouerat, sine dolore poterat
+      morientes uidere; sed erat uis amoris interior quae dolorem uinceret
+      carnis. Unde et passuro Petro dicitur: Atrus te oinget et duaet quo
+      non uis. Neque enim plenissime Petrus, si nollet, pro Christo pati
+      potuisset. Sed martyrium quod per infirmitatem carnis noluit, per
+      uirtutem spiritus amauit. Qui dum per carnem ad poenas trepidat, per
+      spiritum ad gloriam exultat, actumque est ut cruciatum martyrii
+      nolendo uoluisset. Sicut nos quoque cum gaudium quaerimus salutis,
+      amarum poculum sumimus purgationis. Amaritudo quidem in poculo
+      displicet sed restituenda per amaritudinem salus placet.
+    </p>
+            <p xml:id="xAbSeN-1e6338-d1e197">
+               <ref xml:id="xAbSeN-1e6338-Rd1e199">ex libro sententiarum prosperi, cap. clxxxii</ref>: Nemo quod toIerat amat
+      etiam si tolerare amat, quia aliud est fortis patientia, aliud secura
+      felicitas. Nec eiusdem est temporis labor pugnae et beatitudo
+      uictoriae.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

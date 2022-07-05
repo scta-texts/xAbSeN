@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 80</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 80</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e5934"><!-- xAbSeN-q80 -->
+            <head xml:id="xAbSeN-1e5934-Hd1e103">Quaestio 80</head>
+            <head xml:id="xAbSeN-1e5934-Hd1e106" type="question-title"> quod christus nec secundum hominem passus sit aut timuerit
+      et contra</head>
+    
+            <p xml:id="xAbSeN-1e5934-d1e109">
+               <ref xml:id="xAbSeN-1e5934-Rd1e111">hilarius de trinitate lib. x</ref>: Expurganda etiam nunc est omnis impiae
+      assertionis occasio et omnes haereticae blasphemiae transcurrendae
+      sunt praedicationes, ut ueritas euangelii per ea ipsa quibus obscurari
+      uidetur, eluceat. Volunt enim plerique eorum ex passionis metu et ex
+      infirmitate patiendi non in natura eum impassibilis Dei fuisse, ut qui
+      timuit et doluit, non fuerit uel in ea potestatis securitate quae non
+      times, uel in ea spiritus incorruptione quae non doles sed inferioris
+      a Deo patre naturae et humanae passionis trepidauerit metu, et ad
+      corporalis poenae congemuerit atrocitatem, quia scriptum est: Tristis
+      est anima mea usque ad mortem, et rursum: si possibile est, transeat a
+      me calix iste, et illud: Deus meus, quare me dereliquisti? Hoc quoque:
+      Pater, commendo in manus tuus spiritum meum. Ac primum antequam ex his
+      ipsis dictis demonstremus nec metuendi de se in eum infirmitatem
+      incidisse aliquam nec dolendi, quaerendum est quidnam uideatur timere
+      potuisse, an ratione subsistat ut mori timuerit, qui omnem terrorem
+      mortis ab apostolis apellens ad gloriam eos sit martyrii adhortatus
+      dicens: Qui non accipit crucem suam et sequitur me, non est me dignus;
+      et qui perdiderit animam propter me, inueniet eam. Cum enim pro eo
+      mori uita sit, quid ipse in mortis sacramento doluisse existimandus
+      est, qui pro se morientibus uitam rependat? Cum non timendos esse qui
+      corpus occiderent monet, ipsum mors ad timorem passionis corporalis
+      exterruit? Tum deinde quem dolorem mortis timeret, potestatis suae
+      libertate moriturus? Humano enim generi mortem aut uis exterior
+      degrassata in corpus accelerat, aut ipsa natura corporis senio in eam
+      ipsam mortem uicta concedit.  Unigenitus autem Dei ita potestatem
+      habens ponendae animae ut resumendae, ad peragendum in se mortis
+      sacramentum, cum potato aceto consummasse omne humanarum opus
+      passionum est testatus, inclinato capite spiritum tradidit. Si hoc
+      naturae hominis ius relictum est, ut per se exhalans spiritum
+      requiescat in mortem et non dissoluto corpore labefacta anima decedat,
+      uel abruptis aut perfossis aut collisis membris spiritus tanquam in
+      sede sua uiolatus erumpat aut effluat, incidat in dominum uitae metus
+      mortis, si quod emisso spiritu mortuus est, non libertatis suae ad
+      moriendum usus est potestate. Quod ex se mortuus est, et per se
+      spiritum reddidit, non est terror mortis in potestate moriendi.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e117">
+               <ref xml:id="xAbSeN-1e5934-Rd1e119">item</ref>: Haec stulta atque ridicule sunt, ut in potestate ponendae animae
+      ac resumendae mori timeret, ad sacramentum uitae humanae sub
+      uoluntatis suae libertate moriturus.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e123">
+               <ref xml:id="xAbSeN-1e5934-Rd1e125">item</ref>: Timeri mors non potest et in uoluntate moriendi et in potestate
+      uiuendi.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e130">
+               <ref xml:id="xAbSeN-1e5934-Rd1e132">item</ref>: Virgo enim non nisi ex sancto spiritu genuit. Et quamuis tantum
+      ad natiuitatem carnis ex se daret quantum ex se feminae edendorum
+      corporum susceptis originibus impenderent, non tamen Christus per
+      humanae conceptionis coaluit naturam. Sed omnis cause nascendi inuecta
+      per spiritum tenuit in hominis natiuitate quod matris est, cum tamen
+      haberet in origine quod Deus est. Hinc suscepti hominis sacramentum
+      dominus ipse ostendit dicens: Nemo aacendit in aaelum nisi qui de
+      caelo descendit, filius hominis qui est in caelo. Quod de caelo
+      descendit, conceptae de spiritu originis causa est. Non enim corpori
+      Maria originem dedit, licet ad crementa partumque corporis omne quod
+      sexus sui est naturale contulerit.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e136">
+               <ref xml:id="xAbSeN-1e5934-Rd1e138">item</ref>: Et uerbum caro factum, cum caro esset, non tamen non erat et
+      uerbum.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e142">
+               <ref xml:id="xAbSeN-1e5934-Rd1e144">item</ref>: Absolute autem apostolus huius inenarrandae corporeae
+      natiuitatis sacramentum locutus est dicens: Primus homo de terrae
+      limo, secundus homo de caelo. Cum ait secundum hominem de caelo, in
+      originem eius ex superuenientis in uirginem sancti spiritus aditu
+      testatus est.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e150">
+               <ref xml:id="xAbSeN-1e5934-Rd1e152">item</ref>: Ipse dominus huius natiuitatis suae mysterium pandens sic
+      locutus est: Ego aum pania uiuus qui de caelo descendi. Si quia
+      mandueauerit de pane meo, uiuet in aeternum.  Ipse enim corporis sui
+      origo est. Ac ne uerbi uirtus atque natura defecisse ex se
+      existimaretur in carne, rursus panem suum esse dixit ut, per hoc quod
+      descendens de caelis panis est, non ex humana conceptione origo esse
+      corporis existimaretur, dum caeleste esse corpus ostenditur. At uero
+      cum suus panis est, assumpti per uerbum corporis est professio.
+      Subiecit enim: Nisi manducaueritis carnem filii hominis et sanguinem
+      eius biberitis, non habebitis uitam in uobis ut, quia id quod filius
+      hominis est et panis de caelis ipse descendit, per panem suum de caelo
+      descendentem et per sanguinem et carnem filii hominis et conceptae ex
+      uirgine carnis intelligatur assumptio.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e156">
+               <ref xml:id="xAbSeN-1e5934-Rd1e158">item</ref>: Homo itaque Christus Iesus unigenitus Deus, per carnem et uerbum
+      ut hominis filius, ita Dei filius, hominem uerum secundum
+      similitudinem nostri hominis sumpsit; in quo, quamuis aut ictus aut
+      uulnus descenderet, aut nodi concurrerent, aut suspensio eleuaret,
+      afferrent quidem haec impetum passionis, non tamen passionis dolorem
+      inferrent. Ut telum aliquod aut aquam perforans, aut ignem compungens,
+      aut aera uulnerans, omnes quidem has passiones naturae suae infert, ut
+      foret, ut compungat, ut uulneret; sed naturam suam in haec passio
+      illata non retinet, dum in natura non est uel aquam forari, uel ignis
+      pungi, uel aera uulnerari, quamuis naturae teli sit et uulnerare et
+      compungere et forare.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e162">
+               <ref xml:id="xAbSeN-1e5934-Rd1e164">item</ref>: Passus quidem dominus, dum caeditur, dum suspenditur, dum
+      crucifigitur, dum moritur; sed in corpus irruens passio nec non
+      fuit passio nec tamen naturam passionis exercuit, dum et poenali
+      ministerio desaeuit et uirtus corporis sine sensu poenae uim poenae in
+      se desaeuientis excepit. Quid enim per naturam corporis humani
+      conceptam ex spiritu carnem iudicamus? Homo ille de Deo est, habens ad
+      patiendum quidem corpus, et passus est sed naturam non habens ad
+      dolendum. Naturae enim propriae ac suae corpus illud est. Neque cum
+      sitiuit aut esuriit aut fleuit, bibisse aut manducasse aut doluisse
+      monstratus est sed ad monstrandam corporis ueritatem, corporis
+      consuetudo suscepta est. Vel cum potum et cibum accepit, non se
+      necessitati corporis sed consuetudini tribuit.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e171">
+               <ref xml:id="xAbSeN-1e5934-Rd1e173">item</ref>: Tenuit apostolus demonstrandae natiuitatis huius sacramentum,
+      cum ait: In aimilitudine hominis constitutus et habitu repertus ut
+      homo. Non fuit habitus ille tantum hominis sed ut hominis, dum et
+      habitus carnis in natiuitatis est ueritate et similitudo carnis
+      peccati a uitiis humanae passionis aliena est. Atque ita habet
+      natiuitatem hominis, quia homo est; nec in uitiosa hominis
+      infirmitate, quia Christus est. Quia quamuis forma nostri corporis
+      esset in domino, non tamen uitiosae infirmitatis nostrae esset in
+      corpore, qui non esset in origine, quod ex conceptu spiritus sancti
+      uirgo progenuit.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e177">
+               <ref xml:id="xAbSeN-1e5934-Rd1e179">item</ref>: Timuisse tibi, o haeretice, dominus gloriae passionem uidetur?
+      Sed ei ob ignorantiae huius errorem, et satanas Petrus et scandalum
+      est.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e183">
+               <ref xml:id="xAbSeN-1e5934-Rd1e185">item</ref>: Tu quid sectaberis spei Christum Deum negando et metum ei
+      passionis addendo? Anne timuit qui armatis ad corripiendum se obuius
+      prodiit? et in corpore eius infirmitas fuit, ad cuius occursum
+      consternata agmina persequentium ceciderunt? Quam igitur infirmitatem
+      dominatam huius corpori credis, cuius tantam habuit natura uirtutem?
+      Sed forte dolorem uulnerum timuit. Quem, rogo, penetrantis in
+      carnem claui habuit horrorem, qui excisae auris carnem solo restituit
+      attactu? Manus clauum dolet et sentit sibi uulnus, quae alteri dolorem
+      uulneris non relinquit?
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e191">
+               <ref xml:id="xAbSeN-1e5934-Rd1e193">item</ref>: Haeretice, cum exeunte ad proditionem Iuda non memineris dictum
+      fuisse, nunc clarificatus est filius hominis? Si enim passio honori
+      futura erat, quomodo tristem eum metus passionis effecerat, nisi forte
+      tam irrationabilis fuerit, ut pati timuerit quae essent glorificatura
+      patientem?
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e197">
+               <ref xml:id="xAbSeN-1e5934-Rd1e199">item</ref>: Calicem quem dedit mihi pater, non uia ut bibam illum? Quomodo
+      ergo per patiendi metum transferri a se calicem deprecatur, quod per
+      dispensationis studium festinaret implere? Non enim conuenit ut pati
+      nollet quod pati uellet.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e203">
+               <ref xml:id="xAbSeN-1e5934-Rd1e205">item</ref>: Oportuerat te dicti huius immemorem non fuisse: Verum tamen dico
+      ucbis, amodo uidebitis filium hominis sedentem a dextris uirtutis et
+      uenientem cum nubibus caeli.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e210">
+               <ref xml:id="xAbSeN-1e5934-Rd1e212">item</ref>: Omne, quod timetur, uitari necesse est dum timetur; quod
+      infirmum est sumit ex imbecillitate terrorem. Tu uero quo sensu
+      rationis intelligis, dominum Iesum ad quod festinat timere, et
+      consternantem fortes infirmitate trepidare, et uulnera non
+      permittentem dolori uulneratum dolore?
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e216">
+               <ref xml:id="xAbSeN-1e5934-Rd1e218">item</ref>: Anne metuere tibi infernum chaos credendus est dicens latroni in
+      cruce: Amen dico tibi, hodie mecum eris in paradiso, Martyri suo
+      paradisum promittens, et consummatae beatitudinis delicias pollicens?
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e222">
+               <ref xml:id="xAbSeN-1e5934-Rd1e224">item</ref>: Collatis igitur dictorum atque gestorum uirtutibus demonstrari
+      non ambiguum est, in natura eius corporis infirmitatem naturae
+      corporeae non fuisse, cum in uirtute naturae fuerit omnem corporum
+      depellere infirmitatem, et passione illa, licet corpori illata
+      sit, non tamen naturam dolendi corpori intulisse; quia quamuis forma
+      corporis nostri esset in domino, non tamen in uitiosse infirmitatis
+      nostrae esset corpore, qui non esset in origine, quod ex conceptu
+      spiritus sancti uirgo progenuit. Quod licet sexus sui officio
+      genuerit, tamen non terrenae conceptionis suscepit elementis, et extra
+      corporis nostri infirmitatem est quod spiritalis conceptionis sumpsit
+      exordium.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e230">
+               <ref xml:id="xAbSeN-1e5934-Rd1e232">item</ref>: Non eiusdem significationis est tristem esse propter mortem et
+      tristem esse usque ad mortem, quia ubi propter mortem tristitia est
+      illic ipsa mors cause est tristitiae. Ubi uero tristitia usque ad
+      mortem est mors tristitiae est finis.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e236">
+               <ref xml:id="xAbSeN-1e5934-Rd1e238">item</ref>: Orauit: Pater, si possibile est, transeat a me calix iste. Non
+      rogat ne secum sit sed ut a se transeat. Deinde rogat ne uoluntas sua
+      fiat, et quod uult effici, id ipsum concedi sibi non uult. Ait enim,
+      non siout ego uolo, sed sicut tu uis; ut uoluntate calicis deprecandi
+      humanae in se sollicitudinis significans consortium, sententiam a se
+      unitae sibi communisque cum patre non discerneret uoluntatis.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e242">
+               <ref xml:id="xAbSeN-1e5934-Rd1e244">item</ref>: Orate ne intretis in temptationem etc. Qui non scandalizaturos
+      se pollicebantur in scandalum per infirmitatem carnis erant futuri.
+      Non ergo sibi tristis est neque sibi orat sed illis quos monet orare
+      peruigiles, ne in eis calix incumbat, quem a se transire orat ne in
+      his scilicet maneat.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e249">
+               <ref xml:id="xAbSeN-1e5934-Rd1e251">item</ref>: Quod ait si possibile est, docuit quod ait Petro: ecce sathanas
+      expetiuit, ut uos uentilet sicut triticum. Tristitia igitur usque ad
+      mortem domino est, quia in morte monumentorum reseratione, mortuorum
+      resurrectione confirmanda iam apostolorum fides esset.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e255">
+               <ref xml:id="xAbSeN-1e5934-Rd1e257">item</ref>: Quia post mortem eius per uirtutis gloriam apostolicae
+      infirmitatis scandalum pelleretur.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e261">
+               <ref xml:id="xAbSeN-1e5934-Rd1e263">item</ref>: Subiecit post multam domini precem angelum astitisse
+      confortantem eum, quo assistente prolixius orare coeperit ita ut
+      guttis sanguinum corporis sudor efflueret.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e269">
+               <ref xml:id="xAbSeN-1e5934-Rd1e271">item</ref>: Haeresis meminerit creatorem angelorum creationis suae non
+      eguisse auxilio.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e275">
+               <ref xml:id="xAbSeN-1e5934-Rd1e277">item</ref>: Propter nos tristis est; necesse est ut [et] propter nos sit
+      confortatus, et de nobis. Sudorem uero infirmitati nemo audebit
+      deputare; et contra naturam est sudare sanguinem, nec infirmitas est,
+      quod potestas contra naturam gessit.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e281">
+               <ref xml:id="xAbSeN-1e5934-Rd1e283">item</ref>: Apostolus locutus est: Nam etsi crucifixus est ex infirmitate
+      nostra, sed uiuit ex uirtute Dei, uti cum in eodem esset infirmitas ad
+      passionem et ad uitam Dei uirtus, non alius ac diuisus a se esset qui
+      et pateretur et uiueret.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e288">
+               <ref xml:id="xAbSeN-1e5934-Rd1e290">idem in psalmo</ref>: Deus in nomine tuo saluum me fac: Passio illa
+      uoluntarie suscepta est, officio quidem ipsa satisfactura poenali non
+      tamen poenae sensu laesura patientem, non quod illa laedendi non
+      habuerit naturam sed quod dolorem diuinitatis natura non sentit.
+      Passus ergo est Deus, quia se subiecit uoluntarius passioni sed tamen
+      a naturae suae uirtute non excidit ut doloret.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e294">IDEM SUPER MATTHAEUM ; CAP. XXLX: Aliquorum opinio est, quod cadere
+      propter se maestitudo in Deum potuerit eumque futurae passionis metus
+      fregerit, quia dixit: tristis est anima mea usque ad mortem, et illud:
+      pater, si possibile est, transeat a me calix iste, et rursum: spiritus
+      quidem promptus est, caro autem infirma, et ad postremum bis id ipsum:
+      pater, si non potest hic calix transire, nisi bibam illum, fiat
+      uoluntus tua. Volunt enim ex infirmitate corporis aerumnam spiritui
+      adhaerere, ac si uirtutem illam incorruptae substantiae imbecillitatis
+      suae sorte assumptio carnis infecerit et aeternitatis naturam
+      fragilitas acceperit, quae ad metum tristis est, si ad dolorem
+      infirma, si ad mortem trepida, iam et corruptioni subdita erit; ac si
+      aeternitas mutata in metum, si potest esse quod non erat, potuit
+      perinde hoc quod in ea est aliquando non esse. Deus autem sine
+      mensura temporum semper est, et qualis est talis aeternus est.
+      Aeternitas autem in infinito manens ut in his quae fuerunt, ita in
+      illis quae consequentur extenditur semper integra, incorrupta. Sed
+      eorum omnis hic sensus est, ut opinentur metum mortis in Dei filium
+      incidisse, qui asserunt eum non de aeternitate prolatum neque de
+      infinitate paternae substantiae extitisse. Quod si euangeliorum
+      capaces esse potuissent, scirent uerbum in principio Deum. Mori igitur
+      nihil in Deo potuit, neque ex se Deo ullus metus est. Sed quia maestum
+      fuisse dominum legimus, causas maestitudinis reperiamus. Assumptis
+      Petro et Iacobo et Iohanne coepit tristis esse. Ergo non ante tristis
+      est quam assumpsit, et omnis metus illius esse coepit illis assumptis,
+      atque ita non de se orta est sed de his quos assumpserat, maestitudo.
+      Denique ait: triatia est anima mea usque ad mortem, non ait propter
+      mortem. Nam si de morte erat metus, ad eam utique referri, propter
+      quam erat, debuit. Superius dixerat: Scandalum patiemini in ista
+      nocte. Sciebat enim exterrendos, fugandos, negaturos. Sed quia
+      spiritus blasphemiae nec hic nec in aeternum remittitur, metuit ne se
+      Deum abnegarent, quem caesum et consputum et crucifixum erant
+      contemplaturi. Quae ratio seruata in Petro est, qui cum negaturus
+      esset, ita negauit: non noui hominem, quia dictum est, aliquid in
+      filium hominis remittetur. Tristis ergo est anima usque ad mortem. Non
+      itaque mors sed tempus mortis in metu est; quia post eam
+      resurrectionis uirtute fides esset firmanda credentium. Deinde orat:
+      pater mi, si possibile est, transeat a me calix iste; sed tamen non
+      sicut ego uolo, sed sicut tu uis. Non ait: transeat [a] me calix iste.
+      Qui autem ut a se transeat rogat, non ut ipse praetereatur orat sed ut
+      in alterum id quod a se transit excedat. Totus igitur super his qui
+      passuri erant metus est; atque ideo quia non est possibile se non
+      pati, pro his rogat qui passuri erant post se, dicens: transeat
+      calix a me, id est quomodo a me bibitur ita ab his bibatur sine sped
+      diffidentia, sine sensu doloris, sine metu mortis. Ideo autem si
+      possibile est, quia carni et sanguini grauis terror est et difficile
+      est eorum acerbitate corpora humana non uinci. Quod autem ait: non
+      siout ego uolo, sed sicut tu, uellet quidem eos non pati, ne forte in
+      passione diffident sed cohaereditatis suae gloriam sine passionis
+      difficultate mereantur.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e301">
+               <ref xml:id="xAbSeN-1e5934-Rd1e303">item</ref>: Discipulos dormientes et Petrum coarguit, cur secum una saltim
+      hora non uigilet. Petrum ideo ex tribus, quia prae caeteris non se
+      scandalizaturum fuerat gloriatus.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e307">
+               <ref xml:id="xAbSeN-1e5934-Rd1e309">item</ref>: Rogat ut quod pater uult bibendi calicis in eos ex se transeat
+      fortitudo.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e313">
+               <ref xml:id="xAbSeN-1e5934-Rd1e315">item</ref>: Spiritus quidem promptus est, caro autem infirma. Non utique de
+      se; ad eos enim hic sermo conuersus est. Aut quomodo nunc de se
+      spiritus promptus, si superius triatia est anima usque ad mortem?  Sed
+      uigilari praecipit et orari ne in temptationem incidant, ne
+      infirmitati corporis succumbant.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e319">
+               <ref xml:id="xAbSeN-1e5934-Rd1e321">item</ref>: Passuris discipulis per fidei iustificationem, omnem in se
+      corporis nostri infirmitatem assumpsit, crucique secum uniuerse quibus
+      infirmabamur affixit. Ideo peccata nostra portat et pro nobis doles;
+      quia fidei calue feruentes, cum aduersus diabolum passionis bello sit
+      decertandum, omnes imbecillitatum nostrarum dolores cum corpore eius
+      et passione moriuntur. Et ideo transire ab eo calix non potest, nisi
+      ilium bibat, quia pati nisi ex eius passione non possumus.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e326">
+               <ref xml:id="xAbSeN-1e5934-Rd1e328">idem in psalmo cxli</ref>: Omnium apostolorum fides usque ad resurrectionis
+      tempus fuit trepida; et hinc illud est: tristis est anima mea usque ad
+      mortem. Non enim ait propter mortem, quia licet se passioni daret non
+      tamen uirtus aeterna dolorem passionis exciperet.  /292/
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e332">
+               <ref xml:id="xAbSeN-1e5934-Rd1e334">ambrosius in libro de incarnatione</ref>: Infirmos in se praesignans
+      dominus ait: transeat a me calix iste. Non enim uere timebat dominus
+      pati, tertio die resurrecturus, et cum arderet Paulus dissolui et esse
+      cum Christo, iste gaudet coronandus, tristis est dominus coronaturus.
+      Sed tristitiam sic assumpsit quomodo carnem; fuit enim tristis sed
+      uoluntate tristitiam suscepit ueram, quomodo uoluntate carnem ueram.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e338">
+               <ref xml:id="xAbSeN-1e5934-Rd1e340">idem de trinitate ad gratianum lib. ii</ref>: Scriptum est, inquiunt
+      haeretici, Pater, si possibile est, transfer a me calicem hunc, et
+      ideo si omnipotens est, quomodo de possibilitate ambigit? Ergo quia
+      omnipotentem probaui, probaui utique eum ambigere de possibilitate non
+      posse. Verba, inquis, Christi sunt. Verum dicis. Sed quando et qua
+      forma loquatur aduerse. Hominis substantiam gerit, hominis assumpsit
+      affectum. Non ergo quasi Deus sed quasi homo loquitur, cum scriptum
+      sit de Deo: Impossibile enim tibi nihil. De quo autem dubitat, de se
+      an de patre? De eo utique, cui dicit transfer, dubitat hominis
+      affectu. Timet Christus, dum Petrus non times? Petrus dicit: Animam
+      meam pro te ponam. Christus dicit: Anima mea turbatur. Utrumque uerum
+      est et plenum utrumque rationis, quod inferior non times et superior
+      gerit timentis affectum. Ille enim quasi homo uim mortis ignorat, iste
+      quasi Deus in corpore constitutus fragilitatem carnis exponit, ut
+      eorum qui sacramentum incarnationis abhorrent excluderetur impietas.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e344">
+               <ref xml:id="xAbSeN-1e5934-Rd1e346">idem in eodem</ref>: Omnia quae pater habet, mea sunt. Sine dubio quia nihil
+      excipit, quam habet pater, eandem habet et filius uoluntatem. Una ergo
+      uoluntas ubi una operatio. Sed alla uoluntas hominis, alla Dei. Cum
+      Petrus Deum uellet a passione reuocare, Dominus ait: Non aapia
+      quae Dei sunt, asd quae hominum.  Suscepit ergo uoluntatem meam,
+      tristitiam meam. Confidenter tristitiam nomino, qui crucem praedico.
+      Mea est uoluntas quam suam dixit, quia ut homo suscepit tristitiam, ut
+      homo locutus est, et ideo ait: non sicut ego uolo, sed sicut tu uis.
+      Mea tristitia quam meo suscepit affectu.  Nemo enim moriturus exultat.
+      Mihi patitur, mihi tristis est, mihi doles. Ergo pro me et in me
+      doluit, qui pro se nihil habuit quod doleret. Doles domine non tua sed
+      mea uulnera, non tuam mortem sed nostram infirmitatem, sicut ait
+      propheta quia pro nobia dolet. Et quid mirum si pro omnibus doluit,
+      qui pro uno fleuit? Si moriturus pro omnibus taedeat? Ut homo ergo
+      dubitat, ut homo turbatur. Non turbatur uirtus, non eius diuinitas sed
+      turbatur anima; turbatur secundum humanae fragilitatis assumptionem,
+      et ideo quia suscepit animam, suscepit et animae passiones. Non enim
+      Deus eo quod Deus erat aut turbari aut mori posses.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e352">
+               <ref xml:id="xAbSeN-1e5934-Rd1e354">item</ref>: Caro igitur est passe, diuinitas autem a mortis libera passione.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e358">
+               <ref xml:id="xAbSeN-1e5934-Rd1e360">athanasius de trinitate lib. vi, cap. ii</ref>: Maledictus, qui hominem
+      uere, quem assumpsit, passum esse non confitetur, fiat, fiat.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e365">
+               <ref xml:id="xAbSeN-1e5934-Rd1e367">item cap. iv</ref>: Si quis confitetur uerum hominem, quem assumpsit, non
+      uere manducasse aut bibisse aut lacrimatum fuisse et sanguinem
+      sudasse, et passum fuisse, anathema sit.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e371">AUGUSTINUS IN LIB. LXXXIII 0UAESTIONUM, CAP. LXXXI: Ostendimus per
+      innumerabiles locos narratum de illo ab euangelistic, quod in his
+      affectionibus fuerit quae sine anima esse non possum. Non profero:
+      triatia est anima mea, et poteatatem habeo ponendi animam meam, et
+      maiorem dileotionem nemo habet, quam ut animam anam ponat quia pro
+      amiaia auia, quae peruicax contradictor potest dicere figurate a
+      domino dicta, ubi habemus eum et natum et comprehensum a Iudaeis
+      et flagellatum et crucifixum atque interfectum et sepultum. Si ergo
+      eum ista corpus habuisse testantur sic indicant habuisse animam
+      affectiones illae quae non possunt esse nisi in anima, quas
+      nihilominus legimus [esse]. Miratus est Iesus et iratus et
+      contristatus et hilaratus et multa alia.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e376">
+               <ref xml:id="xAbSeN-1e5934-Rd1e378">item</ref>: Stultum est credere narranti euangelistae, quod manducauerit, et
+      non ei credere, quod esurierit. Nec nos illa terret inepta calumnia
+      qua resistentes aiunt, Ergo sub necessitate positus fuit, si has
+      affectiones animi ueras habuit. Facile quare respondemus, ergo sub
+      necessitate positus fuit, quia comprehensus, flagellatus, crucifixus
+      et mortuus est. Ut tandem intelligatur, sic eum passiones animi
+      uoluntate dispensationis, ueras tamen, ut placuit, suscepisse,
+      quemadmodum passiones corporis eadem dispensationis uoluntate sine
+      ulla necessitate susceperit.  Utrumque, ut oportebat, uoluntate
+      exhibuit, et tamen uerissime exhibuit. Sicut ergo nec nos nec illos
+      necessitatis nomine quisquam auellit a fide uerissimae passionis, per
+      quam corpus eius ostenditur, sic nos ipso nomine necessitatis nemo
+      deterret a fide uerissimae affectionis, per quam eius animam
+      agnoscimus.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e382">
+               <ref xml:id="xAbSeN-1e5934-Rd1e384">idem in psalmo xxix</ref>: Multa gessit secundum corpus, ex quo intelligimus
+      quia habuit corpus.  Ambulauit sedit, dormiuit, flagellatus est,
+      crucifixus, mortuus.  Quomodo ergo ex his indiciis cognoscimus quia
+      uerum corpus habuit, sic et ex quibusdam aliis officiis quia habuit
+      animam. Esurire, sitire animae sunt. Si falsa dicunt ista fuisse,
+      falsa erunt et illa quae de corpore creduntur.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e388">
+               <ref xml:id="xAbSeN-1e5934-Rd1e390">ex concilio carthaginensi, cap. i</ref>: Qui episcopus ordinandus est, ante
+      examinetur, si credat, ut qui erat in diuinitate Dei filius, ipse
+      fieret in homine hominis filius, qui passus sit uera carnis passione,
+      mortuus uera corporis sui morte etc.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e396">
+               <ref xml:id="xAbSeN-1e5934-Rd1e398">ambrosius de fide ad gratianum imperatorem, lib. i</ref>: Ut homo dubitat,
+      ut homo turbatur; quia suscepit animam, suscepit animae passiones.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e403">
+               <ref xml:id="xAbSeN-1e5934-Rd1e405">item</ref>: Deus meus, ut quid me dereliquisti? ut homo loquitur, meos
+      circumferens metus, quod in periculis positi a Deo deseri nos putamus.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e409">
+               <ref xml:id="xAbSeN-1e5934-Rd1e411">item</ref>: Per naturam hominis et dubitauit et taedia habuit.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e415">
+               <ref xml:id="xAbSeN-1e5934-Rd1e417">augustinus quaestionum lxxxiii cap. xxxv</ref>: Nulli dubium est non aliam
+      metuendi esse causam nisi ne id quod amamus aut adeptum amittamus, aut
+      non adipiscamur speratum.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e421">
+               <ref xml:id="xAbSeN-1e5934-Rd1e423">item cap. xxxvi</ref>: Nemo beatissimus metuit. Non est itaque uitium non
+      metuere.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e427">
+               <ref xml:id="xAbSeN-1e5934-Rd1e429">claudianus praefectorio patricio de statu animae</ref>: Prout locus est
+      moneo consentaneum super sententia tua Hilarium Pictauum esse
+      potuisse, qui scilicet inter complura praecelsarum disputationum
+      suarum quiddam secretius sentiens duo haec aduersa inde disseruit.
+      Unum quo nihil incorporeum creatum dixit, aliud quo nihil doloris
+      Christum in passione sensisse, cuius si passio uera non fuit,
+      redemptio quoque nostra uera esse non potuit. Sed quoniam beatus
+      Hilarius opinionis huiusce uitium uirtute confessionis aboleuit, sic
+      sustinet reprehensionis stilum, ut non patiatur detrimenta meritorum.
+      Quapropter estenus diuinarum tractatoribus scripturarum fidem adhiberi
+      par est quod usque eidem tenori ueritatis adstipulantur.
+    </p>
+            <p xml:id="xAbSeN-1e5934-d1e433">
+               <ref xml:id="xAbSeN-1e5934-Rd1e435">beda super tobiam</ref>: Expauescens piscem Tobias clamauit uoce magna
+      dicens, domine, inuadit me. Et dominus imminente mortis articulo
+      coepit pauere et taedere, non diabolum pertimescens sed mortem, quae
+      inuidia diaboli intrauit in orbem terrarum, naturae carnalis
+      fragilitate horrescens.  Unde et orabat, ut, si fieri posset,
+      transiret ab eo hora: abba pater, omnia tibi possibilia sunt,
+      transfer calicem hunc a me, sed non quod uolo, sed quod tu.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

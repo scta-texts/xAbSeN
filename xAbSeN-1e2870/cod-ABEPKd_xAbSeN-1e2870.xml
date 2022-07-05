@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 32</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 32</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e2870"><!-- xAbSeN-q32 -->
+            <head xml:id="xAbSeN-1e2870-Hd1e103">Quaestio 32</head>
+            <head xml:id="xAbSeN-1e2870-Hd1e106" type="question-title"> quod omnia possit deus et non</head>
+    
+            <p xml:id="xAbSeN-1e2870-d1e109">
+               <ref xml:id="xAbSeN-1e2870-Rd1e111">chrysostomus homiliarum suarum xxvi, in expositione symboli, quae sic
+      incipit, universalis ecclesia congaudet</ref>: Credo in Deum, patrem
+      omnipotentem. Creditis Deo omnipotenti, quia posse ipsius non potest
+      inuenire non posse; tamen aliqua non potest, ut puta falli, fallere,
+      mentiri, ignorare, initium et finem habere, non praeuidere, praeterita
+      obliuisci, praesentia attendere, futura nescire; ad ultimum negare se
+      ipsum non potest. Ecce quanta non potest! Tamen ideo est omnipotens,
+      quia superius supprehensa non potest.
+    </p>
+            <p xml:id="xAbSeN-1e2870-d1e115">
+               <ref xml:id="xAbSeN-1e2870-Rd1e117">idem homilia xxviii, de expositione symboli, quae sic incipit, super
+      fabricam totius ecclesiae</ref>: Credo in Deum, patrem omnipotentem.
+      Omnipotens dicitur quia posse illius non potest inuenire non posse,
+      dicente propheta: Omnia quaecumque uoluit feoit. Ipsa est ergo
+      omnipotentia, ut totum quod uult possit.
+    </p>
+            <p xml:id="xAbSeN-1e2870-d1e121">
+               <ref xml:id="xAbSeN-1e2870-Rd1e123">hieronymus in epistola ad eustochium</ref>: Audacter loquar; cum omnia
+      possit Deus, suscitare uirginem non potest post ruinam; ualet quidem
+      liberare de poena sed non uult coronare corruptam.
+    </p>
+            <p xml:id="xAbSeN-1e2870-d1e128">
+               <ref xml:id="xAbSeN-1e2870-Rd1e130">ambrosius chromatio</ref>: Impossibile est mentiri Deum; impossibile is tud
+      non infirmitatis est sed uirtutis et maiestatis, quia ueritas non
+      recipit mendacium. Hoc impossibile eius plenitudinis est; ex quo
+      colligitur impossibile Dei potentissimum esse. Quid etiam potentius
+      quam nescire quidquid infirmitatis est? Est tamen et aliud infirmum
+      Dei quod fortius est hominibus, et stultum Dei quod sapientius /181/
+      est hominibus. Sed hoc crucis, illud diuinitatis.
+    </p>
+            <p xml:id="xAbSeN-1e2870-d1e134">
+               <ref xml:id="xAbSeN-1e2870-Rd1e136">augustinus contra epistolam gaudentii</ref>: Cur hoc fieri non posset nisi
+      quia iuste fieri nullo modo posset? Sic et dicimus, Atque utinam
+      possim me occidere! Sic et Dominus Loth: Non potero, inquit, faoere
+      rem, donec tu illo introeas. Non posse dixit se, quia sine dubio
+      poterat per potentiam sed non poterat per iustitiam.
+    </p>
+            <p xml:id="xAbSeN-1e2870-d1e140">
+               <ref xml:id="xAbSeN-1e2870-Rd1e142">augustinus in enchiridion cap. xcvi</ref>: Neque enim ob aliud ueraciter
+      uocatur omnipotens, nisi quoniam quidquid uult potest, nec uoluntate
+      cuiuspiam creaturae uoluntatis omnipotentis impeditur effectus.
+    </p>
+            <p xml:id="xAbSeN-1e2870-d1e146">
+               <ref xml:id="xAbSeN-1e2870-Rd1e148">idem in libro de spiritu et littera</ref>: Non potest facere iniusta quia
+      ipse est summa iustitia et bonitas. Omnipotens uero est, non quod
+      omnia possit facere sed quia potest efficere quidquid uult, ita ut
+      nihil ualeat resistere eius uoluntati quin compleatur, aut aliquo modo
+      impedire eam.
+    </p>
+            <p xml:id="xAbSeN-1e2870-d1e152">
+               <ref xml:id="xAbSeN-1e2870-Rd1e154">idem quaestionum veteris et novae legis cap. clix</ref>: Nam omnia quidem
+      potest Deus sed non facit nisi quod conueniat ueritati eius ac
+      iustitiae.
+    </p>
+            <p xml:id="xAbSeN-1e2870-d1e158">
+               <ref xml:id="xAbSeN-1e2870-Rd1e160">idem in tractatu de symbolo</ref>: Deus non potest mori, non potest mutari,
+      non potest falli.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

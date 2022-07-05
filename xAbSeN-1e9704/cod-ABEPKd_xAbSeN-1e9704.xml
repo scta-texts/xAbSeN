@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 124</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 124</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e9704"><!-- xAbSeN-q124 -->
+            <head xml:id="xAbSeN-1e9704-Hd1e103">Quaestio 124</head>
+            <head xml:id="xAbSeN-1e9704-Hd1e106" type="question-title"> quod liceat habere concubinam et contra</head>
+    
+            <p xml:id="xAbSeN-1e9704-d1e109">
+               <ref xml:id="xAbSeN-1e9704-Rd1e111">novellarum constitutio lxxix</ref>: Nemo intelligatur concubinam habere, qui
+      cum multis mulieribus concumbere aliqua solet. Nam quemadmodum qui
+      legitimam uxorem habet, aliam habere durante eodem matrimonio non
+      potest, ita et qui unam concubinam habet, non potest alias eo tempore
+      habere.
+    </p>
+            <p xml:id="xAbSeN-1e9704-d1e117">
+               <ref xml:id="xAbSeN-1e9704-Rd1e119">pandectarum lib. xxiii, titulo ii</ref>: In liberae mulieris consuetudine
+      non concubinatus sed nuptiae intelligendae sunt, si non corpore
+      quaestum fecerit.
+    </p>
+            <p xml:id="xAbSeN-1e9704-d1e123">
+               <ref xml:id="xAbSeN-1e9704-Rd1e125">toletanum concilium i, cap. xvii</ref>: Qui non habet uxorem et pro uxore
+      concubinam habet, a communione non repellatur, tantum ut unius
+      mulieris aut uxoris aut concubinae, ut ei placuerit, sit coniunctione
+      contentus.
+    </p>
+            <p xml:id="xAbSeN-1e9704-d1e130">
+               <ref xml:id="xAbSeN-1e9704-Rd1e132">isidorus de consonantia novi et veteris testamenti cap. iii</ref>:
+      Christiano non dicam plurimas sed nec duas simul habere licitum est,
+      nisi unam tantum aut uxorem aut certe loco uxoris si coniunx deest,
+      concubinam.
+    </p>
+            <p xml:id="xAbSeN-1e9704-d1e136">
+               <ref xml:id="xAbSeN-1e9704-Rd1e138">ex dictis augustini</ref>: Audite carissimi, membra Christi, audiat Deus, si
+      uos surdi estis; audiant angeli, si uos contemnitis. Concubinas non
+      licet uobis habere, quas postea dimittatis, et ducatis uxores. Non
+      licet uobis illam feminam habere quae per repudium discessit a marito.
+      Solius fornicationis causa licet uxorem adulteram dimittere, sed illa
+      uiuente non licet alteram ducere.
+    </p>
+            <p xml:id="xAbSeN-1e9704-d1e142">
+               <ref xml:id="xAbSeN-1e9704-Rd1e144">item idem</ref>: Coram Deo et angelis eius contestor atque denuntio,
+      praecipue temporibus Christianis concubinas habere nunquam licet et
+      nunquam licebit.
+    </p>
+            <p xml:id="xAbSeN-1e9704-d1e148">
+               <ref xml:id="xAbSeN-1e9704-Rd1e150">ex concilio arelatensi cap. xv</ref>: Nulli liceat habere umquam concubinam.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 143</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 143</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-e11512"><!-- xAbSeN-q143 -->
+            <head xml:id="xAbSeN-e11512-Hd1e103">Quaestio 143</head>
+            <head xml:id="xAbSeN-e11512-Hd1e106" type="question-title"> quod peccatum actus sit non res et contra</head>
+    
+            <p xml:id="xAbSeN-e11512-d1e109">
+               <ref xml:id="xAbSeN-e11512-Rd1e111">augustinus ad eutropium et iacobum, episcopos, contra obiectiones
+      caestii de perfectione iustitiae hominis</ref>: Quaerendum est quid est
+      peccatum, actus an res. Si res est, ut auctorem habeat necesse est; et
+      si auctorem habere dicitur, iam alter praeter Deum rei alicuius auctor
+      induci uidebitur. Respondemus peccatum quidem actum dici et esse,
+      non rem. Sed etiam in corpore claudicatio eadem ratione actus
+      est, non res, quoniam res pes ipse uel corpus uel homo est qui pede
+      uitiato claudicat.
+    </p>
+            <p xml:id="xAbSeN-e11512-d1e117">
+               <ref xml:id="xAbSeN-e11512-Rd1e119">item</ref>: Ipsum sane uitium quo claudicat homo, nec pes est nec corpus nec
+      ipsa claudicatio, quae utique non est quando non ambulat, cum tamen
+      insit uitium quo fit claudicatio, quando ambulat. Quaerat ergo quod ei
+      uitio nomen imponat, utrum rem uelit dicere an actum, an rei potius
+      qualitatem malam qua deformis actus existat. Sic et in interiore
+      homine animus res est, rapina actus, auaritia uitium est, id est
+      qualitas secundum quam malus est animus etiam quando nihil agit.
+    </p>
+            <p xml:id="xAbSeN-e11512-d1e123">
+               <ref xml:id="xAbSeN-e11512-Rd1e125">item</ref>: Miror quod ausus est ponere testimonium, ubi dictum est:
+      abstinens se ab omni re mala, cum hoc ab omni peccato uellet
+      intelligi, cum superius dixerit peccatum actum esse, non rem.
+      Reminiscatur ergo quia si actus sit, res potest dici.
+    </p>
+            <p xml:id="xAbSeN-e11512-d1e130">
+               <ref xml:id="xAbSeN-e11512-Rd1e132">idem de natura et gratia</ref>: Audis confitentem, quid desideras
+      disputantem? Sana, inquit, animam meam. Ab illo quaere unde uitiatum
+      sit quod sanari rogat. Et audi quod sequitur: Quaniam peccaui tibi.
+      Hunc iste interroget, O tu qui clamas, sana animam meam, quaniam
+      peccaui tibi, quid est peccatum? Substantia aliqua an omnino
+      substantia carens?  Nomen, quo[d] non res, non existentia, non corpus
+      aliquod, sed tantum perperam facti actus exprimitur? Respondet ille,
+      ita est ut dicis. Non est peccatum aliqua substantia, sed tantum hoc
+      nomine perperam facti actus exprimitur. Et contra iste, Quomodo potuit
+      uiolare animam tuam quod substantia caret? Nonne attenditur, ut alia
+      omittam, etiam non manducare non esse substantiam? A substantia quippe
+      receditur, quoniam cibus substantia est; sed abstinere a cibo non est
+      substantia et tamen substantia corporis, si omnino abstinetur a cibo,
+      ita languescit, debilitatur ac frangitur ut, si aliquo modo perduret
+      in uita, uix possit ad eumdem cibum reuocari unde abstinendo uitiata
+      est. Sic non est substantia peccatum; sed substantia est Deus
+      summa, a quo per inobedientiam recedendo audis quamadmodum dicat:
+      Percussus sum ut faenum et aruit cor meum, quoniam oblitus sum
+      comedere panem meum.
+    </p>
+            <p xml:id="xAbSeN-e11512-d1e138">
+               <ref xml:id="xAbSeN-e11512-Rd1e140">seneca in proverbiis suis</ref>: Omne peccatum actio est. Omnis autem actio
+      uoluntaria est, tam honesta quam turpis. Omne ergo peccatum
+      uoluntarium est. Omitte excusationem, nemo peccat inuitus.
+    </p>
+            <p xml:id="xAbSeN-e11512-d1e144">
+               <ref xml:id="xAbSeN-e11512-Rd1e146">ex scriptis hieronymi, sententiae ipsius viduales vel monachiles</ref>: Omne
+      peccatum actio est. Actio autem omnis uoluntaria est, tam honesta quam
+      turpis.  Ergo uoluntarium est omne peccatum. Tollite excusationes,
+      nemo peccat inuitus.
+    </p>
+            <p xml:id="xAbSeN-e11512-d1e150">
+               <ref xml:id="xAbSeN-e11512-Rd1e152">item</ref>: Duo sunt genera peccatorum; alterum quod ex proposito, alterum
+      quod ex negligentia pendet.
+    </p>
+            <p xml:id="xAbSeN-e11512-d1e156">
+               <ref xml:id="xAbSeN-e11512-Rd1e158">item</ref>: Plerique metu non innocentia cessant. Hi enim timidi non
+      innocentes sunt.
+    </p>
+            <p xml:id="xAbSeN-e11512-d1e162">
+               <ref xml:id="xAbSeN-e11512-Rd1e164">augustinus ad orosium in libro per dialogum qui dicitur unde malum</ref>:
+      Discutiendum est quid est malefacere.
+    </p>
+            <p xml:id="xAbSeN-e11512-d1e169">
+               <ref xml:id="xAbSeN-e11512-Rd1e171">item</ref>: Fortassis ergo libido in adulterio malum est. Nam ut intelligas
+      libidinem in adulterio malum esse, si cui etiam non contingat facultas
+      concumbendi cum uxore aliena, planum tamen aliquo modo sit id eum
+      cupere et, si potestas daretur, esse facturum, non minus reus est quam
+      si in ipso facto deprehenderetur. Orosius: Nihil est omnino
+      manifestius. Clarum est enim iam nihil aliud quam libidinem in toto
+      malefaciendi genere dominari. Augustinus: Scisne istam libidinem alio
+      nomine cupiditatem uocari? Orosius: Scio.
+    </p>
+            <p xml:id="xAbSeN-e11512-d1e175">
+               <ref xml:id="xAbSeN-e11512-Rd1e177">idem de fide et operibus</ref>: Si uirgo nesciens uiro nupserit alieno, si
+      semper nesciat, numquam ex hoc erit adultera.
+    </p>
+            <p xml:id="xAbSeN-e11512-d1e181">
+               <ref xml:id="xAbSeN-e11512-Rd1e183">idem in lib. i de civitate dei</ref>: Lucretiam certe matronam nobilem
+      ueteremque Romanam pudicitiae magnis efferunt laudibus. Huius corpore
+      cum uiolenter oppresso Tarquinii regis filius libidinose potitus
+      esset, illa scelus improbissimi iuuenis marito Collatino et propinquo
+      Bruto uiris clarissimis et fortissimis indicauit eosque ad uindictam
+      constrinxit. Deinde foedi in se commissi aegra atque impatiens se
+      peremit. Quid dicemus? Adultera haec an casta indicanda est? Egregie
+      quidam ex hoc ueraciterque declamans ait, Mirabile dictu, duo fuerunt
+      et adulterium unus admisit. Splendide atque uerissime. Intuens enim in
+      duum corporum commixtione unius iniquissimam cupiditatem, alterius
+      castissimam uoluntatem, et non quid coninnctione membrorum sed quid
+      animorum diuersitate ageretur attendens: Duo, inquit, fuerunt, et
+      adulterium unus admisit. Puduit eam turpitudinis alienae in se
+      commissae etiamsi non secum, et Romana mulier laudis auida nimium
+      uerita est ne putaretur quod uiolenter est passa cum uiueret, libenter
+      passa si uiueret.
+    </p>
+            <p xml:id="xAbSeN-e11512-d1e189">
+               <ref xml:id="xAbSeN-e11512-Rd1e191">idem lib. iii de doctrina christiana</ref>: Non praecipit scriptura nisi
+      caritatem, nec culpat nisi cupiditatem. Caritatem uoco motum animi ad
+      fruendum Deo propter ipsum, et se atque proximo propter Deum.
+      Cupiditatem autem motum animi ad fruendum se et proximo et quolibet
+      corpore non propter Deum. Quod autem agit indomita cupiditas ad
+      corrumpendum animum et corpus snum, flagitium uocatur. Quod autem agit
+      ut alteri noceat, facinus dicitur. Et haec sunt duo genera omnium
+      peccatorum.
+    </p>
+            <p xml:id="xAbSeN-e11512-d1e195">
+               <ref xml:id="xAbSeN-e11512-Rd1e197">idem super epistolam iohannis</ref>: Non discernuntur filii Dei a filiis
+      diaboli nisi caritate.
+    </p>
+            <p xml:id="xAbSeN-e11512-d1e201">
+               <ref xml:id="xAbSeN-e11512-Rd1e203">item</ref>: Alia si non habeas, hoc habe, et implesti legem.
+    </p>
+            <p xml:id="xAbSeN-e11512-d1e208">
+               <ref xml:id="xAbSeN-e11512-Rd1e210">idem de bono coniugali</ref>: Continentia non corporis sed animae uirtus
+      est. Virtutes autem animi etc. : [Require retro.]
+    </p>
+            <p xml:id="xAbSeN-e11512-d1e214">
+               <ref xml:id="xAbSeN-e11512-Rd1e216">hieronymus adversus helvidium</ref>: Quae non est nupta cogitat quae sunt
+      domini, ut sit sancta corpore et spiritu. Virginis diffinitio sanctam
+      esse corpore dicit et spiritu, quia nihil prosit carnem habere
+      uirginem si mente quis nupserit.
+    </p>
+            <p xml:id="xAbSeN-e11512-d1e222">
+               <ref xml:id="xAbSeN-e11512-Rd1e224">idem super epistolam ad romanos, lib. i</ref>: Fieri non potest ut, nisi
+      quis moechetur prius in corde, moechari possit in corpore.
+    </p>
+            <p xml:id="xAbSeN-e11512-d1e228">
+               <ref xml:id="xAbSeN-e11512-Rd1e230">ambrosius de lapsu virginis consecratae</ref>: Reuera non potest caro ante
+      corrumpi, nisi mens fuerit ante corrupta.
+    </p>
+            <p xml:id="xAbSeN-e11512-d1e234">
+               <ref xml:id="xAbSeN-e11512-Rd1e236">augustinus super epistolam iohannis</ref>: Non quid faciat homo
+      consiterantum est set quo animo. In eotem facto inuenimus Deum patrem
+      in quo inuenimus Iudam. Facta est traditio a patre, facta est a filio,
+      facta est a Iuda. Diuersa intentio diuerse facta fecit. Cum sit una
+      res, ex diuersis intentionibus eam si metiamur, unum amandum est,
+      alterum damnandum.
+    </p>
+            <p xml:id="xAbSeN-e11512-d1e240">
+               <ref xml:id="xAbSeN-e11512-Rd1e242">item</ref>: Sola beneuolentia sufficit amanti etsi non sit quod praestemus.
+    </p>
+            <p xml:id="xAbSeN-e11512-d1e247">
+               <ref xml:id="xAbSeN-e11512-Rd1e249">idem in lib. quaestionum vet. et nov. legis</ref>: Nulla natura probatur
+      malum; uoluntas autem est.
+    </p>
+            <p xml:id="xAbSeN-e11512-d1e253">
+               <ref xml:id="xAbSeN-e11512-Rd1e255">item, cap. iii</ref>: Aliquos scimus subito dementes, quosdam et occidisse;
+      captos autem et in iudiciis oblatos, minime reos factos, eo quod non
+      uoluntate sed impellente ui nescio qua haec gesserint nescientes.
+      Quomodo enim reus constituitur, qui nescit quid fecerit? Ita et
+      diabolus si bonum nescit, quare damnandus censetur qui non facit quod
+      nescit?
+    </p>
+            <p xml:id="xAbSeN-e11512-d1e259">
+               <ref xml:id="xAbSeN-e11512-Rd1e261">item, cap. xcii</ref>: Non omnis ignorans immunis a poena est. Hic enim qui
+      potuit discere et non dedit operam, reum se fecit.
+    </p>
+            <p xml:id="xAbSeN-e11512-d1e265">
+               <ref xml:id="xAbSeN-e11512-Rd1e267">isidorus in synonymis, lib. ii</ref>: Non potest corpus corrumpi, nisi
+      prius corruptus animus fuerit.
+    </p>
+            <p xml:id="xAbSeN-e11512-d1e271">
+               <ref xml:id="xAbSeN-e11512-Rd1e273">item</ref>: Munda a contagione animi caro non peccat.
+    </p>
+            <p xml:id="xAbSeN-e11512-d1e277">
+               <ref xml:id="xAbSeN-e11512-Rd1e279">iohannes chrysostomus super matthaeum</ref>: Voluntas apud Deum remuneratur,
+      non opus. Quia uoluntas ex arbitrio nostro procedit, opus autem per
+      Dei gratiam consummatur.  /497/
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

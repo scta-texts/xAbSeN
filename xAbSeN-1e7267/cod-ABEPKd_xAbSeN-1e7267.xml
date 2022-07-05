@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 100</title>
+            <author ref="#per-dsPeAb">Peter Abelard</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 100</title>
+               <date when="2021-02-26">February 26, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-02-26" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="xAbSeN-1e7267"><!-- xAbSeN-q100 -->
+            <head xml:id="xAbSeN-1e7267-Hd1e103">Quaestio 100</head>
+            <head xml:id="xAbSeN-1e7267-Hd1e106" type="question-title"> quod iacobus iustus, frater domini, primus fuerit episcopus
+      hierosolymae et contra</head>
+    
+            <p xml:id="xAbSeN-1e7267-d1e109">
+               <ref xml:id="xAbSeN-1e7267-Rd1e111">ecclesiastica historia lib. ii, cap. i</ref>: Duos autem fuisse Iacobos
+      constat, unum, qui de pinna templi deiectus fullonis uecte percussus
+      est et morti traditus. Alius autem est ille qui ab Herode capite
+      caesus est. Hunc, inquam, Iacobum, qui iustus cognominatus est ab
+      antiquis uirtutum merito et insignis uitae priuilegio, primum
+      historiae tradunt suscepisse ecclesiae quae Hierosolymis est sedem,
+      sicut Clemens in VI dispositionum libro asserit dicens: Petrus et
+      Iacobus et Iohannes post assumptionem saluatoris quamuis ab ipso
+      fuerint omnibus paene praelati, tamen non sibi uendicant principatus
+      gloriam sed Iacobum, qui dicebatur iustus, apostolorum episcopum
+      statuunt.
+    </p>
+            <p xml:id="xAbSeN-1e7267-d1e115">
+               <ref xml:id="xAbSeN-1e7267-Rd1e117">ex praefatione nicaeni concilii</ref>: Nam et Hierosolymitanus episcopus ab
+      omnibus habetur honorabilis, maxime quoniam illic primus beatissimus
+      Iacobus, qui dicebatur iustus, qui etiam secundum carnem frater domini
+      nuncupatus est, a Petro Iacobo et Iohanne apostolis est ordinatus
+      episcopus.
+    </p>
+            <p xml:id="xAbSeN-1e7267-d1e121">
+               <ref xml:id="xAbSeN-1e7267-Rd1e123">hieronymus de illustribus viris cap. ii</ref>: Iacobus qui appellatur frater
+      domini, cognomento iustus, post passionem domini statim ab apostolis
+      Hierosolymorum episcopus ordinatur.
+    </p>
+            <p xml:id="xAbSeN-1e7267-d1e128">
+               <ref xml:id="xAbSeN-1e7267-Rd1e130">ambrosius in epistola ad galatas</ref>: Nisi Iaeabum fratrem domini. Iacobus
+      iste constitutus erat ab apostolis episcopus Hierosolymae.
+    </p>
+            <p xml:id="xAbSeN-1e7267-d1e134">
+               <ref xml:id="xAbSeN-1e7267-Rd1e136">idem super lucam</ref>: Sunt aliqui hic stantes qui non gustabunt mortem,
+      donec uideant regnum Dei. Neque enim Petrus mortuus est nec Iacobus et
+      Iohannes, filii tonitrui, quibus in uisum gloriae caelestis assumptis
+      non praeualent terrena sed subiacent.
+    </p>
+            <p xml:id="xAbSeN-1e7267-d1e140">
+               <ref xml:id="xAbSeN-1e7267-Rd1e142">item</ref>: Solos enim tres istos duxit in montem.
+    </p>
+            <p xml:id="xAbSeN-1e7267-d1e146">
+               <ref xml:id="xAbSeN-1e7267-Rd1e148">item</ref>: Tres autem soli et tres electi domini. Ad montem Petrus
+      ascendit, qui craues regni caelorum accepit, Iohannes, cui
+      committitur mater, Iacobus, qui primus solium sacerdotale conscendit.
+    </p>
+    
+         </div>
+      </body>
+   </text>
+</TEI>

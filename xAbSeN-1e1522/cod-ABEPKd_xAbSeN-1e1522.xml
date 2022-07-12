@@ -1,89 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 13</title>
-            <author ref="#per-dsPeAb">Peter Abelard</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 13</title>
-               <date when="2021-02-26">February 26, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-02-26" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on"/>
-      </front>
-      <body>
-         <div xml:id="xAbSeN-1e1522"><!-- xAbSeN-q13 -->
-            <head xml:id="xAbSeN-1e1522-Hd1e103">Quaestio 13</head>
-            <head xml:id="xAbSeN-1e1522-Hd1e106" type="question-title"> quod deus pater sit causa filii et contra</head>
-    
-            <p xml:id="xAbSeN-1e1522-d1e109">
-               <ref xml:id="xAbSeN-1e1522-Rd1e111">augustinus lib. i super genesim, contra calumnias manichaeorum</ref>: Qui
-      dicit, quare Deus fecit caelum et terram? respondendum est illi, quia
-      uoluit. Voluntas enim Dei cause est caeli et terrae, et ideo maior
-      quam caelum et terra. Qui autem dicit, quare uoluit? maius aliquid
-      quaerit quam est uoluntas Dei. Nihil autem maius inueniri
-      potest.
-    </p>
-            <p xml:id="xAbSeN-1e1522-d1e117">
-               <ref xml:id="xAbSeN-1e1522-Rd1e119">idem in libro quaestionum lxxxiii, cap. xxx</ref>: Qui quaerit, quare Deus
-      uoluit mundum facere? causam quaerit uoluntatis Dei. Sed omnis causa
-      efficiens est. Omne autem efficiens maius est quam quod efficitur.
-      Nihil autem maius uoluntate Dei. Non ergo eius causa quaerenda est.
-    </p>
-            <p xml:id="xAbSeN-1e1522-d1e123">
-               <ref xml:id="xAbSeN-1e1522-Rd1e125">idem in vii confessionum, loquens ad deum</ref>: <quote xml:id="xAbSeN-1e1522-Qd1e128" source="http://scta.info/resource/aconf-l7-d1e124" synch="134-157">Nec cogeris inuitus ad
-      aliquid quia uoluntas tua non est maior quam potentia; esset autem
-      maior si te ipso tu ipse maior esses.</quote>
-            </p>
-            <p xml:id="xAbSeN-1e1522-d1e133">
-               <ref xml:id="xAbSeN-1e1522-Rd1e135">item</ref>: <quote xml:id="xAbSeN-1e1522-Qd1e138" source="http://scta.info/resource/aconf-l7-d1e124" synch="158-165">Voluntas et potentia Dei Deus ipse est</quote>.
-    </p>
-            <p xml:id="xAbSeN-1e1522-d1e142">
-               <ref xml:id="xAbSeN-1e1522-Rd1e144">idem in libro quaestionum lxxxiii, cap. xvii, de filio dei disserens
-      ait</ref>: Deus omnium quae sunt causa est. Quod autem omnium causa est, et
-      sapientiae suae causa est nec unquam Deus sine sapientia. Suae igitur
-      sempiternae sapientiae causa est sempiterna nec tempore prior est quam
-      sua sapientia.
-    </p>
-    
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 13</title>
+        <author ref="#per-dsPeAb">Peter Abelard</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 13</title>
+          <date when="2021-02-26">February 26, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-02-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#C" n="40"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="xAbSeN-1e1522"><!-- xAbSeN-q13 -->
+        <head xml:id="xAbSeN-1e1522-Hd1e103">Quaestio 13</head>
+        <head xml:id="xAbSeN-1e1522-Hd1e106" type="question-title"> quod deus pater sit causa filii et contra</head>
+        <p xml:id="xAbSeN-1e1522-d1e105">
+          <lb ed="#C" n="22"/>quod deus pater sit causa filii 
+          <lb ed="#C" n="23"/>et contra
+        </p>
+        <p xml:id="xAbSeN-1e1522-d1e109">
+          <lb ed="#C" n="24"/><ref xml:id="xAbSeN-1e1522-Rd1e111">Augustinus libro primo super genesim contra calumnias mani<lb ed="#C" break="no" n="25"/>chaeorum</ref>: 
+          qui dicit quare deus fecit caelum et terram? respondendum 
+          <lb ed="#C" n="26"/>est illi quia voluit: voluntas enim dei causae est caeli et terrae 
+          <lb ed="#C" n="27"/>et ideo maior quam caelum et terra: qui autem dicit quare voluit 
+          <lb ed="#C" n="28"/>maius aliquid quaerit quam est voluntas dei nihil autem maius 
+          <lb ed="#C" n="29"/>inueniri potest
+        </p>
+        <p xml:id="xAbSeN-1e1522-d1e117">
+          <ref xml:id="xAbSeN-1e1522-Rd1e119">Idem in libro quaestionum lxxxiii cap. xxx</ref>: 
+          <lb ed="#C" n="30"/><quote xml:id="xAbSeN-1e1522-Qd1e135">qui quaerit quare deus voluit mundum facere? causam quaerit 
+          <lb ed="#C" n="31"/>voluntatis dei: sed omnis causa efficiens est: omne autem efficiens 
+          <lb ed="#C" n="32"/>maius est quam quod efficitur: nihil autem maius qua 
+          <pb ed="#C" n="41"/>
+          <lb ed="#C" n="1"/>voluntate dei non ergo eius causa quaerenda est</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1522-d1e123">
+          <ref xml:id="xAbSeN-1e1522-Rd1e125">Idem in vii confessionum 
+          <lb ed="#C" n="2"/>loquens ad deum</ref>: <quote xml:id="xAbSeN-1e1522-Qd1e128" source="http://scta.info/resource/aconf-l7-d1e124@134-157">nec cogeris inuitus ad aliquid quia voluntas tua 
+          <lb ed="#C" n="3"/>non est maior quam potentia; Esset autem maior si te ipso tu ipse <seg type="correction">m<add place="above-line">a</add>ior</seg> 
+          <lb ed="#C" n="4"/>esses.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1522-d1e133">
+          <ref xml:id="xAbSeN-1e1522-Rd1e135">Item</ref>: <quote xml:id="xAbSeN-1e1522-Qd1e138" source="http://scta.info/resource/aconf-l7-d1e124@158-165">voluntas et potentia dei deus ipse est</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e1522-d1e142">
+          <ref xml:id="xAbSeN-1e1522-Rd1e144">In libro quaestionum 
+          <lb ed="#C" n="5"/>lxxxiii cap. xvii de filio dei disserens ait</ref>: <quote xml:id="xAbSeN-1e1522-Qd1e185" source="http://scta.info/resource/a83-q16-d1e108@1-36">Deus omnium qua sunt 
+          <lb ed="#C" n="6"/>causa est, quod autem omnium causa est: et sapientiae suae causa est 
+          <lb ed="#C" n="7"/>nec unquam deus sine sapientia sua fuit <unclear>finis</unclear> igitur sempiternae 
+          <lb ed="#C" n="8"/>sapientiae causa est sempiterna nec tempore prior est quam sua 
+          <lb ed="#C" n="9"/>sapientia</quote>.
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

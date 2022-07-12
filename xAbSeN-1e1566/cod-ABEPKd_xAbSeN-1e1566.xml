@@ -1,160 +1,175 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 14</title>
-            <author ref="#per-dsPeAb">Peter Abelard</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 14</title>
-               <date when="2021-02-26">February 26, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-02-26" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on"/>
-      </front>
-      <body>
-         <div xml:id="xAbSeN-1e1566"><!-- xAbSeN-q14 -->
-            <head xml:id="xAbSeN-1e1566-Hd1e103">Quaestio 14</head>
-            <head xml:id="xAbSeN-1e1566-Hd1e106" type="question-title"> quod sit filius sine principio et contra</head>
-    
-            <p xml:id="xAbSeN-1e1566-d1e109">
-               <ref xml:id="xAbSeN-1e1566-Rd1e111">hieronymus in psalmo cix</ref>: Tecum principium: Pater principium sed et
-      filius principium. Principium enim non habet principium; si enim
-      habuerit aliud principium, iam ipsum desinet esse principium. Quicquid
-      ergo dederimus patri, hoc demus et filio. Si enim pater in filio et
-      filius in patre, et omnia patris filii sunt et omnia filii patris
-      sunt, et principium patris principium filii est. Ergo quod dicit hoc
-      est: eo tempore quo patiebaris et dicebas: Pater, in manus tuas
-      commendo spiritum meum, et quasi de hominis loquebaris affectu, non
-      quasi imbecillis rogabas. Tecum erat principium, tecum erat diuinitas,
-      sed propterea deprecabaris auxilium, ut accepto auxilio dares
-      sanctis tuis et illi splenderent.
-    </p>
-            <p xml:id="xAbSeN-1e1566-d1e117">
-               <ref xml:id="xAbSeN-1e1566-Rd1e119">item</ref>: Secundum hominem loquitur; si enim corpus hominis assumpsit,
-      necesse est ut et hominis uerba suscipiat.
-    </p>
-            <p xml:id="xAbSeN-1e1566-d1e123">
-               <ref xml:id="xAbSeN-1e1566-Rd1e125">fulgentius in lib. de immensitate filii dei</ref>: In principio erat
-      Verbum. An forte, quia in principio erat aliquod, filio existendi
-      audebimus assignare principium, et ideo sine initio natus esse non
-      creditur? Absit. Ipse dixit: Ego sum alpha et omega, initium et finis;
-      quia ipse inchoauit perficienda, ipse perfecit inchoate. Credimus
-      igitur Dei filium sine aliquo suae natiuitatis initio de patris
-      substantia genitum.
-    </p>
-            <p xml:id="xAbSeN-1e1566-d1e130">IOH. CHRYSOSTOMUS SUPER EPISTOLAM PAULI AD HEBRAEOS IN SERMONE XIl:
-      Melchisedech quomodo initium dierum neque finem uitae habuit. Quomodo?
-      In illo non est narrate eius genealogia, sic et Christus, ipsa natura
-      red, et sine initio et sine fine est. Sicut enim istius nescimus neque
-      initium [dici] neque finem uitae, quod non sit scriptum, sic et
-      nescimus filii uel initium uel finem.
-    </p>
-            <p xml:id="xAbSeN-1e1566-d1e133">
-               <ref xml:id="xAbSeN-1e1566-Rd1e135">item</ref>: Intueris sine initio filium, non quia non habet causam ex qua
-      sit; hoc enim impossibile est; habet namque patrem; alioquin quomodo
-      filius? sed quia non habebat initium uitae neque finem.
-    </p>
-            <p xml:id="xAbSeN-1e1566-d1e139">IDEM IN EXPOSITIONE SYMBOLI QUAE SlC INCIPIT, UNIVERSALIS ECCLESIA
-      CONGAUDET: Istum unicum Dei filium de substantia patris natum et
-      genitum profitemur, et initium de patre habere dicimus.
-    </p>
-            <p xml:id="xAbSeN-1e1566-d1e142">
-               <ref xml:id="xAbSeN-1e1566-Rd1e144">augustinus de trinitate, lib. v, cap. xiii</ref>: <quote xml:id="xAbSeN-1e1566-Qd1e147" source="http://scta.info/resource/adt-l5-d1e747" synch="3-28">Dicitur relatiue pater
-      idemque relatiue dicitur principium; sed pater ad filium dicitur,
-      principium ad omnia quae ab ipso sunt</quote>.
-    </p>
-            <p xml:id="xAbSeN-1e1566-d1e151">
-               <ref xml:id="xAbSeN-1e1566-Rd1e153">item</ref>: <quote xml:id="xAbSeN-1e1566-Qd1e156" source="http://scta.info/resource/adt-l5-d1e747" synch="52-93">Et principium dicitur filius. Cum enim diceretur ei: Tu quis es?
-      respondit: Principium qui et loquor uobis. Creatorem quippe se
-      ostendere uoluit cum dixerit se esse principium, sicut et pater
-      principium est creaturae, quod ab ipso sunt omnia.</quote>
-            </p>
-            <p xml:id="xAbSeN-1e1566-d1e162">
-               <ref xml:id="xAbSeN-1e1566-Rd1e164">item</ref>: <quote xml:id="xAbSeN-1e1566-Qd1e167" source="http://scta.info/resource/adt-l5-d1e750" synch="164-175">Unum ergo principium ad creaturam dicitur Deus, non duo uel tria
-      principia</quote>. <quote xml:id="xAbSeN-1e1566-Qd1e170" source="http://scta.info/resource/adt-l5-d1e753" synch="3-43"><!-- really should be a combined quote -->Ad se tamen inuicem in trinitate si gignens ad id quod
-      gignit principium est, pater ad filium principium est quia gignit
-      eum. Utrum autem et ad spiritum principium sit pater, quoniam dictum
-      est: de patre procedit, non parua quaestio est.</quote>
-            </p>
-            <p xml:id="xAbSeN-1e1566-d1e176">
-               <ref xml:id="xAbSeN-1e1566-Rd1e178">item post aliqua, in sequenti capitulo</ref>: <quote xml:id="xAbSeN-1e1566-Qd1e181" source="http://scta.info/resource/adt-l5-d1e756" synch="118-146">Si et quod datur, principium
-      habet eum a quo datur, fatendum est patrem et filium principium esse
-      spiritus sancti.</quote>
-            </p>
-            <p xml:id="xAbSeN-1e1566-d1e185">
-               <ref xml:id="xAbSeN-1e1566-Rd1e187">item</ref>: <!-- source unclear; possibly http://scta.info/resource/adt-l4-d1e643@81-88 -->Cognosci quod ab illo procedat qui tamen a filio procedit. <quote xml:id="xAbSeN-1e1566-Qd1e192" source="http://scta.info/resource/adt-l4-d1e646" synch="64-73">Sed
-      totius diuinitatis, siue melius dicitur deitatis, principium pater
-      est.</quote>
-            </p>
-            <p xml:id="xAbSeN-1e1566-d1e196">
-               <ref xml:id="xAbSeN-1e1566-Rd1e198">idem in liber quaestionum veteris et novae legis, cap. lviii</ref>: Caput
-      filii pater et caput spiritus sancti filius, quia de ipso accepit, et
-      sicut pater misit filium ita et filius misit spiritum sanctum.
-    </p>
-            <p xml:id="xAbSeN-1e1566-d1e202">
-               <ref xml:id="xAbSeN-1e1566-Rd1e204">item cap. xxiv</ref>: Hoc est ad imaginem Dei factum esse hominem, ut sicut
-      ab uno Deo sunt omnia ita et ab uno homine omne genus humanum. Mulier
-      de uiro facta est ut per eam natiuitas oriretur; filius uero Dei ideo
-      natus est ut per ipsum fieret creatura.
-    </p>
-            <p xml:id="xAbSeN-1e1566-d1e208">
-               <ref xml:id="xAbSeN-1e1566-Rd1e210">item cap. xciv</ref>: Filium Dei perfectum natum de Deo nemo fidelium
-      ambigit. Omnia enim diuinitatis paternae accepit nascendo de Deo
-      patre. Tunc ergo accepit nomen quod est super omne nomen, id est ut
-      hoc dicatur quod pater, Deus. Nam nihil apud eum futurum dicitur;
-      omnia enim ante se habet. Ideo ad haec omnia creanda et restauranda
-      natus est. Nam utique ordo et ratio hoc habet ut paterno nomini omne
-      genu flectatur. Hoc pater donauit filio propter ea quae erat acturus;
-      donauit autem quando genuit. Sic enim illum genuit ut in eodem honore
-      esset quo ipse pater est.  /145/
-    </p>
-            <p xml:id="xAbSeN-1e1566-d1e214">
-               <ref xml:id="xAbSeN-1e1566-Rd1e216">gennadius de orthodoxa fide ecclesiasticorum dogmatum, cap. i</ref>:
-      Credimus unum esse Deum patrem et filium et spiritum sanctum; filium
-      eo quod habeas patrem; spiritum sanctum eo quod sit ex patre et
-      filio. Pater ergo principium deitatis, a quo filius natus a quo
-      spiritus sanctus non natus sed ex Deo patre et Deo filio Deus
-      procedens.
-    </p>
-    
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 14</title>
+        <author ref="#per-dsPeAb">Peter Abelard</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 14</title>
+          <date when="2021-02-26">February 26, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-02-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#C" n="41"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="xAbSeN-1e1566"><!-- xAbSeN-q14 -->
+        <head xml:id="xAbSeN-1e1566-Hd1e103">Quaestio 14</head>
+        <head xml:id="xAbSeN-1e1566-Hd1e106" type="question-title"> quod sit filius sine principio et contra</head>
+        <p xml:id="xAbSeN-1e1566-d1e105">
+          <lb ed="#C" n="10"/>quod sit filius sine principio 
+          <lb ed="#C" n="11"/>et contra
+        </p>
+        <p xml:id="xAbSeN-1e1566-d1e109">
+          <ref xml:id="xAbSeN-1e1566-Rd1e111">Iterum in psalmo cviiii</ref>: <quote xml:id="xAbSeN-1e1566-Qd1e117">Tecum principium: pater principium: sed 
+          <lb ed="#C" n="12"/>et filius principium: principium enim non habet principium si 
+          <lb ed="#C" n="13"/>enim habuerit aliud principium iam ipsum desinet esse principium 
+          <lb ed="#C" n="14"/>quicquid ergo dederimus patri hoc demus et filio: si enim pater 
+          <lb ed="#C" n="15"/>in filio et filius in patre et omnia patris filii sunt, et omnia 
+          <lb ed="#C" n="16"/>filii patris sunt: et principium patris principium filii est. ergo 
+          <lb ed="#C" n="17"/>quod dicit hoc est eo tempore quo patiebaris et dicebas 
+          <lb ed="#C" n="18"/>Pater in manus tuas commendo spiritum meum et quasi de hominis 
+          <lb ed="#C" n="19"/>loquebaris affectu non quasi imbecillis rogabas: tecum erat princi<lb ed="#C" break="no" n="20"/>pium 
+          tecum erat diuinitas: sed propterea deprecabaris auxilium 
+          <lb ed="#C" n="21"/>ut accepto auxilio dares sanctis tuis et illi splenderent.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1566-d1e117">
+          <ref xml:id="xAbSeN-1e1566-Rd1e119">Item</ref>: 
+          <lb ed="#C" n="22"/><quote xml:id="xAbSeN-1e1566-Qd1e148">secundum hominem loquitur: si enim corpus hominis assumpsit necesse 
+          <lb ed="#C" n="23"/>est ut et hominis verba suscipiat</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e1566-d1e123">
+          <ref xml:id="xAbSeN-1e1566-Rd1e125">fulgentius in libro de immensi<lb ed="#C" break="no" n="24"/>tate 
+          filii dei</ref>: <quote xml:id="xAbSeN-1e1566-Qd1e162">In principio erat verbum: An forte quia in principio 
+          <lb ed="#C" n="25"/>erat aliquod filio existendi audebimus assignare principium 
+          <lb ed="#C" n="26"/>et ideo sine initio natus esse non creditur? absit Ipse dixit: ego 
+          <lb ed="#C" n="27"/>sum alpha et <choice><orig><foreign>w</foreign></orig><reg>omega</reg></choice> initium et finis quia ipse inchoavit perficienda: 
+          <lb ed="#C" n="28"/>ipse perfecit inchoata. Credimus igitur dei filium sine aliquo suae divi<lb ed="#C" break="no" n="29"/>nitatis 
+          initio de patris substantia genitum.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1566-d1e130">
+          <ref xml:id="xAbSeN-1e1566-Rd1e184">Iohannes Crisostomos super 
+            <pb ed="#C" n="2"/>
+            <lb ed="#C" n="1"/>epistolam pauli ad hebraeos in sermone xii</ref>: <quote xml:id="xAbSeN-1e1566-Qd1e191">melchisedech quomodo initium 
+            <lb ed="#C" n="2"/>dierum neque finem vitae habuit quomodo in illo <add place="above-line">non</add> est: narrata eius gene<lb ed="#C" break="no" n="3"/>alogia 
+            scivit et christus ipsa natura rei, et sine initio et sine 
+            <lb ed="#C" n="4"/>fine est: sicut enim istius nescimus neque initium neque dici neque finem 
+            <lb ed="#C" n="5"/>vitae quod non sit scriptum sic et nescimus filii neque vel initium 
+            <lb ed="#C" n="6"/>neque vel finem.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1566-d1e133">
+          <ref xml:id="xAbSeN-1e1566-Rd1e135">Item</ref>: <quote xml:id="xAbSeN-1e1566-Qd1e214">intueris sine initio filium: non quia non habet 
+          <lb ed="#C" n="7"/>causam ex qua sit; hoc enim impossibile est: habet namque 
+          <lb ed="#C" n="8"/>patrem: alioquin quomodo filius: sed quia non habebat initium 
+            <lb ed="#C" n="9"/>vitae neque finem.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1566-d1e139">
+          <ref xml:id="xAbSeN-1e1566-Rd1e226">Idem in expositione symboli quae sic incipit 
+          <lb ed="#C" n="10"/>universalis ecclesiae congaudet</ref>: <quote xml:id="xAbSeN-1e1566-Qd1e231">Istum unicum dei filium de substantia patris 
+          <lb ed="#C" n="11"/>natum et genitum profitemur: et initium de patre habere 
+          <lb ed="#C" n="12"/>dicimus.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1566-d1e142">
+          <ref xml:id="xAbSeN-1e1566-Rd1e144">augustinus de trinitate, libro v cap. xiii</ref>: <quote xml:id="xAbSeN-1e1566-Qd1e147" source="http://scta.info/resource/adt-l5-d1e747@3-28">dicitur relatiue 
+            <lb ed="#C" n="13"/>pater idemque relatiue dicitur principium: sed pater ad filium 
+            <lb ed="#C" n="14"/>dicitur principium ad omnia quae ab ipso sunt</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e1566-d1e151">
+          <ref xml:id="xAbSeN-1e1566-Rd1e153">Item</ref>: <quote xml:id="xAbSeN-1e1566-Qd1e156" source="http://scta.info/resource/adt-l5-d1e747@52-93">et principium 
+            <lb ed="#C" n="15"/>dicitur filius: Cum enim diceretur ei, tu quis es: respondit 
+            <lb ed="#C" n="16"/>principium <!--omitted; sicut et pater principium est quod ab qui et loquor uobis. Creatorem quippe se
+            ostendere uoluit cum dixerit se esse principium,--> sicut et pater principium est creaturae quod ab 
+            <lb ed="#C" n="17"/>ipso sunt omnia.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1566-d1e162">
+          <ref xml:id="xAbSeN-1e1566-Rd1e164">Item</ref>: <quote xml:id="xAbSeN-1e1566-Qd1e167" source="http://scta.info/resource/adt-l5-d1e750@164-175">unum ergo principium ad creaturam dicitur 
+          <lb ed="#C" n="18"/>deus: non duo vel tria principia</quote>. <quote xml:id="xAbSeN-1e1566-Qd1e170" source="http://scta.info/resource/adt-l5-d1e753@3-43"><!-- really should be a combined quote -->Ad se tamen invicem 
+          <lb ed="#C" n="19"/>in trinitate si gignens ad id quod gignit principium 
+          <lb ed="#C" n="20"/>est: pater ad filium principium est, quia gignit eum utrum 
+          <lb ed="#C" n="21"/>autem et ad spiritum principium sit pater quoniam dictum est: de 
+          <lb ed="#C" n="22"/>patre procedit non parua quaestio est.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1566-d1e176">
+          <ref xml:id="xAbSeN-1e1566-Rd1e178">Item post aliqua in sequ<lb ed="#C" break="no" n="23"/>enti 
+          capitulo</ref>: <quote xml:id="xAbSeN-1e1566-Qd1e181" source="http://scta.info/resource/adt-l5-d1e756@118-146">Si quod datur, principium habet eum a quo 
+          <lb ed="#C" n="24"/>datur; fatendum est patrem et filium principium esse spiritus sancti.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1566-d1e185">
+          <lb ed="#C" n="25"/><ref xml:id="xAbSeN-1e1566-Rd1e187">Item</ref>: <!-- source unclear; possibly http://scta.info/resource/adt-l4-d1e643@81-88 -->cognosci quo ab illo procedat qui tamen a filio procedit 
+          <lb ed="#C" n="26"/><quote xml:id="xAbSeN-1e1566-Qd1e192" source="http://scta.info/resource/adt-l4-d1e646@64-73">sed totius divinitatis sive melius dicitur divinitatis 
+          <lb ed="#C" n="27"/>principium pater est.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1566-d1e196">
+          <ref xml:id="xAbSeN-1e1566-Rd1e198">Idem in liber quaestionum veteris 
+          <lb ed="#C" n="28"/>et novae legis, cap. lviii</ref>: <quote xml:id="xAbSeN-1e1566-Qd1e328">Caput filii pater et cap<lb ed="#C" break="no" n="29"/>ut 
+          spiritus sancti filius: quia de ipso accepit: et sicut 
+          <lb ed="#C" n="30"/>pater misit filium, ita et filius misit spiritum sanctum</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e1566-d1e202">
+          <lb ed="#C" n="31"/><ref xml:id="xAbSeN-1e1566-Rd1e204">Item cap. xxiv</ref>: <quote xml:id="xAbSeN-1e1566-Qd1e342">hoc est ad imaginem dei factum esse hominem
+          <pb ed="#C" n="43"/>
+          <lb ed="#C" n="1"/>ut sicut ab uno deo sunt omnia: ita et ab uno homine omne genus humanum. 
+          <lb ed="#C" n="2"/>mulier de viro facta est: ut per eam nativitas oriretur; filius 
+          <lb ed="#C" n="3"/>vero dei ideo natus est ut per ipsum fieret creatura.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1566-d1e208">
+          <ref xml:id="xAbSeN-1e1566-Rd1e210">Item cap. 
+          <lb ed="#C" n="4"/>xciv</ref>: <quote xml:id="xAbSeN-1e1566-Qd1e361">filium dei perfectum natum de deo nemo fidelium ambigit: omnia 
+          <lb ed="#C" n="5"/>enim divinitatis paternae accepit nascendo de deo patre: tunc 
+          <lb ed="#C" n="6"/>ergo accepit nomen quod est super omne nomen id est ut hoc dicatur 
+          <lb ed="#C" n="7"/>quod pater deus nam nihil apud eum futurum dicitur: omnia enim ante 
+          <lb ed="#C" n="8"/>se habet: Ideo ad haec omnia creanda et restauranda natus est. 
+          <lb ed="#C" n="9"/>nam utique ordo et ratio hoc habet ut paterno nomini omne genu flecta<lb ed="#C" break="no" n="10"/>tur 
+          hoc pater donauit filio propter ea quae erat acturus; dona<lb ed="#C" break="no" n="11"/>vit 
+          autem quando genuit: sic enim illum genuit, ut in eodem honore
+          <lb ed="#C" n="12"/>esset quo ipse pater est.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1566-d1e214">
+s          <ref xml:id="xAbSeN-1e1566-Rd1e216">Gennadius de orthodoxa fide ecclesiasti<lb ed="#C" break="no" n="13"/>corum 
+          dogmatum, cap. i</ref>: <quote xml:id="xAbSeN-1e1566-Qd1e390">Credimus unum deum esse patrem et filium 
+          <lb ed="#C" n="14"/>et spiritum sanctum; filium eo quod habeas patrem spiritum sanctum eo quod sit 
+          <lb ed="#C" n="15"/>ex patre et filio. pater ergo principium deitatis, a quo filius natus 
+          <lb ed="#C" n="16"/>a quo spiritus sanctus non natus; sed ex deo patre et deo filio deus procedens.</quote>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

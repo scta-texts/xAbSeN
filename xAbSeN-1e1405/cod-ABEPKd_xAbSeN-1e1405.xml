@@ -1,106 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 10</title>
-            <author ref="#per-dsPeAb">Peter Abelard</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 10</title>
-               <date when="2021-02-26">February 26, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-02-26" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on"/>
-      </front>
-      <body>
-         <div xml:id="xAbSeN-1e1405"><!-- xAbSeN-q10 -->
-            <head xml:id="xAbSeN-1e1405-Hd1e103">Quaestio 10</head>
-            <head xml:id="xAbSeN-1e1405-Hd1e106" type="question-title"> quod deus inter omnia connumerandus sit hoc est unum aliquid
-      ex omnibus et non</head>
-    
-            <p xml:id="xAbSeN-1e1405-d1e109">
-               <ref xml:id="xAbSeN-1e1405-Rd1e111">paulus in epistola prima ad corinthios</ref>: <quote xml:id="xAbSeN-1e1405-Qd1e114" source="http://scta.info/resource/Icor15_26 http://scta.info/resource/Icor15_27">Omnia enim subiecit sub
-      pedibus eius. Cum autem dicat: omnia subiecta sunt ei, sine dubio
-      praeter eum qui subiecit ei omnia</quote>.
-    </p>
-            <p xml:id="xAbSeN-1e1405-d1e118">
-               <ref xml:id="xAbSeN-1e1405-Rd1e120">ambrosius de incarnatione dominica</ref>: Caueamus ne et nostrum alicui
-      dicatur, Si recte offeras, recte autem non diuidas, peccasti, quiesce;
-      hoc est, si nesciamus quae propria diuinitatis incarnationisque
-      distinguere, si creatorem cum suis operibus conferamus, si auctorem
-      temporum dicamus coepisse post tempora. Neque enim potest fieri ut per
-      quem sunt omnia, sit unus ex omnibus. Nolo nobis credatur, scripture
-      recitetur; non ego dico a me quod in principio erat Verbum sed audio;
-      non ego affingo sed lego, quod omnes legimus sed non omnes
-      intelligimus; et cum legitur, audimus omnes. In principio erat Verbum,
-      hoc est remaneat caelum. Denique in principio fecit Deus caelum et
-      terram; aliud est fecit, aliud est erat. Quod fit, incipit; quod
-      erat, principium non accepit sed praeuenit. Remaneant et tempora,
-      quia post caelum tempora. Remaneant etiam angeli, etsi principium
-      eorum non inuenio, erat tamen quando non erant. Si ergo principium
-      eorum inuenire non possum, quos certum est habere principium, quomodo
-      possum inuenire Verbi principium, a quo omne principium non solum
-      creaturarum sed etiam cogitationum nostrarum?
-    </p>
-            <p xml:id="xAbSeN-1e1405-d1e124">
-               <ref xml:id="xAbSeN-1e1405-Rd1e126">idem de fide ad gratianum lib. vi</ref>: Non enim inter omnia sed super
-      omnia spiritus sanctus est.
-    </p>
-            <p xml:id="xAbSeN-1e1405-d1e131">
-               <ref xml:id="xAbSeN-1e1405-Rd1e133">item</ref>: Quod si non seruit spiritus, omnia autem seruiunt, super /140/
-      omnia est spiritus quia non seruit sicut omnia. Seruire autem omnia
-      liquet, sicut scriptum est: uniuersa seruiunt tibi. Dixit os spiritus
-      per prophetam. Ergo cum uniuersa seruiant, si non seruit spiritus,
-      utique inter uniuersa spiritus sanctus non est.
-    </p>
-            <p xml:id="xAbSeN-1e1405-d1e137">
-               <ref xml:id="xAbSeN-1e1405-Rd1e139">item</ref>: Omnia per filium scriptura dicit esse quae facta sunt. Cum autem
-      factus non doceatur spiritus sanctus, utique nec inter omnia probari
-      potest. Item scriptum est: Nobis autem unus Deus pater, ex quo omnia
-      et nos per ipsum; et dominus Iesus Ghristus per quem omnia et nos per
-      ipsum. Cum dicit: Iesus per quem omnia, ab omnibus utique excepit Dei
-      filium, qui excepit et patrem. Itaque qui putant spiritum inter omnia
-      debere numerari, quia omnia legunt facta per filium, etiam filium
-      inter omnia adnumerandum putent, quia legunt ex Deo omnia.
-    </p>
-    
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 10</title>
+        <author ref="#per-dsPeAb">Peter Abelard</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 10</title>
+          <date when="2021-02-26">February 26, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-02-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#C" n="38"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="xAbSeN-1e1405"><!-- xAbSeN-q10 -->
+        <head xml:id="xAbSeN-1e1405-Hd1e103">Quaestio 10</head>
+        <head xml:id="xAbSeN-1e1405-Hd1e106" type="question-title"> quod deus inter omnia connumerandus sit hoc est unum aliquid
+          ex omnibus et non</head>
+        <p xml:id="xAbSeN-1e1405-d1e105">
+          <lb ed="#C" n="14"/>Quod deus inter omnia connumerandus 
+          <lb ed="#C" n="15"/>sit hoc est unum aliquid ex omnibus et non
+        </p>
+        <p xml:id="xAbSeN-1e1405-d1e109">
+          <lb ed="#C" n="16"/><ref xml:id="xAbSeN-1e1405-Rd1e111">paulus in epistola prima ad corinthios</ref>: <quote xml:id="xAbSeN-1e1405-Qd1e114" source="http://scta.info/resource/Icor15_26 http://scta.info/resource/Icor15_27">omnia enim subiecit sub pedibus 
+          <lb ed="#C" n="17"/>eius Cum autem dicat omnia subiecta sunt ea; sine dubio praeter 
+          <lb ed="#C" n="18"/>eum qui subiecit ei omnia</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e1405-d1e118">
+          <ref xml:id="xAbSeN-1e1405-Rd1e120">ambrosius de incarnatione dominica</ref>: <quote xml:id="xAbSeN-1e1405-Qd1e131">caue<lb ed="#C" break="no" n="19"/>amus 
+          ne et nostrum alicui dicatur: si recte offeras: recte 
+          <lb ed="#C" n="20"/>autem non diuidas: peccasti, quiesce; hoc si nesciamus quae propria 
+          <lb ed="#C" n="21"/>diuinitatis incarnationisque distinguere, si creatorem cum suis 
+          <lb ed="#C" n="22"/>operibus conferamus si auctorem temporum dicamus coepisse 
+          <lb ed="#C" n="23"/>post tempora: neque enim potest fieri ut per quam sunt omnia 
+          <lb ed="#C" n="24"/>sit unus ex omnibus nolo nobis credatur scripture recitetur 
+          <lb ed="#C" n="25"/>non ego dico a me quod in principio erat verbum sed audio:
+          <lb ed="#C" n="26"/>non ego affingo, sed lego, quod omnes legimus sed non omnes
+          <lb ed="#C" n="27"/>intelligimus: et cum legitur audimus omnes. In principio 
+          <lb ed="#C" n="28"/>erat verbum: hoc est remaneat caelum denique in principio 
+          <pb ed="#C" n="39"/>
+          <lb ed="#C" n="1"/>fecit deus caelum et terram: aliud est fecit, aliud erat: quod sic incipit 
+          <lb ed="#C" n="2"/>quod erat principium non accepit sed praeuenit: Remaneant et tempora
+          <lb ed="#C" n="3"/>quia post caelum tempora. Remaneant etiam angeli: et si princip<lb ed="#C" break="no" n="4"/>ium
+          eorum non inuenio: erat tamen quando non erant: si ergo principium
+          <lb ed="#C" n="5"/>eorum <del rend="strikethrough">non</del> inuenire <add place="above-line">non</add> possum quos certum est habere principium: quomodo possum 
+          inuenire verbi principium a quo omne principium non solum crea<lb ed="#C" break="no" n="6"/>turarum 
+          sed etiam cogitationum nostrarum</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e1405-d1e124">
+          <ref xml:id="xAbSeN-1e1405-Rd1e126">Idem de fide ad gratianum 
+          <lb ed="#C" n="7"/>libro vi</ref>: <quote xml:id="xAbSeN-1e1405-Qd1e186">non enim inter omnia sed super omnia spiritus sanctus est</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1405-d1e131">
+          <ref xml:id="xAbSeN-1e1405-Rd1e133">Item</ref>: <quote xml:id="xAbSeN-1e1405-Qd1e194">quod si 
+          <lb ed="#C" n="8"/>non seruit spiritus omnia autem seruiunt: super omnia est spiritus, quia non 
+          <lb ed="#C" n="9"/>servit sicut omnia: Servire autem omnia liquet, sicut scriptum est: uni<lb ed="#C" break="no" n="10"/>uersa 
+          serviunt tibi. Dixit os spiritus per prophetam: ergo cum uniuersa 
+          <lb ed="#C" n="11"/>serviant si non servit spiritus utique inter uniuersa spiritus sanctus non est:</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1405-d1e137">
+          <lb ed="#C" n="12"/><ref xml:id="xAbSeN-1e1405-Rd1e139">Item</ref>: <quote xml:id="xAbSeN-1e1405-Qd1e212">omnia per filium scriptura dicit esse quae facta sunt: Cum autem
+          <space/> <!--omitted: factus--> non doceatur spiritus sanctus utique nec inter omnia probari potest 
+          <lb ed="#C" n="13"/>Item scriptum est: nobis autem unus deus pater ex quo omnia et nos 
+          <lb ed="#C" n="14"/>per ipsum: et dominus iesus christus per quem omnia et per ipsum: Cum dicit Iesus 
+          <lb ed="#C" n="15"/>per quem omnia ab omnibus <del rend="strikethrough">utique</del> utique excepit dei filium, qui excepit 
+          <lb ed="#C" n="16"/>et patrem itaque qui putant spiritum inter omnia debere numerari 
+          <lb ed="#C" n="17"/>quia omnia legunt facta per filium: etiam filium inter omnia adnume<lb ed="#C" break="no" n="18"/>randum 
+          putent, quia legunt ex deo omnia</quote>:
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

@@ -1,166 +1,186 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 3</title>
-            <author ref="#per-dsPeAb">Peter Abelard</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 3</title>
-               <date when="2021-02-26">February 26, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-02-26" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on"/>
-      </front>
-      <body>
-         <div xml:id="xAbSeN-d1e774"><!-- xAbSeN-q3 -->
-            <head xml:id="xAbSeN-d1e774-Hd1e103">Quaestio 3</head>
-            <head xml:id="xAbSeN-d1e774-Hd1e106" type="question-title">quod sit credendum in deum solum et contra</head>
-    
-            <p xml:id="xAbSeN-d1e774-d1e109">
-               <ref xml:id="xAbSeN-d1e774-Rd1e111">augustinus ad neophytos, homilia iii</ref>: Quod autem interrogauimus,
-      Credis sanctam ecclesiam? non eo modo interrogauimus ut quomodo in
-      Deum creditur sic et in ecclesiam sanctam. Non ergo diximus ut in
-      ecclesiam quasi in Deum crederitis.
-    </p>
-            <p xml:id="xAbSeN-d1e774-d1e117">
-               <ref xml:id="xAbSeN-d1e774-Rd1e119">idem super iohannem, tractatu xxviii</ref>: Dominus alio loco ait: ut
-      rredatis in eum quem ille misit, ut in eum, non ut ei; daemones
-      credebant ei, et non credebant in eum. Credimus Paulo sed non in
-      Paulum; Petro sed non in Petrum. Credenti in eum, qui iustificat
-      impium. Quid est credere in eum? Credendo amare, credendo diligere,
-      credendo in eum ire et eius membris incorporari. Ipsa est fides quam
-      definit plenissime apostolus dicens: sed fides quae per dilectionem
-      operatur.
-    </p>
-            <p xml:id="xAbSeN-d1e774-d1e123">
-               <ref xml:id="xAbSeN-d1e774-Rd1e125">idem de baptismo parvulorum, lib. i</ref>: Credenti in eum qui iustificat
-      impium. Quisquis ergo ausus fuerit dicere, iustifico te, consequens
-      est ut dicat etiam, crede in me. Quod nemo sanctorum recte dicere
-      potuit, nisi sanctus sanctorum: rredite in Deum et in me credite.
-    </p>
-            <p xml:id="xAbSeN-d1e774-d1e130">
-               <ref xml:id="xAbSeN-d1e774-Rd1e132">idem in epistola iohannis, sermone x</ref>: Quid potuerunt plus credere
-      daemones quam ut dicerent: scimus quia sis filius Dei? Quod dixerunt
-      daemones hoc dixit et Petrus: tu es Christus, filius Dei uiui; et
-      audit a Domino: beatus es Simon Bariona etc. Hoc dicebant daemones ut
-      Christus ab eis recederet, nam dixerunt: quid uenisti ante tempus
-      perdere nos?
-    </p>
-            <p xml:id="xAbSeN-d1e774-d1e136">
-               <ref xml:id="xAbSeN-d1e774-Rd1e138">item</ref>: Cum dilectione fides christiani; sine dilectione fides daemonis.
-      Qui autem non credunt peiores sunt quam daemones et tardiores.
-      Nescioquis non uult credere in Christum, adhuc nec daemones imitatur.
-      Iam credit in Chris to sed odit Christum; habet confess ionem fidei in
-      timore poenae non in amore coronae. Nam et illi puniri timebant.
-    </p>
-            <p xml:id="xAbSeN-d1e774-d1e142">
-               <ref xml:id="xAbSeN-d1e774-Rd1e144">ex symbolo fidei quod romae habetur post altare sancti pauli in
-      tabula argentea ligno superposita, quam leo tertius fecit componi ad
-      cautelam fidei catholicae, sicut in eadem tabula subiunctum est</ref>: Credo
-      in unum Deum patrem omnipotentem, factorem caeli et terrae, uisibilium
-      omnium et inuisibilium; et in unum dominum Iesum Christum, filium Dei
-      unigenitum, qui ex patre natus est ante omnia saecula; lumen de
-      lumine, deum uerum de deo uero, natum non factum, consubstantialem
-      petri, per quem omnia facta sunt; propter nos homines et propter
-      nostram salutem, descendentem de caelo, et incarnatum de spiritu
-      sancto et Maria uirgine et humanatum, crucifixumque pro nobis sub
-      Pontio Pilato, et passum et sepultum, et resurgentem tertia die
-      secundum scripturas, et ascendentem in caelis et sedentem ad dexteram
-      patris, et iterum uenturum cum gloria iudicare uiuos et mortuos, cuius
-      regni non erit finis; et in spiritum sanctum, dominum et
-      uiuificatorem, ex patre procedentem, cum patre et filio coadorandum et
-      conglorificandum, qui locutus est per prophetas; in unam sanctam,
-      catholicam et apostolicam ecclesiam. Confiteor unum baptisma in
-      remissionem peccatorem. Spero resurrectionem mortuorum et uitam futuri
-      saeculi. Amen. Leo indignus tertius episcopus pro amore et cautela
-      orthodoxae fidei fecit.
-    </p>
-            <p xml:id="xAbSeN-d1e774-d1e150">
-               <ref xml:id="xAbSeN-d1e774-Rd1e152">ambrosius de sacramentis, sermone i</ref>: Credit etiam catecuminus in
-      crucem Domini Iesu qua et ipse signatur.
-    </p>
-            <p xml:id="xAbSeN-d1e774-d1e156">
-               <ref xml:id="xAbSeN-d1e774-Rd1e158">idem sermone ii</ref>: interrogatus es, credis in Deum patrem omnipotentem?
-      Dixisti credo, et mersisti. Iterum interrogatus es, credis in Dominum
-      nostrum Iesum Christum et in crucem eius? Dixisti credo.
-    </p>
-            <p xml:id="xAbSeN-d1e774-d1e162">
-               <ref xml:id="xAbSeN-d1e774-Rd1e164">idem in libro de mysteriis</ref>: Constringeris ut credas in filium sicut et
-      in patrem, similiter in spiritum sanctum; hoc solo excepto quod in
-      cruce solius Domini Iesu fateris tibi esse credendum.
-    </p>
-            <p xml:id="xAbSeN-d1e774-d1e171">
-               <ref xml:id="xAbSeN-d1e774-Rd1e173">hieronymus ad paulam et eustochium, in expositione epistolae pauli ad
-      philemonem</ref>: Audiens caritatem tuam et fidem quam habes in Domino Iesu
-      et in omnes sanrtos eius: Credidit populus Domino et Moysi seruo eius;
-      una atque eadem credulitas in Moysen refertur et Deum, cum populus,
-      qui credebat in domino, aeque credidisse scribatur in seruum. Hoc
-      autem non solum in Moyse sed in omnibus sanctis est, ut quicumque
-      credit Deo, aliter eius fidem recipere non queat nisi credat et in
-      sanctos eius. Quod autem dico tale est, nisi prius crediderit de
-      sanctis eius uera esse quae scripta sunt.
-    </p>
-            <p xml:id="xAbSeN-d1e774-d1e177">
-               <ref xml:id="xAbSeN-d1e774-Rd1e179">item</ref>: Non ualebit adduci ad fidem ueteris testamenti nisi, quaecumque
-      de patriarchis et prophetis et aliis insignibus uiris narrat historia,
-      comprobarit ut ex fide legis ad fidem ueniat euangelii et iustitia Dei
-      in eo reueletur ex fide in fidem.
-    </p>
-            <p xml:id="xAbSeN-d1e774-d1e183">
-               <ref xml:id="xAbSeN-d1e774-Rd1e185">idem in disputatione luciferiani et orthodoxi</ref>: Luciferianus dixit sed
-      laico ideo ignoscendum est, quia ecclesiam Dei putans simpliciter
-      accessit et iuxta fidem suam credens baptizatus est. Orthodoxus dixit,
-      nouam rem asserts, ut christianus quisquam factus sit ab eo qui
-      christianus non est. Accedens ad Arianos in qua fide baptizatus est?
-      Nempe in ea quam habebant Ariani. Aut si iam ipse bene credebat et
-      sciens ab haereticis baptizatus est, erroris ueniam non meretur.
-    </p>
-            <p xml:id="xAbSeN-d1e774-d1e189">
-               <ref xml:id="xAbSeN-d1e774-Rd1e191">item</ref>: Praeterea cum solemne sit in lauacro post trinitatis
-      confessionem interrogare, credis in sanctam ecclesiam? credis
-      remissionem peccatorum? in quam ecclesiam credidisse eum dicis? In
-      Arianorum? sed non habent in nostram? Sed extra hanc baptizatus non
-      potuit in eam credere quam nesciuit.  /125/
-    </p>
-    
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#per-dsPeAb">Peter Abelard</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2021-02-26">February 26, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-02-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+          <!-- 2022-07-07: line breaks added; TODO: text still needs to be corrected to reflect manuscript -->
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#C" n="23"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="xAbSeN-d1e774"><!-- xAbSeN-q3 -->
+        <head xml:id="xAbSeN-d1e774-Hd1e103">Quaestio 3</head>
+        <head xml:id="xAbSeN-d1e774-Hd1e106" type="question-title">quod sit credendum in deum solum et contra</head>
+        <p xml:id="xAbSeN-d1e774-d1e107">
+          <lb ed="#C" n="10"/>Quid sit credendum in dominum 
+          <lb ed="#C" n="11"/>solum et contra
+        </p>
+        
+        <p xml:id="xAbSeN-d1e774-d1e109">
+          <lb ed="#C" n="12"/><ref xml:id="xAbSeN-d1e774-Rd1e111">Augustinus ad neophytos, homilia iii</ref>: <quote xml:id="xAbSeN-d1e774-Qd1e120">quod autem interrogauimus
+            <lb ed="#C" n="13"/>credis sanctam ecclesiam? non eo modo interrogauimus ut quomodo 
+            <lb ed="#C" n="14"/>in deum creditur: sic et in ecclesiam sanctam. Non ergo diximus ut 
+            <lb ed="#C" n="15"/>in ecclesiam quasi in Deum crederitis.</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e774-d1e117">
+          <ref xml:id="xAbSeN-d1e774-Rd1e119">Idem super iohannem, tractatu xxviii</ref>: 
+          <lb ed="#C" n="16"/><quote xml:id="xAbSeN-d1e774-Qd1e136">Dominus alio loco ait, ut credatis in illum quem ille misit, 
+          <lb ed="#C" n="17"/>ut in eum, non ut ei; daemones credebant ei, et non credebant in eum. 
+          <lb ed="#C" n="18"/>Credimus paulo sed non in Paulum; Petro sed non in Petrum. 
+          <lb ed="#C" n="19"/>credenti in eum, qui iustificat impium. quid est credere in eum? 
+          <lb ed="#C" n="20"/>Credendo amare, credendo diligere, credendo in eum ire et eius 
+          <lb ed="#C" n="21"/>membris incorporari. Ipsa est fides quam definit plenissime 
+          <lb ed="#C" n="22"/>apostolus dicens: sed fides quae per dilectionem operatur</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e774-d1e123">
+          <ref xml:id="xAbSeN-d1e774-Rd1e125">Idem de bap<lb ed="#C" break="no" n="23"/>tismo 
+          parvulorum, lib. i</ref>: <quote xml:id="xAbSeN-d1e774-Qd1e161">credenti in eum qui iustificat impium 
+          <lb ed="#C" n="24"/>quisquis ergo ausus fuerit dicere, iustifico te, consequens est ut 
+          <lb ed="#C" n="25"/>dicat etiam, crede in me. Quod nemo sanctorum recte dicere
+          po<lb ed="#C" break="no" n="26"/>tuit, nisi sanctus sanctorum: rredite in Deum et in me credite.</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e774-d1e130">
+          <lb ed="#C" n="27"/><ref xml:id="xAbSeN-d1e774-Rd1e132">Idem in epistola Iohannis, sermone x</ref>: <quote xml:id="xAbSeN-d1e774-Qd1e177">quid potuerunt plus credere
+          <lb ed="#C" n="28"/>daemones quam ut dicerent: scimus quia sis filius dei? quod 
+          <lb ed="#C" n="29"/>dixerunt daemones hoc dixit et petrus: tu es christus, filius 
+          <pb ed="#C" n="24"/>
+          <lb ed="#C" n="1"/>dei uiui: et audit a domino: beatus es <name xml:id="xAbSeN-d1e774-Nd1e187">Simon Bariona</name> etc. hoc 
+          <lb ed="#C" n="2"/>dicebant daemones ut christus ab eis recederet: nam dixerunt 
+          <lb ed="#C" n="3"/>quid uenisti ante tempus perdere nos?</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e774-d1e136">
+          <lb ed="#C" n="4"/><ref xml:id="xAbSeN-d1e774-Rd1e138">Item</ref>: <quote xml:id="xAbSeN-d1e774-Qd1e202">Cum dilectione 
+          <lb ed="#C" n="5"/>fides christiani: sine dilectione fides daemonis qui autem non 
+          <lb ed="#C" n="6"/>credunt peiores sunt quam daemones et tardiores: nescio 
+          <lb ed="#C" n="7"/>quis non uult credere in Christum, adhuc nec daemones imitatur.
+          <lb ed="#C" n="8"/>Iam credit in Christo sed odit christum; habet confessionem fidei in
+          <lb ed="#C" n="9"/>timore poenae non in amore coronae. Nam et illi puniri time<lb ed="#C" break="no" n="10"/>bant.</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e774-d1e142">
+          <ref xml:id="xAbSeN-d1e774-Rd1e144">Ex symbolo fidei quod romae habetur post altare 
+          <lb ed="#C" n="11"/>sancti pauli in tabula argentea ligno superposita quam 
+          <lb ed="#C" n="12"/>leo tertius fecit componi ad cautelam fidei catholicae, sicut 
+          <lb ed="#C" n="13"/>in eadem tabula subiunctum est</ref>: <quote xml:id="xAbSeN-d1e774-Qd1e230">Credo in unum deum patrem 
+          <lb ed="#C" n="14"/>omnipotentem factorem caeli et terrae uisibilium omnium et inuisibilium 
+          <lb ed="#C" n="15"/>Et in unum dominum Iesum Christum filium dei unigenitum 
+          <lb ed="#C" n="16"/>qui ex patre natus est ante omnia saecula; lumen de lumine, 
+          <lb ed="#C" n="17"/>deum uerum de deo uero, natum non factum, consubstantialem petri 
+          <lb ed="#C" n="18"/>per quem omnia facta sunt; propter nos homines et propter
+          <lb ed="#C" n="19"/>nostram salutem, descendentem de caelo, et incarnatum de spiritu
+          <lb ed="#C" n="20"/>sancto et Maria uirgine et humanatum, crucifixumque 
+          <lb ed="#C" n="21"/>pro nobis sub Pontio Pilato, et passum et sepultum, 
+          <lb ed="#C" n="22"/>et resurgentem tertia die secundum scripturas, et ascendentem 
+          <lb ed="#C" n="23"/>in caelis et sedentem ad dexteram patris, et iterum uenturum 
+          <lb ed="#C" n="24"/>cum gloria iudicare uiuos et mortuos, cuius regni non erit 
+          <lb ed="#C" n="25"/>finis; et in spiritum sanctum, dominum et uiuificatorem, ex patre 
+          <lb ed="#C" n="26"/>procedentem, cum patre et filio coadorandum et conglorifican<lb ed="#C" break="no" n="27"/>dum, 
+          qui locutus est per prophetas; in unam sanctam, catholicam 
+          <lb ed="#C" n="28"/>et apostolicam ecclesiam confiteor unum baptisma in remissionem 
+          <lb ed="#C" n="29"/>peccatorem: spero resurrectionem mortuorum et uitam futuri
+          <lb ed="#C" n="30"/>saeculi. Amen. Leo indignus tertius episcopus pro amore et caute<lb ed="#C" break="no" n="31"/>la
+          orthodoxae fidei fecit.</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e774-d1e150">
+          <ref xml:id="xAbSeN-d1e774-Rd1e152"><name xml:id="xAbSeN-d1e774-Nd1e276">Ambrosius</name> de sacramentis, sermone 1o</ref>: 
+          <quote xml:id="xAbSeN-d1e774-Qd1e279">credit etiam catecuminus in crucem domini Ihesu qua et ipse 
+          <pb ed="#C" n="25"/>
+          <lb ed="#C" n="1"/>signatur.</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e774-d1e156">
+          <ref xml:id="xAbSeN-d1e774-Rd1e158">Idem sermone iio</ref>: <quote xml:id="xAbSeN-d1e774-Qd1e292">Interrogatus es, credis in deum patrem 
+          <lb ed="#C" n="2"/>omnipotentem? dixisti credo, et mersisti. Iterum interrogatus es, 
+          <lb ed="#C" n="3"/>credis et in dominum nostrum Iesum Christum et in crucem eius? 
+          <lb ed="#C" n="4"/>Dixisti credo.</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e774-d1e162">
+          <ref xml:id="xAbSeN-d1e774-Rd1e164">Idem in libro de mysteriis</ref>: <quote xml:id="xAbSeN-d1e774-Qd1e308">Constringeris ut credas in 
+          <lb ed="#C" n="5"/>filium sicut et in patrem, similiter <add place="above-line">in</add> spiritum sanctum; hoc solo excepto 
+          <lb ed="#C" n="6"/>quoad<!-- correction here ? --> in cruce solius domini Ihesu <seg type="correction">f<subst><del>o</del><add place="above-line">a</add></subst>teris</seg> tibi esse credendum.</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e774-d1e171">
+          <lb ed="#C" n="7"/><ref xml:id="xAbSeN-d1e774-Rd1e173">Hieronymus ad paulam et eustochium, in expositione epistolae pauli ad
+          <lb ed="#C" n="8"/>philemonem</ref>: <quote xml:id="xAbSeN-d1e774-Qd1e337">
+            <!--omitted: Audiens caritatem tuam et fidem quam habes in Domino Iesu
+          et in omnes sanctos eius:--> credidit domino populus et moysi seruo eius;
+            <lb ed="#C" n="9"/>una atque eadem credulitas in moysen refertur et Deum, cum 
+            <lb ed="#C" n="10"/>populus, qui credebat in domino, aeque credidisse scribatur 
+            <lb ed="#C" n="11"/>in seruum. hoc autem non solum in Moyse sed in omnibus sanctis 
+            <lb ed="#C" n="12"/>est, ut quicumque credit deo, aliter eius fidem recipere non queat 
+            <lb ed="#C" n="13"/>nisi credat et in sanctos eius: quod autem dico tale est, nisi 
+            <lb ed="#C" n="14"/>prius crediderit de sanctis eius uera esse quae scripta sunt.</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e774-d1e177">
+          <lb ed="#C" n="15"/><ref xml:id="xAbSeN-d1e774-Rd1e179">Item</ref>: <quote xml:id="xAbSeN-d1e774-Qd1e362">Non valebit adduci ad fidem veteris testamenti nisi 
+          <lb ed="#C" n="16"/>quaecumque de patriarchis et prophetis et aliis insignibus 
+          <lb ed="#C" n="17"/>uiris narrat historia comprobarit ut ex fide legis ad 
+          <lb ed="#C" n="18"/>fidem ueniat euangelii et iustitia Dei in eo reueletur ex 
+          <lb ed="#C" n="19"/>fide in fidem.</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e774-d1e183">
+          <ref xml:id="xAbSeN-d1e774-Rd1e185">Idem in disputatione luciferiani et orthodoxi</ref>: 
+          <lb ed="#C" n="20"/><quote xml:id="xAbSeN-d1e774-Qd1e380">luciferianus dixit sed laico ideo ignoscendum est, quia ecclesiam Dei 
+          <lb ed="#C" n="21"/>putans simpliciter accessit et iuxta fidem suam credens 
+          <lb ed="#C" n="22"/>baptizatus est. Orthodoxus dixit, nouam rem asseris, ut 
+          <lb ed="#C" n="23"/>christianus <del rend="strikethrough">in quam</del> quisquam factus sit ab eo qui christianus non 
+          <lb ed="#C" n="24"/><del rend="strikethrough">eeet</del> est. accedens ad arianos in qua fide baptizatus 
+          <lb ed="#C" n="25"/>est: nempe in ea quam habebant ariani aut si iam 
+          <lb ed="#C" n="26"/>ipse bene credebat: et sciens ab haereticis baptizatus est, 
+          <lb ed="#C" n="27"/>erroris ueniam non meretur.</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e774-d1e189">
+          <ref xml:id="xAbSeN-d1e774-Rd1e191">Item</ref>: <quote xml:id="xAbSeN-d1e774-Qd1e409">praeterea cum solemne sit 
+          <lb ed="#C" n="28"/>in lauacro post trinitatis confessionem interrogare, credis 
+          <pb ed="#C" n="26"/>
+          <lb ed="#C" n="1"/>in sanctam ecclesiam? credis remissionem peccatorum? in quam 
+          <lb ed="#C" n="2"/>ecclesiam credidisse eum dicis? In Arianorum? sed non habent in 
+          <lb ed="#C" n="3"/>nostram? sed extra hanc baptizatus non potuit in eam credere quam 
+          <lb ed="#C" n="4"/>nesciuit.</quote>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

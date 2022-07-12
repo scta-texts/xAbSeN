@@ -1,171 +1,196 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 2</title>
-            <author ref="#per-dsPeAb">Peter Abelard</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 2</title>
-               <date when="2021-02-26">February 26, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-02-26" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on"/>
-      </front>
-      <body>
-         <div xml:id="xAbSeN-d1e704"><!-- xAbSeN-q2 -->
-            <head xml:id="xAbSeN-d1e704-Hd1e103">Quaestio 2</head>
-            <head xml:id="xAbSeN-d1e704-Hd1e106" type="question-title"> quod fides sit de non apparentibus tantum et contra</head>
-    
-            <p xml:id="xAbSeN-d1e704-d1e109">
-               <ref xml:id="xAbSeN-d1e704-Rd1e111">gregorius homilia vi, lib. ii in evangelio</ref>: Quia uidisti me,
-      credidisti: Cum apostolus dicat: est enim fides sperandarum substantia
-      rerum, argumentum non apparentium, profecto liquet quia fides illarum
-      rerum argumentum est quae apparere non possunt. Quae enim sunt
-      apparentia, fidem non habent sed agnitionem; sed aliud uidit, aliud
-      credidit. A mortali quippe homine diuinitas uideri non potuit. Hominem
-      igitur uidit et Deum confessus est dicens, Dominus meus et Deus meus.
-    </p>
-            <p xml:id="xAbSeN-d1e704-d1e115">
-               <ref xml:id="xAbSeN-d1e704-Rd1e117">idem dialogorum lib. iv, cap. viii</ref>: Cum Paulus dicat: est enim
-      fides sperandarum substantia rerum, argumentum non apparentium, hoc
-      ueraciter dicitur credi quod non ualet uideri; nam credi iam non
-      potest quod uideri potest.
-    </p>
-            <p xml:id="xAbSeN-d1e704-d1e123">
-               <ref xml:id="xAbSeN-d1e704-Rd1e125">haimo in epistola pauli ad romanos</ref>: Fides igitur est qua ueraciter
-      credimus id quod nequaquam uidere ualemus. Sin autem quod credimus iam
-      uidemus, fides non est habenda sed cognitio.
-    </p>
-            <p xml:id="xAbSeN-d1e704-d1e130">
-               <ref xml:id="xAbSeN-d1e704-Rd1e132">augustinus de verbis domini et quibusdam sententiis pauli apostoli,
-      sermone lxxx</ref>: Iustus ex fide uiuit, quia credit quod non uidet; filii
-      Dei sumus, et nondum apparuit quid erimus; quia nondum apparuit, ideo
-      fides. Modo ergo fides antequam appareat quod erimus; scimus quod, cum
-      apparuerit, similes ei erimus. Quare? quia uidebimus eum sicuti
-      est. Apostolus dicit habitare Christum per fidem in rordibus nostris
-      modo per fidem, tunc per speciem; modo per fidem, quamdiu in uia,
-      quamdiu in peregrinatione; quamdiu enim sumus in rorpore, peregrinamur
-      a Domino; per fidem enim ambulamus, non per speriem. Quid erit
-      species? audi: ut sit Deus omnia in omnibus. Quicquid hic quaerebas,
-      quicquid hic pro magno habebas, ipse tibi erit. Cum uenerimus,
-      tenebimus; et iam uisio erit, non fides; et iam res erit, non spes;
-      amabimus uidendo et tenendo. Ergo caritas perfecta erit, sicut ait
-      apostolus: fides, spes, raritas, tria haer; maior autem horum
-      raritas. Securi illo adiuuante perseuerantes in eo dicamus, Quis nos
-      separabit a raritate Christi? tribulatio? an angustia? an gladius?
-      etc.
-    </p>
-            <p xml:id="xAbSeN-d1e704-d1e136">
-               <ref xml:id="xAbSeN-d1e704-Rd1e138">idem lib. ii de baptismo parvulorum</ref>: Quid enim magnum erat uidendo non
-      mori eos qui crederent, credere se non moriturum? quanto est maius ita
-      credere ut se speret moriturus sine fine uicturum.  Denique hoc
-      quibusdam in fine larg ie tur ut mortem is tam repentina commutatione
-      non sentient sed simul cum resurgentibus rapiantur obuiam Christo et
-      sic semper cum Domino uiuant. Et recte illis, quia non erunt iam
-      posteri, qui propter hoc credant, non sperando quod non uident sed
-      amando quod uident. Quae nec fides omnino dicenda est, quandoquidem
-      fides ita definita est: fides est sperandarum sub.stantia rerum,
-      argumentum non apparentium.
-    </p>
-            <p xml:id="xAbSeN-d1e704-d1e144">
-               <ref xml:id="xAbSeN-d1e704-Rd1e146">idem super iohannem, homilia</ref>: Et nunc diro uobis, priusquam fiat, ut
-      rum fartum fuerit, redatis. Quid est hoc, cum magis credere homo
-      habeat antequam fiat id quod credendum est? haec est enim laus fidei,
-      si quod creditur non uidetur; nam quid magnum est si id creditur quod
-      uidetur? secundum illam domini sententiam, quando discipulum arguit
-      dicens: quia uidisti, rredidisti; beati qui non uiderunt et
-      rrediderunt. Nam ipsa fides ita est definita: est autem fides
-      sperandarum substantia rerum quae non uidentur. Quapropter quid sibi
-      uult ut cum factum fuerit, credatis? Nam et ille cui dictum est: quia
-      uidisti, credidisti, non hoc credidit quod uidit; cernebat carnem et
-      credebat Deum in carne latentem. Sed etsi dicuntur credi quae
-      uidentur, sicut dicit unusquisque oculis suis se credidisse, non tamen
-      ipsa est quae in nobis aedificatur fides; sed ex rebus quae uidentur,
-      agitur in nobis, ut ea credantur quae non uidentur.
-    </p>
-            <p xml:id="xAbSeN-d1e704-d1e150">
-               <ref xml:id="xAbSeN-d1e704-Rd1e152">item</ref>: Credituri non fide noua sed aucta, aut certe cum mortuus esset
-      defecta, cum resurrexisset refecta.
-    </p>
-            <p xml:id="xAbSeN-d1e704-d1e156">
-               <ref xml:id="xAbSeN-d1e704-Rd1e158">idem homilia xxxix</ref>: Quid promittit credentibus?  Cognoscetis
-      ueritatem.  Non quia cognouerunt crediderunt sed ut cognoscerent
-      crediderunt. Credimus ut cognoscamus, non cognoscimus ut credamus.
-      Quid est enim fides nisi credere quod non uides? fides ergo est quod
-      non uides credere; ueritas, quod credidisti uidere; ueritas est sed
-      adhuc creditur, non uidetur.
-    </p>
-            <p xml:id="xAbSeN-d1e704-d1e162">
-               <ref xml:id="xAbSeN-d1e704-Rd1e164">idem lib. ii quaestionum evangeliorum</ref>: [Iustitia Dei in eo
-      reuelatur ex fide in fidem].  Intelligitur quidem fides qua creduntur
-      ea quae non uidentur; sed tamen est etiam fides rerum, quando non
-      uerbis sed rebus ipsis praesentibus creditur quod futurum est, cum iam
-      per speciem manifestam se contemplandam praebebit sanctis ipsa Dei
-      sapientia. De qua fide rerum lucisque ipsius praesentiae forsitan
-      Paulus dicit: Iustitia enim Dei in eo reuelatur ex fide in
-      fidem. Dicit enim alio loco: Nos enim, reuelata farie gloriam Dei
-      sperulantes, in eandem imaginem transformamur a gloria in gloriam.
-      Sicut enim dicit hic de gloria in gloriam ita et ibi ex fide in fidem;
-      de gloria scilicet euangelii, quo nunc credentes illuminantur in
-      gloriam manifestae ueritatis.
-    </p>
-            <p xml:id="xAbSeN-d1e704-d1e169">
-               <ref xml:id="xAbSeN-d1e704-Rd1e171">haimo super epistolam ad ephesios</ref>: Et ipse dedit quosdam quidem
-      apostolos etc., donec occurramus omnes Christo in resurrectione in
-      unitatem fidei et agnitionem filii Dei, id est, quousque unam fidem
-      habeamus post resurrectionem et omnes aequaliter Deum cognoscamus. In
-      praesenti siquidem saeculo, sicut est diuersitas scientiae ita est
-      diuersa fides, quia alius plus, alius minus de Deo intelligit et,
-      secundum quod intelligit et cognoscit, habet fidem. Post
-      resurrectionem autem iam non erit diuersitas fidei quia, sicut omnes
-      aequaliter Deum uidebunt, ita aequaliter fidem habebunt.
-    </p>
-            <p xml:id="xAbSeN-d1e704-d1e175">
-               <ref xml:id="xAbSeN-d1e704-Rd1e177">boethius super topica ciceronis, lib. i</ref>: Argumentum est ratio quae rei
-      dubiae facit fidem. Multa enim sunt quae faciunt fidem; sed quia
-      rationes non sunt, nec argumenta esse possunt; ut uisus facit fidem
-      his quae uidentur sed quia ratio non est uisus, nec argumentum esse
-      potest.
-    </p>
-    
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#per-dsPeAb">Peter Abelard</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2021-02-26">February 26, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-02-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#C" n="20"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="xAbSeN-d1e704"><!-- xAbSeN-q2 -->
+        <head xml:id="xAbSeN-d1e704-Hd1e103">Quaestio 2</head>
+        <head xml:id="xAbSeN-d1e704-Hd1e106" type="question-title"> quod fides sit de non apparentibus tantum et contra</head>
+        <p xml:id="xAbSeN-d1e704-d1e105">
+          <lb ed="#C" n="12"/>Quod fides sit de non apparentibus 
+          <lb ed="#C" n="13"/><sic>tamen</sic> et contra
+          
+        </p>
+        <p xml:id="xAbSeN-d1e704-d1e109">
+          <lb ed="#C" n="14"/><ref xml:id="xAbSeN-d1e704-Rd1e111"><name xml:id="xAbSeN-d1e704-Nd1e117">Gregorius</name> homilia vi, libro ii in evangelio<!--omitted: Quia uidisti me, credidisti:--></ref> <quote xml:id="xAbSeN-d1e704-Qd1e121">Cum apostolus dicat: est 
+          <lb ed="#C" n="15"/>enim fides sperandarum substantia rerum, argumentum 
+          <lb ed="#C" n="16"/>non apparentium profecto liquet quia fides illarum
+          <lb ed="#C" n="17"/>rerum argumentum est quae apparere non possunt: quae 
+          <lb ed="#C" n="18"/>enim sunt apparentia: fidem non habent sed <del rend="strikethrough">agni</del> agni<lb ed="#C" break="no" n="19"/>tionem; 
+          sed aliud uidit aliud credidit: a mortali quippe 
+          <lb ed="#C" n="20"/>homine diuinitas uideri non potuit hominem igitur uidit 
+          <lb ed="#C" n="21"/>et deum confessus est dicens dominus meus et deus meus.</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e704-d1e115">
+          <ref xml:id="xAbSeN-d1e704-Rd1e117">Idem 
+          <lb ed="#C" n="22"/>dialogorum lib. iv, capitulo viii</ref>, <quote xml:id="xAbSeN-d1e704-Qd1e150">cum Paulus dicat, est enim
+          <lb ed="#C" n="23"/>fides sperandarum substantia rerum argumentum non appa<lb ed="#C" break="no" n="24"/>rentium 
+          hoc: ueraciter dicitur credi quod non ualet uideri 
+          <lb ed="#C" n="25"/>nam credi iam non potest quod uideri potest</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e704-d1e123">
+          <ref xml:id="xAbSeN-d1e704-Rd1e125"><name xml:id="xAbSeN-d1e704-Nd1e164">haimo</name> in 
+          <lb ed="#C" n="26"/>epistola pauli ad Romanos</ref>: <quote xml:id="xAbSeN-d1e704-Qd1e169">fides igitur est qua ueraciter credimus 
+            <lb ed="#C" n="27"/>id quod nequaquam uidere ualemus: sin autem quod credimus 
+            <lb ed="#C" n="28"/><subst><add place="margin-left">iam</add> <del rend="strikethrough">non</del></subst> uidemus fides non est habenda sed cognitio</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e704-d1e130">
+          <ref xml:id="xAbSeN-d1e704-Rd1e132">Augustinus 
+            <lb ed="#C" n="29"/>de verbis domini et quibusdam sententiis pauli apostoli sermo<lb ed="#C" break="no" n="30"/>ne lxxx</ref>: <quote xml:id="xAbSeN-d1e704-Qd1e192">iustus ex fide uiuit quia credit quod non uidet 
+            <lb ed="#C" n="31"/>filii dei sumus et nondum apparuit quid erimus quia nondum 
+            <pb ed="#C" n="21"/>
+            <lb ed="#C" n="1"/>apparuit ideo fides modo ergo fides antequam appareat quod 
+            <lb ed="#C" n="2"/>erimus: scimus quod cum apparuerit similes ei erimus quare? 
+            <lb ed="#C" n="3"/>quia uidebimus eum sicuti est: apostolus dicit habitare <del rend="strikethrough">fidem</del> 
+            <lb ed="#C" n="4"/>christum per fidem in cordibus nostris modo per fidem tunc per speciem 
+            <lb ed="#C" n="5"/>modo per fidem quamdiu in uia quamdiu in peregrinatione 
+            <lb ed="#C" n="6"/>quamdiu enim sumus in corpore peregrinamur a domino per fidem 
+            <lb ed="#C" n="7"/>enim ambulamus non per <unclear>speriem</unclear> quid erit species audi: ut 
+            <lb ed="#C" n="8"/>sit deus omnia in omnibus quicquid hic quaerebas quicquid 
+            <lb ed="#C" n="9"/><subst><add place="margin-left">hic</add> <del rend="strikethrough">hic</del></subst> pro magno habebas ipse tibi erit Cum uenerimus,
+            <lb ed="#C" n="10"/>tenebimus et iam uisio erit, non fides; et iam res erit, non spes;
+            <lb ed="#C" n="11"/>amabimus uidendo et tenendo. Ergo caritas perfecta erit, sicut ait
+            <lb ed="#C" n="12"/>apostolus: fides, spes, raritas, tria haec; maior autem horum caritas. 
+            <lb ed="#C" n="13"/>Securi illo adiuuante perseuerantes in eo dicamus, quis nos separa<lb ed="#C" break="no" n="14"/>bit 
+            a charitate christi? Tribulatio? an angustia? an gladius?
+            <lb ed="#C" n="15"/>et cetera</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e704-d1e136">
+          <ref xml:id="xAbSeN-d1e704-Rd1e138">Idem de <seg type="correction">bap<add place="above-line">ti</add>smo</seg> parvulorum libro ii</ref>: <quote xml:id="xAbSeN-d1e704-Qd1e255">quid enim magnum 
+          <lb ed="#C" n="16"/>erat uidendo non mori eos qui crederent, credere se non moriturum? 
+          <lb ed="#C" n="17"/>quanto est maius ita credere ut se speret moriturus sine fine 
+          <lb ed="#C" n="18"/>uicturum.  Denique hoc quibusdam in fine largietur ut mortem 
+          <lb ed="#C" n="19"/>istam repentina commutatione non sentient; sed simul cum resur<lb ed="#C" break="no" n="20"/>gentibus 
+          rapiantur obuiam christo et sic semper cum domino uiuant et recte 
+          <lb ed="#C" n="21"/>illis, quia non erunt iam posteri qui propter hoc credant non sperando 
+          <lb ed="#C" n="22"/>quod non uident, sed amando quod uident quae nec fides omnino dicenda est 
+          <lb ed="#C" n="23"/>quandoquidem fides ita definita est: fides est sperandarum substantia rerum
+          <lb ed="#C" n="24"/>argumentum non apparentium.</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e704-d1e144">
+          <ref xml:id="xAbSeN-d1e704-Rd1e146">Idem super iohannem omilia</ref>: <quote xml:id="xAbSeN-d1e704-Qd1e283">Et nunc diro uobis 
+            <lb ed="#C" n="25"/>priusquam fiat, ut cum factum fuerit, redatis: quid est hoc : cum 
+            <lb ed="#C" n="26"/>magis credere homo habeat antequam fiat id quod credendum 
+            <lb ed="#C" n="27"/>est: haec est enim laus fidei si quod creditur non uidetur nam 
+            <lb ed="#C" n="28"/>quid magnum est si id creditur quod uidetur? secundum illam domini 
+            <lb ed="#C" n="29"/>sententiam quando discipulum arguit dicens: quia uidisti, credidi<lb ed="#C" break="no" n="30"/>sti 
+            beati qui non uiderunt et crediderunt.: nam ipsa fides ita est 
+            <pb ed="#C" n="22"/>
+            <lb ed="#C" n="1"/>definita: est autem fides sperandarum substantia rerum quae non uidentur 
+            <lb ed="#C" n="2"/>quapropter quid sibi uult ut cum factum fuerit, credatis? Nam et ille 
+            <lb ed="#C" n="3"/>cui dictum est: quia
+          uidisti, credidisti, non hoc credidit quod 
+            <lb ed="#C" n="4"/>vidit; cernebat carnem et
+          credebat Deum in carne latentem. Sed 
+            <lb ed="#C" n="5"/>etsi dicuntur credi quae
+          uidentur, sicut dicit unusquisque oculis suis 
+            <lb ed="#C" n="6"/>se credidisse, non tamen
+          ipsa est quae in nobis aedificatur fides; 
+            <lb ed="#C" n="7"/>sed ex rebus quae uidentur,
+          agitur in nobis, ut ea credantur 
+            <lb ed="#C" n="8"/>quae non uidentur.
+          </quote>
+        </p>
+        <p xml:id="xAbSeN-d1e704-d1e150">
+          <ref xml:id="xAbSeN-d1e704-Rd1e152">Item</ref>: <quote xml:id="xAbSeN-d1e704-Qd1e324">credituri non fide noua sed aucta aut 
+            <lb ed="#C" n="9"/>certe cum mortuus esset
+          defecta, cum resurrexisset refecta.</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e704-d1e156">
+          <lb ed="#C" n="10"/><ref xml:id="xAbSeN-d1e704-Rd1e158">Idem homilia xxxix</ref>: <quote xml:id="xAbSeN-d1e704-Qd1e336">quid promittit credentibus:  cognoscetis
+            <lb ed="#C" n="11"/>veritatem.  Non quia cognouerunt crediderunt sed ut cognoscerent
+            crediderunt. 
+            <lb ed="#C" n="12"/>Credimus ut cognoscamus, non cognoscimus ut credamus. Quid est 
+            <lb ed="#C" n="13"/>enim fides nisi credere quod non uides? fides ergo est quod non 
+            <lb ed="#C" n="14"/>uides credere; ueritas, quod credidisti uidere; ueritas est sed
+            <lb ed="#C" n="15"/><del rend="strikethrough">ab</del> adhuc creditur, non uidetur.</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e704-d1e162">
+          <ref xml:id="xAbSeN-d1e704-Rd1e164">Idem lib. ii quaestionum evangeliorum</ref>: 
+          <lb ed="#C" n="16"/><quote xml:id="xAbSeN-d1e704-Qd1e359">intelligitur quidem fides qua creduntur ea quae non uidentur: sed 
+          <lb ed="#C" n="17"/>tamen est etiam fides rerum, quando non
+          uerbis sed rebus ipsis praesentibus 
+          <lb ed="#C" n="18"/>creditur quod futurum est: cum iam per speciem manifestam se contem<lb ed="#C" break="no" n="19"/>plandam 
+          praebebit sanctis ipsa Dei sapientia: de qua fide rerum 
+          <lb ed="#C" n="20"/>lucisque ipsius praesentiae forsitan paulus: <!--omitted: dicit Iustitia enim Dei in eo reuelatur ex fide in
+          fidem.--> dicit enim alio loco: 
+            <lb ed="#C" n="21"/><quote xml:id="xAbSeN-d1e704-Qd1e373" source="http://scta.info/resource/IIcor3_18@1-16">Nos enim, reuelata facie gloriam Dei speculantes in eandem ima<lb ed="#C" break="no" n="22"/>ginem 
+            transformamur a gloria in gloriam</quote>: sicut enim 
+            <lb ed="#C" n="23"/>dicit hic de gloria in gloriam ita et ibi ex fide in fidem;
+            <lb ed="#C" n="24"/>de gloria scilicet euangelii, quo nunc credentes illuminantur in
+            <lb ed="#C" n="25"/>gloriam manifestae ueritatis.</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e704-d1e169">
+          <ref xml:id="xAbSeN-d1e704-Rd1e171"><name xml:id="xAbSeN-d1e704-Nd1e389">haimo</name> super epistolam ad ephesios</ref>: 
+          <lb ed="#C" n="26"/><quote xml:id="xAbSeN-d1e704-Qd1e393">et ipse dedit quosdam quidem apostolos etc., donec occurramus 
+            <lb ed="#C" n="27"/>omnes christo in resurrectione in unitatem fidei et agnitionem 
+            <lb ed="#C" n="28"/>filii dei: id est, quousque unam fidem habeamus post resurrectionem 
+            <lb ed="#C" n="29"/>et omnes aequaliter deum cognoscamus. In praesenti siquidem saeculo 
+            <pb ed="#C" n="23"/>
+            <lb ed="#C" n="1"/>sicut est diuersitas scientiae ita est diuersa fides, quia alius plus, 
+            <lb ed="#C" n="2"/>alius minus de deo intelligit et secundum quod intelligit et 
+            <lb ed="#C" n="3"/>cognoscit habet fidem post resurrectionem autem non <unclear>noverit</unclear> 
+            <lb ed="#C" n="4"/>diuersitas fidei quia sicut omnes aequaliter deum uidebunt: ita 
+            <lb ed="#C" n="5"/>aequaliter fidem habebunt</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e704-d1e175">
+          <ref xml:id="xAbSeN-d1e704-Rd1e177"><name xml:id="xAbSeN-d1e704-Nd1e421">Boethius</name> super topica ciceronis libro 
+          <lb ed="#C" n="6"/>1o</ref>: <quote xml:id="xAbSeN-d1e704-Qd1e426"><!--omitted: Argumentum est ratio quae rei
+          dubiae facit fidem.--> Multa enim sunt quae faciunt fidem; sed quia rationes 
+          <lb ed="#C" n="7"/>non sunt, nec argumenta esse possunt, ut uisus facit fi<lb ed="#C" break="no" n="8"/>dem 
+            his quae uidentur: sed quia ratio non est visus nec argumen<lb ed="#C" break="no" n="9"/>tum 
+            esse potest
+          </quote>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

@@ -1,82 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 7</title>
-            <author ref="#per-dsPeAb">Peter Abelard</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 7</title>
-               <date when="2021-02-26">February 26, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-02-26" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on"/>
-      </front>
-      <body>
-         <div xml:id="xAbSeN-d1e990"><!-- xAbSeN-q7 -->
-            <head xml:id="xAbSeN-d1e990-Hd1e103">Quaestio 7</head>
-            <head xml:id="xAbSeN-d1e990-Hd1e106" type="question-title"> quod in trinitate non sint dicendi plures aeterni et contra</head>
-    
-            <p xml:id="xAbSeN-d1e990-d1e109">
-               <ref xml:id="xAbSeN-d1e990-Rd1e111">athanasius in symbolo fidei</ref>: Et tamen non tres aeterni sed unus
-      aeternus.
-    </p>
-            <p xml:id="xAbSeN-d1e990-d1e117">
-               <ref xml:id="xAbSeN-d1e990-Rd1e119">item</ref>: Sed totae tres personae coaeternae sibi sunt et coaequales.
-    </p>
-            <p xml:id="xAbSeN-d1e990-d1e123">
-               <ref xml:id="xAbSeN-d1e990-Rd1e125">augustinus in libro contra v haereses</ref>: Pater pater est, filius filius
-      est; et ille nunquam non pater fuit et iste nunquam non fuit filius;
-      ambo aeterni nec coeperunt esse nec desistunt.
-    </p>
-            <p xml:id="xAbSeN-d1e990-d1e130">
-               <ref xml:id="xAbSeN-d1e990-Rd1e132">item</ref>: Ignis et splendor temporales sunt, pater autem et filius aeterni
-      sunt. Dualitas in prole, unites est in deitate.
-    </p>
-            <p xml:id="xAbSeN-d1e990-d1e136">
-               <ref xml:id="xAbSeN-d1e990-Rd1e138">idem in libro de agone christiano</ref>: Credimus ergo in patrem et filium
-      et spiritum sanctum. Haec aeterna sunt et incommutabilia, id est unus
-      Deus, unius substantiae trinitas aeterna; Deus, ex quo omnia, per quem
-      omnia, in quo omnia.
-    </p>
-    
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 7</title>
+        <author ref="#per-dsPeAb">Peter Abelard</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 7</title>
+          <date when="2021-02-26">February 26, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-02-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#C" n="28"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="xAbSeN-d1e990"><!-- xAbSeN-q7 -->
+        <head xml:id="xAbSeN-d1e990-Hd1e103">Quaestio 7</head>
+        <head xml:id="xAbSeN-d1e990-Hd1e106" type="question-title"> quod in trinitate non sint dicendi plures aeterni et contra</head>
+        <p xml:id="xAbSeN-d1e990-d1e105">
+          <lb ed="#C" n="16"/>Quod in trinitate non sint 
+          <lb ed="#C" n="17"/>dicendi pluribus aeterni 
+          <lb ed="#C" n="18"/>et contra
+        </p>
+        <p xml:id="xAbSeN-d1e990-d1e109">
+          <lb ed="#C" n="19"/><ref xml:id="xAbSeN-d1e990-Rd1e111">Athanasius in symbolo fidei</ref>: <quote xml:id="xAbSeN-d1e990-Qd1e120">et tamen non tres <add place="above-line">aeterni</add>  sunt
+          <lb ed="#C" n="20"/>sed unus aeternus</quote>.
+        </p>
+        <p xml:id="xAbSeN-d1e990-d1e117">
+          <ref xml:id="xAbSeN-d1e990-Rd1e119">item</ref>: <quote xml:id="xAbSeN-d1e990-Qd1e134">sed totae tres personae coaeternae sibi 
+          <lb ed="#C" n="21"/>sunt et coaequales</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e990-d1e123">
+          <ref xml:id="xAbSeN-d1e990-Rd1e125">augustinus in libro contra v haereses</ref>: <quote xml:id="xAbSeN-d1e990-Qd1e146">pater, 
+          <lb ed="#C" n="22"/>pater est, filius, filius est; et ille nunquam non pater fuit, et iste 
+          <lb ed="#C" n="23"/>nunquam non filius fuit: ambo aeterni nec coeperunt esse nec 
+          <lb ed="#C" n="24"/>desistunt.</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e990-d1e130">
+          <ref xml:id="xAbSeN-d1e990-Rd1e132">Item</ref>: <quote xml:id="xAbSeN-d1e990-Qd1e161">Ignis et splendor temporales sunt, pater 
+          <lb ed="#C" n="25"/>autem et filius aeterni sunt dualitas in prole unitas est 
+          <lb ed="#C" n="26"/>in deitate</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e990-d1e136">
+          <ref xml:id="xAbSeN-d1e990-Rd1e138">Idem in libro de agone christiano</ref>: <quote xml:id="xAbSeN-d1e990-Qd1e174">Credimus 
+          <lb ed="#C" n="27"/>ergo in patrem et filium et spiritum sanctum, haec aeterna 
+          <lb ed="#C" n="28"/>sunt et incommutabilia, id est unus deus, unius substanti<lb ed="#C" break="no" n="29"/>ae 
+          trinitas aeterna: deus ex quo omnia, per quem omnia in quo omnia</quote>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

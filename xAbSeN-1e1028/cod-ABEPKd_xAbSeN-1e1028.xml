@@ -1,355 +1,397 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 8</title>
-            <author ref="#per-dsPeAb">Peter Abelard</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 8</title>
-               <date when="2021-02-26">February 26, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-02-26" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on"/>
-      </front>
-      <body>
-         <div xml:id="xAbSeN-1e1028"><!-- xAbSeN-q8 -->
-            <head xml:id="xAbSeN-1e1028-Hd1e103">Quaestio 8</head>
-            <head xml:id="xAbSeN-1e1028-Hd1e106" type="question-title"> quod non sit multitudo rerum in trinitate vel quod non sit
-      trinitas aliquod totum et contra</head>
-    
-            <p xml:id="xAbSeN-1e1028-d1e109">
-               <ref xml:id="xAbSeN-1e1028-Rd1e111">ex libro sententiarum prosperi, cap. ccxxviii</ref>: In trinitate diuine
-      tanta est substantiae unites ut aequalitatem teneat, pluralitatem non
-      recipiat.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e115">
-               <ref xml:id="xAbSeN-1e1028-Rd1e117">augustinus de trinitate lib. vii, cap. vii</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e120" source="http://scta.info/resource/adt-l7-d1e905" synch="163-247">In hac quoque trinitate
-      cum dicimus personam patris, non aliud dicimus quam substantiam
-      patris, quia persona patris non aliud est quam ipse pater. Ad se
-      quippe dicitur persona, non ad filium uel ad spiritum sanctum, sicut
-      Deus et similia. Hoc enim solum nomen est quod cum dicatur de singulis
-      ad se, pluraliter non singulariter accipitur in summa. Dicimus namque,
-      pater est persona et filius persona et spiritus sanctus persona. Pater
-      tamen et filius et spiritus sanctus non sunt una persona sed tres
-      personae</quote>. <!-- can't really identify source of this next part -->Unde cum dicimus tres personas unam essentiam, neque
-      ut genus de speciebus neque ut speciem de indiuiduis praedicamus.
-      Videtur posse dici ut tres homines una natura; sed plus sunt duo
-      homines quam unus. Sed non est maior essentia pater et filius quam
-      solus pater aut solus filius.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e128">
-               <ref xml:id="xAbSeN-1e1028-Rd1e130">item</ref>: Non tantum est unus homo quantum tres homines simul, et plus
-      aliquid sunt duo homines quam unus homo. At in Deo non est ita; non
-      enim maior essentia est pater et filius simul quam solus pater aut
-      solus filius sed tres simul personae aequales sunt singulis.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e135">
-               <ref xml:id="xAbSeN-1e1028-Rd1e137">ex epistola sanctorum augustini et alypii ad maximum, medicum
-      thenitanum</ref>: Haec trinitas unius eiusdemque naturae atque substantiae
-      non minor in singulis quam in omnibus, nec maior in omnibus quam in
-      singulis; sed in solo patre uel in solo filio tanta est quanta in
-      patre simul et filio, et tanta in spiritu sancto quanta simul in patre
-      et filio.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e141">
-               <ref xml:id="xAbSeN-1e1028-Rd1e143">augustinus super iohannem, tractatu xxxvii</ref>: Tres personae sed non
-      tres dii. Est ibi aliquid ineffabile quod uerbis explicari non possit,
-      ut et numerus sit et numerus non sit sed tres. Quid tres?  deficit
-      numerus. Ita Deus nec recedit a numero nec capitur numero, quia tres
-      sunt, tamquam inest numerus. Si quaeris, quid tres? non est
-      numerus. Unde dictum est: magnus Dominus noster et magna uirtus eius,
-      etc. Ubi cogitare coeperis, incipis numerare; ubi numerabis, quid
-      numeraueris non poses respondere. Quid sunt isti tres? pater et filius
-      et spiritus sanctus; non tres did, non tres omnipotentes, non tres
-      creatores. Hoc solum numerum insinuat quod ad inuicem sunt, non quod
-      ad se sunt. Pater ad se est Deus, ad se est omnipotens, non ad se est
-      pater sed ad filium; non est quid dicamus tres, nisi patrem et filium
-      et spiritum sanctum.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e147">
-               <ref xml:id="xAbSeN-1e1028-Rd1e149">idem lib. quaestionum ad orosium</ref>: Sicut non dicimus tres Deos nec tres
-      essential, ita nec tres sapientias nec tres spiritus. Si pater
-      sit sapientia et filius sapientia, et spiritus sanctus sapientia, non
-      tamen tres sapientiae sed una, nec tres spiritus sed unus, nec tres
-      essentiae sed una, quia hoc est illi esse quod sapientem esse uel
-      spiritum esse.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e155">BOETHIUS DE TRINITATE, LOQUENS DE SIMPLICITATE DlVINAE SUBSTANTIAE:
-      Quod non est, inquit, hoc atque hoc sed tantum est hoc, illud uere est
-      id quod est, et hoc fortissimum, quod nullo nititur. Quocirca hoc est
-      uere unum in quo nullus numerus, nullum in eo aliud praeter id quod
-      est. Neque enim subiectum fieri potest; forma enim est, formae uero
-      subiectae esse non possunt.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e158">
-               <ref xml:id="xAbSeN-1e1028-Rd1e160">item</ref>: Nulla igitur in eo diuersitas, nulla ex diuersitate pluralitas,
-      nulla ex accidentibus multitudo, atque idcirco nec numerus.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e164">
-               <ref xml:id="xAbSeN-1e1028-Rd1e166">item</ref>: Ubi uero nulla est differentia, nulla est omnino pluralitas.
-      Quare nec numerus. Igitur unitas tantum.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e171">
-               <ref xml:id="xAbSeN-1e1028-Rd1e173">item</ref>: Numerus enim duplex est; unus quidem quo numeramus, alter uero
-      qui in numerabilibus rebus constat.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e177">
-               <ref xml:id="xAbSeN-1e1028-Rd1e179">item</ref>: Ergo in numero, quo numeramus, repetitio unitatum facit
-      pluralitatem. In rerum uero numero non facit pluralitatem unitatum
-      repetitio, uelut si de eodem dicamus gladius unus, mucro unus, ensis
-      unus, repetitio quaedam est eiusdem, non numeratio diuersorum, uelut
-      si dicam sol, sol, sol. Non igitur si de patre et filio et spiritu
-      sancto tertio praedicatur Deus idcirco trina praedicatio numerum
-      facit.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e183">
-               <ref xml:id="xAbSeN-1e1028-Rd1e185">item</ref>: Non uero ita dicitur pater et filius et spiritus sanctus quasi
-      multiuocum quiddam; nam mucro et ensis et ipse est et idem; pater uero
-      ac filius et spiritus sanctus idem equidem est, non uero ipse. In qua
-      re paulisper considerandum est. Requirentibus enim, ipse est pater qui
-      filius? minime inquiunt. Rursus, idem alter qui alter? negatur. Non
-      est igitur inter eos in re omni indifferentia. Quare subintrat numerus
-      quem ex subiectorum diuersitate confici superius explanatum est. /131/
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e189">
-               <ref xml:id="xAbSeN-1e1028-Rd1e191">item</ref>: De forma eius superius demonstratum est quod is sit forma et
-      unum uere nec ulla pluralitas.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e195">
-               <ref xml:id="xAbSeN-1e1028-Rd1e197">item</ref>: Quae secundum rei alicuius in eo quod ipsa est proprietatem non
-      faciunt praedicationem, nihil alterare uel mutare queunt nullanque
-      omnino uariare essentiam. Quocirca si pater ac filius ad aliquid
-      dicuntur nihilque aliud ut dictum est, differunt nisi sola relatione,
-      relatio uero non praedicatur ad id de quo praedicatur quasi ipsa sit
-      sed secundum rem de qua dicitur, non faciet alteritatem rei de qua
-      dicitur sed, si dici potest, quo quidem modo id quod uix intelligi
-      potuit interpretatum est, personarum.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e201">
-               <ref xml:id="xAbSeN-1e1028-Rd1e203">item</ref>: Quoniam uero Pater Deus et filius Deus et spiritus sanctus Deus,
-      Deus uero nullas habet differentias quibus differat a Deo, a nullo
-      eorum differt. Differentiae uero ubi absunt, abest pluralitas. Ubi
-      abest pluralitas, adest unitas.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e208">
-               <ref xml:id="xAbSeN-1e1028-Rd1e210">item</ref>: Trium igitur idonee constituta est unitas. Sed quoniam nulla
-      relatio ad se ipsum referri potest facta est quidem trinitatis
-      numerositas in eo quod est praedicatio relationis, seruata uero unitas
-      in eo quod est indifferentia uel substantiae uel operationis uel
-      omnino eius quae secundum se dicitur praedicationis. Ita igitur
-      substantia continet unitatem, relatio multiplicat trinitatem. Nam idem
-      pater qui filius non est nec idem uterque qui spiritus sanctus. Idem
-      tamen Deus est pater et filius et spiritus sanctus; idem iustus, idem
-      bonus, idem magnus, idem omnia quae secundum se poterunt
-      praedicari. Sane sciendum est non semper talem esse praedicatiuam
-      relationem ut semper ad differens praedicetur. Nam aequale aequali
-      aequale est, et simile simili simile est, et idem ei quod est idem
-      idem est; et similis est relatio in trinitate patris ad filium, et
-      utriusque ad spiritum sanctum, eius quod est idem ad id quod est
-      idem. Quod si id in cunctis aliis rebus non potest inueniri, facit hoc
-      cognata caducis rebus alteritas.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e214">ATHANASIUS DE TRINITATE, LIB. VI, CAP. II: Maledictus qui
-      secundum tres personas tres diuersas substantias in his confitetur,
-      fiat, fiat.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e219">
-               <ref xml:id="xAbSeN-1e1028-Rd1e221">item</ref>: Maledictus qui propter tria nomina personarum tres Deos aut tres
-      substantias aut tres spiritus confitetur, fiat,fiat.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e225">
-               <ref xml:id="xAbSeN-1e1028-Rd1e227">hieronymus in epistola de explanatione fidei ad damasum papam</ref>:
-      Confundentes Arium unam eandemque dicimus trinitatis substantiam.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e231">
-               <ref xml:id="xAbSeN-1e1028-Rd1e233">item</ref>: Impietatem Sabellii declinantes tres personas expressas sub
-      propriatate distinguimus.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e237">
-               <ref xml:id="xAbSeN-1e1028-Rd1e239">item</ref>: Non enim nomina tantummodo sed etiam nominum proprietates, id
-      est personas uel, ut Graeci exprimunt, ypostasis, hoc est
-      subsistentias confitemur. Itaque substantia unum sunt, personis ac
-      nominibus distinguuntur.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e244">
-               <ref xml:id="xAbSeN-1e1028-Rd1e246">idem ad eundem de novo nomine trium hypostaseos</ref>: Interrogamus quid
-      ypostasis posse arbitrentur intelligi. Tres personas subsistentes
-      alunt; respondemus nos ita credere. Non sufficit sensus, ipsum nomen
-      efflagitant, quia nescio quid ueneni in syllabis latet. Si quis autem
-      ypostasin usiam intelligens, non in tribus personis unam ypostasin
-      dicit, alienus a Christo est.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e250">
-               <ref xml:id="xAbSeN-1e1028-Rd1e252">item</ref>: Tota saecularium litterarum schola nihil aliud ypostasin nisi
-      usiam nouit. Et quis unquam, rogo, ore sacrilego tres substantias
-      praedicabit? Una est Dei sola natura. Quisquis tria esse, hoc est tres
-      ypostasis, dicit, tres naturas conatur asserere. Et si ita est cur ab
-      Ario parietibus separamur, perfidia copulati? Sufficit nobis dicere
-      unam substantiam tres personas perfectas, coaequales, coaeternas. Non
-      bonae suspicionis est, cum in eodem sensu uerba dissentiunt; aut si
-      rectum putatis tres ypostasis cum interpretationibus suis debere nos
-      dicere non negamus. Sed mihi credite, uenenum sub melle latet;
-      transfigurat se angelus Satanae in angelum lucis.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e258">
-               <ref xml:id="xAbSeN-1e1028-Rd1e260">hilarius super psalmum cxxix</ref>: Quisquis ita uolet credere ut corporalis
-      Deus sit, quia ad imaginem eius homo factus est, compositum Deum esse
-      statuet. Quidquid autem compositum est, necesse est non fuerit
-      aeternum, quia compositio habet initium, quo comparatorum maneat.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e264">
-               <ref xml:id="xAbSeN-1e1028-Rd1e266">gennadius de orthodoxa fide</ref>: Omousion ergo id est coessentialis in
-      diuinitate patri filius; omousion patri et filio spiritus
-      sanctus.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e270">
-               <ref xml:id="xAbSeN-1e1028-Rd1e272">isidorus etymologiarum lib. vi, cap. iv</ref>: Trinitas appellata est quod
-      fiat totum unum ex quibusdam tribus quasi trinitas.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e276">
-               <ref xml:id="xAbSeN-1e1028-Rd1e278">item</ref>: In hac trinitate alia appellatiua nomina, alia propria sunt.
-      Propria sunt essentialis ut Deus Dominus omnipotens, immutabilis,
-      immortalis; et inde propria, quia ipsam substantiam significant, qua
-      unum sunt. Appellatiua uero pater et filius et spiritus sanctus et
-      procedens, eadem et relatiua.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e283">
-               <ref xml:id="xAbSeN-1e1028-Rd1e285">augustinus in lib. i de doctrina christiana</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e288" source="http://scta.info/resource/addc-l1-d1e132" synch="3-32">Res aliae sunt quibus
-      fruendum est, aliae quibus utendum. Illae quibus fruendum est, nos
-      beatos faciunt. Istis quibus utendum est, tendentes ad beatitudinem
-      adiuuamur</quote>. <quote xml:id="xAbSeN-1e1028-Qd1e291" source="http://scta.info/resource/addc-l1-d1e132" synch="3-36">Frui est amore inhaerere alicui rei propter se ipsam; uti
-      autem, quod in usum uenerit ad id quod amas obtinendum (referre) si
-      tamen amandum est. Nam usus illicitus abusus potius uel abusio
-      nominanda est</quote>. <quote xml:id="xAbSeN-1e1028-Qd1e294" source="http://scta.info/resource/addc-l1-d1e143" synch="121-145">Si redire in patriam uolumus, ubi beati esse possimus,
-      utendum est mundo, non fruendum, ut inuisibilia Dei per ea quae facta
-      sunt intellecta conspiciantur</quote>. <quote xml:id="xAbSeN-1e1028-Qd1e297" source="http://scta.info/resource/addc-l1-d1e155" synch="3-35">Res igitur quibus fruendum est, pater
-      et filius et spiritus sanctus, eademque trinitas summa una quaedam res
-      est, communisque omnibus fruentibus ea, si tamen res et non rerum
-      omnium causa sit, si tamen et causa</quote>.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e301">IDEM LIB. VII DE TRINITATE, CAP. IV: <quote xml:id="xAbSeN-1e1028-Qd1e305" source="http://scta.info/resource/adt-l7-d1e883" synch="53-97">Dum intelligatur saltem in
-      aenigmate quod dicitur, placuit ita dici ut diceretur aliquid cum
-      quaereretur quid tria sint, quae tria esse fides uera pronuntiat, cum
-      et patrem non dicit esse filium, et spiritum sanctum quod est donum
-      Dei nec patrem dicit esse nec filium</quote>.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e309">
-               <ref xml:id="xAbSeN-1e1028-Rd1e311">item</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e314" source="http://scta.info/resource/adt-l7-d1e899" synch="23-80">Cum conaretur humana inopia loquendo proferre quod tenet de
-      domino Deo, timuit dicere tres essentias ne intelligeretur in illa
-      summa aequalitate ulla diuersitas. Rursus non esse tria quaedam non
-      poterat dicere, quod Sabellius, quia in haeresim lapsus est, dixit</quote>.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e318">
-               <ref xml:id="xAbSeN-1e1028-Rd1e320">item</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e323" source="http://scta.info/resource/adt-l7-d1e883" synch="4-52">Loquendi cause de ineffabilibus, ut fari aliquo possemus modo
-      quod effari nullo modo possumus, dictum est a nostris Graecis una
-      essentia tres substantiae, a Latinis una essentia uel substantia tres
-      personae, quia, sicut iam diximus, non aliter in sermone latino
-      essentia quam substantia soles intelligi</quote>.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e327">
-               <ref xml:id="xAbSeN-1e1028-Rd1e329">item</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e332" source="http://scta.info/resource/adt-l7-d1e896" synch="329-362">Quod de personis secundum nostram, hoc est de substantiis
-      secundum Graecorum consuetudinem. Sic enim dicunt illi tres
-      substantias unam essentiam, quemadmodum nos dicimus tres personas unam
-      essentiam uel substantiam</quote>.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e336">
-               <ref xml:id="xAbSeN-1e1028-Rd1e338">idem lib. v, cap. viii</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e341" source="http://scta.info/resource/adt-l5-d1e718" synch="3-52">Quapropter illud praecipue teneamus, quidquid
-      a se dicitur diuine sublimitas substantialiter dici; quod autem ad
-      aliquid non substantialiter sed relatiue, tantamque uim esse eiusdem
-      substantiae in patre et filio et spiritu sancto ut quidquid de
-      singulis ad se ipsos dicitur non pluraliter in summa sed singulariter
-      accipiatur</quote>.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e346">
-               <ref xml:id="xAbSeN-1e1028-Rd1e348">item</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e351" source="http://scta.info/resource/adt-l5-d1e725" synch="1-29">Quidquid ergo ad se ipsum dicitur Deus et de singulis
-      personaliter dicitur, et simul de ipsa trinitate non pluraliter sed
-      singulariter dicitur</quote>.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e355">
-               <ref xml:id="xAbSeN-1e1028-Rd1e357">item lib. vii, cap. vii</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e360" source="http://scta.info/resource/adt-l7-d1e905" synch="199-209">Pater ad se dicitur persona, non ad filium
-      uel ad spiritum sanctum</quote>.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e364">
-               <ref xml:id="xAbSeN-1e1028-Rd1e366">idem de concordia evangelistarum</ref>: Haec sententia, quod filius
-      doctrina patris est, dissoluit Sabellianam haeresim, qui ausus est
-      dicere patrem et filium duo nomina esse sed unam rem. Alicuius enim
-      est doctrina filii si sua non est.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e372">
-               <ref xml:id="xAbSeN-1e1028-Rd1e374">idem in expositione symboli ad papam laurentium</ref>: Quomodo ignis
-      caelestis generat ex se ipso splendorem lucis et producit uaporem, et
-      cum sint tria in rebus, unum sunt in substantia, ita trinitas est una
-      maiestas.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e378">
-               <ref xml:id="xAbSeN-1e1028-Rd1e380">hieronymus in psalmo lxxxvi</ref>: Fundamenta eius in montibus sanctis.
-      Eius siue Dei siue certe ecclesiae. Quae sunt autem fundamenta nisi
-      pater et filius et spiritus sanctus? Loquitur Paulus: Quasi sapiens
-      architectus fundamentum posui, hoc est fidem trinitatis. Et alio loco:
-      Exspectabant enim ciuitatem habentem fundamenta, cuius artifex et
-      conditor Deus. Quos possumus dicere montes? Apostolos. In illis erant
-      fundamenta, ubi primum posita est fides ecclesiae.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e384">
-               <ref xml:id="xAbSeN-1e1028-Rd1e386">idem de tribus virtutibus</ref>: Dauid in psalmo tres spiritus postulat
-      dicens: Spiritu principali confirma me; spiritum rectum innoua in
-      uisceribus meis; spiritum sanctum tuum ne auferas a me. Qui sunt isti
-      tres spiritus?  Principalis spiritus pater est. Rectus spiritus
-      Christus est. Spiritus sanctus spiritus sanctus est.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e391">
-               <ref xml:id="xAbSeN-1e1028-Rd1e393">idem in psalmo l</ref>: Spiritum rectum ad uidendum et discernendum sicut
-      ante rectus fuit in me.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e397">
-               <ref xml:id="xAbSeN-1e1028-Rd1e399">item</ref>: Tu qui legis hic trinitatem summam intellige; spiritum sanctum,
-      hoc est spiritum prophetiae; spiritu principali, patre; spiritum
-      rectum, filium; spiritum sanctum, ipsum spiritum sanctum.
-    </p>
-            <p xml:id="xAbSeN-1e1028-d1e403">
-               <ref xml:id="xAbSeN-1e1028-Rd1e405">origenes super epist. pauli ad rom. lib. viii</ref>: Quam beati pedes
-      euangelizantium bona. Quae sint bona, quae bonis addidit, requiramus.
-      Unum et uerum bonum, quia in patre et filio et spiritu sancto est,
-      bona nominauit.  /136/
-    </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 8</title>
+        <author ref="#per-dsPeAb">Peter Abelard</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 8</title>
+          <date when="2021-02-26">February 26, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-02-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#C" n="29"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="xAbSeN-1e1028"><!-- xAbSeN-q8 -->
+        <head xml:id="xAbSeN-1e1028-Hd1e103">Quaestio 8</head>
+        <head xml:id="xAbSeN-1e1028-Hd1e106" type="question-title"> quod non sit multitudo rerum in trinitate vel quod non sit
+          trinitas aliquod totum et contra</head>
+        <p xml:id="xAbSeN-1e1028-d1e105">
+          <lb ed="#C" n="1"/>Quod non sit multitudo eorum in trini<lb ed="#C" break="no" n="2"/>tatem, 
+          vel quod non sit trinitas aliquod totum et contra
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e109">
+          <ref xml:id="xAbSeN-1e1028-Rd1e111">
+            <lb ed="#C" n="3"/>Ex libro sententiarum prosperi, cap. ccxxviii</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e119">In trinitate diuina
+            <lb ed="#C" n="4"/>tanta est substantiae unitas ut aequalitatem teneat pluralitatem 
+            <lb ed="#C" n="5"/>non recipiat</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e115">
+          <ref xml:id="xAbSeN-1e1028-Rd1e117"><!--omitted: augustinus de trinitate lib. vii, cap. vii--></ref>: <quote xml:id="xAbSeN-1e1028-Qd1e120" source="http://scta.info/resource/adt-l7-d1e905@163-247">In hac quoque trinitate cum dicimus personam patris non aliud 
+          <lb ed="#C" n="6"/>dicimus quam substantiam patris, quia persona patris, non aliud est quam 
+          <lb ed="#C" n="7"/>ipse pater: Ad se quippe dicitur persona, non ad filium vel ad spiritum 
+          <lb ed="#C" n="8"/>sanctum sicut deus et similia: hoc enim solum nomen est quod cum dicatur 
+          <lb ed="#C" n="9"/>de singulis ad se, pluraliter non singulariter accipitur in summa. 
+          <lb ed="#C" n="10"/>dicimus namque pater est persona et filius persona, et spiritus sanctus persona 
+          <lb ed="#C" n="11"/>pater tamen et filius, et spiritus sanctus non sunt una persona sed <!--omitted: tres personae--></quote> 
+          <lb ed="#C" n="12"/><!-- can't really identify source of this next part -->cum dicimus tres personas unam essentiam neque ut genus de speciebus 
+          <lb ed="#C" n="13"/>neque ut speciem de indiuiduis praedicamus: videtur posse dici ut tres 
+          <lb ed="#C" n="14"/>homines una natura, sed plus sunt duo homines quam unus sed non 
+          <lb ed="#C" n="15"/>est maior essentia pater et filius quam solus pater aut solus filius
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e128">
+          <lb ed="#C" n="16"/><ref xml:id="xAbSeN-1e1028-Rd1e130">Item</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e167">non tantum est unus homo quantum tres homines simul et plus
+          <lb ed="#C" n="17"/>aliquid sunt duo homines quam unus homo At in deo non est ita: non 
+          <lb ed="#C" n="18"/>enim maior essentia est pater et filius simul quam solus pater 
+          <lb ed="#C" n="19"/>aut solus filius, sed tres simul personae aequales sunt singulis.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e135">
+          <lb ed="#C" n="20"/><ref xml:id="xAbSeN-1e1028-Rd1e137">Ex epistola sanctorum augustini et alypii ad maximum medicum
+          <lb ed="#C" n="21"/>thenitanum</ref>: haec trinitas unius eiusdemque naturae atque substantiae
+          <lb ed="#C" n="22"/>non minor in singulis quam in omnibus nec maior in omnibus quam 
+          <lb ed="#C" n="23"/>in singulis; sed in solo patre, vel in solo filio tanta est 
+          <lb ed="#C" n="24"/>quanta in patre simul et filio, et tanta in spiritu sancto 
+          <lb ed="#C" n="25"/>quanta simul in patre et filio
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e141">
+          <ref xml:id="xAbSeN-1e1028-Rd1e143">Augustinus super iohannem tracta<lb ed="#C" break="no" n="26"/>tu 
+            xxxvii</ref> tres personae sed non tres dii est ibi aliquid ineffa<lb ed="#C" break="no" n="27"/>bile 
+          quod verbis explicari non possit ut et numerus sit 
+          <lb ed="#C" n="28"/>et numerus non sit sed tres: quid tres?  deficit numerus 
+          <lb ed="#C" n="29"/>ita deus nec recedit a numero, nec capitur numero quia 
+          <pb ed="#C" n="30"/>
+          <lb ed="#C" n="1"/>tres sunt tamquam inest numerus. Sed quaeris, quid tres: non 
+          <lb ed="#C" n="2"/>est numerus unde dictum est: magnus dominus noster et mag<lb ed="#C" break="no" n="3"/>na 
+          virtus eius etc. <!--not in other text --> ubi 
+          <lb ed="#C" n="4"/>cogitare coeperis, incipis numerare; ubi numerabis, 
+          <lb ed="#C" n="5"/>quid numeraueris non <unclear>potes</unclear> respondere: quid sunt isti 
+          <lb ed="#C" n="6"/>tres? pater et filius et spiritus sanctus; non tres dii non 
+          <lb ed="#C" n="7"/>tres omnipotentes, non tres creatores: hoc solum numerum 
+          <lb ed="#C" n="8"/>insinuat quod ad inuicem sunt, non quod ad se sunt: pater 
+          <lb ed="#C" n="9"/>ad se est deus ad se est omnipotens non ad se est pater sed 
+          <lb ed="#C" n="10"/>ad filium: non est quid dicamus tres nisi patrem et filium 
+          <lb ed="#C" n="11"/>et spiritum sanctum.
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e147">
+          [omitted]
+          <!--seems absent in ms: <ref xml:id="xAbSeN-1e1028-Rd1e149">idem lib. quaestionum ad orosium</ref>: Sicut non dicimus tres Deos nec tres
+          essential, ita nec tres sapientias nec tres spiritus. Si pater
+          sit sapientia et filius sapientia, et spiritus sanctus sapientia, non
+          tamen tres sapientiae sed una, nec tres spiritus sed unus, nec tres
+          essentiae sed una, quia hoc est illi esse quod sapientem esse uel
+          spiritum esse.-->
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e155">
+          <ref xml:id="xAbSeN-1e1028-Rd1e246"><name xml:id="xAbSeN-1e1028-Nd1e247">Boetius de trinitate loquens de simp<lb ed="#C" break="no" n="12"/>licitate 
+          divinae substantiae</name></ref>: quod non est inquit hoc atque hoc 
+          <lb ed="#C" n="13"/>sed tantum hoc est: illud vere est id quod est: et hoc fortissimum 
+          <lb ed="#C" n="14"/>quod nullo nititur: quocirca hoc est uere unum in quo nullus 
+          <lb ed="#C" n="15"/>numerus: nullum in eo aliud praeter id quod est neque enim 
+          <lb ed="#C" n="16"/>fieri subiectum potest forma enim est formae vero subiec<lb ed="#C" break="no" n="17"/>tae 
+          esse non possunt
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e158">
+          <ref xml:id="xAbSeN-1e1028-Rd1e160">Item</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e269">et  nulla igitur in eo diuersitas 
+          <lb ed="#C" n="18"/>nulla ex diversitate pluralitas, nulla ex accidentibus multi<lb ed="#C" break="no" n="19"/>tudo 
+          atque idcirco nec numerus</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e164">
+          <ref xml:id="xAbSeN-1e1028-Rd1e166">Item</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e283">Ubi uero nulla est 
+          <lb ed="#C" n="20"/>differentia, nulla est omnino pluralitas quare nec numerus 
+          <lb ed="#C" n="21"/>igitur unitas tantum.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e171">
+          <ref xml:id="xAbSeN-1e1028-Rd1e173">Item</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e296">numerus enim duplex est 
+          <lb ed="#C" n="22"/>unus quidem quo numeramus alter uero qui in numerabili<lb ed="#C" break="no" n="23"/>bus 
+          rebus constat.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e177">
+          <ref xml:id="xAbSeN-1e1028-Rd1e179">Item</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e309">ergo in numero quo numeramus repe<lb ed="#C" break="no" n="24"/>titio 
+          unitatum facit pluralitatem: In rerum uero numero non 
+          <lb ed="#C" n="25"/>facit pluralitatem unitatum repetitio: <sic>velud</sic> si de eodem 
+          <lb ed="#C" n="26"/>dicamus gladius unus, mucro unus, ensis unus, repetitio quaedam 
+          <lb ed="#C" n="27"/>est eiusdem non numeratio diuersorum velut si dicam sol, sol, sol. 
+          <lb ed="#C" n="28"/>non igitur si de patre et filio et spiritu sancto tertio praedicatur deus: 
+          <pb ed="#C" n="31"/>
+          <lb ed="#C" n="1"/>idcirco trina praedicatio numerum facit.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e183">
+          <ref xml:id="xAbSeN-1e1028-Rd1e185">Item</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e335">non uero ita dicitur pater 
+          <lb ed="#C" n="2"/>et filius et spiritus sanctus quasi multiuocum quoddam; nam mucro 
+          <lb ed="#C" n="3"/>et ensis et ipse est et idem: pater vero ac filius, et spiritus sanctus 
+          <lb ed="#C" n="4"/>idem equidem est: non uero ipse. In qua re paulisper considerandum est 
+          <lb ed="#C" n="5"/>Requirentibus enim ipse est pater, qui filius minime inquiunt; rursus 
+          <lb ed="#C" n="6"/>idem alter qui alter? negatur non est igitur inter eos in re omni 
+          <lb ed="#C" n="7"/>indifferentia quare subintrat numerus quem ex subiectorum 
+          <lb ed="#C" n="8"/>diversitate confici superius explanatum est.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e189">
+          <ref xml:id="xAbSeN-1e1028-Rd1e191">Item</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e359">de forma eius 
+          <lb ed="#C" n="9"/>superius demonstratum est: quod is sit forma et unum uere nec ulla 
+          <lb ed="#C" n="10"/>pluralitas</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e195">
+          <ref xml:id="xAbSeN-1e1028-Rd1e197">Item</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e372">quae secundum rei alicuius in eo quod 
+          <lb ed="#C" n="11"/>ipsa est proprietatem non faciunt praedicationem nihil altera<lb ed="#C" break="no" n="12"/>re 
+          uel mutare queunt nullamque omnino uariare essentiam quo<lb ed="#C" break="no" n="13"/>circa 
+          si pater ac filius ad aliquid dicuntur nihilque aliud 
+          <lb ed="#C" n="14"/>ut <del rend="strikethrough">quod</del> dictum est differt nisi sola <seg type="correction">r<add place="above-line">el</add>atione</seg> relatio uero non 
+          <lb ed="#C" n="15"/>praedicatur ad id de quo praedicatur quasi ipsa sit sed secundum 
+          <lb ed="#C" n="16"/>rem de qua dicitur non faciet alteritatem rei de qua dicitur? 
+          <lb ed="#C" n="17"/>sed si dici potest quoquo quidem modo id quod vix intelligi po<lb ed="#C" break="no" n="18"/>tuit 
+          interpretatum est personarum</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e201">
+          <ref xml:id="xAbSeN-1e1028-Rd1e203">Item</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e408"><!--omitted: Quoniam vero--> pater deus et filius 
+          <lb ed="#C" n="19"/>deus et spiritus sanctus deus: Deus uero nullas habet 
+          <lb ed="#C" n="20"/>differentias quibus differat a deo a nullo eorum differt 
+          <lb ed="#C" n="21"/>Differentiae vero ubi absunt, abest pluralitas adest ubi unitas</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e208">
+          <lb ed="#C" n="22"/><ref xml:id="xAbSeN-1e1028-Rd1e210"><!--omitted: item--></ref>: <quote xml:id="xAbSeN-1e1028-Qd1e425"><!--omitted: Trium igitur idonee constituta est unitas.--> Sed quoniam nulla relatio ad se ipsum referri potest facta est 
+          <lb ed="#C" n="23"/>trinitatis numerositas, in eo quod est praedicatio relationis 
+          <lb ed="#C" n="24"/>seruata uero unitas in eo quod est indifferentia uel substantiae 
+          <lb ed="#C" n="25"/>uel operationis uel omnino eius quae secundum se dicitur 
+          <lb ed="#C" n="26"/>praedicationis. Ita igitur substantia continet unitatem relatio 
+          <lb ed="#C" n="27"/>multiplicat trinitatem nam idem pater qui filius non est 
+          <lb ed="#C" n="28"/>nec idem uterque qui spiritus sanctus Idem tamen deus est pater 
+          <pb ed="#C" n="32"/>
+          <lb ed="#C" n="1"/>et filius et spiritus sanctus idem iustus, idem bonus, 
+          <lb ed="#C" n="2"/>idem magnus, idem omnia quae secundum se poterunt praedi<lb ed="#C" break="no" n="3"/>cari 
+          sane sciendum est non semper talem esse praedicatiuam 
+          <lb ed="#C" n="4"/>relationem ut semper ad differens praedicetur. Nam aequale 
+          <lb ed="#C" n="5"/>aequali aequale est, et simile simili simile est, et idem 
+          <lb ed="#C" n="6"/>ei quod est idem idem est; et similis est relatio in 
+          <lb ed="#C" n="7"/>trinitate patris ad filium, et utriusque ad spiritum sanctum, 
+          <lb ed="#C" n="8"/>eius quod est idem ad id quod est idem quod si id in cunctis 
+          <lb ed="#C" n="9"/>aliis rebus non potest inueniri hoc facit cognata cadu<lb ed="#C" break="no" n="10"/>cis 
+          rebus alteritas.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e214"><ref xml:id="xAbSeN-1e1028-Rd1e467">Athansius de trinitate libro vi cap ii</ref>: 
+          <lb ed="#C" n="11"/><quote xml:id="xAbSeN-1e1028-Qd1e470">maledictus qui secundum tres personas tres diuersas sub<lb ed="#C" break="no" n="12"/>stantias 
+          in his confitetur fiat fiat.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e219">
+          <ref xml:id="xAbSeN-1e1028-Rd1e221">Item</ref>: Maledictus 
+          <lb ed="#C" n="13"/>qui propter tria nomina personarum tres deos aut tres 
+          <lb ed="#C" n="14"/>substantias aut tres spiritus confitetur, fiat, fiat.
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e225">
+          <ref xml:id="xAbSeN-1e1028-Rd1e227"><unclear>hieronymus</unclear> 
+          <lb ed="#C" n="15"/>in epistola de explanatione fidei ad damasum papam</ref>: 
+          <lb ed="#C" n="16"/><quote xml:id="xAbSeN-1e1028-Qd1e495">confundentes arrium unam eandemque dicimus trinitatis 
+          <lb ed="#C" n="17"/>substantiam</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e231">
+          <ref xml:id="xAbSeN-1e1028-Rd1e233">Item</ref>: Impietatem <name xml:id="xAbSeN-1e1028-Nd1e506">sabellii</name> <quote xml:id="xAbSeN-1e1028-Qd1e508">declinantes tres 
+          <lb ed="#C" n="18"/>personas expressas sub propriatate distinguimus</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e237">
+          <ref xml:id="xAbSeN-1e1028-Rd1e239">item</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e520">Non 
+          <lb ed="#C" n="19"/>enim nomina tantummodo, sed etiam nominum proprietates id est personas 
+          <lb ed="#C" n="20"/>velut graeci exprimunt ypostasis <unclear>possit</unclear> <del rend="strikethrough">arbitruitur intelligi</del> 
+          <lb ed="#C" n="21"/>hoc est subsistentias confitemur. Itaque substantia unum sunt 
+          <lb ed="#C" n="22"/>personis ac nominibus distinguuntur</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e244">
+          <ref xml:id="xAbSeN-1e1028-Rd1e24X">Idem ad eundem de novo nomine 
+          <lb ed="#C" n="23"/>trium hypostaseos</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e545">Interrogamus quid ypostasis posse arbi<lb ed="#C" break="no" n="24"/>trentur 
+          <lb ed="#C" n="25"/>intelligi tres personas subsistentes aiunt: respon<lb ed="#C" break="no" n="26"/>demus 
+          nos ita credere non sufficit sensus ipsum nomen 
+          <lb ed="#C" n="27"/>efflagitant quia nescio quid veneni in sillabis latet:  si 
+          <lb ed="#C" n="28"/>quis autem ypostasim usiam intelligens non in tribus 
+          <lb ed="#C" n="29"/>personis unam ypostasin <del rend="strikethrough">nisi usiam novit</del> dicit alienus 
+          <lb ed="#C" n="30"/>a christo est</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e250">
+          <ref xml:id="xAbSeN-1e1028-Rd1e252">item</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e572">tota saecularium litterarum schola nihil aliud 
+          <lb ed="#C" n="31"/>ypostasyn nisi usiam novit: et quis unquam rogo ore sacri<lb ed="#C" break="no" n="32"/>lego 
+          tres substantias praedicabit: una est dei sola natura 
+          <pb ed="#C" n="33"/>
+          <lb ed="#C" n="1"/>quisquis tria esse hoc est tres ypostasis, dicit, tres naturas 
+          <lb ed="#C" n="2"/>conatur asserere. Et si ita est cur ab ario parietibus separamur 
+          <lb ed="#C" n="3"/>perfidia copulati: sufficit nobis dicere, unam substantiam tres 
+          <lb ed="#C" n="4"/>personas perfectas, coaequales, coaeternas: non bonae suspicionis 
+          <lb ed="#C" n="5"/>est cum in eodem sensu verba dissentiunt: aut si rectum 
+          <lb ed="#C" n="6"/>putatis tres ypostasis cum interpretationibus suis debere nos 
+          <lb ed="#C" n="7"/>dicere non negamus: sed mihi credite venenum sub melle latet
+          <lb ed="#C" n="8"/>transfigurat se angelus sathanae in angelum lucis</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e258">
+          <ref xml:id="xAbSeN-1e1028-Rd1e260">hilarius 
+          <lb ed="#C" n="9"/>super psalmum cxxix</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e606">quisquis ita uolet credere ut corporalis
+          <lb ed="#C" n="10"/>deus sit quia ad imaginem eius factus est homo compositum 
+          <lb ed="#C" n="11"/>deum statuet esse. quicquid autem compositum est, necesse est non 
+          <lb ed="#C" n="12"/>fuerit aeternum quia compositio habet initium quo comparatorum 
+          <lb ed="#C" n="13"/>maneat</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e264">
+          <ref xml:id="xAbSeN-1e1028-Rd1e266"><name xml:id="xAbSeN-1e1028-Nd1e621">Gennadius</name> de orthodoxa fide</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e624">Omousion ergo 
+          <lb ed="#C" n="14"/>id est coessentialis in diuinitate patri filius; omousion patri et 
+          <lb ed="#C" n="15"/>filio spiritus sanctus.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e270">
+          <ref xml:id="xAbSeN-1e1028-Rd1e272"><name xml:id="xAbSeN-1e1028-Nd1e635">ysidorus</name> ethymologiarum lib. vi, cap. iv</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e638">tri<lb ed="#C" break="no" n="16"/>nitas 
+          appellata est quod fiat totum unum ex quibusdam tribus 
+          <lb ed="#C" n="17"/>quasi trinitas</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e276">
+          <ref xml:id="xAbSeN-1e1028-Rd1e278">Item</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e652">in <del rend="strikethrough">ho</del> hac trinitate alia appellativa 
+          <lb ed="#C" n="18"/>nomina alia propria sunt propria sunt essentialis, ut deus 
+          <lb ed="#C" n="19"/>et dominus omnipotens immutabilis immortalis: Et inde propria quia 
+          <lb ed="#C" n="20"/>ipsam substantiam significant qua unum sunt: appellatiua 
+          <lb ed="#C" n="21"/>uero, pater, et filius et spiritus sanctus, et procedens: Eadem 
+          <lb ed="#C" n="22"/>et relatiua.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e283">
+          <ref xml:id="xAbSeN-1e1028-Rd1e285"><name xml:id="xAbSeN-1e1028-Nd1e673">Augustinus</name> in libro i de doctrina christiana</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e288" source="http://scta.info/resource/addc-l1-d1e132@3-32">res aliae 
+            <lb ed="#C" n="23"/>sunt quibus fruendum est aliae quibus utendum Illae quibus 
+            <lb ed="#C" n="24"/>fruendum est nos beatos faciunt istis quibus utendum est 
+            <lb ed="#C" n="25"/>tendentes ad beatitudinem adiuuamur</quote>. <quote xml:id="xAbSeN-1e1028-Qd1e291" source="http://scta.info/resource/addc-l1-d1e132@3-36">frui est inhaerere 
+            <lb ed="#C" n="26"/>amore alicui rei propter se ipsam; uti autem quod in usum 
+            <lb ed="#C" n="27"/>venerit ad id quod amas obtinendum si tamen amandum est 
+            <lb ed="#C" n="28"/>nam usus illicitus abusus potius vel abusio nominanda est</quote>. 
+            <pb ed="#C" n="34"/>
+            <lb ed="#C" n="1"/><quote xml:id="xAbSeN-1e1028-Qd1e294" source="http://scta.info/resource/addc-l1-d1e14@121-145">Si redire in patriam volumus ubi beati esse possimus, utendum 
+            <lb ed="#C" n="2"/>est mundo, non fruendum, ut inuisibilia dei per ea <del rend="strikethrough">exvera</del> quae facta sunt 
+            <lb ed="#C" n="3"/>intellecta conspiciantur</quote>: <quote xml:id="xAbSeN-1e1028-Qd1e297" source="http://scta.info/resource/addc-l1-d1e155@3-35">Res igitur quibus fruendum est pater
+            <lb ed="#C" n="4"/>et filius et spiritus sanctus eademque trinitas summa una 
+            <lb ed="#C" n="5"/>quaedam res est communisque omnibus fruentibus ea si tamen res et 
+            <lb ed="#C" n="6"/>non rerum omnium causa sit: si tamen et causa</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e301">
+          <ref xml:id="xAbSeN-1e1028-Rd1e720">Idem libro vii 
+            <lb ed="#C" n="7"/>de trinitate capitulo iiii</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e305" source="http://scta.info/resource/adt-l7-d1e883@53-97">dum intelligatur saltem in aenigma<lb ed="#C" break="no" n="8"/>te 
+            quod dicitur placuit ita dici ut diceretur aliquid cum
+            <lb ed="#C" n="9"/>quaereretur quid tria sint: quae tria esse fides vera pronuntiat 
+            <lb ed="#C" n="10"/>cum et patrem non dicit esse filium: et spiritum sanctum quod est 
+            <lb ed="#C" n="11"/>donum dei nec patrem dicit esse nec filium</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e309">
+          <ref xml:id="xAbSeN-1e1028-Rd1e311">Item</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e314" source="http://scta.info/resource/adt-l7-d1e899@23-80">cum conaretur 
+          <lb ed="#C" n="12"/>humana inopia loquendo proferre quod tenet de domino deo, 
+          <lb ed="#C" n="13"/>timuit dicere tres essentias ne intelligeretur in illa summa 
+          <lb ed="#C" n="14"/>aequalitate ulla diuersitas. Rursus non esse tria quaedam non po<lb ed="#C" break="no" n="15"/>terat 
+          dicere quod <name xml:id="xAbSeN-1e1028-Nd1e752">sabellius</name> quia in haeresim lapsus est dixit</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e318">
+          <lb ed="#C" n="16"/><ref xml:id="xAbSeN-1e1028-Rd1e320">Item</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e323" source="http://scta.info/resource/adt-l7-d1e883@4-52">loquendi causa de ineffabilibus ut fari aliquo possemus 
+          <lb ed="#C" n="17"/>modo quod effari nullo modo possumus, dictum est a nostris graecis 
+          <lb ed="#C" n="18"/>una essentia tres substantiae a latinis una essentia 
+          <lb ed="#C" n="19"/>vel substantia tres personae quia sicut iam diximus non aliter in sermone 
+          <lb ed="#C" n="20"/>latino essentia quam substantia soles intelligi</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e327">
+          <ref xml:id="xAbSeN-1e1028-Rd1e329">Item</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e332" source="http://scta.info/resource/adt-l7-d1e896@329-362">quod de personis 
+            <lb ed="#C" n="21"/>secundum nostram hoc est de substantiis, secundum graecorum consu<lb ed="#C" break="no" n="22"/>etudinem: 
+            sic illi dicunt tres substantias unam essentiam: quemad<lb ed="#C" break="no" n="23"/>modum 
+            nos dicimus tres personas unam essentiam uel substantiam</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e336">
+          <ref xml:id="xAbSeN-1e1028-Rd1e338">Idem 
+          <lb ed="#C" n="24"/>libro v capitulo viii</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e341" source="http://scta.info/resource/adt-l5-d1e718@3-52">quapropter illud praecipue teneamus quidquid
+          <lb ed="#C" n="25"/>a se dicitur diuina sublimitas substantialiter dici: quod autem 
+          <lb ed="#C" n="26"/>ad aliquid non substantialiter sed relative tantamque vim esse 
+          <lb ed="#C" n="27"/>eiusdem substantiae in patre, et filio, et spiritu sancto: ut quidquid 
+          <lb ed="#C" n="28"/>de singulis ad se ipsos dicitur non pluraliter in summa sed 
+          <pb ed="#C" n="35"/>
+          <lb ed="#C" n="1"/>singulariter accipiatur</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e346">
+          <ref xml:id="xAbSeN-1e1028-Rd1e348">Item</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e351" source="http://scta.info/resource/adt-l5-d1e725@1-29">quidquid ergo ad se ipsum dicitur 
+          <lb ed="#C" n="2"/>deus: et de singulis personaliter dicitur et simul de ipsa 
+            <lb ed="#C" n="3"/>trinitate, non pluraliter, sed singulariter dicitur</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e355">
+          <ref xml:id="xAbSeN-1e1028-Rd1e357">Item libro 
+          <lb ed="#C" n="4"/>vii capitulo vii</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e360" source="http://scta.info/resource/adt-l7-d1e905@199-209">pater ad se dicitur persona: non ad filium vel 
+          <lb ed="#C" n="5"/>ad spiritum sanctum</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e364">
+          <ref xml:id="xAbSeN-1e1028-Rd1e366">Idem de concordia evangelistarum</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e845">haec sententia 
+          <lb ed="#C" n="6"/>quod filius doctrina patris est: dissoluit sabellianam haeresim, qui ausus 
+          <lb ed="#C" n="7"/>est dicere patrem et filium duo nomina esse, sed unam rem. alicuius enim 
+          <lb ed="#C" n="8"/>est doctrina filii si sua non est.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e372">
+          <ref xml:id="xAbSeN-1e1028-Rd1e374">Idem in expositione ad papam lau<lb ed="#C" break="no" n="9"/>rentium</ref>: 
+          <quote xml:id="xAbSeN-1e1028-Qd1e862">quomodo ignis caelestis generat ex se ipso splendorem lucis 
+          <lb ed="#C" n="10"/>et producit vaporem et cum sint tria in <del rend="strikethrough">verbis</del> rebus unum sunt 
+          <lb ed="#C" n="11"/>in substantia, ita trinitas est una maiestas</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e378">
+          <ref xml:id="xAbSeN-1e1028-Rd1e380">Iterum in psalmo lxxxvi</ref>: 
+          <lb ed="#C" n="12"/><quote xml:id="xAbSeN-1e1028-Qd1e879">fundamenta eius in montibus sanctis eius siue dei siue certe ecclesiae 
+          <lb ed="#C" n="13"/>quae sunt autem fundamenta nisi pater et filius et spiritus sanctus 
+          <lb ed="#C" n="14"/>loquitur paulus quasi sapiens architectus fundamentum posui 
+          <lb ed="#C" n="15"/>hoc est fidem trinitatis. Et alio loco: Exspectabant enim civi<lb ed="#C" break="no" n="16"/>tatem 
+          habentem fundamenta cuius artifex et conditor deus 
+          quos possumus dicere montes apostolos in illis erant fundamenta ubi 
+          <lb ed="#C" n="17"/>primum posita est fides ecclesiae</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e384">
+          <ref xml:id="xAbSeN-1e1028-Rd1e386">Idem de tribus virtutibus</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e899">David in 
+          <lb ed="#C" n="18"/>psalmo tres spiritus postulat dicens: Spiritu principali confirma me 
+          <lb ed="#C" n="19"/>Spiritum rectum in noua in visceribus meis; spiritum sanctum tuum ne aufe<lb ed="#C" break="no" n="20"/>ras 
+          a me: qui sunt isti tres spiritus? principalis spiritus pater est 
+          <lb ed="#C" n="21"/>Rectus spiritus christus est spiritus sanctus spiritus est sanctus</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e391">
+          <ref xml:id="xAbSeN-1e1028-Rd1e393">Idem in psalmo 
+          <lb ed="#C" n="22"/>l</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e918">Spiritum rectum ad videndum, et discernendum sicut ante rectus fuit 
+          <lb ed="#C" n="23"/>in me</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e397">
+          <ref xml:id="xAbSeN-1e1028-Rd1e399">Item</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e929">tu qui legis hic trinitatem summam intellige: spiritum sanctum
+          <lb ed="#C" n="24"/>hoc est spiritum prophetiae spiritu principali patre spiritum rectum filium 
+          <lb ed="#C" n="25"/>spiritum sanctum ipsum spiritum sanctum</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e1028-d1e403">
+          <ref xml:id="xAbSeN-1e1028-Rd1e405"><name xml:id="xAbSeN-1e1028-Nd1e940">origenes</name> super epistolam pauli ad 
+          <lb ed="#C" n="26"/>romanos libro viii</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e945">quam beati pedes euangelizantium bona. quae 
+          <lb ed="#C" n="27"/>sint bona quae bonis addidit requiramus unum et verum bonum 
+          <lb ed="#C" n="28"/>quia in patre, et filio et spiritu sancto est bona nominauit</quote>:
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

@@ -1,114 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 5</title>
-            <author ref="#per-dsPeAb">Peter Abelard</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 5</title>
-               <date when="2021-02-26">February 26, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-02-26" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on"/>
-      </front>
-      <body>
-         <div xml:id="xAbSeN-d1e907"><!-- xAbSeN-q5 -->
-            <head xml:id="xAbSeN-d1e907-Hd1e103">Quaestio 5</head>
-            <head xml:id="xAbSeN-d1e907-Hd1e106" type="question-title"> quod non sit deus singularis et contra</head>
-    
-            <p xml:id="xAbSeN-d1e907-d1e109">
-               <ref xml:id="xAbSeN-d1e907-Rd1e111">athanasius in symbolo fidei</ref>: Et tamen non tres Dii sed unus est
-      Deus.
-    </p>
-            <p xml:id="xAbSeN-d1e907-d1e115">
-               <ref xml:id="xAbSeN-d1e907-Rd1e117">augustinus quaestionum veteris et novae legis cap. lix</ref>: Unus quidem
-      est sed non singularis; habet ex aeternis in mysterio alterum qui sit
-      cum altero.
-    </p>
-            <p xml:id="xAbSeN-d1e907-d1e121">
-               <ref xml:id="xAbSeN-d1e907-Rd1e123">item</ref>: Deus pater habet in se alterum cum altero, sicut dixi.
-    </p>
-            <p xml:id="xAbSeN-d1e907-d1e128">
-               <ref xml:id="xAbSeN-d1e907-Rd1e130">ambrosius de fide, ad gratianum imperatorem</ref>: Quod unius est
-      substantiae separari non potest, etsi non sit singularitatis sed
-      unitatis. Singularitas ad personam pertinet, unitas ad
-      naturam.
-    </p>
-            <p xml:id="xAbSeN-d1e907-d1e134">
-               <ref xml:id="xAbSeN-d1e907-Rd1e136">hilarius de trinitate, lib. iv</ref>: Et dixit Deus: Faciamus hominem ad
-      imaginem et similitudinem nostram. Sustulit singularis intelligentiam
-      professione consortii. Consortium autem esse aliquod solitario ipsi
-      sibi non potest; neque rursum recipit solitarii similitudo faciamus.
-    </p>
-            <p xml:id="xAbSeN-d1e907-d1e140">
-               <ref xml:id="xAbSeN-d1e907-Rd1e142">item</ref>: Solitario conuenit faciam et meam, non solitario uero faciamus
-      et nostram.
-    </p>
-            <p xml:id="xAbSeN-d1e907-d1e146">
-               <ref xml:id="xAbSeN-d1e907-Rd1e148">item</ref>: De rubo apparuit Dei angelus Deus, non ideo non Deus quia
-      angelus Dei est; neque rursum angelus Dei non idcirco quia Deus
-      est. Sed significata personarum distinctione ac manifestata
-      sacramentorum caelestium dispensatione, non solitarium deum docuit
-      opinandum.
-    </p>
-            <p xml:id="xAbSeN-d1e907-d1e152">HORMISDA PAPA AD lUSTINUM IMPERATOREM: Seruemus propria unicuique
-      personae, ut nec personis diuinitatis singularitas denegetur nec
-      ad essentiam hoc quod proprium nominum est transferatur.
-    </p>
-            <p xml:id="xAbSeN-d1e907-d1e157">
-               <ref xml:id="xAbSeN-d1e907-Rd1e159">gregorius leandro episcopo</ref>: Reprehensibile esse nullatenus potest
-      infantem in baptismate uel ter uel semel mergere, quando et in tribus
-      mersionibus personarum trinitas et in una potest diuinitatis
-      singularitas designari.
-    </p>
-            <p xml:id="xAbSeN-d1e907-d1e164">
-               <ref xml:id="xAbSeN-d1e907-Rd1e166">isidorus etymologiarum lib. vii, cap. iv</ref>: Trinitas in relatiuis
-      personarum nominibus est; deltas uero non triplicatur sed in
-      singularitate est; quia si triplicetur deorum inducimus pluralitatem.
-      Nomen autem deorum in angelis et in sanctis hominibus ideo pluraliter
-      dicitur quod non sint merito aequales; de quibus psalmus: ego dixi,
-      dii estis. De patre autem et filio et spiritu sancto, propter unam et
-      aequalem diuinitatem non nomen deorum sed Dei esse ostenditur.
-    </p>
-    
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 5</title>
+        <author ref="#per-dsPeAb">Peter Abelard</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 5</title>
+          <date when="2021-02-26">February 26, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-02-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#C" n="27"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="xAbSeN-d1e907"><!-- xAbSeN-q5 -->
+        <head xml:id="xAbSeN-d1e907-Hd1e103">Quaestio 5</head>
+        <head xml:id="xAbSeN-d1e907-Hd1e106" type="question-title"> quod non sit deus singularis et contra</head>
+        <p xml:id="xAbSeN-d1e907-d1e105">
+          <lb ed="#C" n="4"/>Quod non sit deus singularis et contra
+        </p>
+        <p xml:id="xAbSeN-d1e907-d1e109">
+          <ref xml:id="xAbSeN-d1e907-Rd1e111">Athanasius in simbolo fidei</ref>: <quote xml:id="xAbSeN-d1e907-Qd1e115">et tamen non tres dii sed unus 
+          <lb ed="#C" n="5"/>est deus</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e907-d1e115">
+          <ref xml:id="xAbSeN-d1e907-Rd1e117">augustinus quaestionum veteris et novae legis cap. lix</ref>: <quote xml:id="xAbSeN-d1e907-Qd1e126">unus 
+          <lb ed="#C" n="6"/>quidem est sed non singularis: habet ex aeternis in mysterio alterum 
+          <lb ed="#C" n="7"/>qui sit cum altero</quote>:
+        </p>
+        <p xml:id="xAbSeN-d1e907-d1e121">
+          <ref xml:id="xAbSeN-d1e907-Rd1e123">item</ref>: <quote xml:id="xAbSeN-d1e907-Qd1e140">deus pater habet in se alterum cum altero 
+          <lb ed="#C" n="8"/>sicut dixi.</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e907-d1e128">
+          <ref xml:id="xAbSeN-d1e907-Rd1e130"><name xml:id="xAbSeN-d1e907-Nd1e149">ambrosius</name> de fide, ad gratianum imperatorem</ref>: <quote xml:id="xAbSeN-d1e907-Qd1e152">quod unius est
+          <lb ed="#C" n="9"/>substantiae separari non potest: etsi non sit singularitatis sed unitatis 
+          <lb ed="#C" n="10"/>singularitas ad personam pertinet unitas ad naturam</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e907-d1e134">
+          <ref xml:id="xAbSeN-d1e907-Rd1e136">hilarius de 
+          <lb ed="#C" n="11"/>trinitate libro iiii</ref>: et dixit deus, faciamus hominem ad imaginem et 
+          <lb ed="#C" n="12"/>similitudinem nostram: sustulit singularis intelligentiam professi<lb ed="#C" break="no" n="13"/>one 
+          consortii: Consortium autem esse aliquod solitario ipsi sibi non 
+          <lb ed="#C" n="14"/>potest: neque rursum recipit solitari similitudo faciamus.
+        </p>
+        <p xml:id="xAbSeN-d1e907-d1e140">
+          <ref xml:id="xAbSeN-d1e907-Rd1e142">Item</ref>: soli<lb ed="#C" break="no" n="15"/>tario 
+          conuenit faciam et meam: non solitario vero, faciamus et nostram.
+        </p>
+        <p xml:id="xAbSeN-d1e907-d1e146">
+          <lb ed="#C" n="16"/><ref xml:id="xAbSeN-d1e907-Rd1e148">Item</ref>: <quote xml:id="xAbSeN-d1e907-Qd1e188">de rubo apparuit dei angelus deus: non ideo non deus quia
+          <lb ed="#C" n="17"/>angelus dei est: neque rursum angelus dei non idcirco quia deus est: 
+          <lb ed="#C" n="18"/>Sed significata personarum distinctione ac manifestata sacramentorum 
+          <lb ed="#C" n="19"/>caelestium dispensatione: non solitarium docuit deum opinandum</quote>
+        </p>
+        <p xml:id="xAbSeN-d1e907-d1e152">
+          <ref xml:id="xAbSeN-d1e907-Rd1e200">homicida 
+            <lb ed="#C" n="20"/>papa ad iustinum imperatorem</ref>: <quote xml:id="xAbSeN-d1e907-Qd1e205">seruemus propria unicuique personae 
+            <lb ed="#C" n="21"/>ut nec personis diuinitatis singularitas denegetur nec ad essentiam hoc 
+            <lb ed="#C" n="22"/>quod proprium nominum est transferatur</quote>.
+        </p>
+        <p xml:id="xAbSeN-d1e907-d1e157">
+          <ref xml:id="xAbSeN-d1e907-Rd1e159">Gregorius leandro episcopo</ref>: 
+          <lb ed="#C" n="23"/>Reprehensibile esse nullatenus potest infantem in baptismate 
+          <lb ed="#C" n="24"/>vel ter uel semel mergere quando et in tribus mersionibus 
+          <lb ed="#C" n="25"/>personarum trinitas: et in una potest divinitatis singularitas 
+          <lb ed="#C" n="26"/>designari:
+        </p>
+        <p xml:id="xAbSeN-d1e907-d1e164">
+          <ref xml:id="xAbSeN-d1e907-Rd1e166"><name xml:id="xAbSeN-d1e907-Nd1e231">Ysydorus</name> etymologiarum libro vii cap. iv</ref>: <quote xml:id="xAbSeN-d1e907-Qd1e234">trinitas 
+          <pb ed="#C" n="28"/>
+          <lb ed="#C" n="1"/>in relativis personarum nominibus est deltas uero non <del rend="strikethrough">trpe</del> <del rend="strikethrough">tri?ratus</del> 
+          <lb ed="#C" n="2"/>triplicatur sed in singularitate est quia si <seg type="correction">triplice<subst><del>ut</del><add place="above-line">tur</add></subst></seg> deorum 
+          <lb ed="#C" n="3"/>inducimus pluralitatem: nomen autem deorum in angelis et in 
+          <lb ed="#C" n="4"/>sanctis hominibus ideo pluraliter dicitur quod non sint merito 
+          <lb ed="#C" n="5"/>aequales de quibus psalmus: Ego dixi dii estis. de patre 
+          <lb ed="#C" n="6"/>autem et filio et spiritu sancto propter unam et aequalem 
+          <lb ed="#C" n="7"/>divinitatem: non nomen deorum sed dei esse ostenditur</quote>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

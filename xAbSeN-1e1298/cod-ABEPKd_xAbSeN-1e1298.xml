@@ -1,174 +1,184 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 9</title>
-            <author ref="#per-dsPeAb">Peter Abelard</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 9</title>
-               <date when="2021-02-26">February 26, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-02-26" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on"/>
-      </front>
-      <body>
-         <div xml:id="xAbSeN-1e1298"><!-- xAbSeN-q9 -->
-            <head xml:id="xAbSeN-1e1298-Hd1e103">Quaestio 9</head>
-            <head xml:id="xAbSeN-1e1298-Hd1e106" type="question-title">q. 009: quod non sit deus substantia et contra.</head>
-            <p xml:id="xAbSeN-1e1298-d1e109">
-               <ref xml:id="xAbSeN-1e1298-Rd1e111">boethius de trinitate</ref>: Decem omnino praedicamenta traduntur quae de
-      rebus omnibus uniuersaliter praedicantur, id est substantia, qualitas,
-      quantitas etc.
-    </p>
-            <p xml:id="xAbSeN-1e1298-d1e115">
-               <ref xml:id="xAbSeN-1e1298-Rd1e117">item de deo</ref>: Substantia in illo non est substantia sed ultra
-      substantiam; item qualitas et caetera quae euenire queunt. Nam cum
-      dicimus Deus substantiam quidem significare uidemur sed eam quae sit
-      ultra substantiam; cum uero iustus, qualitatem quidem sed non
-      accidentalem sed eam quae sit substantia et ultra substantiam. Neque
-      enim aliud est quod est, aliud quod iustus est sed idem est esse Deo
-      quod iustum. Item cum dicitur magnus uel maximus, quantitatem quidem
-      significare uidemur sed eam quae sit ipsa substantia talis qualem
-      esse diximus ultra substantiam.
-    </p>
-            <p xml:id="xAbSeN-1e1298-d1e121">
-               <ref xml:id="xAbSeN-1e1298-Rd1e123">idem in secundo topicorum</ref>: Substantia est quod omnibus accidentibus
-      possit esse subiectum; albedo autem nullis accidentibus subiecta esse
-      potest, albedo igitur substantia non est.
-    </p>
-            <p xml:id="xAbSeN-1e1298-d1e128">
-               <ref xml:id="xAbSeN-1e1298-Rd1e130">augustinus in vii de trinitate lib., cap. iv et v</ref>: <quote xml:id="xAbSeN-1e1298-Qd1e133" source="http://scta.info/resource/adt-l7-d1e899" synch="163-314"><!-- also http://scta.info/resource/adt-l7-d1e902@1-23-->Si hoc est Deo esse
-      quod subsistere, ita non erunt dicendae tres substantiae ut non
-      dicuntur tres essentiae, quemadmodum quia hoc est Deo esse quod
-      sapere, sicut non tres essentias, ita non tres sapientias dicimus. Sic
-      enim quia hoc est illi esse Deum quod esse, tam tres essentias quam
-      tres Deos dici fas non est. Si autem aliud est Deo esse, aliud
-      subsistere, sicut aliud est Deo esse, aliud patrem esse uel dominum
-      esse (quod enim est ad se dicitur, pater autem ad filium, et dominus
-      ad seruientem creaturam relatiue subsistit, sicut relatiue gignit et
-      relatiue dominatur), ita iam substantia non erit substantia quia
-      relatiuum erit. Sicut enim ab eo quod est esse appellatur
-      essentia, ita ab eo quod est subsistere substantiam dicimus. Absurdum
-      est autem ut substantia relatiue dicatur; omnis enim res ad se ipsam
-      subsistit; quanto magis Deus? Si tamen dignum est, ut Deus dicatur
-      subsistere. De his enim rebus recte intelligitur, in quibus subiectis
-      sunt ea quae in aliquo subiecto esse dicuntur, sicut color in corpore.</quote>
-            </p>
-            <p xml:id="xAbSeN-1e1298-d1e140">
-               <ref xml:id="xAbSeN-1e1298-Rd1e142">item</ref>: <quote xml:id="xAbSeN-1e1298-Qd1e145" source="http://scta.info/resource/adt-l7-d1e902" synch="75-82">Res mutabiles neque simplices proprie dicuntur substantia</quote>. <quote xml:id="xAbSeN-1e1298-Qd1e148" source="http://scta.info/resource/adt-l7-d1e902" synch="130-253">Nefas
-      est autem dicere, ut subsistat et subsit Deus bonitati suae atque illa
-      bonitas non substantia sit uel potius essentia, neque ipse Deus sit
-      bonitas sua sed in illo sit tanquam in subiecto. Unde manifestum est
-      Deum abusiue substantiam uocari, ut nomine usitatiore intelligatur
-      essentia, quae uere ac proprie dicitur ita ut fortasse Deum solum dici
-      oporteat essentiam. Est enim uere solus, quia incommutabilis est,
-      idque suum nomen Moysi esse nuntiauit, cum ait: Ego sum qui sum; et
-      dices ad eos: qui est misit me ad uos. Sed tamen, siue essentia
-      dicatur quod proprie dicitur, siue substantia quod abusiue, utrumque
-      ad se dicitur non relatiue. Unde hoc est Deo esse quod subsistere; et
-      ideo si una essentia trinitas, una etiam substantia</quote>.
-    </p>
-            <p xml:id="xAbSeN-1e1298-d1e152">
-               <ref xml:id="xAbSeN-1e1298-Rd1e154">item, in eodem capitulo eiusdem libri</ref>: <quote xml:id="xAbSeN-1e1298-Qd1e157" source="http://scta.info/resource/adt-l7-d1e883" synch="3-52">Loquendi causa de
-      ineffabilibus, ut fari aliquo modo possemus quod effari nullo modo
-      possumus, dictum est a nostris Graecis una essentia tres substantiae;
-      a Latinis una essentia uel substantia tres personae; quia, sicut iam
-      diximus, non aliter in sermone latino essentia quam substantia solet
-      intelligi</quote>.
-    </p>
-            <p xml:id="xAbSeN-1e1298-d1e161">
-               <ref xml:id="xAbSeN-1e1298-Rd1e163">item</ref>: <quote xml:id="xAbSeN-1e1298-Qd1e166" source="http://scta.info/resource/adt-l7-d1e896" synch="329-362">Quod de personis secundum nostram, hoc est de substantiis
-      secundum Graecorum consuetudinem. Sic enim dicunt illi tres
-      substantias unam essentiam, quemadmodum nos dicimus tres personas unam
-      essentiam uel substantiam</quote>.
-    </p>
-            <p xml:id="xAbSeN-1e1298-d1e170">
-               <ref xml:id="xAbSeN-1e1298-Rd1e172">item lib. v</ref>: <quote xml:id="xAbSeN-1e1298-Qd1e175" source="http://scta.info/resource/adt-l5-d1e677" synch="187-249"><!-- also http://scta.info/resource/adt-l5-d1e680@3-17 -->Sic intelligamus Deum, quantum possumus, sine
-      qualitate bonum, sine quantitate magnum, sine indigentia creatorem,
-      sine situ praesentem, sine habitu omnia continentem, sine loco ubique
-      totum, sine tempore sempiternum, sine ulla sui mutatione mutabilia
-      facientem nihilque patientem. Quisquis Deum ita cogitat, etsi nondum
-      potest omnino inuenire quid sit, pie tamen cauet quantum potest
-      aliquid de illo sentire quod non sit; est tamen sine dubitatione
-      substantia uel, si melius hoc appellatur, essentia, quam Graeci usiam
-      uocant</quote>.
-    </p>
-            <p xml:id="xAbSeN-1e1298-d1e182">
-               <ref xml:id="xAbSeN-1e1298-Rd1e184">hieronymus ad damasum, de novo nomine trium hypostaseos</ref>: Interrogamus
-      quid ypostasis posse arbitrentur intelligi. Tres personas subsistentes
-      aiunt; respondemus ita nos credere. Non sufficit sensus, ipsum nomen
-      efflagitant, quia nescio quid ueneni in syllabis latet. Si quis autem
-      ypostasis usiam intelligens non in tribus personis unam ypostasim
-      dicit, alienus a Christo est.
-    </p>
-            <p xml:id="xAbSeN-1e1298-d1e189">
-               <ref xml:id="xAbSeN-1e1298-Rd1e191">item</ref>: Tota saecularium litterarum schola nihil aliud ypostasim nisi
-      usiam nouit. Et quis unquam, rogo, ore sacrilego tres substantias
-      praedicabit? Una est Dei sola natura. Quis tria, hoc est tres
-      hypostasis, dicit, tres naturas conatur asserere. Et si ita est cur ab
-      Ario parietibus separamur, perfidia copulati? Sufficit nobis dicere
-      unam substantiam tres personas perfectas, aequales, coaeternas. Non
-      bonae suspicionis est, cum in eodem sensu uerba dissentiunt; aut si
-      rectum putatis tres ypostasis cum interpretationibus suis debere nos
-      dicere, non negamus. Sed mihi credite, uenenum sub melle latet;
-      transfigurat se angelus Satanae in angelum lucis.
-    </p>
-            <p xml:id="xAbSeN-1e1298-d1e195">
-               <ref xml:id="xAbSeN-1e1298-Rd1e197">idem ad eundem</ref>: Confundentes Arium unam eamdemque dicimus trinitatis
-      substantiam.
-    </p>
-            <p xml:id="xAbSeN-1e1298-d1e201">
-               <ref xml:id="xAbSeN-1e1298-Rd1e203">item</ref>: Impietatem Sabellii declinantes tres personas expressas sub
-      proprietate distinguimus.
-    </p>
-            <p xml:id="xAbSeN-1e1298-d1e207">
-               <ref xml:id="xAbSeN-1e1298-Rd1e209">et post aliqua</ref>: Non enim nomina tantummodo sed etiam nominum
-      proprietates, id est personas uel, ut Graeci exprimunt,
-      hypostasis, hoc est subsistentias confibemur.
-    </p>
-            <p xml:id="xAbSeN-1e1298-d1e215">
-               <ref xml:id="xAbSeN-1e1298-Rd1e217">item</ref>: Itaque substantia unum sunt, personis ac nominibus
-      distinguuntur.
-    </p>
-    
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 9</title>
+        <author ref="#per-dsPeAb">Peter Abelard</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 9</title>
+          <date when="2021-02-26">February 26, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-02-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#C" n="36"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="xAbSeN-1e1298"><!-- xAbSeN-q9 -->
+        <head xml:id="xAbSeN-1e1298-Hd1e103">Quaestio 9</head>
+        <head xml:id="xAbSeN-1e1298-Hd1e106" type="question-title">Quod non sit Deus substantia et contra.</head>
+        <p xml:id="xAbSeN-1e1298-d1e105">
+          <pb ed="#C" n="36"/>
+          <lb ed="#C" n="1"/>quod non sit deus substantia et contra
+        </p>
+        <p xml:id="xAbSeN-1e1298-d1e109">
+          <lb ed="#C" n="2"/><ref xml:id="xAbSeN-1e1298-Rd1e111">Boethius de trinitate</ref>: <quote xml:id="xAbSeN-1e1298-Qd1e118">decem omnino praedicamenta traduntur quae de
+          <lb ed="#C" n="3"/>rebus omnibus uniuersaliter praedicantur, id est substantia, qualitas, quantitas 
+          <lb ed="#C" n="4"/>etc.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1298-d1e115">
+          <ref xml:id="xAbSeN-1e1298-Rd1e117">Item de deo</ref>: <quote xml:id="xAbSeN-1e1298-Qd1e131">Substantia in illo non est substantia sed ultra
+          <lb ed="#C" n="5"/>substantiam: Item qualitas et caetera quae euenire queunt. nam 
+          <lb ed="#C" n="6"/>cum dicimus deus substantiam quidem significare videmur sed eam qua
+          <lb ed="#C" n="7"/>sit ultra substantiam: Cum uero iustus qualitatem quidem sed non
+          <lb ed="#C" n="8"/>accidentalem sed eam quae sit substantia et ultra substantiam 
+          <lb ed="#C" n="9"/>neque enim aliud est quod est: aliud quod iustus est sed idem est esse deo quod 
+          <lb ed="#C" n="10"/>iustum. Item cum dicitur magnus vel maximus quantitatem quidem 
+          <lb ed="#C" n="11"/>significare uidemur sed eam quae sit ipsa substantia talis qualem esse 
+          <lb ed="#C" n="12"/>diximus ultra substantiam.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1298-d1e121">
+          <ref xml:id="xAbSeN-1e1298-Rd1e123">Idem in secundo topicorum</ref>: <quote xml:id="xAbSeN-1e1298-Qd1e158">substantia est 
+            <lb ed="#C" n="13"/>quod omnibus accidentibus possit esse subiectum albedo autem nullis acci<lb ed="#C" break="no" n="14"/>dentibus 
+            subiecta esse potest albedo igitur substantia non est</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e1298-d1e128">
+          <ref xml:id="xAbSeN-1e1298-Rd1e130">augustinus in 
+            <lb ed="#C" n="15"/>vii de trinitate libro capitulo iv</ref>: <quote xml:id="xAbSeN-1e1298-Qd1e133" source="http://scta.info/resource/adt-l7-d1e899@163-314 http://scta.info/resource/adt-l7-d1e902@1-23">Et si hoc est deo esse quod subsistere 
+              <lb ed="#C" n="16"/>ita non erunt dicendae tres substantiae ut non dicu  ntur tres essen<lb ed="#C" break="no" n="17"/>tiae 
+            quemadmodum quia hoc est deo esse quod sapere sicut non essentias 
+            <lb ed="#C" n="18"/>tres: uti non tres sapientias dicimus: sic enim quia hoc est illi 
+              <lb ed="#C" n="19"/>esse deum quod esse: tam tres essentias quam tres deos dici fas non est 
+              <lb ed="#C" n="20"/>Si autem est aliud deo esse, aliud subsistere, sicut aliud est deo 
+              <lb ed="#C" n="21"/>esse aliud patrem esse aliud dominum esse: Quod enim est <unclear>ad se</unclear> dicitur: pater 
+              <lb ed="#C" n="22"/>autem ad filium, et dominus ad seruientem creaturam relatiue subsistit 
+              <lb ed="#C" n="23"/>sicut relatiue gignit, et relatiue dominatur: Ita iam substantia 
+              <lb ed="#C" n="24"/>non <subst><add place="above-line">erit</add> <del>eiss</del></subst> substantia, quia relatiuum erit: sicut enim ab eo quod 
+              <lb ed="#C" n="25"/>est esse appellatur essentia ita ab eo quod est subsistere substantiam 
+              <lb ed="#C" n="26"/>dicimus: absurdum est autem ut substantia relative dicatur: Omnis enim 
+              <lb ed="#C" n="27"/>res ad se ipsam subsistit: quanto magis deus? si tamen dignum est 
+              <lb ed="#C" n="28"/>ut deus dicatur subsistere: de his enim rebus recte intelligitur, in 
+              <lb ed="#C" n="29"/>quibus subiectis sunt ea quae in aliquo subiecto esse dicuntur 
+              <lb ed="#C" n="30"/>sicut color in corpore</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e1298-d1e140">
+          <ref xml:id="xAbSeN-1e1298-Rd1e142">Item</ref>: <quote xml:id="xAbSeN-1e1298-Qd1e145" source="http://scta.info/resource/adt-l7-d1e902@75-82">res mutabiles neque simplices proprie 
+            <lb ed="#C" n="31"/>dicuntur substantia</quote>: <quote xml:id="xAbSeN-1e1298-Qd1e148" source="http://scta.info/resource/adt-l7-d1e902@130-253">Nefas <add place="above-line">est</add> autem dicere ut subsistat et subsit deus 
+            <lb ed="#C" n="32"/>bonitati suae atque illa bonitas non substantia sit, vel potius essen<lb ed="#C" break="no" n="33"/>tia: 
+            neque ipse deus sit bonitas sua, sed in illo sit tanquam <add place="above-line">in</add> subiecto
+            <pb ed="#C" n="37"/>
+            <lb ed="#C" n="1"/>unde manifestum est deum abusiue substantiam <seg type="correction">voca<add place="above-line">r</add>i</seg> ut nomine usitatiore 
+            <lb ed="#C" n="2"/>intelligatur essentia:<!--ommitted quae uere ac proprie dicitur ita ut fortasse Deum solum dici
+            oporteat essentiam. --> Est enim vere solus quia incommutabilis est: idque 
+            <lb ed="#C" n="3"/>suum nomen <name xml:id="xAbSeN-1e1298-Nd1e256">moysi</name> <del rend="strikethrough">noiavit</del> nuntiauit cum ait: Ego sum qui sum 
+            <lb ed="#C" n="4"/>et dices ad eos: qui est misit me ad vos. sed tamen siue essentia
+            <lb ed="#C" n="5"/>dicatur quod proprie dicitur siue substantia quod abusiue, utrumque ad se dicitur 
+            <lb ed="#C" n="6"/>non relative: unde hoc est deo esse quod subsistere: et ideo si una 
+            <lb ed="#C" n="7"/>essentia trinitas una et substantia</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e1298-d1e152">
+          <ref xml:id="xAbSeN-1e1298-Rd1e154">Item in eodem capitulo eiusdem libri</ref>: 
+          <lb ed="#C" n="8"/><quote xml:id="xAbSeN-1e1298-Qd1e157" source="http://scta.info/resource/adt-l7-d1e883@3-52">loquendi causa de ineffabilibus ut fari aliquo modo possemus quod effari 
+            <lb ed="#C" n="9"/>nullo modo possumus dictum est a nostris graecis una essentia tres substantiae:
+            <lb ed="#C" n="10"/>a latinis una essentia vel substantia tres personae: quia sicut iam dixi<lb ed="#C" break="no" n="11"/>mus 
+            non aliter in sermone latino essentia quam substantia solet 
+            <lb ed="#C" n="12"/>intelligi</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e1298-d1e161">
+          <ref xml:id="xAbSeN-1e1298-Rd1e163">Item</ref>: <quote xml:id="xAbSeN-1e1298-Qd1e166" source="http://scta.info/resource/adt-l7-d1e896@329-362">quod de personis secundum nostram hoc est de substan<lb ed="#C" break="no" n="13"/>tiis
+            secundum graecorum consuetudinem sic enim dicunt illi tres <del rend="strikethrough">fil</del>
+            <lb ed="#C" n="14"/>substantias unam essentiam: quemadmodum nos dicimus tres personas unam 
+            <lb ed="#C" n="15"/>essentiam, vel substantiam</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e1298-d1e170">
+          <ref xml:id="xAbSeN-1e1298-Rd1e172">Item libro v</ref>: <quote xml:id="xAbSeN-1e1298-Qd1e175" source="http://scta.info/resource/adt-l5-d1e677@187-249 http://scta.info/resource/adt-l5-d1e680@3-17">Sic intelligamus deum quantum 
+            <lb ed="#C" n="16"/>possumus, sine qualitate bonum sine quantitate magnum, sine 
+            <lb ed="#C" n="17"/>indigentia creatorem, sine situ praesentem, sine habitu omnia conti<lb ed="#C" break="no" n="18"/>nentem, 
+            sine loco ubique totum sine tempore sempiternum: sine ulla 
+            <lb ed="#C" n="19"/>sui mutatione mutabilia facientem nihilque patientem: quisquis deum 
+            <lb ed="#C" n="20"/>ita cogitat, etsi nondum potest omnino inuenire quid sit: pie tamen 
+            <lb ed="#C" n="21"/>cauet quantum potest aliquid de illo sentire quod non sit, est: 
+            <lb ed="#C" n="22"/>tamen sine dubitatione substantia vel si melius hoc appellatur 
+            <lb ed="#C" n="23"/>essentia quam graeci usiam vocant</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e1298-d1e182">
+          <ref xml:id="xAbSeN-1e1298-Rd1e184">hieronymus ad damasum, de novo nomine trium 
+          <lb ed="#C" n="24"/>hypostaseos</ref>: <quote xml:id="xAbSeN-1e1298-Qd1e342">Interrogamus quid ypostasis posse arbitrentur intel<lb ed="#C" break="no" n="25"/>ligi: 
+          tres personas <del rend="strikethrough">substis</del> subsistentes aiunt: respondemus 
+          <lb ed="#C" n="26"/>ita nos credere non sufficit sensus: Ipsum nomen efflagitant 
+          <lb ed="#C" n="27"/>quia nescio quid veneni in sillabis latet: si quis autem yposta<lb ed="#C" break="no" n="28"/>sis 
+          usiam intelligens non in tribus personis unam ypostasim dicit alie<lb ed="#C" break="no" n="29"/>nus 
+          a christo est</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e1298-d1e189">
+          <ref xml:id="xAbSeN-1e1298-Rd1e191">Item</ref>: <quote xml:id="xAbSeN-1e1298-Qd1e365">tota saecularium litterarum schola nihil aliud ypos<lb ed="#C" break="no" n="30"/>tasim 
+          nisi, usiam novit: Et quis unquam ore rogo sacrilego tres 
+          <lb ed="#C" n="31"/>substantias praedicabit una est dei sola natura: quis tria hoc est 
+          <pb ed="#C" n="38"/>
+          <lb ed="#C" n="1"/>tres hypostasis, dicit tres naturas conatur asserere: et si ita est cur 
+          <lb ed="#C" n="2"/>ab ario parietibus separamur, perfidia copulati? sufficit nobis dicere
+          <lb ed="#C" n="3"/>unam substantiam tres personas perfectas, aequales, coaeternas. non bonae 
+          <lb ed="#C" n="4"/>suspicionis est, cum in eodem sensu verba dissentiunt; aut si rectum 
+          <lb ed="#C" n="5"/>putatis tres ypostasis cum interpretationibus suis debere nos dicere 
+          <lb ed="#C" n="6"/>non negamus: sed mihi credite venenum sub melle latet: 
+          <lb ed="#C" n="7"/>transfigurat se angelus satanae in angelum lucis</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e1298-d1e195">
+          <ref xml:id="xAbSeN-1e1298-Rd1e197">Idem ad 
+          <lb ed="#C" n="8"/>eundem</ref>: <quote xml:id="xAbSeN-1e1298-Qd1e397">Confundentes arrium unam eamdemque dicimus trinitatis 
+          <lb ed="#C" n="9"/>substantiam</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e1298-d1e201">
+          <ref xml:id="xAbSeN-1e1298-Rd1e203">Item</ref>: <quote xml:id="xAbSeN-1e1298-Qd1e408">Impietatem sabellii declinantes tres personas 
+          <lb ed="#C" n="10"/>expressas sub proprietate distinguimus</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e1298-d1e207">
+          <ref xml:id="xAbSeN-1e1298-Rd1e209">et post aliqua</ref>: <quote xml:id="xAbSeN-1e1298-Qd1e419">non enim 
+          <lb ed="#C" n="11"/>nomina tantummodo, sed etiam nominum proprietates, id est personas vel ut 
+          <lb ed="#C" n="12"/>graeci exprimunt hypostasis hoc est subsistentias confitemur</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e1298-d1e215">
+          <ref xml:id="xAbSeN-1e1298-Rd1e217">Item</ref>: 
+          <lb ed="#C" n="13"/><quote xml:id="xAbSeN-1e1298-Qd1e433">Itaque substantia unum sunt personis ac nominibus distinguuntur:</quote>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

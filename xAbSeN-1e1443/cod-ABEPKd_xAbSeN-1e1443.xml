@@ -1,101 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 11</title>
-            <author ref="#per-dsPeAb">Peter Abelard</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 11</title>
-               <date when="2021-02-26">February 26, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-02-26" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on"/>
-      </front>
-      <body>
-         <div xml:id="xAbSeN-1e1443"><!-- xAbSeN-q11 -->
-            <head xml:id="xAbSeN-1e1443-Hd1e103">Quaestio 11</head>
-            <head xml:id="xAbSeN-1e1443-Hd1e106" type="question-title"> quod divinae personae ab invicem differant et contra</head>
-    
-            <p xml:id="xAbSeN-1e1443-d1e109">
-               <ref xml:id="xAbSeN-1e1443-Rd1e111">athanasius in symbolo fidei</ref>: Alia est persona patris, alia filii, alia
-      spiritus sancti.
-    </p>
-            <p xml:id="xAbSeN-1e1443-d1e115">
-               <ref xml:id="xAbSeN-1e1443-Rd1e117">item</ref>: Pater a nullo est factus nec creatus nec genitus. Filius a patre
-      solo est, non factus nec creatus sed genitus. Spiritus sanctus a
-      patre et filio, non factus nec creatus nec genitus sed procedens.
-    </p>
-            <p xml:id="xAbSeN-1e1443-d1e121">
-               <ref xml:id="xAbSeN-1e1443-Rd1e123">leo papa in sermone pentecostes</ref>: In trinitate diuina nihil dissimile,
-      nihil impar est.
-    </p>
-            <p xml:id="xAbSeN-1e1443-d1e128">
-               <ref xml:id="xAbSeN-1e1443-Rd1e130">ambrosius de fide ad gratianum, lib. ii</ref>: Apostolus dicit imaginem
-      patris Christum esse. Arius dicit esse dissimilem, et uult ut pater
-      dissimilem genuerit sui, quasi impotens qui generare sibi similem non
-      potuerit.
-    </p>
-            <p xml:id="xAbSeN-1e1443-d1e134">
-               <ref xml:id="xAbSeN-1e1443-Rd1e136">item</ref>: Imago docet non esse dissimilem.
-    </p>
-            <p xml:id="xAbSeN-1e1443-d1e140">
-               <ref xml:id="xAbSeN-1e1443-Rd1e142">augustinus quaestionum veteris et novae legis cap. cxlviii</ref>: Qui me
-      uidet, uidet et patrem, quia unum sunt natura pater et filius,
-      hoc est in nullo discrepare alterum ab altero.
-    </p>
-            <p xml:id="xAbSeN-1e1443-d1e148">
-               <ref xml:id="xAbSeN-1e1443-Rd1e150">item cap. lviii</ref>: Unum qui uidet, uidet tres, dum nihil differs alter
-      ab altero.
-    </p>
-            <p xml:id="xAbSeN-1e1443-d1e154">HlLARIUS DE TRINITATE, LIB. I: Deus a Deo, ab ingenito unigenitus,
-      alter ab altero nihil differens, quia uita uiuentis in uiuo est.
-    </p>
-            <p xml:id="xAbSeN-1e1443-d1e157">
-               <ref xml:id="xAbSeN-1e1443-Rd1e159">item lib. iv</ref>: Cum itaque legimus faciamus hominem ad imaginem et
-      similitudinem nos tram, quia sermo uterque ut non solitarium tantum
-      ita neque differentem significat, nobis quoque nec solitarius tantum
-      nec diuersus est confitendus; cognita per id quod nostram imaginem
-      dicit, non imagines nostras unius in utriusque proprietate naturae.
-    </p>
-    
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 11</title>
+        <author ref="#per-dsPeAb">Peter Abelard</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 11</title>
+          <date when="2021-02-26">February 26, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-02-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#C" n="39"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="xAbSeN-1e1443"><!-- xAbSeN-q11 -->
+        <head xml:id="xAbSeN-1e1443-Hd1e103">Quaestio 11</head>
+        <head xml:id="xAbSeN-1e1443-Hd1e106" type="question-title">quod divinae personae ab invicem differant et contra</head>
+        <p xml:id="xAbSeN-1e1443-d1e105">
+          <lb ed="#C" n="19"/>quod divinae personae ab invicem 
+          <lb ed="#C" n="20"/>differant et contra 
+        </p>
+        <p xml:id="xAbSeN-1e1443-d1e109">
+          <lb ed="#C" n="21"/><ref xml:id="xAbSeN-1e1443-Rd1e111">Athanasius in symbolo fidei</ref>: <quote xml:id="xAbSeN-1e1443-Qd1e116">alia est persona patris: alia filii, alia
+          <lb ed="#C" n="22"/>spiritus sancti</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e1443-d1e115">
+          <lb ed="#C" n="23"/><ref xml:id="xAbSeN-1e1443-Rd1e117">Item</ref>: <quote xml:id="xAbSeN-1e1443-Qd1e128">pater a nullo est factus, nec creatus nec genitus. 
+          <lb ed="#C" n="24"/><del rend="strikethrough">spiritus sanctus a:</del> filius a patre solo est; non factus nec creatus 
+          <lb ed="#C" n="25"/>sed genitus: spiritus sanctus a patre et filio, non factus nec 
+          <lb ed="#C" n="26"/>creatus, nec genitus, sed procedens</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e1443-d1e121">
+          <ref xml:id="xAbSeN-1e1443-Rd1e123">leo papa in sermone pen<lb ed="#C" break="no" n="27"/>tecostes</ref>: 
+          <quote xml:id="xAbSeN-1e1443-Qd1e148">In trinitate diuina nihil dissimile: nihil impar est</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1443-d1e128">
+          <lb ed="#C" n="28"/><ref xml:id="xAbSeN-1e1443-Rd1e130">ambrosius de fide ad gratianum, libro ii</ref>: <quote xml:id="xAbSeN-1e1443-Qd1e157">apostolus dicit imaginem patris 
+          <lb ed="#C" n="29"/>christum esse: arrius dicit esse dissimilem, et vult ut pater dis<lb ed="#C" break="no" n="30"/>similem 
+          <pb ed="#C" n="40"/>
+          <lb ed="#C" n="1"/>genuerit sui quasi impotens qui generare sibi similem non 
+          <lb ed="#C" n="2"/>potuerit</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e1443-d1e134">
+          <ref xml:id="xAbSeN-1e1443-Rd1e136">Item</ref>: <quote xml:id="xAbSeN-1e1443-Qd1e176">Imago docet non esse dissimilem</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e1443-d1e140">
+          <ref xml:id="xAbSeN-1e1443-Rd1e142">augustinus 
+          <lb ed="#C" n="3"/>quaestionum veteris et novae legis capitulo cxlviii</ref>: <quote xml:id="xAbSeN-1e1443-Qd1e186">qui me videt, 
+          <lb ed="#C" n="4"/>videt et patrem quia unum sunt natura pater et filius 
+          <lb ed="#C" n="5"/>hoc est in nullo discrepare alterum ab altero</quote>: <del rend="strikethrough">hylarius de 
+          <lb ed="#C" n="6"/>trinitate</del>
+        </p>
+        <p xml:id="xAbSeN-1e1443-d1e148">
+          <ref xml:id="xAbSeN-1e1443-Rd1e150">Item caput lviii</ref>: <quote xml:id="xAbSeN-1e1443-Qd1e204">unum qui uidet uidet tres: dum 
+          <lb ed="#C" n="7"/>nihil differs alter ab altero</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e1443-d1e154"><ref xml:id="xAbSeN-1e1443-Rd1e211">hylarius de trinitate libro 
+          <lb ed="#C" n="8"/>1</ref> <quote xml:id="xAbSeN-1e1443-Qd1e216">deus a deo <add place="above-line">ab</add> ingenito unigenitus, alter ab altero nihil 
+          <lb ed="#C" n="9"/>differens quia vita viventis in vivo est:</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1443-d1e157">
+          <ref xml:id="xAbSeN-1e1443-Rd1e159"><!--omitted: item -->libro iiii</ref>: <quote xml:id="xAbSeN-1e1443-Qd1e232">Cum 
+          <lb ed="#C" n="10"/>itaque legimus faciamus hominem ad imaginem et similitudinem 
+          <lb ed="#C" n="11"/>nostram: quia sermo uterque ut non solitarium tantum ita neque 
+          <lb ed="#C" n="12"/>differentem significat: nobis quoque nec solitarius tantum nec 
+          <lb ed="#C" n="13"/>diuersus est confitendus Cognita per id quod nostram imaginem
+          <lb ed="#C" n="14"/>dicit non imagines nostras unius in utriusque proprietate naturae</quote>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

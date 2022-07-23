@@ -1,169 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 18</title>
-            <author ref="#per-dsPeAb">Peter Abelard</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 18</title>
-               <date when="2021-02-26">February 26, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-02-26" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on"/>
-      </front>
-      <body>
-         <div xml:id="xAbSeN-1e2000"><!-- xAbSeN-q18 -->
-            <head xml:id="xAbSeN-1e2000-Hd1e103">Quaestio 18</head>
-            <head xml:id="xAbSeN-1e2000-Hd1e106" type="question-title"> quod aeterna generatio filii narrari vel sciri vel intelligi
-      possit et non</head>
-    
-            <p xml:id="xAbSeN-1e2000-d1e109">HIERONYMUS SUPER ECCLESIASTEN, EO LOCO QUO DlCITUR: Quis scit
-      spiritus filiorum hominum, si asoendat sursum et spiritus pecoris
-      desoendat deorsum in terram? Adiciendo quis difficultatem rei uoluit
-      demonstrare. Pronomen enim quis in scripturis sanctis non pro
-      impossibili sed pro difficili semper accipitur, ut ibi: generationem
-      eius [id est Christi] quis enarrabit?
-    </p>
-            <p xml:id="xAbSeN-1e2000-d1e114">
-               <ref xml:id="xAbSeN-1e2000-Rd1e116">idem in prologo super isaiam</ref>: Neque uero, ut Montanus somniat,
-      prophetae in extasi sunt locuti, ut nescirent quid loquerentur, et,
-      cum alios erudirent, ipsi ignorarent quid dicerent. Sed iuxta
-      Salomonem, qui loquitur in prouerbiis: sapiens intelligit quae profert
-      de ore suo, et in labiis suis portabit scientiam, etiam ipsi sciebant
-      quid dicerent.
-    </p>
-            <p xml:id="xAbSeN-1e2000-d1e120">
-               <ref xml:id="xAbSeN-1e2000-Rd1e122">item</ref>: Quomodo sapientes prophetae, instar brutorum animalium, quid
-      dicerent ignorabant?  Legimus et in alio apostoli loco: Spiritus
-      prophetarum prophetis subiecti sunt, ut sua habeant potestate quando
-      taceant, quando loquantur.
-    </p>
-            <p xml:id="xAbSeN-1e2000-d1e127">
-               <ref xml:id="xAbSeN-1e2000-Rd1e129">idem super isaiam, lib. i</ref>: Auditu audiui a domino. Propter hoc enim
-      prius uocabantur uidentes, qui dicere poterant: Oculi nostri semper ad
-      dominum. Istos cordis oculos et sponsa habebat in Cantico canticorum,
-      cui sponsus dicit: Vulnerasti cor meum, soror mea sponsa, uno ex
-      oculis tuis. Et in euangelio legitur: Lucerna corporis tui est oculus
-      tuus. In ueteri quoque dicitur instrumento quod populus uidit uocem
-      Dei. Ex quo Montani deliramenta conticeant, qui in exstasi et cordis
-      amentia prophetas putat uentura dixisse; neque enim uidere poterant
-      quod ignorabant.
-    </p>
-            <p xml:id="xAbSeN-1e2000-d1e133">ORIGENES IN EPISTOLA PAULI AD ROMANOS, Secundum reuelationem mysterii
-      temporibus aeternis taciti etc.: Sed requirendum est utrum ita dicat
-      in silentio habitum, ut omnino nullus agnouerit nec ipsi quidem
-      qui annuntiabant prophetae. Mihi quidem ualde absurdum uidetur ut
-      dicamus prophetas ita scripsisse de sacramentis diuinis ut non
-      intellexerint quae dicebant, cum scriptura dicat: Sapiens intelliget
-      quae de ore eius procedunt et in labiis portat intellectum. Si uero
-      non intellexerunt quae de ore proprio proferebant, non erant
-      sapientes. Unde si stultum est prophetas negare sapientes fuisse,
-      restat ut intellexerint quae proferebant. Paulus dicit se audisse
-      uerba, quae non lioet homini loqui; non quod ipse ignoret quod
-      audierit sed quod aliis pandere quae sibi sunt indicata non
-      liceat. Ita ergo potest et hoc loco dictum uideri sacramentum in
-      silentio habitum, quod scirent quidem prophetae sed hominibus, id est
-      uulgo, non manifestauerint sed silentio texerint secundum praeceptum
-      Dei usque quo tempus adesset et uerbum caro fieret.
-    </p>
-            <p xml:id="xAbSeN-1e2000-d1e138">
-               <ref xml:id="xAbSeN-1e2000-Rd1e140">augustinus super iohannem</ref>: In principio erat uerbum, et uerbum erat
-      apud Deum, et Deus erat uerbum. Hoc animalis homo non percipit. Quid
-      ergo, fratres, silebimus hinc? Quare ergo legitur, si siletur? aut
-      quare auditur, si non exponitur? sed ut quid exponitur, si non
-      intelligitur? Itaque quoniam rursus esse non dubito in numero uestro
-      quosdam a quibus possit non solum expositum capi sed et antequam
-      exponatur intelligi, non fraudabo eos qui possunt capere, dum timeo
-      superfluus esse auribus eorum qui non possunt capere.
-    </p>
-            <p xml:id="xAbSeN-1e2000-d1e144">
-               <ref xml:id="xAbSeN-1e2000-Rd1e146">idem de trinitate, lib. ii</ref>: <quote xml:id="xAbSeN-1e2000-Qd1e149" source="http://scta.info/resource/adt-l2-d1e194" synch="264-286">Non aliud est illi esse de patre, id est
-      nasci de patre, quam uidere patrem; aut aliud uidere patrem operantem
-      quam pariter operari.</quote>
-            </p>
-            <p xml:id="xAbSeN-1e2000-d1e153">
-               <ref xml:id="xAbSeN-1e2000-Rd1e155">hieronymus super matthaeum</ref>: Liber generationis Iesu Christi. In Isaia
-      legimus generationem eius quis enarrabit? Non ergo putemus euangelium
-      prophetae esse contrarium, ut quod ille impossibile dixit, effatu hic
-      narrare incipiat; quia ibi de generatione diuinitatis, hic de
-      incarnatione dictum est.
-    </p>
-            <p xml:id="xAbSeN-1e2000-d1e159">AUGUSTINUS LIB. II CONTRA MAXIMINUM: Distinguere inter illam
-      generationem et hanc processionem nescio, non ualeo, non sufficio,
-      quia et illa et ista est ineffabilis; sicut propheta de filio ait:
-      generationem eius quis enarrabit? Ita de spiritu sancto uerissime
-      dicetur, processionem eius quis enarrabit?
-    </p>
-            <p xml:id="xAbSeN-1e2000-d1e165">
-               <ref xml:id="xAbSeN-1e2000-Rd1e167">athanasius de trinitate, lib. vi, cap. ii</ref>: Maledictus qui
-      inenarrabiliter filium uere genitum de substantia patris esse non
-      confitetur, fiat, fiat.
-    </p>
-            <p xml:id="xAbSeN-1e2000-d1e171">
-               <ref xml:id="xAbSeN-1e2000-Rd1e173">idem lib. viii</ref>: O homo, deitatem quaeris, uitupero te. Si credis, bene
-      facis; credere tibi iussum est, non discutere permissum. Si autem
-      discutis et dicis, quomodo pater? de lumine excidisti; et si dixeris,
-      quomodo filius? occurret tibi: generationem eius quis enarrabit? Vide
-      ergo ne similiter excidas a lumine; nemo enim nouit patrem nisi filius
-      neque filium nisi pater.
-    </p>
-            <p xml:id="xAbSeN-1e2000-d1e177">
-               <ref xml:id="xAbSeN-1e2000-Rd1e179">ambrosius de fide ad gratianum imperatorem</ref>: Mihi impossibili est
-      generationis scire secretum. Supra potestates, supra angelos, supra
-      cherubim, supra seraphim, supra omnem sensum est. Scrutari non licet
-      superna mysteria; licet scire quod natus, non licet discutere
-      quemadmodum.
-    </p>
-            <p xml:id="xAbSeN-1e2000-d1e183">
-               <ref xml:id="xAbSeN-1e2000-Rd1e185">item</ref>: Credere iussum est et non discutere permissum est.
-    </p>
-            <p xml:id="xAbSeN-1e2000-d1e189">
-               <ref xml:id="xAbSeN-1e2000-Rd1e191">item</ref>: Mysterium patris nec angeli potuerunt comprehendere.
-    </p>
-            <p xml:id="xAbSeN-1e2000-d1e195">
-               <ref xml:id="xAbSeN-1e2000-Rd1e197">augustinus libro quaestionum veteris et novae legis</ref>: Cherubim et
-      seraphim non comprehendunt penitus quid Deus sit, quia nemo nouit
-      patrem nisi filius.
-    </p>
-    
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 18</title>
+        <author ref="#per-dsPeAb">Peter Abelard</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 18</title>
+          <date when="2021-02-26">February 26, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-02-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#C" n="52"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="xAbSeN-1e2000"><!-- xAbSeN-q18 -->
+        <head xml:id="xAbSeN-1e2000-Hd1e103">Quaestio 18</head>
+        <head xml:id="xAbSeN-1e2000-Hd1e106" type="question-title"> quod aeterna generatio filii narrari vel sciri vel intelligi
+          possit et non</head>
+        <p xml:id="xAbSeN-1e2000-d1e105">
+          <lb ed="#C" n="9"/>quo aeterna generatio filii narrari 
+          <lb ed="#C" n="10"/>vel sciri vel intelligi possit et contra
+        </p>
+        <p xml:id="xAbSeN-1e2000-d1e109"><ref xml:id="xAbSeN-1e2000-Rd1e113">Hieronymus super ecclesiasten</ref> ubi dicitur: <quote xml:id="xAbSeN-1e2000-Qd1e115">quis scit spiritus filiorum hominum 
+          <lb ed="#C" n="11"/>si ascendat sursum: et spiritus pecoris descendat deorsum in 
+          <lb ed="#C" n="12"/>terram: adiciendo quis difficultatem rei voluit demonstrare: 
+          <lb ed="#C" n="13"/>pronomen enim quis in scripturis sanctis non pro impossibili, sed 
+          <lb ed="#C" n="14"/>pro difficili semper accipitur, ut ibi generationem eius id est 
+          <lb ed="#C" n="15"/>christi quis enarrabit?</quote>
+        </p>
+        <p xml:id="xAbSeN-1e2000-d1e114">
+          <ref xml:id="xAbSeN-1e2000-Rd1e116">Idem in prologo super ysaiam</ref>: <quote xml:id="xAbSeN-1e2000-Qd1e134">neque 
+          <lb ed="#C" n="16"/>ut montanus somniat prophetae in extasi sunt locuti ut 
+          <lb ed="#C" n="17"/>nescirent quid loquerentur: et cum alios erudirent ipsi 
+          <lb ed="#C" n="18"/>ignorarent quid dicerent: sed iuxta salomonem qui loquitur 
+          <lb ed="#C" n="19"/>in proverbiis sapiens intelligit quae profert de ore suo, et 
+          <lb ed="#C" n="20"/>in labiis suis portabit scientiam: etiam ipsi sciebant quid 
+          <lb ed="#C" n="21"/>dicerent.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e2000-d1e120">
+          <ref xml:id="xAbSeN-1e2000-Rd1e122">Item</ref>: <quote xml:id="xAbSeN-1e2000-Qd1e157">quomodo sapientes prophetae instar brutorum animalium 
+          <lb ed="#C" n="22"/>quid dicerent ignorabant? legimus et in alio apostoli loco: 
+          <lb ed="#C" n="23"/>Spiritus prophetarum prophetis subiecti sunt ut sua 
+          <lb ed="#C" n="24"/>habeant potestate quando taceant, quando loquantur</quote>?
+        </p>
+        <p xml:id="xAbSeN-1e2000-d1e127">
+          <ref xml:id="xAbSeN-1e2000-Rd1e129">Idem super 
+          <lb ed="#C" n="25"/>ysaiam libro i</ref>: <quote xml:id="xAbSeN-1e2000-Qd1e174">auditu, audiui a domino: propter hoc enim
+          <lb ed="#C" n="26"/><unclear>proprii</unclear> videntes vocabantur, qui dicere poterant <del rend="strikethrough">onli</del> 
+          <lb ed="#C" n="27"/>oculi nostri semper ad dominum. Istos cordis oculos et sponsa 
+          <lb ed="#C" n="28"/>habebat in Cantico canticorum, cui <seg type="correction">spons<subst><del>o</del><add>u</add></subst>s</seg> dixerit: vul<lb ed="#C" break="no" n="29"/>nerasti 
+          cor meum soror mea sponsa uno ex oculis tuis et 
+          <lb ed="#C" n="30"/>in euangelio legitur: lucerna corporis tui est oculus tuus 
+          <pb ed="#C" n="53"/>
+          <lb ed="#C" n="1"/>In veteri quoque <del rend="strikethrough">ide</del> dicitur instrumento quod populus audivit 
+          <lb ed="#C" n="2"/>vocem dei: Ex quo montani deliramenta conticeant qui 
+          <lb ed="#C" n="3"/>in exstasi et cordis amentia prophetas putat ventura dixisse 
+          <lb ed="#C" n="4"/>neque enim videre poterant quod ignorabant</quote>
+        </p>
+        <p xml:id="xAbSeN-1e2000-d1e133">
+          <ref xml:id="xAbSeN-1e2000-Rd1e216">Origines in epistola 
+          <lb ed="#C" n="5"/>pauli ad Romanos</ref> <quote xml:id="xAbSeN-1e2000-Qd1e221">secundum revelationem misterii tempo<lb ed="#C" break="no" n="6"/>ribus 
+          aeternis taciti etc.: sed requirendum est utrum ita dicat in  
+          <lb ed="#C" n="7"/>silentio habitum, ut omnino nullus agnouerit nec ipsi quidem
+          <lb ed="#C" n="8"/>qui annuntiabant prophetae: mihi quidem valde absurdum 
+          <lb ed="#C" n="9"/>videtur: ut dicamus prophetas ita scripsisse de sacramentis 
+          <lb ed="#C" n="10"/>divinis ut non intellexerint quae dicebant cum scriptura <del rend="strikethrough">dua</del> 
+          <lb ed="#C" n="11"/>dicat: Sapiens intelliget quae de ore eius procedunt: et 
+          <lb ed="#C" n="12"/>in labiis portat intellectum: si vero non intellexerunt quae 
+          <lb ed="#C" n="13"/>de ore proprio proferebant: <!--omitted: non erant
+          sapientes. Unde si stultum est prophetas negare sapientes fuisse,
+          restat ut intellexerint quae proferebant.--> paulus dicit se audisse verba quae 
+          <lb ed="#C" n="14"/>non licet homini dicere: non quod ipse ignoret quod audierit, sed 
+          <lb ed="#C" n="15"/>quod aliis pandere quae sibi sunt indicata non liceat. Ita ergo potest 
+          <lb ed="#C" n="16"/>et hoc loco dictum videri sacramentum in silentio habitum: 
+          <lb ed="#C" n="17"/>quod scirent quidem prophetae: sed hominibus id est vulgo, non mani<lb ed="#C" break="no" n="18"/>festauerint: 
+          sed silentio texerint secundum praeceptum dei usque 
+          <lb ed="#C" n="19"/>quo tempus adesset, et verbum caro fieret</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e2000-d1e138">
+          <ref xml:id="xAbSeN-1e2000-Rd1e140">augustinus super iohannem</ref>: 
+          <lb ed="#C" n="20"/><quote xml:id="xAbSeN-1e2000-Qd1e266" source="http://scta.info/resource/iuy75t-d1e51-d1e130@68-137">In principio erat verbum et verbum erat apud deum, et deus 
+          <lb ed="#C" n="21"/>erat verbum. hoc animalis homo non percipit: quid ergo fratres sile<lb ed="#C" break="no" n="22"/>bimus 
+          hinc? quare ergo legitur si siletur? aut quare auditur 
+          <lb ed="#C" n="23"/>si non exponitur? sed ut quid exponitur, si non intelligitur? 
+          <lb ed="#C" n="24"/>Itaque quoniam rursus esse non dubito in numero vestro quosdam a quibus 
+          <lb ed="#C" n="25"/>possit non solum expositum capi: sed et antequam exponatur intelligi 
+          <lb ed="#C" n="26"/>non fraudabo eos qui possunt capere dum timeo superfluus esse 
+          <lb ed="#C" n="27"/>auribus eorum qui non possunt capere</quote>
+        </p>
+        <p xml:id="xAbSeN-1e2000-d1e144">
+          <ref xml:id="xAbSeN-1e2000-Rd1e146">Idem de trinitate libro ii</ref>: 
+          <lb ed="#C" n="28"/><quote xml:id="xAbSeN-1e2000-Qd1e149" source="http://scta.info/resource/adt-l2-d1e194@264-286">non aliud est illi esse de patre, id est, nasci de patre, quam videre 
+          <lb ed="#C" n="29"/>patrem: aut aliud videre patrem operantem quam pariter operari</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e2000-d1e153">
+          <lb ed="#C" n="30"/><ref xml:id="xAbSeN-1e2000-Rd1e155">Hieronymus super matthaeum</ref>: <quote xml:id="xAbSeN-1e2000-Qd1e303">liber generationis Iesu christi. In ysaia
+            <lb ed="#C" n="31"/>legimus generationem eius quis enarrabit. Non ergo putemus evangelium
+            <pb ed="#C" n="54"/>
+            <lb ed="#C" n="1"/>prophetae esse contrarium ut quod ille impossibile dixit affatu: hic narra<lb ed="#C" break="no" n="2"/>re 
+            incipiat quia ibi de generatione divinitatis hic de incarnatione 
+            <lb ed="#C" n="3"/>dictum est</quote>
+        </p>
+        <p xml:id="xAbSeN-1e2000-d1e159">
+          <ref xml:id="xAbSeN-1e2000-Rd1e320">augustinus libro ii contra maximinum</ref> <quote xml:id="xAbSeN-1e2000-Qd1e322">distinguere inter 
+          <lb ed="#C" n="4"/>illam generationem et hanc processionem nescio, non valeo, non sufficio,
+          <lb ed="#C" n="5"/>quia et illa et ista est ineffabilis, sicut propheta de filio ait generati<lb ed="#C" break="no" n="6"/>onem 
+          eius quis enarrabit? ita de spiritu sancto verissime dicetur 
+          <lb ed="#C" n="7"/>processionem eius quis enarrabit?</quote>
+        </p>
+        <p xml:id="xAbSeN-1e2000-d1e165">
+          <ref xml:id="xAbSeN-1e2000-Rd1e167">athanasius de trinitate libro 
+          <lb ed="#C" n="8"/>vi cap. ii</ref>: <quote xml:id="xAbSeN-1e2000-Qd1e341">maledictus qui inenarrabiliter filium vere genitum 
+          <lb ed="#C" n="9"/>de substantia patris esse non confitetur: fiat, fiat.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e2000-d1e171">
+          <ref xml:id="xAbSeN-1e2000-Rd1e173">Idem libro viii</ref>: <quote xml:id="xAbSeN-1e2000-Qd1e352">O homo 
+          <lb ed="#C" n="10"/>deitatem quaeris vitupero te: si credis: bene facis: Credere <seg type="correction">tibi<del rend="strikethrough">s</del></seg> ius<lb ed="#C" break="no" n="11"/>sum 
+          est: non discutere permissum. Si autem discutis et dicis quomodo 
+          <lb ed="#C" n="12"/>pater de lumine: excidisti: et si dixeris, quomodo filius: occurret 
+          <lb ed="#C" n="13"/>tibi generationem eius quis enarrabit? vide ergo ne similiter 
+          <lb ed="#C" n="14"/>excidas a lumine: nemo enim nouit patrem nisi filius neque 
+          <lb ed="#C" n="15"/>filium nisi pater</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e2000-d1e177">
+          <ref xml:id="xAbSeN-1e2000-Rd1e179">ambrosius de fide ad gratianum imperatorem</ref>: <quote xml:id="xAbSeN-1e2000-Qd1e379">mihi impos<lb ed="#C" break="no" n="16"/>sibili 
+          est generationis scire secretum: supra potestates: supra 
+          <lb ed="#C" n="17"/>angelos, supra cherubim: supra seraphim, supra omnem sensum est: 
+          scrutari non licet superna mysteria: licet scire quod natus: non 
+          <lb ed="#C" n="18"/>licet discutere quemadmodum.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e2000-d1e183">
+          <ref xml:id="xAbSeN-1e2000-Rd1e185">Item</ref>: <quote xml:id="xAbSeN-1e2000-Qd1e394">Credere iussum est et non discutere 
+          <lb ed="#C" n="19"/>permissum est.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e2000-d1e189">
+          <ref xml:id="xAbSeN-1e2000-Rd1e191">Item</ref>: <quote xml:id="xAbSeN-1e2000-Qd1e405">mysterium patris nec angeli potuerunt comprehendere</quote>
+        </p>
+        <p xml:id="xAbSeN-1e2000-d1e195">
+          <lb ed="#C" n="20"/><ref xml:id="xAbSeN-1e2000-Rd1e197">augustinus libro quaestionum veteris et novae legis</ref>: <quote xml:id="xAbSeN-1e2000-Qd1e415">Cherubim et seraphim non 
+          <lb ed="#C" n="21"/>comprehendunt penitus quid deus sit: quia nemo novit patrem 
+          <lb ed="#C" n="22"/>nisi filius</quote>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

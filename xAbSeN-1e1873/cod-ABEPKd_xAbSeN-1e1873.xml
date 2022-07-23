@@ -1,114 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 16</title>
-            <author ref="#per-dsPeAb">Peter Abelard</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 16</title>
-               <date when="2021-02-26">February 26, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-02-26" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on"/>
-      </front>
-      <body>
-         <div xml:id="xAbSeN-1e1873"><!-- xAbSeN-q16 -->
-            <head xml:id="xAbSeN-1e1873-Hd1e103">Quaestio 16</head>
-            <head xml:id="xAbSeN-1e1873-Hd1e106" type="question-title"> quod filius dicatur a patre gigni non tantum genitus esse
-      et contra</head>
-    
-            <p xml:id="xAbSeN-1e1873-d1e109">
-               <ref xml:id="xAbSeN-1e1873-Rd1e111">gregorius in iob, lib. xxxiii</ref>: Lingua mea calamus scribae. Quod
-      loquimur transit, quod scribimus permanet. Lingua patris calamus
-      scribae dicitur, quia ab eo uerbum illius coaeternum ac sine transitu
-      generatur.
-    </p>
-            <p xml:id="xAbSeN-1e1873-d1e115">
-               <ref xml:id="xAbSeN-1e1873-Rd1e117">ambrosius de fide ad gratianum imperatorem</ref>: Non haec sunt in Deo
-      corporalibus aestimanda; incomprehensibiliter generatur filius;
-      impassibiliter generat pater, et tamen ex se generat et ante omnem
-      intellectum generat ut Deus uerus Deum uerum.
-    </p>
-            <p xml:id="xAbSeN-1e1873-d1e121">HIERONYMUS, IN DEFINITIONE FIDEI CATHOLICAE NlCAENIQUE CONCILII
-      SYMBOLI: Quod de substantia patris natus est semper, ipse ait saluator
-      in euangelio: quod nascitur de carne caro est, et quod nascitur de
-      spiritu spiritus est.
-    </p>
-            <p xml:id="xAbSeN-1e1873-d1e125">
-               <ref xml:id="xAbSeN-1e1873-Rd1e127">augustinus de trinitate, lib. v, cap. xiii</ref>: <quote xml:id="xAbSeN-1e1873-Qd1e130" source="http://scta.info/resource/adt-l5-d1e753" synch="9-24">Si gignens ad id quod
-      gignit principium est, pater ad filium principium est quia gignit eum</quote>.
-    </p>
-            <p xml:id="xAbSeN-1e1873-d1e134">
-               <ref xml:id="xAbSeN-1e1873-Rd1e136">idem de generatione filii ex deo patre disserens in libro lxxxiii
-      quaestionum, cap. xxxviii</ref>: Melius est, inquit, semper natus quam qui
-      semper nascitur, quia qui semper nascitur nondum est natus et nunquam
-      natus est aut natus erit, si semper nascitur. Aliud est enim nasci,
-      aliud natum esse; ac per hoc nunquam filius si nunquam natus; et si
-      semper filius semper igitur natus.
-    </p>
-            <p xml:id="xAbSeN-1e1873-d1e142">
-               <ref xml:id="xAbSeN-1e1873-Rd1e144">idem ad pascentium comitem arianum</ref>: Quid ergo dicimus? Si natus est
-      filius de patre, iam pater destitit gignere et, si destitit,
-      coepit. Si autem coepit gignere, fuit aliquando sine filio. Sed
-      nunquam fuit sine filio quia filius eius sapientia eius est. Ergo
-      semper gignit pater et semper nascitur filius. Hic rursus timendum est
-      ne putetur imperfecta generatio, si non dicimus natum esse sed
-      nasci. Compatere mecum, obsecro, in his angustiis humanae cogitationis
-      et linguae; et pariter confugiamus ad spiritum Dei per prophetam
-      dicentem: Generationem eius quis enarrabit?
-    </p>
-            <p xml:id="xAbSeN-1e1873-d1e148">
-               <ref xml:id="xAbSeN-1e1873-Rd1e150">gregorius super iob lib. xxix</ref>: Dominus Deus Iesus Christus, in eo quod
-      uirtus et sapientia Dei est, de patre ante tempora natus est, uel
-      potius quia nec coepit nasci nec desiit, dicamus uerius semper
-      natus. Non autem possumus dicere, semper nascitur, ne imperfectum esse
-      uideatur. At uero ut aeternus designari ualeat et perfectus et semper
-      dicamus et natus, quatenus et natus ad perfectionem pertineat et
-      semper ad aeternitatem, quamuis hoc ipsum quod perfectum dicimus
-      multum ab illius ueritatis expressione deuiamus. Quia quod factum non
-      est, nec potest dici perfectum; et tamen infirmitatis nostrae uerbis
-      Dominus condescendens,estote, inquit, perfecti, sicut et pater uester
-      caelestis perfectus est.
-    </p>
-    
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 16</title>
+        <author ref="#per-dsPeAb">Peter Abelard</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 16</title>
+          <date when="2021-02-26">February 26, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-02-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#C" n="41"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="xAbSeN-1e1873"><!-- xAbSeN-q16 -->
+        <head xml:id="xAbSeN-1e1873-Hd1e103">Quaestio 16</head>
+        <head xml:id="xAbSeN-1e1873-Hd1e106" type="question-title"> quod filius dicatur a patre gigni non tantum genitus esse
+          et contra</head>
+        <p xml:id="xAbSeN-1e1873-d1e102">
+          <lb ed="#C" n="-34"/>Quod filius dicatur a patre gini 
+          <lb ed="#C" n="-33"/>non tamen genitus esse
+        </p>
+        
+        <p xml:id="xAbSeN-1e1873-d1e109">
+          <lb ed="#C" n="-32"/><ref xml:id="xAbSeN-1e1873-Rd1e111">Gregorius in Iob libro xxxiii</ref>: <quote xml:id="xAbSeN-1e1873-Qd1e115">lingua mea calamus scribae: quod loquimur 
+            <lb ed="#C" n="-31"/>transit: quod scribimus <del rend="strikethrough">transit</del> permanet: lingua patris 
+            <lb ed="#C" n="-30"/>calamus scribae dicitur quia ab eo verbum illius coaeternum ac 
+            <lb ed="#C" n="-29"/>sine transitu generatur</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1873-d1e115">
+          <ref xml:id="xAbSeN-1e1873-Rd1e117">ambrosius de fide ad gratianum imperatorem</ref>: 
+          <lb ed="#C" n="-28"/><quote xml:id="xAbSeN-1e1873-Qd1e134">non haec sunt in deo corporalibus aestimanda: Incomprehensibi<lb ed="#C" break="no" n="-27"/>liter 
+          generatur filius: impassibiliter generat pater: et tamen 
+          <lb ed="#C" n="-26"/>ex se generat, et ante omnem intellectum generat ut deus verus 
+          <lb ed="#C" n="-25"/>deum verum</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1873-d1e121"><ref xml:id="xAbSeN-1e1873-Rd1e146">Iterum in diffinitione fidei catholicae niceniaque concilii 
+          <lb ed="#C" n="-24"/>simboli</ref>: <quote xml:id="xAbSeN-1e1873-Qd1e151">quod de substantia patris natus est semper ipse ait salva<lb ed="#C" break="no" n="-23"/>tor 
+          in evangelio: quod nascitur de carne caro est et quod nas<lb ed="#C" break="no" n="-22"/>citur 
+          de spiritu spiritus est</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e1873-d1e125">
+          <lb ed="#C" n="-21"/><ref xml:id="xAbSeN-1e1873-Rd1e127">augustinus de trinitate libro v cap xiii</ref>: 
+          <lb ed="#C" n="-20"/><quote xml:id="xAbSeN-1e1873-Qd1e130" source="http://scta.info/resource/adt-l5-d1e753" synch="9-24">Si gignens ad id quod gignit principium est pater ad 
+          <lb ed="#C" n="-19"/>filium principium quia gignit eum</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e1873-d1e134">
+          <ref xml:id="xAbSeN-1e1873-Rd1e136">Idem de generatione filii 
+          <lb ed="#C" n="-18"/>ex deo patre disserens in libro lxxxiii quaestionum cap. xxx<lb ed="#C" break="no" n="-17"/>viii</ref>: 
+          <quote xml:id="xAbSeN-1e1873-Qd1e181">melius est inquit semper natus quam qui semper nascitur quia 
+          <lb ed="#C" n="-16"/>qui semper nascitur nondum est natus et nunquam natus est aut natus 
+          <lb ed="#C" n="-15"/>erit si semper nascitur: aliud est enim nasci aliud natum esse: ac 
+          <lb ed="#C" n="-14"/>per hoc nunquam filius si nunquam natus et si semper filius semper 
+          <lb ed="#C" n="-13"/>igitur natus</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1873-d1e142">
+          <lb ed="#C" n="-12"/><ref xml:id="xAbSeN-1e1873-Rd1e144">Idem ad pascentium comitem arrianum</ref>: <quote xml:id="xAbSeN-1e1873-Qd1e199">quid ergo dicimus? Si 
+          <lb ed="#C" n="-11"/>natus est filius de patre iam pater destitit <!--omitted: gignere et, si destitit,--> coepit. Si autem coepit 
+          <lb ed="#C" n="-10"/>gignit fuit aliquando sine filio: sed nunquam fuit sine filio: quia 
+          <lb ed="#C" n="-9"/>filius eius sapientia eius est. Ergo semper gignit pater et 
+          <pb ed="#C" n="50"/>
+          <lb ed="#C" n="1"/>semper nascitur filius: hic rursus timendum est ne putetur imperfecta 
+          <lb ed="#C" n="2"/>generatio si non dicimus natum esse sed nasci. Compatere mecum 
+          <lb ed="#C" n="3"/>obsecro in his angustiis humanae cogitationis et linguae et 
+          <lb ed="#C" n="4"/><seg type="correction">par<add place="above-line">i</add>ter</seg> confugiamus ad spiritum dei per prophetam dicentem: 
+          <lb ed="#C" n="5"/>generationem eius quis enarrabit</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e1873-d1e148">
+          <ref xml:id="xAbSeN-1e1873-Rd1e150">Gregorius super <del rend="strikethrough">Ioannem</del> 
+          <lb ed="#C" n="6"/>Iob libro xxx</ref>: <quote xml:id="xAbSeN-1e1873-Qd1e239">Dominus deus Iesus christus in eo quod virtus 
+          <lb ed="#C" n="7"/>et dei sapientia est de patre ante tempora natus est: vel 
+          <lb ed="#C" n="8"/>potius quia nec coepit nasci nec desiit dicamus verius 
+          <lb ed="#C" n="9"/>semper natus: non autem possumus dicere semper nascitur, ne 
+          <lb ed="#C" n="10"/>imperfectum esse videatur. at vero ut aeternus designari 
+          <lb ed="#C" n="11"/>valeat et perfectus et semper dicamus et natus quatenus ad 
+          <lb ed="#C" n="12"/>perfectionem pertineat et semper ad aeternitatem: quamvis hoc ipsum 
+          <lb ed="#C" n="13"/>quod perfectum dicimus multum ab illius veritatis expressione 
+          <lb ed="#C" n="14"/>deuiamus: quia quod factum non est nec potest dici perfectum: 
+          <lb ed="#C" n="15"/>et tamen infirmitatis nostrae verbis dominus condescendens, estote 
+          <lb ed="#C" n="16"/>inquit perfecti sicut et pater vester caelestis perfectus est</quote>:
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

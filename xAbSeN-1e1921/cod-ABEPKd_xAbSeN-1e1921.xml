@@ -1,138 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 17</title>
-            <author ref="#per-dsPeAb">Peter Abelard</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 17</title>
-               <date when="2021-02-26">February 26, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-02-26" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on"/>
-      </front>
-      <body>
-         <div xml:id="xAbSeN-1e1921"><!-- xAbSeN-q17 -->
-            <head xml:id="xAbSeN-1e1921-Hd1e103">Quaestio 17</head>
-            <head xml:id="xAbSeN-1e1921-Hd1e106" type="question-title"> quod solus pater dicatur ingenitus et non</head>
-    
-            <p xml:id="xAbSeN-1e1921-d1e109">
-               <ref xml:id="xAbSeN-1e1921-Rd1e111">isidorus etymologiarum lib. vi</ref>: Pater solus non est de alio, ideo
-      solus appellatur ingenitus.
-    </p>
-            <p xml:id="xAbSeN-1e1921-d1e115">
-               <ref xml:id="xAbSeN-1e1921-Rd1e117">athanasius de trinitate, lib. viii</ref>: Natiuitas filii Dei ante
-      principium apud patrem est. Confiteor unum innascibilem et unum
-      natum. Confiteor patrem omnipotentem sine initio, sine fine, qui omnia
-      tenet et a nullo tenetur, omnia gubernat et a nullo
-      gubernatur. Quantam habet pater uirtutem tantam habet et filius. Non
-      diminuitur genitus ab eo, qui est innascibilis. Spiritus sanctus nec
-      natus nec innascibilis; si autem dixero natum, duos filios
-      statuo.
-    </p>
-            <p xml:id="xAbSeN-1e1921-d1e123">
-               <ref xml:id="xAbSeN-1e1921-Rd1e125">gennadius de orthodoxa fide</ref>: Pater, inquit, principium deitatis, a quo
-      filius natus, a quo spiritus sanctus non natus, quia non est filius,
-      nec ingenitus, quia non est pater.
-    </p>
-            <p xml:id="xAbSeN-1e1921-d1e130">
-               <ref xml:id="xAbSeN-1e1921-Rd1e132">gregorius in registro, cap. i</ref>: Spiritum uero sanctum nec genitum nec
-      ingenitum sed coaeternum, de patre et filio procedentem.
-    </p>
-            <p xml:id="xAbSeN-1e1921-d1e136">
-               <ref xml:id="xAbSeN-1e1921-Rd1e138">augustinus in quaestionibus ab orosio propositis et ab ipso
-      dissolutis, cap. ii</ref>: Spiritum sanctum neque genitum neque ingenitum
-      fides certa declarat; quia si dixerimus ingenitum, patrem affirmare
-      uidebimur; sin autem genitum, duos filios credere culpamur. Sed, quod
-      certa fides tenet, nec ingenitus est nec genitus sed ab utrisque
-      procedens, id est a patre et filio.
-    </p>
-            <p xml:id="xAbSeN-1e1921-d1e142">
-               <ref xml:id="xAbSeN-1e1921-Rd1e144">idem in lib. v de trinitate, cap. vii</ref>: <quote xml:id="xAbSeN-1e1921-Qd1e147" source="http://scta.info/resource/adt-l5-d1e709" synch="32-81">Quod ergo dicitur ingenitus,
-      hoc ostendit quod non sit filius. Sed genitus et ingenitus commode
-      dicuntur. Filius autem latine dicitur sed in filius ut dicatur non
-      admittit loquendi consuetudo. Nihil tamen intellectui demitur si
-      dicatur non filius quemadmodum etiam si dicatur non genitus pro eo
-      dicitur ingenitus nihil aliud dicitur</quote>.
-    </p>
-            <p xml:id="xAbSeN-1e1921-d1e151">
-               <ref xml:id="xAbSeN-1e1921-Rd1e153">item</ref>: <quote xml:id="xAbSeN-1e1921-Qd1e156" source="http://scta.info/resource/adt-l5-d1e712" synch="1-25">Non ergo iam dicemus ingenitum quamuis dici latine possit sed
-      pro eo dicamus non genitum quod tantum ualet. Non ergo aliud dicimus
-      quam non filium.</quote>
-            </p>
-            <p xml:id="xAbSeN-1e1921-d1e160">
-               <ref xml:id="xAbSeN-1e1921-Rd1e162">item</ref>: <quote xml:id="xAbSeN-1e1921-Qd1e165" source="http://scta.info/resource/adt-l5-d1e715" synch="87-131">Ingenitus porro quid est nisi non genitus? Sicut enim genitus
-      non ad se ipsum dicitur sed quod ex patre sit, ita, cum dicitur
-      ingenitus, non ad se ipsum dicitur sed quod ex genitore non sit
-      ostenditur.</quote>
-            </p>
-            <p xml:id="xAbSeN-1e1921-d1e171">
-               <ref xml:id="xAbSeN-1e1921-Rd1e173">ambrosius de incarnatione dominica</ref>: Cum dudum audierint quidam
-      dicentibus nobis filium Dei qui generatus sit, patri qui generauit
-      inaequalem esse non posse, quamuis ille generatus sit iste
-      generauerit, quia generatio non potestatis est sed naturae; aduersus
-      illam quidem quaestionem uocem sibi arbitrantur acclusam. Sed
-      uestigium uertunt, mutatione sermonis dicentes, quomodo possunt
-      ingenitus et genitus esse unius naturae atque substantiae? Ergo ut
-      respondeam, primum omnium ingenitum in scripturis diuinis nusquam
-      inuenio, non legi, non audiui. Cuius mutabilitatis sunt homines istius
-      modi, ut dicant nos usurpare non scripta, cum scripta dicamus, et ipsi
-      obiiciant quod scriptum non sit?
-    </p>
-            <p xml:id="xAbSeN-1e1921-d1e178">
-               <ref xml:id="xAbSeN-1e1921-Rd1e180">item</ref>: Asserant, ubi ingenitum patrem legerint.
-    </p>
-            <p xml:id="xAbSeN-1e1921-d1e184">
-               <ref xml:id="xAbSeN-1e1921-Rd1e186">item</ref>: Verbum ingeniti, ubi legerint, demonstrent. Lectum est,
-      inquiunt, nam Arius dixit ingenitum patrem, et genitum et creatum
-      filium. Quo auctore contra apostolica scripta contendant, si modo Arii
-      se discipulos fateantur! Sed si illi dicunt quod Arius, iustius ego
-      debeo dicere quod apostolus dixit. Patrem non ingenitum, filium et
-      genitum dixit. Quod legi, non nego immo libenter usurpo; quod non
-      legi, usurpare non debeo. Sed usurpent ne forte dicant, quia genitum
-      non legimus patrem ideo ingenitum existimare debemus. Intelligitur hoc
-      ergo, non legitur; sed nec spiritum sanctum genitum legi. Ergo et
-      spiritus sanctus ingenitus secundum uestram sententiam nominandus est.
-    </p>
-    
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 17</title>
+        <author ref="#per-dsPeAb">Peter Abelard</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 17</title>
+          <date when="2021-02-26">February 26, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-02-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#C" n="50"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="xAbSeN-1e1921"><!-- xAbSeN-q17 -->
+        <head xml:id="xAbSeN-1e1921-Hd1e103">Quaestio 17</head>
+        <head xml:id="xAbSeN-1e1921-Hd1e106" type="question-title"> quod solus pater dicatur ingenitus et non</head>
+        <p xml:id="xAbSeN-1e1921-d1e105">
+          <lb ed="#C" n="17"/>Quod solus pater dicatur 
+          <lb ed="#C" n="18"/>ingenitus et contra
+        </p>
+        <p xml:id="xAbSeN-1e1921-d1e109">
+          <lb ed="#C" n="19"/><ref xml:id="xAbSeN-1e1921-Rd1e111">ysidorus etymologiarum libro vi</ref>: <quote xml:id="xAbSeN-1e1921-Qd1e118">pater solus non est de alio: ideo 
+          <lb ed="#C" n="20"/>solus appellatur ingenitus</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e1921-d1e115">
+          <ref xml:id="xAbSeN-1e1921-Rd1e117">athanasius de trinitate, libro 
+          <lb ed="#C" n="21"/>viii</ref>: <quote xml:id="xAbSeN-1e1921-Qd1e131">nativitas filii dei ante principium apud patrem est. 
+          <lb ed="#C" n="22"/>Confiteor unum innascibilem, et unum natum. Confiteor patrem 
+          <lb ed="#C" n="23"/>omnipotentem sine initio sine fine qui omnia tenet et a nullo 
+          <lb ed="#C" n="24"/>tenetur<unclear>?</unclear> omnia gubernat: et a nullo gubernatur: quantam 
+          <lb ed="#C" n="25"/>habet pater virtutem tantam habet et filius: non diminuitur 
+          <lb ed="#C" n="26"/>genitus ab eo qui est innascibilis spiritus sanctus nec natus nec 
+          <lb ed="#C" n="27"/>innascibilis: si autem dixero natum duos filios statuo.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1921-d1e123">
+          <ref xml:id="xAbSeN-1e1921-Rd1e125">gennadius 
+          <lb ed="#C" n="28"/>de orthodoxa fide</ref>: <quote xml:id="xAbSeN-1e1921-Qd1e158">pater inquit principium deitatis a quo
+          <lb ed="#C" n="29"/>filius natus a quo spiritus sanctus non natus quia non est filius:
+            <lb ed="#C" n="30"/>nec ingenitus quia non est pater.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1921-d1e130">
+          <ref xml:id="xAbSeN-1e1921-Rd1e132">Gregorius in registro cap. i</ref>: 
+          <lb ed="#C" n="31"/>spiritum vero sanctum nec genitum nec ingenitum sed coaeternum 
+          <pb ed="#C" n="51"/>
+          <lb ed="#C" n="1"/>de patre et filio procedentem:
+        </p>
+        <p xml:id="xAbSeN-1e1921-d1e136">
+          <ref xml:id="xAbSeN-1e1921-Rd1e138">augustinus in quaestionibus ab orosio propo<lb ed="#C" break="no" n="2"/>sitis 
+          et ab ipso dissolutis, cap. ii</ref>: <quote xml:id="xAbSeN-1e1921-Qd1e185">spiritum sanctum neque genitum neque 
+          <lb ed="#C" n="3"/>ingenitum fides certa declarat: <del rend="strikethrough">s</del> quia si dixerimus ingenitum 
+          <lb ed="#C" n="4"/>patrem affirmare videbimur: sin autem genitum duos filios credere 
+          <lb ed="#C" n="5"/>culpamur: sed quod certa fides tenet nec ingenitus est nec genitus 
+          <lb ed="#C" n="6"/>sed ab utrisque procedens id est a patre et filio</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e1921-d1e142">
+          <ref xml:id="xAbSeN-1e1921-Rd1e144">Idem in libro 
+          <lb ed="#C" n="7"/>v de trinitate cap. vii</ref>: <quote xml:id="xAbSeN-1e1921-Qd1e147" source="http://scta.info/resource/adt-l5-d1e709@32-81">quod ergo dicitur ingenitus hoc osten<lb ed="#C" break="no" n="8"/>dit 
+          quod non sit filius: sed genitus et ingenitus commode dicun<lb ed="#C" break="no" n="9"/>tur: 
+          filius autem latine dicitur: sed in filius ut dicatur non
+          <lb ed="#C" n="10"/>admittit loquendi consuetudo: nihil tamen intellectu <seg type="correction">d<add place="above-line">e</add>mitur</seg> 
+          <lb ed="#C" n="11"/>si dicatur non filius quemadmodum etiam si dicatur non genitus 
+          <lb ed="#C" n="12"/>pro eo dicitur ingenitus nihil aliud dicitur</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e1921-d1e151">
+          <ref xml:id="xAbSeN-1e1921-Rd1e153">Item</ref>: <quote xml:id="xAbSeN-1e1921-Qd1e156" source="http://scta.info/resource/adt-l5-d1e712@1-25">non ergo iam dicemus 
+            <lb ed="#C" n="13"/>ingenitum quamvis latine dici possit: sed pro eo dicamus non 
+            <lb ed="#C" n="14"/>genitum, quod tantum valet non ergo aliud dicimus quam non filium</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1921-d1e160">
+          <lb ed="#C" n="15"/><ref xml:id="xAbSeN-1e1921-Rd1e162">Item</ref>: <quote xml:id="xAbSeN-1e1921-Qd1e165" source="http://scta.info/resource/adt-l5-d1e715@87-131">Ingenitus porro quid est nisi non genitus? sicut enim genitus
+            <lb ed="#C" n="16"/>non ad se ipsum dicitur sed quod ex patre sit ita cum dicitur ingenitus non 
+            <lb ed="#C" n="17"/>ad se ipsum dicitur sed quod ex genitore non sit ostenditur.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e1921-d1e171">
+          <ref xml:id="xAbSeN-1e1921-Rd1e173">ambrosius 
+          de incarnatione dominica</ref>: Cum dudum audierint quidam dicentibus 
+          <lb ed="#C" n="18"/>nobis filium dei qui generatus sit patri qui generavit inaequalem 
+          <lb ed="#C" n="19"/>esse non posse, quamvis ille generatus sit iste generaverit quia 
+          <lb ed="#C" n="20"/>generatio non potestatis est sed naturae: adversus illam quidem quaesti<lb ed="#C" break="no" n="21"/>onem 
+          vocem sibi arbitrantur <sic>acclusam</sic>. sed vestigium vertunt muta<lb ed="#C" break="no" n="22"/>tione 
+          sermonis dicentes quomodo possunt ingenitus et genitus esse 
+          <lb ed="#C" n="23"/>unius naturae atque substantiae? Ergo ut respondeam primum omnium in<lb ed="#C" break="no" n="24"/>genitum 
+          in scripturis divinis nusquam invenio non legi non audivi. 
+          <lb ed="#C" n="25"/>Cuius mutabilitatis sunt homines istius modi ut dicant nos usur<lb ed="#C" break="no" n="26"/>pare 
+          non scripta: cum scripta dicamus et ipsi obiiciant quod scriptum 
+          <lb ed="#C" n="27"/>non sit?
+        </p>
+        <p xml:id="xAbSeN-1e1921-d1e178">
+          <ref xml:id="xAbSeN-1e1921-Rd1e180">Item</ref>: <quote xml:id="xAbSeN-1e1921-Qd1e291">asserant ubi ingenitum patrem legerint</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e1921-d1e184">
+          <ref xml:id="xAbSeN-1e1921-Rd1e186">Item</ref>: 
+          <lb ed="#C" n="28"/><quote xml:id="xAbSeN-1e1921-Qd1e300">verbum ingeniti ubi legerint demonstrent: lectum est inquiunt 
+          <lb ed="#C" n="29"/>nam arrius dixit ingenitum patrem et genitum et creatum filium. 
+          <lb ed="#C" n="30"/>Quo auctore contra apostolica scripta contendant: si modo arrii se 
+          <pb ed="#C" n="52"/>
+          <lb ed="#C" n="1"/>discipulos fateantur: sed si illi dicunt quod arrius iustius 
+          <lb ed="#C" n="2"/>ego debeo dicere quod apostolus dixit patrem non ingenitum 
+          <lb ed="#C" n="3"/>filium <del rend="strikethrough">dixit</del> et genitum dixit: quod legi non nego immo libenter 
+          <lb ed="#C" n="4"/>usurpo: quod non legi usurpare non debeo: sed usurpent 
+          <lb ed="#C" n="5"/>ne forte dicant quia genitum non legimus patrem ideo 
+          <lb ed="#C" n="6"/>ingenitum existimare debemus. Intelligitur ergo hoc non legitur: 
+          <lb ed="#C" n="7"/>sed nec spiritum sanctum genitum legi. ergo et spiritus sanctus ingenitus 
+          <lb ed="#C" n="8"/>secundum vestram sententiam <seg type="correction">nomin<add place="above-line">a</add>ndus</seg> est</quote>:
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

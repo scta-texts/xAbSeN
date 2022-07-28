@@ -1,86 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 20</title>
-            <author ref="#per-dsPeAb">Peter Abelard</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 20</title>
-               <date when="2021-02-26">February 26, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-02-26" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on"/>
-      </front>
-      <body>
-         <div xml:id="xAbSeN-1e2165"><!-- xAbSeN-q20 -->
-            <head xml:id="xAbSeN-1e2165-Hd1e103">Quaestio 20</head>
-            <head xml:id="xAbSeN-1e2165-Hd1e106" type="question-title"> quod primus psalmus de christo sit accipiendus et non</head>
-    
-            <p xml:id="xAbSeN-1e2165-d1e109">
-               <ref xml:id="xAbSeN-1e2165-Rd1e111">hieronymus in maiori breviario</ref>: Et in uia peccatorum non stetit. Non
-      dixit, non ambulauit (hoc quippe impossibile est, quia nullus absque
-      peccato) sed non stetit, hoc est non perseuerauit in delicto sed per
-      paenitentiam ad meliora conuersus est.
-    </p>
-            <p xml:id="xAbSeN-1e2165-d1e115">
-               <ref xml:id="xAbSeN-1e2165-Rd1e117">item</ref>: Et omnia quaecumque faciet prosperabuntur. Iudaei hunc psalmum
-      dictum esse existimant de Iosia, qui solus inter profanos reges non
-      abierit in consilio impiorum sed secutus sit legem Dei. Unde hoc, et
-      omnia quaecumque faciet prosperabuntur, de nullo sanctorum accipi
-      potest, nisi forte in futuro saeculo. Melius igitur de eo intelligimus
-      homine qui a Saluatore assumptus est, non quod alium assumpsisse,
-      alium assumptum esse testemur; sed quod idem filius Dei et filius
-      hominis.
-    </p>
-            <p xml:id="xAbSeN-1e2165-d1e121">IDEM IN MINORE BREVIARIO QUOD SlC INCIPIT, PSALTERIUM EST QUASI MAGNA
-      DOMUS: Beatus uir qui non abiit. Quidam putant, ut beatus iste uir
-      secundum hominem Christus sit sed imperitia est. Vir enim beatus hic
-      Christus est, et Christus legem dedit, quomodo de Christo dicitur: in
-      lege domini uoluntas eius? Denique quomodo alteri ligno comparatur, et
-      dicitur: et erit tamquam lignum quod plantatum est secus decursus
-      aquarum. Omne quod comparatur minus est ab eo cui comparatur. Videtis
-      igitur, super domini persona non potest interpretari psalmus sed
-      generaliter de quolibet.  /162/
-    </p>
-    
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 20</title>
+        <author ref="#per-dsPeAb">Peter Abelard</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 20</title>
+          <date when="2021-02-26">February 26, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-02-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#C" n="57"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="xAbSeN-1e2165"><!-- xAbSeN-q20 -->
+        <head xml:id="xAbSeN-1e2165-Hd1e103">Quaestio 20</head>
+        <head xml:id="xAbSeN-1e2165-Hd1e106" type="question-title"> quod primus psalmus de christo sit accipiendus et non</head>
+        <p xml:id="xAbSeN-1e2165-d1e105">
+          <lb ed="#C" n="19"/>Quod primus psalmus de christo 
+          <lb ed="#C" n="20"/>sit accipiendus et non
+        </p>
+        <p xml:id="xAbSeN-1e2165-d1e109">
+          <lb ed="#C" n="21"/><ref xml:id="xAbSeN-1e2165-Rd1e111">Hieronymus in maiori breviario</ref>: <quote xml:id="xAbSeN-1e2165-Qd1e118">Et in via peccatorum non stetit: non dixit non 
+            <lb ed="#C" n="22"/>ambulavit: hoc quippe impossibile est: quia nullus absque peccato: 
+            <lb ed="#C" n="23"/>sed non stetit: hoc est non perseverauit in delicto: sed per paenitentiam 
+            <lb ed="#C" n="24"/>ad meliora conversus est</quote>
+        </p>
+        <p xml:id="xAbSeN-1e2165-d1e115">
+          <ref xml:id="xAbSeN-1e2165-Rd1e117">Item</ref>: <quote xml:id="xAbSeN-1e2165-Qd1e133">et omnia quaecumque faciet prosperabuntur: 
+            <lb ed="#C" n="25"/>Iudaei hunc psalmum dictum esse existimant de Iosia, qui solus inter 
+            <lb ed="#C" n="26"/>profanos reges non abierit in consilio impiorum sed secutus sit 
+            <lb ed="#C" n="27"/>legem dei: unde hoc et omnia quaecumque faciet prosperabuntur, de 
+            <lb ed="#C" n="28"/>nullo sanctorum accipi potest nisi forte in futuro saeculo: 
+            <lb ed="#C" n="29"/>melius igitur de eo intelligimus homine, qui a saluatore assumptus 
+            <lb ed="#C" n="30"/>est: non quod alium assumpsisse alium assumptum esse testemur 
+            <lb ed="#C" n="31"/>sed quod idem filius dei et filius hominis</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e2165-d1e121">
+          <ref xml:id="xAbSeN-1e2165-Rd1e155">Idem in minore bre<!-- falls to next line but is not a catch word-->viario 
+          <pb ed="#C" n="58"/>
+          <lb ed="#C" n="1"/>quod sic incipit psalterium est quasi magna domus</ref> <quote xml:id="xAbSeN-1e2165-Qd1e164">Beatus vir qui 
+          <lb ed="#C" n="2"/>non abiit: quidam putant: ut beatus iste vir secundum hominem christus 
+          <lb ed="#C" n="3"/>sit: sed imperitia est: vir enim beatus hic christus est: et legem christus 
+          <lb ed="#C" n="4"/>dedit: quomodo de christo dicitur in lege domini voluntas eius? denique 
+          <lb ed="#C" n="5"/>quomodo alteri ligno comparatur et dicitur: Et erit tamquam lignum quod 
+          <lb ed="#C" n="6"/>plantatum est secus decursus aquarum? Omne quod comparatur minus 
+          <lb ed="#C" n="7"/>est ab eo cui comparatur. Videtis igitur super domini persona non potest 
+          <lb ed="#C" n="8"/>interpretari psalmus sed generaliter de quolibet</quote>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

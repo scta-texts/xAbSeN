@@ -1,142 +1,146 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 23</title>
-            <author ref="#per-dsPeAb">Peter Abelard</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 23</title>
-               <date when="2021-02-26">February 26, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-02-26" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on"/>
-      </front>
-      <body>
-         <div xml:id="xAbSeN-1e2230"><!-- xAbSeN-q23 -->
-            <head xml:id="xAbSeN-1e2230-Hd1e103">Quaestio 23</head>
-            <head xml:id="xAbSeN-1e2230-Hd1e106" type="question-title"> quod spiritus domini ferebatur super aquas intelligendum sit
-      de spiritu sancto et non</head>
-    
-            <p xml:id="xAbSeN-1e2230-d1e109">
-               <ref xml:id="xAbSeN-1e2230-Rd1e111">ambrosius de sacramentis, sermone i</ref>: Vidisti aquas non solas, crede
-      diuinitatis illic adesse praesentiam. Spiritus inquit ferebatur super
-      aquas. Dicit propheta: Verbo domini caeli firmati sunt, et spiritu
-      oris eius omnis uirtus eorum. Qui superferebatur, operabatur. Accipe
-      aliud testimonium: Non permanebit inquit Deus spiritus meus in
-      hominibus, quia carnes sunt; quo ostendit Deus quia carnalem
-      immunditiam gratia spiritalis auertit.
-    </p>
-            <p xml:id="xAbSeN-1e2230-d1e115">
-               <ref xml:id="xAbSeN-1e2230-Rd1e117">idem in hexameron de die primo</ref>: Et spiritus domini ferebatur super
-      aquas. Spiritum sanctum accipimus, ut in constitutione mundi opera
-      trinitatis eluceant. Praemisso enim quia in principio fecit Deus
-      caelum in terram, id est in Christo uel per filium, quia per ipsum
-      facta sunt, supererat plenitudo operationis in spiritu, sicut scriptum
-      est: Verbo domini caeli firmati sunt et spiritu oris omnis uirtus
-      eorum. Spiritus Dei superferebatur aquas; ornando polos caeli
-      germinaturis terris, quia per ipsum nouorum partuum semina germinare,
-      secundum quod dixit propheta: Emitte spiritum tuum etc. Denique Syrus,
-      qui uicinus Hebraeo est, sic habet: et spiritus domini fouebat aquas,
-      id est uiuificabat, ut in nouas cogeret creaturas et fotu suo animaret
-      ad uitam. Nam etiam spiritum sanctum legimus creatorem dicente Iob:
-      spiritus diuinus qui fecit me.
-    </p>
-            <p xml:id="xAbSeN-1e2230-d1e121">
-               <ref xml:id="xAbSeN-1e2230-Rd1e123">item</ref>: Siue, ut quidam uolunt, aerem accipiant, respondeant qua
-      ratione spiritum Dei dixerit, cum satis fuerit spiritum
-      nuncupare.
-    </p>
-            <p xml:id="xAbSeN-1e2230-d1e128">HIERONYMUS SUPER GENESIM, IN LIBRO HEBRAICARUM QUAESTIONUM: Et
-      spiritus Dei ferebatur super aquas; pro eo quod in nostris codicibus
-      scriptum est ferebatur, in hebraeo habet merefeth, quod nos appellare
-      possumus incubabat siue confouebat, in similitudinem uolucris oua
-      calue animantis. Ex quo intelligimus non de spiritu mundi dici, ut
-      nonnulli arbitrantur sed de spiritu sancto, qui et ipse uiuificator
-      omnium a principio dicitur; si autem uiuificator, et coeditor quod si
-      conditor, et Deus. Emitte, inquit, spiritum tuum et
-      creabuntur.
-    </p>
-            <p xml:id="xAbSeN-1e2230-d1e133">
-               <ref xml:id="xAbSeN-1e2230-Rd1e135">augustinus super genesim, lib. i</ref>: Spiritus domini ferebatur super
-      aquas. Egenus atque indigens amor ita diligit ut rebus quas diligit,
-      subiiciatur; propterea, cum commemoraretur spiritus Dei, in quo sancta
-      eius beneuolentia dilectioque intelligitur, superferri dictus est, ne
-      facienda opera sua per indigentiae necessitatem potius quam per
-      abundantiam beneficentiae Deus amare putaretur.
-    </p>
-            <p xml:id="xAbSeN-1e2230-d1e139">
-               <ref xml:id="xAbSeN-1e2230-Rd1e141">idem de incarnata deitate, ad ianuarium</ref>: Spiritus igitur Dei qui super
-      aquas ferebatur in principio, puto quod non sit alius quam spiritus
-      sanctus, non tamen secundum historiam sed secundum intelligentiam
-      spiritualem.
-    </p>
-            <p xml:id="xAbSeN-1e2230-d1e145">
-               <ref xml:id="xAbSeN-1e2230-Rd1e147">idem in libro quaestionum veteris et novae legis, cap. lvi</ref>: Si ideo
-      spiritus sanctus putatur quia Dei esse spiritus legitur, inanis
-      assertio est. Ait Dominus: Non permanebit spiritus meus in hominibus
-      istis, propterea quod sunt caro. Et in subiectis: sed delebo, inquit,
-      omnia ab homine usque ad pecus. Hoc utique dixit quia diluuium
-      inducere habuit super terram. Numquid hic spiritus sanctus potest
-      intelligi? De animabus enim dixit. Et in Ezechiele sic dictum est:
-      Haec dicit Dominus ossibus istis: extendam super uos cutem, et dabo in
-      uos spiritum meum, et uiuetis.
-    </p>
-            <p xml:id="xAbSeN-1e2230-d1e151">
-               <ref xml:id="xAbSeN-1e2230-Rd1e153">item</ref>: Et anima hominis spiritus dicitur et uentus similiter, et aer et
-      anima pecoris et angeli et quaecumque acceperunt ut uiuant per
-      substantiam propriam.
-    </p>
-            <p xml:id="xAbSeN-1e2230-d1e157">
-               <ref xml:id="xAbSeN-1e2230-Rd1e159">item</ref>: Quotiescumque autem spiritum, qui proprie de Deo est, uult
-      scriptura significare, addit dicens spiritum sanctum, ut hoc non
-      creatura intelligatur. Moyses autem cum creaturam hylicam, id est
-      confusionem rerum, describeret quae utique sensu bruta est, super
-      terram et abyssum tenebrosam spiritum domini superferri interfatus
-      est, ut ex eo spiritu et loco in quo ferebatur, superior creatura,
-      quam spiritalem dicimus, cognoscatur. Nam ex eo quod superferri illum
-      dixit, creaturam illum significauit; quia omnis creatura Dei fertur
-      uirtute, a quo accepit ut sit. Nam quis ordo est, ut spiritus sanctus
-      super aquas ferretur quem constat utique super omnem esse creaturam?
-    </p>
-    
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 23</title>
+        <author ref="#per-dsPeAb">Peter Abelard</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 23</title>
+          <date when="2021-02-26">February 26, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-02-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#C" n="59"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="xAbSeN-1e2230"><!-- xAbSeN-q23 -->
+        <head xml:id="xAbSeN-1e2230-Hd1e103">Quaestio 23</head>
+        <head xml:id="xAbSeN-1e2230-Hd1e106" type="question-title"> quod spiritus domini ferebatur super aquas intelligendum sit
+          de spiritu sancto et non</head>
+        <p xml:id="xAbSeN-1e2230-d1e105">
+          <lb ed="#C" n="6"/>quod spiritus dei ferebatur super aquas 
+          <lb ed="#C" n="7"/>intelligendum sit de spiritu sancto et non:
+        </p>
+        
+        <p xml:id="xAbSeN-1e2230-d1e109">
+          <lb ed="#C" n="8"/><ref xml:id="xAbSeN-1e2230-Rd1e111">ambrosius de sacramentis sermone i</ref>: <quote xml:id="xAbSeN-1e2230-Qd1e118">vidisti <del rend="strikethrough">non</del> aquas non solas crede
+          <lb ed="#C" n="9"/>divinitatis illic adesse praesentiam: spiritus inquit ferebatur super aquas 
+          <lb ed="#C" n="10"/>dicit propheta: verbo domini caeli firmati sunt et spiritu oris eius omnis 
+          <lb ed="#C" n="11"/>virtus eorum: qui super ferebatur operabatur. accipe aliud testimoni<lb ed="#C" break="no" n="12"/>um: 
+          non permanebit inquit spiritus meus in <del rend="strikethrough">vobis</del> hominibus <del rend="strikethrough">quia</del> quia 
+          <lb ed="#C" n="13"/>carnes sunt: quo ostendit deus quia carnalem immunditiam gratia 
+          <lb ed="#C" n="14"/>spiritalis avertit</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e2230-d1e115">
+          <lb ed="#C" n="15"/><ref xml:id="xAbSeN-1e2230-Rd1e117">Idem in exameron de die primo</ref>: <quote xml:id="xAbSeN-1e2230-Qd1e150">et spiritus domini 
+          <lb ed="#C" n="16"/>ferebatur super aquas: spiritum sanctum accipimus: ut in constitutione mundi 
+          <lb ed="#C" n="17"/>opera trinitatis eluceant: praemisso enim quia in principio fecit deus 
+          <lb ed="#C" n="18"/>caelum in terram id est in christo vel per filium quia per ipsum facta sunt: 
+          <lb ed="#C" n="19"/>super erat plenitudo operationis in spiritu sicut scriptum est: verbo domini caeli 
+          <lb ed="#C" n="20"/>firmati sunt et spiritu oris <unclear>eius</unclear> omnis virtus eorum: spiritus dei superfere<lb ed="#C" break="no" n="21"/>batur 
+          aquas ornando polos caeli germinaturis terris quia per ipsum nouo<lb ed="#C" break="no" n="22"/>rum 
+          partuum semina germinare secundum quod dixit propheta: Emitte 
+          <lb ed="#C" n="23"/>spiritum tuum etc. Denique syrus qui vicinus hebraeo est, sic habet et spiritus domini 
+          <lb ed="#C" n="24"/>fouebat aquas: id est viuificabat: ut in novas cogeret creaturas et 
+          <lb ed="#C" n="25"/>fotu suo animaret ad vitam. nam etiam spiritum sanctum legimus creatorem dicente 
+          <lb ed="#C" n="26"/>iob: Spiritus divinus qui fecit me</quote>
+        </p>
+        <p xml:id="xAbSeN-1e2230-d1e121">
+          <ref xml:id="xAbSeN-1e2230-Rd1e123">Item</ref>: <quote xml:id="xAbSeN-1e2230-Qd1e186">siue ut quidam volunt 
+          <lb ed="#C" n="27"/>aerem accipiant respondeant qua ratione spiritum Dei dixerit cum 
+          <lb ed="#C" n="28"/>satis fuerit spiritum nuncupare</quote>
+        </p>
+        <p xml:id="xAbSeN-1e2230-d1e128">
+          <ref xml:id="xAbSeN-1e2230-Rd1e196">Ierominus super genesim in libro he<lb ed="#C" break="no" n="29"/>braicarum 
+          quaestionum</ref>: <quote xml:id="xAbSeN-1e2230-Qd1e201">Et spiritus ferebatur super aquas: vel eo quod in 
+          <lb ed="#C" n="30"/>nostris codicibus scriptum es: in ebraeo habet merefeth: quod 
+          <lb ed="#C" n="31"/>nos appellare possumus incubabat siue confovebat, in similitudinem 
+          <lb ed="#C" n="32"/>volucris ova calore animantis. Ex quo intelligimus non de spiritu 
+          <lb ed="#C" n="33"/>mundi dici ut nonnulli arbitrantur: sed de spiritu sancto qui et ipse 
+          <lb ed="#C" n="34"/>vivificator omnium a principio dicitur: si autem vivificator, et conditor 
+          <lb ed="#C" n="35"/>quod si conditor et deus: emitte inquit spiritum <del rend="strikethrough">meam</del> tuum et crea<lb ed="#C" break="no" n="36"/>buntur</quote>
+        </p>
+        <p xml:id="xAbSeN-1e2230-d1e133">
+          <ref xml:id="xAbSeN-1e2230-Rd1e135">augustinus super genesim libro i</ref>: <quote xml:id="xAbSeN-1e2230-Qd1e228" source="http://scta.info/resource/wN2gEA-Te9CCN-d1e216@30-78">spiritus domini ferebatur super
+          <lb ed="#C" n="37"/>aquas: Egenus atque indigens amor ita diligit ut rebus quas diligit,
+          <lb ed="#C" n="38"/>subiiciatur: propterea cum commemoraretur spiritus dei in quo sancta eius 
+          <lb ed="#C" n="39"/>benevolentia dilectioque intelligitur superferri dictus est ne facienda 
+          <lb ed="#C" n="40"/>opera sua per indigentiae necessitatem potius quam per abundantiam 
+          <lb ed="#C" n="41"/>beneficentiae deus amare putaretur</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e2230-d1e139">
+          <ref xml:id="xAbSeN-1e2230-Rd1e141">Idem de incarnata deitate 
+          <lb ed="#C" n="42"/>ad ianuarium</ref>: <quote xml:id="xAbSeN-1e2230-Qd1e249">spiritus igitur dei qui super aquas ferebatur in prin<lb ed="#C" break="no" n="43"/>cipio 
+          puto quod non sit alius quam spiritus sanctus non tamen secundum 
+          <lb ed="#C" n="44"/>historiam: sed secundum intelligentiam spiritualem</quote>
+        </p>
+        <p xml:id="xAbSeN-1e2230-d1e145">
+          <ref xml:id="xAbSeN-1e2230-Rd1e147">Idem in libro 
+          <lb ed="#C" n="45"/>quaestionum veteris et novae legis, cap. lvi</ref> <quote xml:id="xAbSeN-1e2230-Qd1e264">si ideo spiritus sanctus 
+          <lb ed="#C" n="46"/>putatur quia Dei esse spiritus legitur inanis est assertio ait dominus 
+          <lb ed="#C" n="47"/>non permanebit spiritus meus in istis hominibus propterea quod sunt 
+          <lb ed="#C" n="48"/>caro et in subiectis sed delebo inquit omnia ab homine usque ad 
+          <lb ed="#C" n="49"/>pecus hoc utique dixit quia diluvium inducere habuit habuit 
+          <lb ed="#C" n="50"/>super terram: numquid hic spiritus sanctus potest intelligi: de 
+          <lb ed="#C" n="51"/>animabus enim dixit: et in Ezechiele sic dictum est: haec dicit dominus ossibus istis 
+          <lb ed="#C" n="52"/>Extendam super vos cutem, et dabo in vos spiritum meum, et vivetis.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e2230-d1e151">
+          <lb ed="#C" n="53"/><ref xml:id="xAbSeN-1e2230-Rd1e153">item</ref>: <quote xml:id="xAbSeN-1e2230-Qd1e289">et anima hominis spiritus dicitur et ventus similiter, et aer et
+          <lb ed="#C" n="54"/>anima pecoris et angeli, et quaecumque acceperunt ut vivant per substantiam 
+          <lb ed="#C" n="55"/>propriam.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e2230-d1e157">
+          <ref xml:id="xAbSeN-1e2230-Rd1e159">item</ref>: <quote xml:id="xAbSeN-1e2230-Qd1e303">quotiescumque autem spiritum qui proprie de <sic>caelo</sic> est vult scriptu<lb ed="#C" break="no" n="56"/>ra 
+          significare addit dicens spiritum sanctum: ut hoc non creatura 
+          <lb ed="#C" n="57"/>intelligatur: <name xml:id="xAbSeN-1e2230-Nd1e311">moyses</name> autem, cum creaturam hylicam id est confusionem 
+          <lb ed="#C" n="58"/>rerum describeret: quae utique sensu bruta est super terram et abyssum 
+          <lb ed="#C" n="59"/>tenebrosam: spiritum domini superferri interfatus est: ut ex eo spiritu et 
+          <lb ed="#C" n="60"/>loco in quo ferebatur superior creatura quam spiritalem dicimus 
+          <lb ed="#C" n="61"/>cognoscatur: nam ex eo quod superferri illum dixit creaturam illum 
+          <lb ed="#C" n="62"/>significauit: quia omnis creatura dei fertur virtute a quo accepit 
+          <lb ed="#C" n="63"/>ut sit: nam quis ordo est ut spiritus sanctus super aquas ferretur quem 
+          <lb ed="#C" n="64"/>constat utique super omnem esse creaturam:</quote>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

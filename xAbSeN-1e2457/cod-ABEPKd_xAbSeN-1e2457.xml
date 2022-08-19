@@ -1,78 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 26</title>
-            <author ref="#per-dsPeAb">Peter Abelard</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 26</title>
-               <date when="2021-02-26">February 26, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-02-26" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on"/>
-      </front>
-      <body>
-         <div xml:id="xAbSeN-1e2457"><!-- xAbSeN-q26 -->
-            <head xml:id="xAbSeN-1e2457-Hd1e103">Quaestio 26</head>
-            <head xml:id="xAbSeN-1e2457-Hd1e106" type="question-title"> quod de praescientia iudicet deus et non</head>
-    
-            <p xml:id="xAbSeN-1e2457-d1e109">
-               <ref xml:id="xAbSeN-1e2457-Rd1e111">ambrosius in epistola ad romanos</ref>: Quod si uolens Deus ostendere dram
-      etc. De praescientia Pharaonem damnandum censuit sciens eum non se
-      correcturum; apostolum uero Paulum elegit praescius utique quod
-      futurus esset fidelis. Quibusdam autem data est gratia in usum, ut
-      Sauli; Iude illis quibus dixit: Ecce nomina uestra scripta sunt in
-      caelo, et post abierunt retrorsum.
-    </p>
-            <p xml:id="xAbSeN-1e2457-d1e115">
-               <ref xml:id="xAbSeN-1e2457-Rd1e117">item</ref>: Nomina eorum erant scripta in caelo propter iustitiam cui
-      deseruiebant; secundum uero praescientiam in numero erant malorum. De
-      iustitia enim Deus iudicat, non de praescientia. Unde et Moysi dicit:
-      Si quis peccauerit ante me, delebo eum de libro uitae; ut secundum
-      iustitiam iudicis tunc uideatur deleri, cum peccat. Iuxta
-      praescientiam tamen nunquam in libro uitae fuerat. Econtra tunc
-      aliquis uidetur adscribi, cum malus esse desinit, qui secundum
-      praescientiam numquam defuit.  /170/
-    </p>
-    
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 26</title>
+        <author ref="#per-dsPeAb">Peter Abelard</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 26</title>
+          <date when="2021-02-26">February 26, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-02-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#C" n="64"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="xAbSeN-1e2457"><!-- xAbSeN-q26 -->
+        <head xml:id="xAbSeN-1e2457-Hd1e103">Quaestio 26</head>
+        <head xml:id="xAbSeN-1e2457-Hd1e106" type="question-title"> quod de praescientia iudicet deus et non</head>
+        <p xml:id="xAbSeN-1e2457-d1e105">
+          <lb ed="#C" n="1"/>quod de praescientia iudicet deus 
+          <lb ed="#C" n="2"/>et contra
+        </p>
+        <p xml:id="xAbSeN-1e2457-d1e109">
+          <lb ed="#C" n="3"/><ref xml:id="xAbSeN-1e2457-Rd1e111">ambrosius in epistola ad romanos</ref>: <quote xml:id="xAbSeN-1e2457-Qd1e118">quod si volens deus ostendere iram
+          etc. De praescientia pharaonem damnandum sensuit sciens eum non 
+          <lb ed="#C" n="4"/>se correcturum: apostolum vero paulum elegit praescius utique quod futurus 
+          <lb ed="#C" n="5"/>esset fidelis: quibusdam autem data est gratia in usum: ut sauli; iude 
+          <lb ed="#C" n="6"/>illis quibus dixit: Ecce nomina uestra scripta sunt in caelo et post 
+          <lb ed="#C" n="7"/>abierunt retrorsum</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e2457-d1e115">
+          <ref xml:id="xAbSeN-1e2457-Rd1e117">Item</ref>: <quote xml:id="xAbSeN-1e2457-Qd1e135">nomina eorum erant scripta in caelo propter 
+          <lb ed="#C" n="8"/>iustitiam cui deseruiebant: secundum vero praescientiam in numero 
+          <lb ed="#C" n="9"/>malorum erant: de iustitia enim deus iudicat, non de praescientia 
+          <lb ed="#C" n="10"/>unde et moysi dicit: si quis peccauerit ante me, delebo eum 
+          <lb ed="#C" n="11"/>de libro uitae; ut secundum iustitiam iudicis tunc videatur deleri 
+          <lb ed="#C" n="12"/>cum peccat. Iuxta praescientiam tamen: nunquam in libro vitae 
+          <lb ed="#C" n="13"/>fuerat: Et contra tunc aliquis videtur ascribi: cum malus 
+          <lb ed="#C" n="14"/>esse desinit qui secundum praescientiam numquam defuit</quote>:
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

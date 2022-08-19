@@ -1,88 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 28</title>
-            <author ref="#per-dsPeAb">Peter Abelard</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 28</title>
-               <date when="2021-02-26">February 26, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-02-26" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on"/>
-      </front>
-      <body>
-         <div xml:id="xAbSeN-1e2508"><!-- xAbSeN-q28 -->
-            <head xml:id="xAbSeN-1e2508-Hd1e103">Quaestio 28</head>
-            <head xml:id="xAbSeN-1e2508-Hd1e106" type="question-title"> quod nihil fiat casu et contra</head>
-    
-            <p xml:id="xAbSeN-1e2508-d1e109">
-               <ref xml:id="xAbSeN-1e2508-Rd1e111">augustinus quaestionum lxxxiii cap. xxvi</ref>: Quidquid casu fit, temere
-      fit; quidquid temere fit, non fit prouidentia. Si ergo casu aliqua
-      fiunt in mundo, non prouidentia uniuersus mundus administratur.
-    </p>
-            <p xml:id="xAbSeN-1e2508-d1e115">
-               <ref xml:id="xAbSeN-1e2508-Rd1e117">item</ref>: Illud bonum, cuius participatione sunt bona caetera, non propter
-      aliud sed per semet ipsum bonum est quod diuinam etiam prouidentiam
-      uocamus. Nihil igitur casu fit in mundo.
-    </p>
-            <p xml:id="xAbSeN-1e2508-d1e121">
-               <ref xml:id="xAbSeN-1e2508-Rd1e123">idem, retractationum cap. i</ref>: Non mihi placet totiens me appellare
-      fortunam, quamuis non aliquam deam uoluerim hoc nomine intelligi sed
-      fortuitum rerum euentum. Unde et illa uerba sunt, quae nulla religio
-      dici prohibet: forte, forsitan, fortasse, fortuitu; quod tamen totum
-      ad diuinam reuocandum est prouidentiam. Paenitet me illic nominasse
-      fortunam, cum homines habeant in pessima consuetudine, ubi dici debet,
-      hoc Deus uoluit, dicere, hoc uoluit fortuna.
-    </p>
-            <p xml:id="xAbSeN-1e2508-d1e128">
-               <ref xml:id="xAbSeN-1e2508-Rd1e130">idem in libro de concordia evangelistarum in matthaeum</ref>: Nihil fortuitu
-      fit ab eo qui omnia disponit, quamuis nullus intelligat causam. Unde
-      Dominus: Ego ueni, ut qui non uident uideant, et qui uident oaeci
-      fiant. Ipsa est enim atttitudo diuitiarum, sapientiae et scientiae
-      Dei, qua fit ex eadem massa aliud uas in honorem, aliud in
-      contumeliam, et qua dicitur carni et sanguini: O homo! tu quis es qui
-      respondeas Deo?  /172/
-    </p>
-    
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 28</title>
+        <author ref="#per-dsPeAb">Peter Abelard</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 28</title>
+          <date when="2021-02-26">February 26, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-02-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#C" n="65"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="xAbSeN-1e2508"><!-- xAbSeN-q28 -->
+        <head xml:id="xAbSeN-1e2508-Hd1e103">Quaestio 28</head>
+        <head xml:id="xAbSeN-1e2508-Hd1e106" type="question-title"> quod nihil fiat casu et contra</head>
+        <p xml:id="xAbSeN-1e2508-d1e105">
+          <lb ed="#C" n="13"/>Quod nihil fiat casu: 
+          <lb ed="#C" n="14"/>et contra:
+        </p>
+        <p xml:id="xAbSeN-1e2508-d1e109">
+          <lb ed="#C" n="15"/><ref xml:id="xAbSeN-1e2508-Rd1e111">augustinus quaestionum lxxxiii cap. xxvi</ref>: <quote xml:id="xAbSeN-1e2508-Qd1e118">quidquid casu fit temere fit: 
+          <lb ed="#C" n="16"/>quidquid temere fit non fit providentia: si ergo casu aliqua fiunt in mundo 
+          <lb ed="#C" n="17"/>non providentia universus mundus administratur</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e2508-d1e115">
+          <ref xml:id="xAbSeN-1e2508-Rd1e117">Item</ref>: <quote xml:id="xAbSeN-1e2508-Qd1e131">illud bonum 
+          <lb ed="#C" n="18"/>cuius participatione sunt bona caetera non propter aliud, sed per 
+          <lb ed="#C" n="19"/>semet ipsum bonum est: quod divinam etiam prouidentiam vocamus nihil 
+          <lb ed="#C" n="20"/>igitur casu fit in mundo</quote>
+        </p>
+        <p xml:id="xAbSeN-1e2508-d1e121">
+          <ref xml:id="xAbSeN-1e2508-Rd1e123">Idem retractationum capitulo i</ref>: <quote xml:id="xAbSeN-1e2508-Qd1e147">non mihi placet 
+          <lb ed="#C" n="21"/>totiens me appellasse fortunam, quamvis non aliquam deam voluerim 
+          <lb ed="#C" n="22"/>hoc nomine intelligi: sed fortuitum rerum eventum: unde et illa verba 
+          <lb ed="#C" n="23"/>sunt quae nulla religio dici prohibet, forte, forsitan, fortasse, 
+          <lb ed="#C" n="24"/>fortuitu: quod tamen totum ad divinam revocandum est providentiam 
+          <lb ed="#C" n="25"/>penitet me illic nominasse fortunam, cum homines habeant in pessima 
+          <lb ed="#C" n="26"/>consuetudine ubi dici debet hoc deus voluit: dicere hoc vo<lb ed="#C" break="no" n="27"/>luit 
+          fortuna</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e2508-d1e128">
+          <ref xml:id="xAbSeN-1e2508-Rd1e130">Idem in libro de concordia evangelistarum in matthaeum</ref>: 
+          <lb ed="#C" n="28"/><quote xml:id="xAbSeN-1e2508-Qd1e172">Nihil fortuitu fit ab eo qui omnia disponit quamuis nullus intelli<lb ed="#C" break="no" n="29"/>gat 
+          causam: unde dominus: Ego veni, ut qui non vident videant 
+          <pb ed="#C" n="66"/>
+          <lb ed="#C" n="1"/>et qui vident caeci fiant. Ipsa est enim altitudo diuitiarum sapientiae et 
+          <lb ed="#C" n="2"/>scientiae dei, qua fit ex eadem massa aliud vas in honorem aliud in 
+          <lb ed="#C" n="3"/>contumeliam et qua dicitur carni et sanguini: O homo tu quis es 
+          <lb ed="#C" n="4"/>qui respondeas Deo</quote>:
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

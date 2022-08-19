@@ -1,94 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 27</title>
-            <author ref="#per-dsPeAb">Peter Abelard</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 27</title>
-               <date when="2021-02-26">February 26, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-02-26" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on"/>
-      </front>
-      <body>
-         <div xml:id="xAbSeN-1e2476"><!-- xAbSeN-q27 -->
-            <head xml:id="xAbSeN-1e2476-Hd1e103">Quaestio 27</head>
-            <head xml:id="xAbSeN-1e2476-Hd1e106" type="question-title"> quod providentia dei causa sit eventuum rerum et non</head>
-    
-            <p xml:id="xAbSeN-1e2476-d1e109">
-               <ref xml:id="xAbSeN-1e2476-Rd1e111">boethius, de consolatione, lib. iv</ref>: <quote xml:id="xAbSeN-1e2476-Qd1e114" source="http://scta.info/resource/hy7y6y-d1e83-d1e214" synch="123-171">Quidam aiunt non ideo quid es se
-      euenturum, quoni am id prouident ia futurum esse prospexerit sed e
-      contrario potius, quoniam quid futurum est, id diuinam prouidentiam
-      latere non posse eoque modo necessarium hoc in contrariam relabi
-      partem. Neque enim necesse [est] esse contingere quae prouidentur sed
-      necesse esse quae futura sunt prouideri</quote>.
-    </p>
-            <p xml:id="xAbSeN-1e2476-d1e118">
-               <ref xml:id="xAbSeN-1e2476-Rd1e120">item</ref>: <quote xml:id="xAbSeN-1e2476-Qd1e123" source="http://scta.info/resource/hy7y6y-d1e83-d1e214" synch="329-364">Iam uero quam praeposterum est, ut aeternae praescientiae
-      temporalium rerum euentus causa esse dicatur! Quid est autem aliud
-      arbitrari ideo Deum futura, quia sunt euentura, prouidere quam putare
-      quae olim acciderunt causam summae illius esse prouidentiae?</quote>
-            </p>
-            <p xml:id="xAbSeN-1e2476-d1e127">
-               <ref xml:id="xAbSeN-1e2476-Rd1e129">origenes super epistolam pauli ad romanos</ref>: Et quos uocauit. Quomodo
-      quos uocauit, iustificauit, cum constet multos esse uocatos, paucos
-      electos? Sed omnes quidem uocati sunt, non tamen omnes secundum
-      propositum uocati. Nam hi qui secundum propositum bonum et bonam
-      uoluntatem, quam circa Dei cultum gerunt, uocantur, ipsi sunt qui
-      secundum propositum uocati dicuntur. Quod si secundum propositum ad
-      Deum referatur, hoc est ut secundum propositum Dei, qui sciens in eis
-      religiosam mentem et salutis inesse desiderium, uocati dicantur, non
-      uidebitur his quae exposuimus contrarium. Hoc ergo pacto neque in
-      praescientia Dei uel salutis uel perditionis nostrae causa consistit,
-      neque iustificatio ex sola uocatione pendebit, neque gloriari de
-      nostra penitus potestate sublatum est. Nam et si communi intellectu de
-      praescientia sentiamus, non propterea aliquid erit, quia id scit Deus
-      futurum sed quia futurum est, scitur a Deo antequam fiat.  Ut autem
-      scias quia non in praescientia Dei uniuscuiusque salutis causa
-      ponitur, sed in proposito et actibus suis, uide Paulum, uerentem
-      ne forte cum aliis praedicauerit, ipse reprobus efficiatur, macerare
-      corpus suum.
-    </p>
-    
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 27</title>
+        <author ref="#per-dsPeAb">Peter Abelard</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 27</title>
+          <date when="2021-02-26">February 26, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-02-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#C" n="64"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="xAbSeN-1e2476"><!-- xAbSeN-q27 -->
+        <head xml:id="xAbSeN-1e2476-Hd1e103">Quaestio 27</head>
+        <head xml:id="xAbSeN-1e2476-Hd1e106" type="question-title"> quod providentia dei causa sit eventuum rerum et non</head>
+        <p xml:id="xAbSeN-1e2476-d1e105">
+          <lb ed="#C" n="15"/>quod providentia dei causa sit eventum 
+          <lb ed="#C" n="16"/>rerum et non
+        </p>
+        <p xml:id="xAbSeN-1e2476-d1e109">
+          <lb ed="#C" n="17"/><ref xml:id="xAbSeN-1e2476-Rd1e111"><name xml:id="xAbSeN-1e2476-Nd1e116">boethius</name> de consolatione libro iiiio</ref>: <quote xml:id="xAbSeN-1e2476-Qd1e114" source="http://scta.info/resource/hy7y6y-d1e83-d1e214@123-171">Quidam aiunt non ideo quid 
+          <lb ed="#C" n="18"/>esse eventurum, quoniam id providentia futurum esse prospexerit, sed 
+          <lb ed="#C" n="19"/>e contrario potius, quoniam quod futurum est id divinam prouiden<lb ed="#C" break="no" n="20"/>tiam
+          latere non posse, eoque modo necessarium hoc in contrariam relabi
+          <lb ed="#C" n="21"/>partem: neque necesse est esse contingere quae providentur si necesse esse 
+          <lb ed="#C" n="22"/>quae futura sunt provideri</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e2476-d1e118">
+          <ref xml:id="xAbSeN-1e2476-Rd1e120">Item</ref>: <quote xml:id="xAbSeN-1e2476-Qd1e123" source="http://scta.info/resource/hy7y6y-d1e83-d1e214@329-364">iam vero, quam praeposterum est ut aeternae 
+            <lb ed="#C" n="23"/>praescientiae temporalium rerum, eventus causa esse dicatur; quid est 
+            <lb ed="#C" n="24"/>autem aliud arbitrari ideo deum futura, quia sunt eventura pro<lb ed="#C" break="no" n="25"/>videre, 
+            quam putare quae olim acciderunt causam summae illius 
+            <lb ed="#C" n="26"/>esse prouidentiae</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e2476-d1e127">
+          <ref xml:id="xAbSeN-1e2476-Rd1e129"><name xml:id="xAbSeN-1e2476-Nd1e154">origenes</name> super epistolam pauli ad Romanos</ref>: <quote xml:id="xAbSeN-1e2476-Qd1e157">Et 
+          <lb ed="#C" n="27"/>quos vocavit quomodo quos vocavit iustificavit, cum constet multos 
+          <lb ed="#C" n="28"/>esse vocatos paucos electos: sed omnes quidem vocati sunt, non tamen omnes secundum
+          <lb ed="#C" n="29"/>propositum vocati. nam hi qui secundum propositum 
+          <pb ed="#C" n="65"/>
+          <lb ed="#C" n="1"/>bonum et bonam voluntatem, quam circa dei cultum gerunt vocantur, ipsi sunt 
+          <lb ed="#C" n="2"/>qui secundum propositum vocati <seg type="correction">di<subst><del rend="strikethrough">t</del><add place="above-line">c</add></subst>untur</seg>: quod si secundum propositum ad deum 
+          <lb ed="#C" n="3"/>referatur: hoc est ut secundum propositum dei qui sciens in eis religiosam 
+          <lb ed="#C" n="4"/>mentem et salutis inesse desiderium vocati dicantur: non videbitur his quae 
+          <lb ed="#C" n="5"/>exposuimus contrarium, hoc ergo pacto; neque in praescientia dei vel salutis 
+          <lb ed="#C" n="6"/>vel perditionis nostre causa consistit: neque iustificatio ex sola vocatione 
+          <lb ed="#C" n="7"/>pendebit: neque gloriari de nostra penitus potestate sublatum est: nam et si 
+          <lb ed="#C" n="8"/>communi intellectu de praescientia sentiamus, non propter ea aliquid erit quod id 
+          <lb ed="#C" n="9"/>scit deus futurum sed quia futurum est, scitur a Deo antequam fiat.  Ut autem
+          <lb ed="#C" n="10"/>scias quia non in praescientia Dei uniuscuiusque salutis causa ponitur, sed 
+          <lb ed="#C" n="11"/>in proposito et actibus suis: uide paulum verentem, ne forte cum aliis 
+          <lb ed="#C" n="12"/>praedicauerit <sic>ipse reprobus efficiatur<!-- heaveily abbreviated, one letter per word --></sic> macerare corpus suum</quote>:
+        </p>
+        
+      </div>
+    </body>
+  </text>
 </TEI>

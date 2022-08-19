@@ -1,148 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 29</title>
-            <author ref="#per-dsPeAb">Peter Abelard</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 29</title>
-               <date when="2021-02-26">February 26, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-02-26" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on"/>
-      </front>
-      <body>
-         <div xml:id="xAbSeN-1e2538"><!-- xAbSeN-q29 -->
-            <head xml:id="xAbSeN-1e2538-Hd1e103">Quaestio 29</head>
-            <head xml:id="xAbSeN-1e2538-Hd1e106" type="question-title"> quod praedestinatio dei in bono tantum sit accipienda et non</head>
-    
-            <p xml:id="xAbSeN-1e2538-d1e109">
-               <ref xml:id="xAbSeN-1e2538-Rd1e111">augustinus de praedestinatione sanctorum</ref>: Praedestinatio est gratiae
-      praeparatio quae sine praescientia non potest esse; potest autem esse
-      sine praedestinatione praescientia. Praedestinatione quippe Deus ea
-      praesciuit quae fuerat ipse facturus. Unde dictum est, fecit quae
-      futura sunt; praescire autem potens est et quae ipse non facit, sicut
-      quaecumque peccata. Quocirca praedestinatio Dei quae in bono est,
-      gratiae, ut dixi, est praeparatio; gratia uero est ipsius
-      praedestinationis effectus.
-    </p>
-            <p xml:id="xAbSeN-1e2538-d1e115">
-               <ref xml:id="xAbSeN-1e2538-Rd1e117">item</ref>: Praedestinationis nomine non aliqua uoluntatis humanae coacticia
-      necessitas exprimitur sed misericors et iusta diuini operis
-      sempiterna dispositio.
-    </p>
-            <p xml:id="xAbSeN-1e2538-d1e121">
-               <ref xml:id="xAbSeN-1e2538-Rd1e123">item</ref>: Contingit credere Deum praescisse peccatores quia nihil eum
-      latere potuit; non tamen praedestinasse quemlibet hominem ad
-      peccatum. Quia si ad peccatum hominem praedestinaret pro peccatis
-      hominem non puniret. Dei enim praedestinatione aut peccatorum
-      praeparata est pia remissio aut peccatorum iusta punitio.
-    </p>
-            <p xml:id="xAbSeN-1e2538-d1e128">
-               <ref xml:id="xAbSeN-1e2538-Rd1e130">idem in expositione quarundam propositionum in epistola pauli ad
-      romanos</ref>: Non praedestinauit aliquem nisi quem praesciuit crediturum.
-    </p>
-            <p xml:id="xAbSeN-1e2538-d1e134">
-               <ref xml:id="xAbSeN-1e2538-Rd1e136">idem super iohannem</ref>: <quote xml:id="xAbSeN-1e2538-Qd1e139" source="http://scta.info/resource/iuy75t-d1e435-d1e341" synch="70-79">Sed uos non areditis, quia non estis ex ouibus
-      meis.</quote> 
-               <quote xml:id="xAbSeN-1e2538-Qd1e142" source="http://scta.info/resource/iuy75t-d1e435-d1e341" synch="120-135">Dixit: non estis ex ouibus meis, quia uidebat eos ad sempiternum
-      interitum praeparatos.</quote>
-            </p>
-            <p xml:id="xAbSeN-1e2538-d1e146">
-               <ref xml:id="xAbSeN-1e2538-Rd1e148">item</ref>: <quote xml:id="xAbSeN-1e2538-Qd1e151" source="http://scta.info/resource/iuy75t-d1e435-d1e442" synch="22-111">Non rapit eas quisquam de manu mea. Quid potest fur et latro?
-      Non perdunt nisi ad interitum praedestinatos. De illis autem ouibus,
-      de quibus dicit apostolus: Nouit Dominus qui sunt eius et quos
-      praesciuit et praedestinauit, quos autem praedestinauit etc., nec
-      lupus rapit, nec fur tollit, nec latro interimit.</quote>
-            </p>
-            <p xml:id="xAbSeN-1e2538-d1e157">
-               <ref xml:id="xAbSeN-1e2538-Rd1e159">idem in enchiridion, cap. civ</ref>: Magna opera Domini, exquisita in omnes
-      uoluntates elus, ut per creaturae uoluntatem qua factum est quod
-      creator noluit, impleret ipse quod uoluit; bene utens et malis tanquam
-      summe bonus ad eorum damnationem quos iuste praedestinauit ad poenam,
-      et~eorum salutem quos benigne praedestinauit ad gratiam.
-    </p>
-            <p xml:id="xAbSeN-1e2538-d1e163">
-               <ref xml:id="xAbSeN-1e2538-Rd1e165">responsiones prosperi ad rufinum</ref>: In praescientia et bona norit et
-      mala.
-    </p>
-            <p xml:id="xAbSeN-1e2538-d1e169">
-               <ref xml:id="xAbSeN-1e2538-Rd1e171">item</ref>: Praedestinatio Dei semper in bono est aut ad retributionem
-      iustitiae aut ad damnationem pertinens gratiae.
-    </p>
-            <p xml:id="xAbSeN-1e2538-d1e176">
-               <ref xml:id="xAbSeN-1e2538-Rd1e178">item</ref>: Potest itaque sine praedestinatione esse praescientia;
-      praedestinatio autem sine praescientia esse non potest.
-    </p>
-            <p xml:id="xAbSeN-1e2538-d1e182">EX DICTIS AMBROSll DE PRAEDESTINATIONE: His omnibus testimoniis
-      praedestinati ostenduntur mali ad poenam sed non praedestinati ad
-      peccatum, quoniam eorum quae facturus est Deus praedestinator est;
-      quae uero non facit nec facturus est, ea non praedestinauit.
-    </p>
-            <p xml:id="xAbSeN-1e2538-d1e185">
-               <ref xml:id="xAbSeN-1e2538-Rd1e187">item</ref>: Impios praedestinauit ad poenam, et poenam praedestinauit illis;
-      ad peccatum autem eos non praedestinauit, quoniam non est auctor
-      iniquitatis. Quoniam, sicut iustitia ex Deo est et omne bonum. ita
-      iniquitas et omne opus prauum ex diabolo.
-    </p>
-            <p xml:id="xAbSeN-1e2538-d1e191">
-               <ref xml:id="xAbSeN-1e2538-Rd1e193">item idem</ref>: Iniquos itaque quos praesciuit Deus hanc uitam in peccato
-      terminaturos, praedestinauit supplicio. In quo praedestinatio
-      iustissime laudanda est ultionis, ut agnosceretur non ab eo
-      praedestinatum hominem ad peccatum, quem praedestinauit peccati merito
-      puniendum. Deus itaque omnia opera, siue bona siue mala, praesciuit;
-      sed sola bona praedestinauit. Mala uero futura opera illorum, quos non
-      praedestinauit ad regnum sed ad interitum, praesciuit et ordinauit
-      prouida bonitate.
-    </p>
-            <p xml:id="xAbSeN-1e2538-d1e197">ISIDORUS DE SUMMO BONO, LIB. II, CAP. VI: Gemina est
-      praedestinatio, siue electorum ad requiem siue reproborum ad
-      mortem.
-    </p>
-            <p xml:id="xAbSeN-1e2538-d1e202">
-               <ref xml:id="xAbSeN-1e2538-Rd1e204">ex dictis eiusdem</ref>: Deus potuit, sicut uoluit, quosdam praedestinare ad
-      gloriam, quosdam ad poenam. Quos autem praedestinauit ad poenam, non
-      praedestinauit ad culpam.
-    </p>
-    
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 29</title>
+        <author ref="#per-dsPeAb">Peter Abelard</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 29</title>
+          <date when="2021-02-26">February 26, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-02-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#C" n="66"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="xAbSeN-1e2538"><!-- xAbSeN-q29 -->
+        <head xml:id="xAbSeN-1e2538-Hd1e103">Quaestio 29</head>
+        <head xml:id="xAbSeN-1e2538-Hd1e106" type="question-title"> quod praedestinatio dei in bono tantum sit accipienda et non</head>
+        <p xml:id="xAbSeN-1e2538-d1e105">
+          <lb ed="#C" n="5"/>quod praedestinatio dei in bono tantum 
+          <lb ed="#C" n="6"/>sit accipienda et non
+        </p>
+        <p xml:id="xAbSeN-1e2538-d1e109">
+          <lb ed="#C" n="7"/><ref xml:id="xAbSeN-1e2538-Rd1e111">augustinus de praedestinatione sanctorum</ref>: <quote xml:id="xAbSeN-1e2538-Qd1e118">praedestinatio est gratiae praeparatio quae 
+          <lb ed="#C" n="8"/>sine praescientia non potest esse; potest autem esse sine praedestinatione 
+          <lb ed="#C" n="9"/>praescientia. praedestinatione quippe deus ea <!--omitted: praesciuit--> quae fuerat ipse 
+          <lb ed="#C" n="10"/>facturus: unde dictum est fecit quae futura sunt praescire autem potens est 
+          <lb ed="#C" n="11"/>et quae ipse non facit sicut quaecumque peccata: quocirca praedestinatio dei 
+          <lb ed="#C" n="12"/>quae in bono est gratiae ut dixi est praeparatio: gratia vero est ipsius praedestinationis 
+          effectus</quote>
+        </p>
+        <p xml:id="xAbSeN-1e2538-d1e115">
+          <ref xml:id="xAbSeN-1e2538-Rd1e117">Item</ref>: <quote xml:id="xAbSeN-1e2538-Qd1e140">praedestinationis nomine non aliqua voluntatis 
+          <lb ed="#C" n="13"/>humanae coacticia necessitas exprimitur sed misericors et ita diuini 
+          <lb ed="#C" n="14"/>operis sempiterna dispositio</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e2538-d1e121">
+          <ref xml:id="xAbSeN-1e2538-Rd1e123">Item</ref> <quote xml:id="xAbSeN-1e2538-Qd1e154">contingit credere deum praescisse 
+          <lb ed="#C" n="15"/>peccatores, quia nihil eum latere potuit: non tamen praedestinasse quem<lb ed="#C" break="no" n="16"/>libet 
+          hominem ad peccatum: quia si ad peccatum hominem praedestinaret pro 
+          <lb ed="#C" n="17"/>peccatis hominem non puniret: Dei enim praedestinatione est aut peccatorum
+          <lb ed="#C" n="18"/>praeparata est pia remissio aut peccatorum iusta punitio.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e2538-d1e128">
+          <ref xml:id="xAbSeN-1e2538-Rd1e130">Idem in expo<lb ed="#C" break="no" n="19"/>sitione 
+          quarundam propositionum in epistola pauli ad Romanos</ref>: <quote xml:id="xAbSeN-1e2538-Qd1e173">non 
+          <lb ed="#C" n="20"/>praedestinauit aliquem nisi quem praesciuit crediturum</quote>
+        </p>
+        <p xml:id="xAbSeN-1e2538-d1e134">
+          <ref xml:id="xAbSeN-1e2538-Rd1e136">Idem super Iohannem</ref>: 
+          <lb ed="#C" n="21"/><quote xml:id="xAbSeN-1e2538-Qd1e139" source="http://scta.info/resource/iuy75t-d1e435-d1e341@70-79">Sed vos non creditis quia non estis ex ovibus meis</quote>: 
+          <quote xml:id="xAbSeN-1e2538-Qd1e142" source="http://scta.info/resource/iuy75t-d1e435-d1e341@120-135">dixit: non estis 
+          <lb ed="#C" n="22"/>ex ovibus meis: quia videbat eos ad sempiternum interitum praeparatos.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e2538-d1e146">
+          <lb ed="#C" n="23"/><ref xml:id="xAbSeN-1e2538-Rd1e148">Item</ref>: <quote xml:id="xAbSeN-1e2538-Qd1e151" source="http://scta.info/resource/iuy75t-d1e435-d1e442@22-111">non rapit eas quisquam de manu mea: quid potest fur et latro:
+          <lb ed="#C" n="24"/>non perdunt nisi ad interitum praedestinatos: de illis autem ouibus de quibus 
+            <lb ed="#C" n="25"/>dicit apostolus: nouit dominus qui sunt eius et quos praesciuit et praedesti<lb ed="#C" break="no" n="26"/>nauit 
+            quos autem praedestinauit etc. nec lupus rapit nec fur 
+            <lb ed="#C" n="27"/>tollit nec latro interimit</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e2538-d1e157">
+          <ref xml:id="xAbSeN-1e2538-Rd1e159">Idem in enchiridion, cap. civ</ref>: <quote xml:id="xAbSeN-1e2538-Qd1e217" source="http://scta.info/resource/augen-d1e252-d1e110@3-70">magna 
+            <lb ed="#C" n="28"/>opera domini exquisita in omnes uoluntates eius ut per creaturae voluntatem qua factum \
+            <lb ed="#C" n="29"/>est quod creator noluit impleret ipse quod voluit bene utens et 
+            <lb ed="#C" n="30"/>male tanquam summe bonus ad eorum damnationem quos iuste 
+            <pb ed="#C" n="67"/>
+            <lb ed="#C" n="1"/>praedestinauit <add place="margin-left">ad poenam et eorum salutem quos benigne praedestinauit</add> ad gratiam</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e2538-d1e163">
+          <ref xml:id="xAbSeN-1e2538-Rd1e165">Responsiones prosperi ad rufinum</ref>: <quote xml:id="xAbSeN-1e2538-Qd1e240">In praescientia et bona 
+          <lb ed="#C" n="2"/>norit et mala.</quote>
+        </p>
+        <p xml:id="xAbSeN-1e2538-d1e169">
+          <ref xml:id="xAbSeN-1e2538-Rd1e171">Item</ref>: <quote xml:id="xAbSeN-1e2538-Qd1e252">praedestinatio dei semper in bono est aut ad retri<lb ed="#C" break="no" n="3"/>butionem 
+          iustitiae aut ad damnationem pertinens gratiae</quote>
+        </p>
+        <p xml:id="xAbSeN-1e2538-d1e176">
+          <ref xml:id="xAbSeN-1e2538-Rd1e178">Item</ref>: <quote xml:id="xAbSeN-1e2538-Qd1e263">potest 
+          <lb ed="#C" n="4"/>itaque sine praedestinatione esse praescientia praedestinatio autem sine praesci<lb ed="#C" break="no" n="5"/>entia 
+          esse non potest</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e2538-d1e182">
+          <ref xml:id="xAbSeN-1e2538-Rd1e273">Ex dictis ambrosii de praedestinatione</ref> <quote xml:id="xAbSeN-1e2538-Qd1e275">his 
+          <lb ed="#C" n="6"/>omnibus testimoniis praedestinati ostenduntur mali ad poenam sed non praedes<lb ed="#C" break="no" n="7"/>tinati 
+          ad peccatum, quoniam eorum quae facturus est Deus praedes<lb ed="#C" break="no" n="8"/>tinator 
+          est: quae vero non facit nec facturus est: ea non praedestinavit</quote>
+        </p>
+        <p xml:id="xAbSeN-1e2538-d1e185">
+          <lb ed="#C" n="9"/><ref xml:id="xAbSeN-1e2538-Rd1e187">Item</ref>: <quote xml:id="xAbSeN-1e2538-Qd1e291">impios praedestinavit ad poenam, et poenam praedestinauit illis ad 
+          <lb ed="#C" n="10"/>peccatum autem non eos praedestinavit quoniam non est auctor iniquitatis quoniam 
+          <lb ed="#C" n="11"/>sicut iustitia ex deo est et omne bonum: ita iniquitas et omne opus pra<lb ed="#C" break="no" n="12"/>uum 
+          ex diabolo</quote>
+        </p>
+        <p xml:id="xAbSeN-1e2538-d1e191">
+          <ref xml:id="xAbSeN-1e2538-Rd1e193">Item idem</ref>: <quote xml:id="xAbSeN-1e2538-Qd1e306">Iniquos itaque quos praescivit deus hanc 
+          <lb ed="#C" n="13"/>vitam in peccato terminaturos: praedestinavit supplicio. In quo 
+          <lb ed="#C" n="14"/>praedestinatio iustissime laudanda est <del rend="strikethrough">ultio</del> ultionis ut agnoscere<lb ed="#C" break="no" n="15"/>tur 
+          non ab eo praedestinatum hominem ad peccatum, quem praedestinaverit peccati 
+          <lb ed="#C" n="16"/>merito puniendum. Deus itaque omnia opera siue bona siue mala 
+          <lb ed="#C" n="17"/>praescivit, sed sola bona praedestinauit mala vero futura opera illorum 
+          <lb ed="#C" n="18"/>quos non praedestinavit ad regnum sed ad meritum: praescivit et ordina<lb ed="#C" break="no" n="19"/>vit
+          provida bonitate</quote>:
+        </p>
+        <p xml:id="xAbSeN-1e2538-d1e197">
+          <ref xml:id="xAbSeN-1e2538-Rd1e330">Isidorus de summo bono libro ii capitulo vi</ref> 
+          <lb ed="#C" n="20"/><quote xml:id="xAbSeN-1e2538-Qd1e333"><del rend="strikethrough">genita</del> gemina est praedestinatio sive electorum ad requiem sive repro<lb ed="#C" break="no" n="21"/>borum 
+          ad mortem</quote>.
+        </p>
+        <p xml:id="xAbSeN-1e2538-d1e202">
+          <ref xml:id="xAbSeN-1e2538-Rd1e204">Ex dictis eiusdem</ref>: <quote xml:id="xAbSeN-1e2538-Qd1e347">deus potuit sicut voluit 
+          <lb ed="#C" n="22"/>quosdam praedestinare ad gloriam, quosdam ad poenam, quos autem 
+          <lb ed="#C" n="23"/>praedestinavit ad poenam non praedestinauit ad culpam</quote>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

@@ -1,73 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 30</title>
-            <author ref="#per-dsPeAb">Peter Abelard</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 30</title>
-               <date when="2021-02-26">February 26, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-02-26" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on"/>
-      </front>
-      <body>
-         <div xml:id="xAbSeN-1e2633"><!-- xAbSeN-q30 -->
-            <head xml:id="xAbSeN-1e2633-Hd1e103">Quaestio 30</head>
-            <head xml:id="xAbSeN-1e2633-Hd1e106" type="question-title"> quod peccata etiam placeant deo et non</head>
-    
-            <p xml:id="xAbSeN-1e2633-d1e109">
-               <ref xml:id="xAbSeN-1e2633-Rd1e111">ambrosius autpertus in apocalypsi lib. ix</ref>: Deus enim dedit in cordibus
-      eorum ut faciant quod illi placitum est, ut dent regnum suum bestiae,
-      donec consummentur uerba Dei. Praecedentium iniquitatum merita
-      exigunt, ut reprobi in errorem a Deo ire permissi ita agant ut non
-      misericordia parcentis soluentur sed iustitia punientis damnentur.
-      Ideo enim Dei placitum perficiunt, quo iniquitatem amando, quam Deus
-      odit, iustitiae se damnandos praeparant, quae Deo per omnia placet,
-      cui dicitur: dilexisti iustitiam et odisti iniquitatem. Cui enim
-      placere non potest iniquitas, placet iustitia qua damnat perpetratas
-      iniquitates. Quamobrem unde displicent, inde quod illi placitum est
-      perficiunt.
-    </p>
-    
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 30</title>
+        <author ref="#per-dsPeAb">Peter Abelard</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 30</title>
+          <date when="2021-02-26">February 26, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="C" n="cod-ABEPKd">Cambridge, Corpus Christi College, MS 165</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-02-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#C" n="67"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="xAbSeN-1e2633"><!-- xAbSeN-q30 -->
+        <head xml:id="xAbSeN-1e2633-Hd1e103">Quaestio 30</head>
+        <head xml:id="xAbSeN-1e2633-Hd1e106" type="question-title"> quod peccata etiam placeant deo et non</head>
+        <p xml:id="xAbSeN-1e2633-d1e105">
+          <lb ed="#C" n="24"/>quod peccata etiam placeant 
+          <lb ed="#C" n="25"/>deo et non:
+        </p>
+        <p xml:id="xAbSeN-1e2633-d1e109">
+          <lb ed="#C" n="26"/><ref xml:id="xAbSeN-1e2633-Rd1e111">ambrosius in apocalypsi libro ix</ref>: <quote xml:id="xAbSeN-1e2633-Qd1e118">Deus enim dedit in cordibus eorum, ut 
+          <lb ed="#C" n="27"/>faciant quod illi placitum est, ut dent regnum suum bestiae donec 
+          <lb ed="#C" n="28"/>consummentur verba dei: praecedentium iniquitatum merita exigunt 
+          <lb ed="#C" n="29"/>ut reprobi in errorem a deo ire permissi ita agant ut non misericor<lb ed="#C" break="no" n="30"/>dia 
+          parentis soluentur, sed iustitia punientis damnentur
+          <pb ed="#C" n="68"/>
+          <lb ed="#C" n="1"/>Ideo enim dei <seg type="correction">plac<add place="above-line">i</add>tum</seg> perficiunt quo iniquitatem amando, quam deus odit 
+          <lb ed="#C" n="2"/>iustitiae se damnandos praeparant, quae deo per omnia placet cui dicitur 
+          <lb ed="#C" n="3"/>Dilexisti iustitiam et odisti iniquitatem Cum enim placere non potest iniquitas 
+          <lb ed="#C" n="4"/>placet iustitia qua dampnat perpetratas iniquitates: quamobrem 
+          <lb ed="#C" n="5"/>unde displicent: inde quod illi placitum est perficiunt.</quote>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

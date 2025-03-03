@@ -337,7 +337,7 @@
           <lb ed="#C" n="1"/>singulariter accipiatur</quote>.
         </p>
         <p xml:id="xAbSeN-1e1028-d1e346">
-          <ref xml:id="xAbSeN-1e1028-Rd1e348">Item</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e351" source="http://scta.info/resource/adt-l5-d1e725@1-29">quidquid ergo ad se ipsum dicitur 
+          <ref xml:id="xAbSeN-1e1028-Rd1e348" corresp="#xAbSeN-1e1028-Qd1e351">Item</ref>: <quote xml:id="xAbSeN-1e1028-Qd1e351" source="http://scta.info/resource/adt-l5-d1e725@1-29">quidquid ergo ad se ipsum dicitur 
           <lb ed="#C" n="2"/>deus: et de singulis personaliter dicitur et simul de ipsa 
             <lb ed="#C" n="3"/>trinitate, non pluraliter, sed singulariter dicitur</quote>:
         </p>

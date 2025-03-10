@@ -108,7 +108,7 @@
           <lb ed="#C" n="12"/>dicimus.</quote>
         </p>
         <p xml:id="xAbSeN-1e1566-d1e142">
-          <ref xml:id="xAbSeN-1e1566-Rd1e144">augustinus de trinitate, libro v cap. xiii</ref>: <quote xml:id="xAbSeN-1e1566-Qd1e147" source="http://scta.info/resource/adt-l5-d1e747@3-28">dicitur relatiue 
+          <ref xml:id="xAbSeN-1e1566-Rd1e144" corresp="#xAbSeN-1e1566-Qd1e147">augustinus de trinitate, libro v cap. xiii</ref>: <quote xml:id="xAbSeN-1e1566-Qd1e147" source="http://scta.info/resource/adt-l5-d1e747@3-28">dicitur relatiue 
             <lb ed="#C" n="13"/>pater idemque relatiue dicitur principium: sed pater ad filium 
             <lb ed="#C" n="14"/>dicitur principium ad omnia quae ab ipso sunt</quote>.
         </p>

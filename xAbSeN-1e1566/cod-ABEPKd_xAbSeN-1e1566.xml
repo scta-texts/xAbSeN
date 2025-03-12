@@ -120,7 +120,7 @@
             <lb ed="#C" n="17"/>ipso sunt omnia.</quote>
         </p>
         <p xml:id="xAbSeN-1e1566-d1e162">
-          <ref xml:id="xAbSeN-1e1566-Rd1e164">Item</ref>: <quote xml:id="xAbSeN-1e1566-Qd1e167" source="http://scta.info/resource/adt-l5-d1e750@164-175">unum ergo principium ad creaturam dicitur 
+          <ref xml:id="xAbSeN-1e1566-Rd1e164" corresp="#xAbSeN-1e1566-Qd1e167">Item</ref>: <quote xml:id="xAbSeN-1e1566-Qd1e167" source="http://scta.info/resource/adt-l5-d1e750@164-175">unum ergo principium ad creaturam dicitur 
           <lb ed="#C" n="18"/>deus: non duo vel tria principia</quote>. <quote xml:id="xAbSeN-1e1566-Qd1e170" source="http://scta.info/resource/adt-l5-d1e753@3-43"><!-- really should be a combined quote -->Ad se tamen invicem 
           <lb ed="#C" n="19"/>in trinitate si gignens ad id quod gignit principium 
           <lb ed="#C" n="20"/>est: pater ad filium principium est, quia gignit eum utrum 
